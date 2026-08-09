@@ -3,7 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>MarketBaron</title>
+<title>MarketBaron &mdash; Jake's Public Portfolio</title>
+<meta name="description" content="A live, auto-updated, public record of Jake's equity positions, daily performance, and trade rationale.">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%93%88%3C/text%3E%3C/svg%3E">
 <link rel="stylesheet" href="style.css">
 </head>
@@ -15,39 +16,68 @@
       <span class="brand-mark" aria-hidden="true"></span>
       <h1>MarketBaron</h1>
     </div>
-    <p class="subtitle">Public portfolio allocation, ticker news, and recent trade posts &mdash; percentages only, never balances or trade size.</p>
+    <p class="subtitle">A live, auto-updated record of my public equity positions &mdash; what I hold, how it's moving, and why I made each trade. No cherry-picking: this page updates itself on a schedule straight from my brokerage.</p>
     <p class="updated" id="updated"></p>
   </header>
 
   <main>
+    <section class="stat-row" id="stat-row" aria-label="Portfolio summary">
+      <div class="stat-tile">
+        <span class="stat-label">Today</span>
+        <span class="stat-value" id="stat-today">&mdash;</span>
+      </div>
+      <div class="stat-tile">
+        <span class="stat-label">Positions</span>
+        <span class="stat-value" id="stat-positions">&mdash;</span>
+      </div>
+      <div class="stat-tile">
+        <span class="stat-label">Top mover</span>
+        <span class="stat-value" id="stat-mover">&mdash;</span>
+        <span class="stat-sub" id="stat-mover-sub"></span>
+      </div>
+    </section>
+
     <section class="panel panel-wide" id="allocation-panel">
       <div class="panel-head">
-        <h2>Holdings</h2>
+        <h2>Positions</h2>
         <span class="panel-note" id="holdings-count"></span>
       </div>
-      <div class="holdings-list" id="holdings-list"></div>
+      <div class="table-scroll">
+        <table class="holdings-table">
+          <thead>
+            <tr>
+              <th class="col-ticker">Symbol</th>
+              <th class="col-num">Allocation</th>
+              <th class="col-num">Day Change</th>
+            </tr>
+          </thead>
+          <tbody id="holdings-body"></tbody>
+        </table>
+      </div>
     </section>
 
     <div class="panel-grid">
-      <section class="panel" id="news-panel">
-        <div class="panel-head">
-          <h2>News</h2>
-        </div>
-        <ul class="news-list" id="news-list"></ul>
-      </section>
-
       <section class="panel" id="posts-panel">
         <div class="panel-head">
-          <h2>Recent Posts</h2>
+          <h2>Trade Journal</h2>
+          <span class="panel-note">Rationale behind recent trades</span>
         </div>
         <ul class="posts-list" id="posts-list"></ul>
+      </section>
+
+      <section class="panel" id="news-panel">
+        <div class="panel-head">
+          <h2>Market News</h2>
+          <span class="panel-note">By holding</span>
+        </div>
+        <ul class="news-list" id="news-list"></ul>
       </section>
     </div>
   </main>
 
   <footer>
     <p id="empty-state" hidden>No data yet &mdash; check back soon.</p>
-    <p class="footnote">Auto-updated on a schedule. Not investment advice.</p>
+    <p class="footnote">Auto-updated on a schedule. Percentages and public market data only &mdash; not investment advice.</p>
   </footer>
 
 </div>

@@ -36,18 +36,51 @@ function render(data) {
     return;
   }
 
+  renderStats(allocation);
   renderHoldings(allocation);
   renderNews(news);
   renderPosts(posts);
 }
 
+function renderStats(allocation) {
+  const todayEl = document.getElementById("stat-today");
+  const positionsEl = document.getElementById("stat-positions");
+  const moverEl = document.getElementById("stat-mover");
+  const moverSubEl = document.getElementById("stat-mover-sub");
+
+  const withChange = allocation.filter((a) => typeof a.day_change_pct === "number");
+
+  positionsEl.textContent = String(allocation.length);
+
+  todayEl.className = "stat-value";
+  if (withChange.length === 0) {
+    todayEl.textContent = "—";
+  } else {
+    const totalPct = withChange.reduce((sum, a) => sum + a.percent, 0) || 1;
+    const weighted = withChange.reduce((sum, a) => sum + a.percent * a.day_change_pct, 0) / totalPct;
+    todayEl.textContent = `${weighted >= 0 ? "▲" : "▼"} ${Math.abs(weighted).toFixed(2)}%`;
+    if (weighted !== 0) todayEl.classList.add(weighted > 0 ? "status-good" : "status-critical");
+  }
+
+  if (withChange.length === 0) {
+    moverEl.textContent = "—";
+    moverSubEl.textContent = "";
+  } else {
+    const top = withChange.reduce((a, b) => (Math.abs(b.day_change_pct) > Math.abs(a.day_change_pct) ? b : a));
+    moverEl.textContent = top.ticker;
+    moverSubEl.textContent = `${top.day_change_pct >= 0 ? "+" : ""}${top.day_change_pct.toFixed(2)}% today`;
+    moverSubEl.className = "stat-sub";
+    if (top.day_change_pct !== 0) moverSubEl.classList.add(top.day_change_pct > 0 ? "status-good" : "status-critical");
+  }
+}
+
 function renderHoldings(allocation) {
-  const list = document.getElementById("holdings-list");
+  const body = document.getElementById("holdings-body");
   const count = document.getElementById("holdings-count");
-  list.innerHTML = "";
+  body.innerHTML = "";
 
   if (allocation.length === 0) {
-    list.innerHTML = '<p class="empty-row">No holdings yet.</p>';
+    body.innerHTML = '<tr><td colspan="3" class="empty-row">No holdings yet.</td></tr>';
     count.textContent = "";
     return;
   }
@@ -60,36 +93,53 @@ function renderHoldings(allocation) {
   if (sorted.length > MAX_HOLDING_ROWS) {
     const kept = sorted.slice(0, MAX_HOLDING_ROWS - 1);
     const otherPct = sorted.slice(MAX_HOLDING_ROWS - 1).reduce((sum, a) => sum + a.percent, 0);
-    rows = [...kept, { ticker: "Other", percent: otherPct }];
+    rows = [...kept, { ticker: "Other", percent: otherPct, day_change_pct: null }];
   }
 
   count.textContent = `${allocation.length} position${allocation.length === 1 ? "" : "s"}`;
 
-  const maxPct = Math.max(...rows.map((r) => r.percent), 1);
-
   rows.forEach((r, i) => {
-    const row = document.createElement("div");
-    row.className = "holding-row";
+    const tr = document.createElement("tr");
 
-    const ticker = document.createElement("span");
-    ticker.className = "holding-ticker";
-    ticker.textContent = r.ticker;
+    const tdTicker = document.createElement("td");
+    tdTicker.className = "col-ticker";
+    const dot = document.createElement("span");
+    dot.className = "ticker-dot";
+    dot.style.background = `var(--series-${(i % SERIES_SLOTS) + 1})`;
+    tdTicker.append(dot, r.ticker);
 
-    const track = document.createElement("div");
-    track.className = "holding-track";
-    const fill = document.createElement("div");
-    fill.className = "holding-fill";
-    fill.style.width = `${Math.max((r.percent / maxPct) * 100, 1.5)}%`;
-    fill.style.background = `var(--series-${(i % SERIES_SLOTS) + 1})`;
-    track.appendChild(fill);
+    const tdPct = document.createElement("td");
+    tdPct.className = "col-num";
+    tdPct.textContent = `${r.percent.toFixed(1)}%`;
 
-    const pct = document.createElement("span");
-    pct.className = "holding-pct";
-    pct.textContent = `${r.percent.toFixed(1)}%`;
+    const tdChange = document.createElement("td");
+    tdChange.className = "col-num";
+    tdChange.appendChild(formatDayChange(r.day_change_pct));
 
-    row.append(ticker, track, pct);
-    list.appendChild(row);
+    tr.append(tdTicker, tdPct, tdChange);
+    body.appendChild(tr);
   });
+}
+
+function formatDayChange(pct) {
+  const span = document.createElement("span");
+  span.className = "day-change";
+  if (typeof pct !== "number" || Number.isNaN(pct)) {
+    span.classList.add("status-flat");
+    span.textContent = "—";
+    return span;
+  }
+  if (pct > 0) {
+    span.classList.add("status-good");
+    span.textContent = `▲ ${pct.toFixed(2)}%`;
+  } else if (pct < 0) {
+    span.classList.add("status-critical");
+    span.textContent = `▼ ${Math.abs(pct).toFixed(2)}%`;
+  } else {
+    span.classList.add("status-flat");
+    span.textContent = "0.00%";
+  }
+  return span;
 }
 
 function renderNews(news) {

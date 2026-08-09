@@ -81,6 +81,19 @@
       "datetime": 1786208451
     }
   ],
-  "recent_posts": [],
-  "updated_at": "2026-08-09T06:55:06.632945+00:00"
+  "recent_posts": [
+    {
+      "id": "test1",
+      "text": "Trimmed NVDA into strength after the run past resistance \u2014 taking some risk off the table, not a bearish call.",
+      "posted_at": "2026-08-09T02:10:00+00:00",
+      "trade": null
+    },
+    {
+      "id": "test2",
+      "text": "Added to MSFT on the pullback \u2014 AI infra spend still accelerating, valuation reset was the entry I wanted.",
+      "posted_at": "2026-08-07T14:30:00+00:00",
+      "trade": null
+    }
+  ],
+  "updated_at": "2026-08-09T06:59:14.984631+00:00"
 }

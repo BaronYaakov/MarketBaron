@@ -80,6 +80,26 @@ def load_allocation() -> list[dict]:
     return allocation
 
 
+def fetch_day_change(ticker: str) -> float | None:
+    """Public market data (the stock's own daily % move) — not account data,
+    so it doesn't conflict with the {ticker, percent}-only privacy rule."""
+    if not FINNHUB_API_KEY:
+        return None
+    try:
+        resp = requests.get(
+            "https://finnhub.io/api/v1/quote",
+            params={"symbol": ticker, "token": FINNHUB_API_KEY},
+            timeout=15,
+        )
+        resp.raise_for_status()
+        quote = resp.json()
+    except requests.RequestException as e:
+        log(f"WARNING: Finnhub quote fetch failed for {ticker}: {e}")
+        return None
+    dp = quote.get("dp")
+    return round(float(dp), 2) if isinstance(dp, (int, float)) else None
+
+
 def fetch_news_for_ticker(ticker: str) -> list[dict]:
     if not FINNHUB_API_KEY:
         log("WARNING: FINNHUB_API_KEY missing — skipping news fetch")
@@ -211,6 +231,9 @@ def main() -> int:
     allocation = load_allocation()
     tickers = [a["ticker"] for a in allocation]
     log(f"Loaded allocation for {len(tickers)} ticker(s): {tickers}")
+
+    for a in allocation:
+        a["day_change_pct"] = fetch_day_change(a["ticker"])
 
     news = fetch_all_news(tickers)
     log(f"Fetched {len(news)} news item(s)")
