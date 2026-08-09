@@ -3,6 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from app.finnhub import get_news_for_tickers
 from app.ibkr import IBKRAuthRequired, get_allocation
+from app.x_api import get_posts_for_tickers
 
 app = FastAPI(title="IBKR Portfolio Dashboard API")
 
@@ -44,5 +45,11 @@ def news():
 
 @app.get("/posts")
 def posts():
-    # Phase 4: fetch cached recent X posts for current holdings
-    return {"status": "not_implemented"}
+    try:
+        tickers = [item["ticker"] for item in get_allocation()]
+    except IBKRAuthRequired:
+        raise HTTPException(
+            status_code=503,
+            detail="IBKR gateway session is not authenticated — re-authorize via the gateway",
+        )
+    return {"status": "ok", "posts": get_posts_for_tickers(tickers)}
