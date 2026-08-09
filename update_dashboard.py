@@ -74,6 +74,16 @@ OPTIONAL_ALLOCATION_FIELDS = {
 }
 
 
+def load_cash_percent() -> float | None:
+    """Optional top-level cash_percent from ibkr_snapshot.json (dict form
+    only). A percentage of the portfolio, not a dollar amount — allowed."""
+    raw = load_json(SNAPSHOT_PATH, None)
+    if not isinstance(raw, dict):
+        return None
+    value = raw.get("cash_percent")
+    return round(float(value), 2) if isinstance(value, (int, float)) else None
+
+
 def load_allocation() -> list[dict]:
     """Read ibkr_snapshot.json and strip to ticker/percent plus only the
     allow-listed optional fields above."""
@@ -266,6 +276,7 @@ def main() -> int:
 
     data = {
         "allocation": allocation,
+        "cash_percent": load_cash_percent(),
         "news": news,
         "recent_posts": posted_tweets,
         "updated_at": datetime.datetime.now(datetime.timezone.utc).isoformat(),

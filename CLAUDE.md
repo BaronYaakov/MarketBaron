@@ -30,52 +30,75 @@ This project is being built partly from **Claude Cowork** (a sandboxed environme
 ## Data flow
 
 ```
-Cowork scheduled task (runs while Cowork app is open, e.g. every 15-30 min)
+Cowork scheduled task (NOT YET BUILT — this is the one remaining piece, see below)
   → calls IBKR MCP connector → get_portfolio_allocation / get_orders
-  → strips to {ticker, percent} ONLY — never balances, account value, or trade $ amounts
-  → writes ibkr_snapshot.json to this repo folder (local file write, no network needed)
+  → strips to the allow-listed fields ONLY (see Privacy rule below) — never
+    quantity, balances, account value, or trade $ amounts
+  → writes ibkr_snapshot.json to this repo folder in the schema below (local
+    file write, no network needed)
   → checks for new trades vs last snapshot
   → if new trade: drafts tweet text, messages Jake in chat for approval
   → on approval: writes pending_tweet.json (text + trade info) to this repo folder
      (Cowork CANNOT post to X itself — sandbox blocks it — so it just queues the approved text)
 
-Local script (built here, scheduled via Windows Task Scheduler — runs independently of Cowork)
-  → reads ibkr_snapshot.json (written by the Cowork task above)
-  → fetches news per held ticker from Finnhub (real API call, works locally)
-  → checks pending_tweet.json — if present and not yet posted, posts it via the X API,
-    records the returned tweet id/text/timestamp, deletes/marks pending_tweet.json as consumed
-  → maintains a rolling list of recently-posted tweets (own small JSON store, e.g. posted_tweets.json)
-  → assembles final data.json = { allocation: [...], news: [...], recent_posts: [...] }
+Local script — update_dashboard.py (BUILT, running every 15 min via Windows
+Task Scheduler, independent of whether Cowork is open)
+  → reads ibkr_snapshot.json (written by the Cowork task above) — no-ops
+    cleanly if it doesn't exist yet, which is the common case until Cowork's
+    task is built
+  → for each position missing an IBKR-sourced day_change_pct, estimates one
+    from Finnhub's public quote (previous close vs. now) as a fallback —
+    flagged on-site as an estimate, since it doesn't account for same-day
+    fill timing the way IBKR's own figure would
+  → fetches news per held ticker from Finnhub
+  → checks pending_tweet.json — if present, posts it via the X API, records
+    the result in posted_tweets.json, deletes the pending file (leaves it
+    queued and retries next run on failure)
+  → assembles data.json = { allocation: [...], cash_percent, news: [...],
+    recent_posts: [...], updated_at }
   → git commit + push data.json (and posted_tweets.json) to BaronYaakov/MarketBaron
+    (auth: GITHUB_TOKEN embedded in the push URL, GIT_TERMINAL_PROMPT=0 — never
+    blocks waiting on a credential prompt, so it's safe fully unattended)
 ```
 
-GitHub Pages serves `index.html` (in this repo, root or `/site`) which fetches `data.json` on load and renders three panels: allocation chart, news list, recent posts feed. Purely static — visiting the page never triggers anything.
+GitHub Pages (LIVE at `https://baronyaakov.github.io/MarketBaron/`, deploying from `main` / `/root`) serves `index.html`, which fetches `data.json` on load and renders: a stat row (today's weighted % move, position count, cash %, top mover), a positions table (symbol, allocation, avg price, day change, all-time gain), a trade journal (rationale behind recent trades), and market news by holding. Purely static — visiting the page never triggers anything.
 
-## Current state (as of handoff)
+### `ibkr_snapshot.json` expected schema (for whoever builds the Cowork task)
+
+```json
+{
+  "allocation": [
+    {
+      "ticker": "AAPL",
+      "percent": 42.5,
+      "avg_price": 187.32,
+      "day_change_pct": 0.31,
+      "all_time_gain_pct": 22.8
+    }
+  ],
+  "cash_percent": 8.4
+}
+```
+
+A bare list (just `[{ticker, percent}, ...]`, no wrapping object) is also accepted for backward compatibility, but then `cash_percent` and the optional per-position fields aren't available. `day_change_pct` should be IBKR's own per-position daily P&L % (correct for same-day fills) — if omitted, the local script estimates it from Finnhub and flags it on-site as an estimate. Only the fields named in the Privacy rule below are read; anything else in an entry is silently dropped.
+
+## Current state (as of 2026-08-09)
 
 - IBKR MCP connector: **connected** in Cowork.
-- GitHub repo `BaronYaakov/MarketBaron`: **created**, public, empty, Pages **not yet enabled** (Settings → Pages → Deploy from branch `main`, folder `/root`).
-- `.env` at project root: **populated** with real `FINNHUB_API_KEY`, `X_API_BEARER_TOKEN`, `GITHUB_TOKEN` (a `gho_` prefixed token — verify its scope covers repo contents read/write before relying on it), `GITHUB_REPO=BaronYaakov/MarketBaron`. This file is gitignored — confirmed never committed. **Never commit it, never print its contents to logs.**
-- `backend/` and `frontend/` folders: **leftover from an earlier, abandoned plan** (self-hosted IBKR Client Portal Gateway on a VPS). Not part of the current design. Safe to ignore or eventually delete (ask Jake before deleting).
-- `validate_apis.ps1` at root: leftover diagnostic script from confirming the network blocker. No longer needed, safe to remove.
-- No scheduled task exists yet in Cowork for the real IBKR-polling pipeline (only a one-time validation task ran, which auto-disabled).
-- No local script exists yet for the Finnhub/X/GitHub piece.
-- No `index.html` / static site exists yet.
+- GitHub repo `BaronYaakov/MarketBaron`: public, Pages **enabled and live**.
+- `.env` at project root: populated with real `FINNHUB_API_KEY`, `X_API_BEARER_TOKEN`, `GITHUB_TOKEN` (`repo`-scope, verified working), `GITHUB_REPO=BaronYaakov/MarketBaron`. Gitignored, never committed.
+- `backend/`, `frontend/`, and `validate_apis.ps1` from the earlier self-hosted-gateway plan: **removed** (git history still has them if ever needed).
+- `update_dashboard.py`, the Windows Task Scheduler entry (`MarketBaron Dashboard Update`, every 15 min), and the static site (`index.html`/`style.css`/`app.js`) are **all built and live**.
+- **The one remaining piece: no Cowork scheduled task exists yet** for the real IBKR-polling pipeline (only a one-time validation task ran, which auto-disabled). Until it exists, `ibkr_snapshot.json` is absent and the local script no-ops every run. The site is currently showing placeholder test data from manual validation runs, not real positions.
 
 ## What's left to build
 
-1. **Local script** (Python is fine, `backend/` already has a venv pattern to borrow from if useful, but this doesn't need FastAPI — it's a one-shot script, not a server):
-   - Read `ibkr_snapshot.json`, call Finnhub (`FINNHUB_API_KEY` from `.env`), call X API for posting (`X_API_BEARER_TOKEN`), git commit/push using `GITHUB_TOKEN`.
-   - Handle the case where `ibkr_snapshot.json` doesn't exist yet (Cowork task hasn't run) or `pending_tweet.json` doesn't exist (no trade to post) gracefully — these are the common case, not errors.
-2. **Windows Task Scheduler entry** to run the local script every 15–30 min, independent of whether Cowork is open.
-3. **Static site** (`index.html` + `style.css` + `app.js` or similar, no framework needed): fetch `data.json`, render allocation chart (percent by ticker — a simple bar or donut is fine, e.g. Chart.js from CDN), news panel, recent-posts feed.
-4. **Cowork scheduled task**: recurring, calls the IBKR connector, does the strip-to-percent + trade-diff + approval-message logic described above, writes `ibkr_snapshot.json` and `pending_tweet.json`. This part should be set up back in Cowork (not Claude Code), since it depends on the IBKR MCP connector and in-chat messaging — flag this back to Jake rather than trying to build it here.
-5. **Enable GitHub Pages** on the repo once `index.html` exists.
-6. **End-to-end test**: confirm a full cycle — Cowork writes snapshot → local script picks it up → data.json updates → site reflects it.
+1. **Cowork scheduled task**: recurring, calls the IBKR connector, does the strip-to-allowed-fields + trade-diff + approval-message logic described above, writes `ibkr_snapshot.json` (schema above) and `pending_tweet.json`. This has to be set up back in Cowork (not Claude Code) — it depends on the IBKR MCP connector and in-chat messaging, neither of which Claude Code has access to.
+2. **End-to-end test**: once the above exists, confirm a full cycle — Cowork writes a real snapshot → local script picks it up within 15 min → data.json updates with real numbers → site reflects it.
 
 ## Privacy rule (non-negotiable, updated 2026-08-09)
 
-Allowed to reach `data.json` / the public repo, per position: `ticker`, `percent` (allocation), `avg_price` (per-share cost basis), `day_change_pct`, `all_time_gain_pct`. These are all prices or percentages — never quantities or totals.
+Allowed to reach `data.json` / the public repo, per position: `ticker`, `percent` (allocation), `avg_price` (per-share cost basis), `day_change_pct`, `all_time_gain_pct`. Also allowed at the top level: `cash_percent` (cash as a % of total portfolio — a percentage, not a balance). These are all prices or percentages — never quantities or totals.
 
 **Never allowed, at any layer:** share/contract quantity (position size), account value, total balance, total position dollar value ($ market value = price × quantity), or dollar P&L. The line is "per-share price or a percentage" (fine) vs. "anything requiring quantity to compute, or a dollar total" (forbidden) — quantity is the one number that must never leave the account boundary, since combined with price it reconstructs position size/value.
 

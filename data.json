@@ -2,29 +2,30 @@
   "allocation": [
     {
       "ticker": "AAPL",
-      "percent": 42.5,
+      "percent": 39.0,
       "avg_price": 187.32,
+      "day_change_pct": 0.31,
       "all_time_gain_pct": 22.8,
-      "day_change_pct": 0.29,
-      "day_change_source": "finnhub_estimate"
+      "day_change_source": "ibkr"
     },
     {
       "ticker": "MSFT",
-      "percent": 31.2,
+      "percent": 29.0,
       "avg_price": 402.1,
+      "day_change_pct": -0.12,
       "all_time_gain_pct": 8.4,
-      "day_change_pct": 0.03,
-      "day_change_source": "finnhub_estimate"
+      "day_change_source": "ibkr"
     },
     {
       "ticker": "NVDA",
-      "percent": 26.3,
+      "percent": 23.6,
       "avg_price": 98.55,
-      "all_time_gain_pct": 61.9,
       "day_change_pct": 2.27,
-      "day_change_source": "finnhub_estimate"
+      "all_time_gain_pct": 61.9,
+      "day_change_source": "ibkr"
     }
   ],
+  "cash_percent": 8.4,
   "news": [
     {
       "ticker": "NVDA",
@@ -91,5 +92,5 @@
     }
   ],
   "recent_posts": [],
-  "updated_at": "2026-08-09T07:05:11.249139+00:00"
+  "updated_at": "2026-08-09T07:09:44.388266+00:00"
 }

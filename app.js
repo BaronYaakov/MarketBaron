@@ -37,7 +37,7 @@ function render(data) {
   }
 
   renderStats(allocation);
-  renderHoldings(allocation);
+  renderHoldings(allocation, data.cash_percent);
   renderNews(news);
   renderPosts(posts);
 }
@@ -74,13 +74,13 @@ function renderStats(allocation) {
   }
 }
 
-function renderHoldings(allocation) {
+function renderHoldings(allocation, cashPercent) {
   const body = document.getElementById("holdings-body");
   const count = document.getElementById("holdings-count");
   body.innerHTML = "";
 
-  if (allocation.length === 0) {
-    body.innerHTML = '<tr><td colspan="3" class="empty-row">No holdings yet.</td></tr>';
+  if (allocation.length === 0 && typeof cashPercent !== "number") {
+    body.innerHTML = '<tr><td colspan="5" class="empty-row">No holdings yet.</td></tr>';
     count.textContent = "";
     return;
   }
@@ -96,6 +96,10 @@ function renderHoldings(allocation) {
     rows = [...kept, { ticker: "Other", percent: otherPct, day_change_pct: null }];
   }
 
+  if (typeof cashPercent === "number") {
+    rows = [...rows, { ticker: "Cash", percent: cashPercent, isCash: true }];
+  }
+
   count.textContent = `${allocation.length} position${allocation.length === 1 ? "" : "s"}`;
 
   let sawEstimate = false;
@@ -106,7 +110,7 @@ function renderHoldings(allocation) {
     tdTicker.className = "col-ticker";
     const dot = document.createElement("span");
     dot.className = "ticker-dot";
-    dot.style.background = `var(--series-${(i % SERIES_SLOTS) + 1})`;
+    dot.style.background = r.isCash ? "var(--ink-muted)" : `var(--series-${(i % SERIES_SLOTS) + 1})`;
     tdTicker.append(dot, r.ticker);
 
     const tdPct = document.createElement("td");
