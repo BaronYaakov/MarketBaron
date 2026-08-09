@@ -110,6 +110,26 @@ def load_allocation() -> list[dict]:
     return allocation
 
 
+def fetch_logo_url(ticker: str) -> str | None:
+    """Public company info (logo image URL) via Finnhub's profile endpoint —
+    not account data."""
+    if not FINNHUB_API_KEY:
+        return None
+    try:
+        resp = requests.get(
+            "https://finnhub.io/api/v1/stock/profile2",
+            params={"symbol": ticker, "token": FINNHUB_API_KEY},
+            timeout=15,
+        )
+        resp.raise_for_status()
+        profile = resp.json()
+    except requests.RequestException as e:
+        log(f"WARNING: Finnhub profile fetch failed for {ticker}: {e}")
+        return None
+    logo = profile.get("logo") if isinstance(profile, dict) else None
+    return logo or None
+
+
 def fetch_day_change(ticker: str) -> float | None:
     """Public market data (the stock's own daily % move) — not account data,
     so it doesn't conflict with the {ticker, percent}-only privacy rule."""
@@ -263,10 +283,10 @@ def main() -> int:
     log(f"Loaded allocation for {len(tickers)} ticker(s): {tickers}")
 
     for a in allocation:
-        if "day_change_pct" in a:
-            continue  # IBKR already supplied the real, fill-timing-aware figure
-        a["day_change_pct"] = fetch_day_change(a["ticker"])
-        a["day_change_source"] = "finnhub_estimate" if a["day_change_pct"] is not None else None
+        if "day_change_pct" not in a:
+            a["day_change_pct"] = fetch_day_change(a["ticker"])
+            a["day_change_source"] = "finnhub_estimate" if a["day_change_pct"] is not None else None
+        a["logo_url"] = fetch_logo_url(a["ticker"])
 
     news = fetch_all_news(tickers)
     log(f"Fetched {len(news)} news item(s)")

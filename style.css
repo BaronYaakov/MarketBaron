@@ -237,12 +237,30 @@ main {
   color: var(--ink-primary);
 }
 
+.ticker-mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  margin-right: 0.5rem;
+  vertical-align: middle;
+}
+
 .ticker-dot {
   display: inline-block;
   width: 8px;
   height: 8px;
   border-radius: 2px;
-  margin-right: 0.5rem;
+}
+
+.ticker-logo {
+  display: block;
+  width: 20px;
+  height: 20px;
+  border-radius: 5px;
+  object-fit: contain;
+  background: var(--track);
 }
 
 .holdings-table td.col-num {

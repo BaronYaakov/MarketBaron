@@ -108,10 +108,8 @@ function renderHoldings(allocation, cashPercent) {
 
     const tdTicker = document.createElement("td");
     tdTicker.className = "col-ticker";
-    const dot = document.createElement("span");
-    dot.className = "ticker-dot";
-    dot.style.background = r.isCash ? "var(--ink-muted)" : `var(--series-${(i % SERIES_SLOTS) + 1})`;
-    tdTicker.append(dot, r.ticker);
+    tdTicker.appendChild(buildTickerMark(r, i));
+    tdTicker.append(" " + r.ticker);
 
     const tdPct = document.createElement("td");
     tdPct.className = "col-num";
@@ -137,6 +135,35 @@ function renderHoldings(allocation, cashPercent) {
 
   const note = document.getElementById("holdings-footnote");
   if (note) note.hidden = !sawEstimate;
+}
+
+function buildTickerMark(r, i) {
+  // Fixed-size box so the ticker text always starts at the same x position,
+  // whether it holds a 20px logo or falls back to the small colored dot.
+  const dotColor = r.isCash ? "var(--ink-muted)" : `var(--series-${(i % SERIES_SLOTS) + 1})`;
+  const wrap = document.createElement("span");
+  wrap.className = "ticker-mark";
+
+  const makeDot = () => {
+    const dot = document.createElement("span");
+    dot.className = "ticker-dot";
+    dot.style.background = dotColor;
+    return dot;
+  };
+
+  if (!r.logo_url) {
+    wrap.appendChild(makeDot());
+    return wrap;
+  }
+
+  const img = document.createElement("img");
+  img.className = "ticker-logo";
+  img.src = r.logo_url;
+  img.alt = "";
+  img.loading = "lazy";
+  img.onerror = () => img.replaceWith(makeDot());
+  wrap.appendChild(img);
+  return wrap;
 }
 
 function formatDayChange(pct, source) {
