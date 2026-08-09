@@ -59,6 +59,20 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Top Semiconductor Stock Outpacing Nvidia With a 36% Gain Over 6 Months",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=281b685ec6364503a8f2be16ea0f984ae2e0cd562970fb08f0d9d5f715f121ba",
+      "datetime": 1786281600
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "O'Reilly Says It's Sharing Tariff Refunds With Suppliers. Its Balance Sheet Tells the More Interesting Version.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=202d39bae7b17131653a29abb52b838088a3786ac752a3bc4562801a90900704",
+      "datetime": 1786273200
+    },
+    {
+      "ticker": "AVGO",
       "headline": "How Many of the Largest Companies Do You Own -- and Should You Own More or Fewer?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=34bd1af3aa40e180acf3199a2e32a7b802d15292e5ec7ca3778a2f693d128add",
@@ -77,13 +91,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=9ea30b21829e2174867ffcef607c0c8e7c7439bca62cacabcb7b886775454148",
       "datetime": 1786216132
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia, Micron or Broadcom: What Would Raymond Dalio Do?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=91aca5cb4998ce0bff81500fe9630d528ab91e5fc21132eec54717361dc3d2fe",
-      "datetime": 1786210239
     },
     {
       "ticker": "CLS",
@@ -175,15 +182,8 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=93e5c3a0ecae456470050aa5bc7031f0ba7b9272abbfc4f340189e0a6f8362eb",
       "datetime": 1786038330
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "O\u2019Reilly Automotive, suppliers sharing tariff refund benefits",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=49449386bd2e8d93444786578231a0482deaba3eda270a42cd8b4e616c21c432",
-      "datetime": 1786031220
     }
   ],
   "recent_posts": [],
-  "updated_at": "2026-08-09T13:58:07.733656+00:00"
+  "updated_at": "2026-08-09T14:13:07.929503+00:00"
 }
