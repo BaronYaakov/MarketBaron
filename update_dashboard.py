@@ -174,7 +174,8 @@ def post_pending_tweet(posted_tweets: list[dict]) -> list[dict]:
 
 
 def run(cmd: list[str], **kwargs) -> subprocess.CompletedProcess:
-    return subprocess.run(cmd, cwd=BASE_DIR, capture_output=True, text=True, **kwargs)
+    env = {**os.environ, "GIT_TERMINAL_PROMPT": "0"}
+    return subprocess.run(cmd, cwd=BASE_DIR, capture_output=True, text=True, env=env, **kwargs)
 
 
 def git_commit_and_push() -> None:
