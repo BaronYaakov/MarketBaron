@@ -56,6 +56,7 @@
     }
   ],
   "cash_percent": 2.74,
+  "portfolio_day_change_pct": 0.24,
   "news": [
     {
       "ticker": "AVGO",
@@ -185,5 +186,5 @@
     }
   ],
   "recent_posts": [],
-  "updated_at": "2026-08-09T17:58:06.846145+00:00"
+  "updated_at": "2026-08-09T18:13:15.242194+00:00"
 }
