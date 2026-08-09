@@ -257,6 +257,18 @@ main {
 .day-change.status-critical { color: var(--status-critical); }
 .day-change.status-flat { color: var(--ink-muted); }
 
+.estimate-flag {
+  color: var(--ink-muted);
+  margin-left: 0.1rem;
+  cursor: help;
+}
+
+.table-footnote {
+  margin: 0.75rem 0 0;
+  font-size: 0.75rem;
+  color: var(--ink-muted);
+}
+
 /* News / posts lists */
 
 .news-list, .posts-list {

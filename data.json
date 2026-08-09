@@ -3,17 +3,26 @@
     {
       "ticker": "AAPL",
       "percent": 42.5,
-      "day_change_pct": 0.29
+      "avg_price": 187.32,
+      "all_time_gain_pct": 22.8,
+      "day_change_pct": 0.29,
+      "day_change_source": "finnhub_estimate"
     },
     {
       "ticker": "MSFT",
       "percent": 31.2,
-      "day_change_pct": 0.03
+      "avg_price": 402.1,
+      "all_time_gain_pct": 8.4,
+      "day_change_pct": 0.03,
+      "day_change_source": "finnhub_estimate"
     },
     {
       "ticker": "NVDA",
       "percent": 26.3,
-      "day_change_pct": 2.27
+      "avg_price": 98.55,
+      "all_time_gain_pct": 61.9,
+      "day_change_pct": 2.27,
+      "day_change_source": "finnhub_estimate"
     }
   ],
   "news": [
@@ -81,19 +90,6 @@
       "datetime": 1786208451
     }
   ],
-  "recent_posts": [
-    {
-      "id": "test1",
-      "text": "Trimmed NVDA into strength after the run past resistance \u2014 taking some risk off the table, not a bearish call.",
-      "posted_at": "2026-08-09T02:10:00+00:00",
-      "trade": null
-    },
-    {
-      "id": "test2",
-      "text": "Added to MSFT on the pullback \u2014 AI infra spend still accelerating, valuation reset was the entry I wanted.",
-      "posted_at": "2026-08-07T14:30:00+00:00",
-      "trade": null
-    }
-  ],
-  "updated_at": "2026-08-09T06:59:14.984631+00:00"
+  "recent_posts": [],
+  "updated_at": "2026-08-09T07:05:11.249139+00:00"
 }

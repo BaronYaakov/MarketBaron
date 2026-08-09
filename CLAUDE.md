@@ -73,6 +73,10 @@ GitHub Pages serves `index.html` (in this repo, root or `/site`) which fetches `
 5. **Enable GitHub Pages** on the repo once `index.html` exists.
 6. **End-to-end test**: confirm a full cycle — Cowork writes snapshot → local script picks it up → data.json updates → site reflects it.
 
-## Privacy rule (non-negotiable)
+## Privacy rule (non-negotiable, updated 2026-08-09)
 
-Only `{ticker, percent}` may ever reach `data.json` or the public repo. No account balance, total value, or dollar trade size, at any layer. Enforce this at the point of writing `ibkr_snapshot.json`, not just in the frontend.
+Allowed to reach `data.json` / the public repo, per position: `ticker`, `percent` (allocation), `avg_price` (per-share cost basis), `day_change_pct`, `all_time_gain_pct`. These are all prices or percentages — never quantities or totals.
+
+**Never allowed, at any layer:** share/contract quantity (position size), account value, total balance, total position dollar value ($ market value = price × quantity), or dollar P&L. The line is "per-share price or a percentage" (fine) vs. "anything requiring quantity to compute, or a dollar total" (forbidden) — quantity is the one number that must never leave the account boundary, since combined with price it reconstructs position size/value.
+
+Enforce this at the point of writing `ibkr_snapshot.json` (Cowork side), not just in the frontend. `update_dashboard.py`'s `load_allocation()` only passes through the specific allowed keys by name — it does not forward unknown fields, so an accidental extra key from the Cowork task (e.g. `quantity`, `mkt_value`) is dropped, not leaked, but Cowork still shouldn't write it to the snapshot file at all.

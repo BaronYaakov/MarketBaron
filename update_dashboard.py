@@ -61,9 +61,22 @@ def load_json(path: Path, default):
         return default
 
 
+
+# Fields allowed to pass through from ibkr_snapshot.json, per the privacy
+# rule in CLAUDE.md: prices and percentages only, never quantity or a dollar
+# total (quantity x price = position value, which must never leave the
+# account boundary). Unknown/unlisted keys in a snapshot entry are dropped,
+# not forwarded, even if Cowork accidentally writes them.
+OPTIONAL_ALLOCATION_FIELDS = {
+    "avg_price": 2,        # per-share cost basis, USD — a price, not a total
+    "day_change_pct": 2,   # ideally IBKR-sourced; see fetch_day_change() fallback
+    "all_time_gain_pct": 2,
+}
+
+
 def load_allocation() -> list[dict]:
-    """Read ibkr_snapshot.json and strip to {ticker, percent} only. Never
-    forward any other field (balances, account value, trade $ amounts)."""
+    """Read ibkr_snapshot.json and strip to ticker/percent plus only the
+    allow-listed optional fields above."""
     raw = load_json(SNAPSHOT_PATH, None)
     if raw is None:
         return []
@@ -71,10 +84,17 @@ def load_allocation() -> list[dict]:
     allocation = []
     for entry in entries:
         try:
-            allocation.append({
+            parsed = {
                 "ticker": str(entry["ticker"]).upper(),
                 "percent": round(float(entry["percent"]), 4),
-            })
+            }
+            for field, decimals in OPTIONAL_ALLOCATION_FIELDS.items():
+                value = entry.get(field)
+                if isinstance(value, (int, float)):
+                    parsed[field] = round(float(value), decimals)
+            if "day_change_pct" in parsed:
+                parsed["day_change_source"] = "ibkr"
+            allocation.append(parsed)
         except (KeyError, TypeError, ValueError):
             log(f"WARNING: skipping malformed allocation entry: {entry!r}")
     return allocation
@@ -233,7 +253,10 @@ def main() -> int:
     log(f"Loaded allocation for {len(tickers)} ticker(s): {tickers}")
 
     for a in allocation:
+        if "day_change_pct" in a:
+            continue  # IBKR already supplied the real, fill-timing-aware figure
         a["day_change_pct"] = fetch_day_change(a["ticker"])
+        a["day_change_source"] = "finnhub_estimate" if a["day_change_pct"] is not None else None
 
     news = fetch_all_news(tickers)
     log(f"Fetched {len(news)} news item(s)")

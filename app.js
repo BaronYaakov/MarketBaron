@@ -98,6 +98,7 @@ function renderHoldings(allocation) {
 
   count.textContent = `${allocation.length} position${allocation.length === 1 ? "" : "s"}`;
 
+  let sawEstimate = false;
   rows.forEach((r, i) => {
     const tr = document.createElement("tr");
 
@@ -112,23 +113,38 @@ function renderHoldings(allocation) {
     tdPct.className = "col-num";
     tdPct.textContent = `${r.percent.toFixed(1)}%`;
 
+    const tdAvgPrice = document.createElement("td");
+    tdAvgPrice.className = "col-num";
+    tdAvgPrice.textContent = typeof r.avg_price === "number" ? `$${r.avg_price.toFixed(2)}` : "—";
+
     const tdChange = document.createElement("td");
     tdChange.className = "col-num";
-    tdChange.appendChild(formatDayChange(r.day_change_pct));
+    tdChange.appendChild(formatDayChange(r.day_change_pct, r.day_change_source));
 
-    tr.append(tdTicker, tdPct, tdChange);
+    const tdAllTime = document.createElement("td");
+    tdAllTime.className = "col-num";
+    tdAllTime.appendChild(formatDayChange(r.all_time_gain_pct));
+
+    tr.append(tdTicker, tdPct, tdAvgPrice, tdChange, tdAllTime);
     body.appendChild(tr);
+
+    if (r.day_change_source === "finnhub_estimate") sawEstimate = true;
   });
+
+  const note = document.getElementById("holdings-footnote");
+  if (note) note.hidden = !sawEstimate;
 }
 
-function formatDayChange(pct) {
-  const span = document.createElement("span");
-  span.className = "day-change";
+function formatDayChange(pct, source) {
+  const wrap = document.createElement("span");
   if (typeof pct !== "number" || Number.isNaN(pct)) {
-    span.classList.add("status-flat");
+    const span = document.createElement("span");
+    span.className = "day-change status-flat";
     span.textContent = "—";
     return span;
   }
+  const span = document.createElement("span");
+  span.className = "day-change";
   if (pct > 0) {
     span.classList.add("status-good");
     span.textContent = `▲ ${pct.toFixed(2)}%`;
@@ -139,7 +155,15 @@ function formatDayChange(pct) {
     span.classList.add("status-flat");
     span.textContent = "0.00%";
   }
-  return span;
+  wrap.appendChild(span);
+  if (source === "finnhub_estimate") {
+    const flag = document.createElement("sup");
+    flag.className = "estimate-flag";
+    flag.title = "Estimated from the stock's price move (previous close → now), not yet account-verified";
+    flag.textContent = "*";
+    wrap.appendChild(flag);
+  }
+  return wrap;
 }
 
 function renderNews(news) {
