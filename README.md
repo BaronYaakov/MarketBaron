@@ -1,56 +1,29 @@
 # IBKR Portfolio Dashboard
 
-Public-facing dashboard: IBKR portfolio allocation % (percentages only, never dollar amounts), ticker-relevant news (Finnhub), and recent X posts. No visitor login — the dashboard is fully open. A separate, narrow private panel exists only for the owner to complete IBKR's periodic re-authorization (see below).
+Public-facing dashboard: IBKR portfolio allocation % (percentages only, never dollar amounts), ticker-relevant news (Finnhub), and recent X posts. Fully static and public — no visitor login, no live backend calls per visitor.
 
-## Structure
+## Architecture (current)
 
-- `backend/` — Python (FastAPI) API. Runs the IBKR Client Portal Gateway integration, Finnhub client, and X API client.
-- `frontend/` — Next.js (TypeScript) dashboard UI.
+- **IBKR data**: official IBKR MCP connector (connected in Cowork) — no self-hosted gateway, no OAuth app, no manual session management.
+- **Scheduled task** (runs in Cowork on a cron, e.g. every 30 min): pulls allocation from the IBKR connector and strips it to `{ticker, percent}` only, pulls news from Finnhub via direct API call, checks for new trades and drafts a tweet for owner approval, posts via the X API once approved, writes it all to `data.json`, and pushes that file to this repo.
+- **Public site** (`site/`): plain static HTML/CSS/JS hosted on GitHub Pages, fetches `data.json` on load. No backend, safe for unlimited anonymous visitors, never triggers anything on visit.
+
+> `backend/` and `frontend/` below are from an earlier, superseded plan (self-hosted IBKR Client Portal Gateway on a VPS). Left in place but not used going forward — the connector + scheduled-task approach replaced the need for a self-hosted gateway and manual IBKR re-auth entirely.
 
 ## Status
 
-Phase 1 (scaffold) complete — no real integrations wired up yet. See phase list below.
-
-## Setup
-
-### Backend
-
-```
-cd backend
-python -m venv venv
-venv\Scripts\activate   # Windows
-pip install -r requirements.txt
-copy .env.example .env  # fill in real values
-uvicorn app.main:app --reload
-```
-
-Health check: http://localhost:8000/health
-
-### Frontend
-
-```
-cd frontend
-npm install
-copy .env.example .env.local
-npm run dev
-```
-
-Dashboard: http://localhost:3000
-
-## IBKR auth — important
-
-Retail IBKR accounts don't support OAuth. Access is only via the **Client Portal Gateway**, which requires a manual login (username/password + IB Key push approval on your phone) roughly every 24h or whenever the gateway restarts. This project cannot automate that step away — even once deployed, you'll periodically need to re-approve the session yourself.
-
-## Build phases
-
-1. **Scaffold** — repo structure, backend + frontend skeleton, `.env.example`, README. *(this phase)*
-2. **IBKR integration** — `/portfolio/accounts` + positions → % allocation. Requires running the gateway locally and completing the 2FA push yourself.
-3. **Finnhub news** — ticker-relevant news, cached against free-tier rate limits.
-4. **X API** — pull-and-cache recent posts on a schedule.
-5. **Dashboard frontend** — wire allocation chart + news panel + posts feed to the backend.
-6. **Auth + secrets hardening** — build the private IBKR re-auth panel (not a general login/admin gate), confirm dollar amounts/account value never leak into public API responses or UI, confirm nothing sensitive is hardcoded/logged.
-7. **Deployment** — VPS setup, pm2/systemd to keep the IBKR gateway + backend alive, document the re-approval cadence. Frontend deployed to **Cloudflare Pages**. Backend on the VPS exposed via **Cloudflare Tunnel** (cloudflared) for free HTTPS/CDN/DDoS protection without opening firewall ports.
+Pivoted to the connector + scheduled-task architecture. IBKR connector is connected. Next: `site/` (static frontend) and the scheduled task itself.
 
 ## Secrets
 
-Never commit real API keys or IBKR credentials. Only `.env.example` files (placeholders) are tracked; real `.env` / `.env.local` files are gitignored.
+Root-level `.env` (gitignored) holds `FINNHUB_API_KEY`, `X_API_BEARER_TOKEN`, and `GITHUB_TOKEN` for the scheduled task. Copy `.env.example` → `.env` and fill in real values yourself — never paste real keys into chat. Only `.env.example` (placeholders) is tracked in git.
+
+## Old build phases (superseded, kept for reference)
+
+1. Scaffold — backend + frontend skeleton *(done, now unused)*
+2. IBKR integration via self-hosted Client Portal Gateway *(replaced by the MCP connector)*
+3. Finnhub news
+4. X API
+5. Dashboard frontend
+6. Auth + secrets hardening
+7. VPS deployment via Cloudflare Tunnel *(replaced by GitHub Pages)*

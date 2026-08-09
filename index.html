@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MarketBaron</title>
+<link rel="stylesheet" href="style.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+</head>
+<body>
+<header>
+  <h1>MarketBaron</h1>
+  <p class="subtitle">Public portfolio allocation, ticker news, and recent trade posts. Percentages only — no balances or trade sizes.</p>
+  <p class="updated" id="updated"></p>
+</header>
+
+<main>
+  <section class="panel" id="allocation-panel">
+    <h2>Allocation</h2>
+    <div class="chart-wrap">
+      <canvas id="allocation-chart"></canvas>
+    </div>
+    <ul class="allocation-list" id="allocation-list"></ul>
+  </section>
+
+  <section class="panel" id="news-panel">
+    <h2>News</h2>
+    <ul class="news-list" id="news-list"></ul>
+  </section>
+
+  <section class="panel" id="posts-panel">
+    <h2>Recent Posts</h2>
+    <ul class="posts-list" id="posts-list"></ul>
+  </section>
+</main>
+
+<footer>
+  <p id="empty-state" hidden>No data yet — check back soon.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

@@ -4,6 +4,15 @@
 backend/.env
 frontend/.env.local
 
+# Local staging data (never meant for the public repo)
+ibkr_snapshot.json
+pending_tweet.json
+
+# Python venv
+.venv/
+__pycache__/
+*.pyc
+
 # Python
 backend/__pycache__/
 backend/**/__pycache__/
@@ -19,5 +28,6 @@ frontend/npm-debug.log*
 
 # Editor / OS
 .vscode/
+.claude/
 .DS_Store
 Thumbs.db
