@@ -47,7 +47,7 @@
     },
     {
       "ticker": "PRMB",
-      "percent": 20.17,
+      "percent": 20.18,
       "avg_price": 19.0,
       "day_change_pct": -1.42,
       "all_time_gain_pct": 24.02,
@@ -185,5 +185,5 @@
     }
   ],
   "recent_posts": [],
-  "updated_at": "2026-08-09T09:43:06.431241+00:00"
+  "updated_at": "2026-08-09T09:58:06.594388+00:00"
 }
