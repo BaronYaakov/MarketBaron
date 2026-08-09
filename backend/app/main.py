@@ -1,5 +1,7 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+
+from app.ibkr import IBKRAuthRequired, get_allocation
 
 app = FastAPI(title="IBKR Portfolio Dashboard API")
 
@@ -18,8 +20,13 @@ def health():
 
 @app.get("/portfolio/allocation")
 def portfolio_allocation():
-    # Phase 2: fetch positions from the IBKR Client Portal Gateway and compute % allocation
-    return {"status": "not_implemented"}
+    try:
+        return {"status": "ok", "allocation": get_allocation()}
+    except IBKRAuthRequired:
+        raise HTTPException(
+            status_code=503,
+            detail="IBKR gateway session is not authenticated — re-authorize via the gateway",
+        )
 
 
 @app.get("/news")
