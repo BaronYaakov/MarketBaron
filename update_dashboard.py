@@ -74,14 +74,33 @@ OPTIONAL_ALLOCATION_FIELDS = {
 }
 
 
-def load_cash_percent() -> float | None:
-    """Optional top-level cash_percent from ibkr_snapshot.json (dict form
-    only). A percentage of the portfolio, not a dollar amount — allowed."""
+
+# Optional top-level fields from ibkr_snapshot.json (dict form only): cash
+# allocation and ACCOUNT-level (not per-position) performance over standard
+# periods, e.g. from IBKR's Portfolio Analyst / NAV-based return. All
+# percentages, never balances. There is deliberately no per-ticker fallback
+# for any of the four gain periods the way day_change_pct has a Finnhub
+# estimate — an individual stock's price move is not the account's actual
+# return, so these stay blank (frontend shows "—") until IBKR supplies them.
+TOP_LEVEL_FIELDS = {
+    "cash_percent": 2,
+    "portfolio_day_change_pct": 2,
+    "portfolio_month_change_pct": 2,
+    "portfolio_year_change_pct": 2,
+    "portfolio_all_time_change_pct": 2,
+}
+
+
+def load_top_level_fields() -> dict:
     raw = load_json(SNAPSHOT_PATH, None)
     if not isinstance(raw, dict):
-        return None
-    value = raw.get("cash_percent")
-    return round(float(value), 2) if isinstance(value, (int, float)) else None
+        return {}
+    result = {}
+    for field, decimals in TOP_LEVEL_FIELDS.items():
+        value = raw.get(field)
+        if isinstance(value, (int, float)):
+            result[field] = round(float(value), decimals)
+    return result
 
 
 def load_allocation() -> list[dict]:
@@ -296,7 +315,7 @@ def main() -> int:
 
     data = {
         "allocation": allocation,
-        "cash_percent": load_cash_percent(),
+        **load_top_level_fields(),
         "news": news,
         "recent_posts": posted_tweets,
         "updated_at": datetime.datetime.now(datetime.timezone.utc).isoformat(),

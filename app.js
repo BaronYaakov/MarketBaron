@@ -1,6 +1,41 @@
 const SERIES_SLOTS = 8; // --series-1 … --series-8, fixed categorical order
 const MAX_HOLDING_ROWS = SERIES_SLOTS;
 
+// Gain tile: account-level returns only (IBKR's own figures — never a
+// per-ticker approximation), switchable by period via the 1D/1M/1Y/All tabs.
+const GAIN_PERIOD_FIELDS = {
+  day: "portfolio_day_change_pct",
+  month: "portfolio_month_change_pct",
+  year: "portfolio_year_change_pct",
+  all: "portfolio_all_time_change_pct",
+};
+let gainValues = {};
+let activeGainPeriod = "day";
+
+function updateGainDisplay() {
+  const el = document.getElementById("stat-gain");
+  const value = gainValues[activeGainPeriod];
+  el.className = "stat-value";
+  if (typeof value !== "number") {
+    el.textContent = "—";
+  } else {
+    el.textContent = `${value >= 0 ? "▲" : "▼"} ${Math.abs(value).toFixed(2)}%`;
+    if (value !== 0) el.classList.add(value > 0 ? "status-good" : "status-critical");
+  }
+  document.querySelectorAll(".gain-tab").forEach((btn) => {
+    const isActive = btn.dataset.period === activeGainPeriod;
+    btn.classList.toggle("active", isActive);
+    btn.setAttribute("aria-selected", String(isActive));
+  });
+}
+
+document.querySelectorAll(".gain-tab").forEach((btn) => {
+  btn.addEventListener("click", () => {
+    activeGainPeriod = btn.dataset.period;
+    updateGainDisplay();
+  });
+});
+
 async function loadData() {
   let data;
   try {
@@ -36,32 +71,26 @@ function render(data) {
     return;
   }
 
-  renderStats(allocation);
+  renderStats(data, allocation);
   renderHoldings(allocation, data.cash_percent);
   renderNews(news);
   renderPosts(posts);
 }
 
-function renderStats(allocation) {
-  const todayEl = document.getElementById("stat-today");
+function renderStats(data, allocation) {
   const positionsEl = document.getElementById("stat-positions");
   const moverEl = document.getElementById("stat-mover");
   const moverSubEl = document.getElementById("stat-mover-sub");
 
-  const withChange = allocation.filter((a) => typeof a.day_change_pct === "number");
-
   positionsEl.textContent = String(allocation.length);
 
-  todayEl.className = "stat-value";
-  if (withChange.length === 0) {
-    todayEl.textContent = "—";
-  } else {
-    const totalPct = withChange.reduce((sum, a) => sum + a.percent, 0) || 1;
-    const weighted = withChange.reduce((sum, a) => sum + a.percent * a.day_change_pct, 0) / totalPct;
-    todayEl.textContent = `${weighted >= 0 ? "▲" : "▼"} ${Math.abs(weighted).toFixed(2)}%`;
-    if (weighted !== 0) todayEl.classList.add(weighted > 0 ? "status-good" : "status-critical");
+  gainValues = {};
+  for (const [period, field] of Object.entries(GAIN_PERIOD_FIELDS)) {
+    if (typeof data[field] === "number") gainValues[period] = data[field];
   }
+  updateGainDisplay();
 
+  const withChange = allocation.filter((a) => typeof a.day_change_pct === "number");
   if (withChange.length === 0) {
     moverEl.textContent = "—";
     moverSubEl.textContent = "";

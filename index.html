@@ -22,9 +22,17 @@
 
   <main>
     <section class="stat-row" id="stat-row" aria-label="Portfolio summary">
-      <div class="stat-tile">
-        <span class="stat-label">Today</span>
-        <span class="stat-value" id="stat-today">&mdash;</span>
+      <div class="stat-tile stat-tile-gain">
+        <div class="gain-head">
+          <span class="stat-label">Gain</span>
+          <div class="gain-tabs" role="tablist" aria-label="Gain period">
+            <button type="button" class="gain-tab" data-period="day" role="tab">1D</button>
+            <button type="button" class="gain-tab" data-period="month" role="tab">1M</button>
+            <button type="button" class="gain-tab" data-period="year" role="tab">1Y</button>
+            <button type="button" class="gain-tab" data-period="all" role="tab">All</button>
+          </div>
+        </div>
+        <span class="stat-value" id="stat-gain">&mdash;</span>
       </div>
       <div class="stat-tile">
         <span class="stat-label">Positions</span>

@@ -153,6 +153,48 @@ main {
 .stat-sub.status-good { color: var(--status-good); }
 .stat-sub.status-critical { color: var(--status-critical); }
 
+.stat-tile-gain {
+  min-width: 220px;
+}
+
+.gain-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+}
+
+.gain-tabs {
+  display: inline-flex;
+  background: var(--track);
+  border-radius: 8px;
+  padding: 2px;
+  gap: 2px;
+}
+
+.gain-tab {
+  appearance: none;
+  border: none;
+  background: transparent;
+  color: var(--ink-secondary);
+  font: inherit;
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 0.2rem 0.5rem;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.gain-tab:hover {
+  color: var(--ink-primary);
+}
+
+.gain-tab.active {
+  background: var(--surface);
+  color: var(--ink-primary);
+  box-shadow: 0 1px 2px var(--border);
+}
+
 .panel-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));

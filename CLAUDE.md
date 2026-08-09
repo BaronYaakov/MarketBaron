@@ -54,14 +54,18 @@ Task Scheduler, independent of whether Cowork is open)
   → checks pending_tweet.json — if present, posts it via the X API, records
     the result in posted_tweets.json, deletes the pending file (leaves it
     queued and retries next run on failure)
-  → assembles data.json = { allocation: [...], cash_percent, news: [...],
-    recent_posts: [...], updated_at }
+  → assembles data.json = { allocation: [...], cash_percent,
+    portfolio_day_change_pct, portfolio_month_change_pct,
+    portfolio_year_change_pct, portfolio_all_time_change_pct,
+    news: [...], recent_posts: [...], updated_at }
+    (the four portfolio_* fields just pass through whatever ibkr_snapshot.json
+    has — the local script does not compute or estimate them itself)
   → git commit + push data.json (and posted_tweets.json) to BaronYaakov/MarketBaron
     (auth: GITHUB_TOKEN embedded in the push URL, GIT_TERMINAL_PROMPT=0 — never
     blocks waiting on a credential prompt, so it's safe fully unattended)
 ```
 
-GitHub Pages (LIVE at `https://baronyaakov.github.io/MarketBaron/`, deploying from `main` / `/root`) serves `index.html`, which fetches `data.json` on load and renders: a stat row (today's weighted % move, position count, cash %, top mover), a positions table (symbol, allocation, avg price, day change, all-time gain), a trade journal (rationale behind recent trades), and market news by holding. Purely static — visiting the page never triggers anything.
+GitHub Pages (LIVE at `https://baronyaakov.github.io/MarketBaron/`, deploying from `main` / `/root`) serves `index.html`, which fetches `data.json` on load and renders: a stat row (a "Gain" tile with 1D/1M/1Y/All tabs — account-level only, IBKR's own figures — plus position count and top mover), a positions table (symbol, allocation, avg price, day change, all-time gain), a trade journal (rationale behind recent trades), and market news by holding. Purely static — visiting the page never triggers anything.
 
 ### `ibkr_snapshot.json` expected schema (for whoever builds the Cowork task)
 
@@ -76,11 +80,18 @@ GitHub Pages (LIVE at `https://baronyaakov.github.io/MarketBaron/`, deploying fr
       "all_time_gain_pct": 22.8
     }
   ],
-  "cash_percent": 8.4
+  "cash_percent": 8.4,
+  "portfolio_day_change_pct": 0.62,
+  "portfolio_month_change_pct": 3.1,
+  "portfolio_year_change_pct": 14.3,
+  "portfolio_all_time_change_pct": 41.7,
+  "updated_at": "2026-08-09T06:30:00Z"
 }
 ```
 
-A bare list (just `[{ticker, percent}, ...]`, no wrapping object) is also accepted for backward compatibility, but then `cash_percent` and the optional per-position fields aren't available. `day_change_pct` should be IBKR's own per-position daily P&L % (correct for same-day fills) — if omitted, the local script estimates it from Finnhub and flags it on-site as an estimate. Only the fields named in the Privacy rule below are read; anything else in an entry is silently dropped.
+`portfolio_day_change_pct`/`portfolio_month_change_pct`/`portfolio_year_change_pct`/`portfolio_all_time_change_pct` are the whole-ACCOUNT return over that period (IBKR's own NAV/time-weighted return — e.g. its Portfolio Analyst performance data, if the connector exposes it), never any single position's move. This was a deliberate choice (2026-08-09, revised same day from an earlier day/week/year design to day/month/year/all-time): Jake wants these specifically as account growth, not a per-ticker estimate — so unlike `day_change_pct`, there is intentionally **no Finnhub fallback** for any of the four. The site renders them as a single "Gain" tile with a 1D/1M/1Y/All tab switcher (`index.html`'s `.gain-tabs`, wired in `app.js`'s `GAIN_PERIOD_FIELDS`) — if IBKR doesn't supply a given period, that tab just shows "—" when selected rather than approximating from individual holdings. **If the IBKR MCP connector doesn't currently expose 1-month/1-year/all-time account performance, that's worth checking** — whoever is iterating on the Cowork task should look for it (likely under a performance/NAV-history type tool) and add whichever periods are available to the snapshot.
+
+A bare list (just `[{ticker, percent}, ...]`, no wrapping object) is also accepted for backward compatibility, but then none of the top-level fields above are available. `day_change_pct` (per-position) should be IBKR's own daily P&L % (correct for same-day fills) — if omitted, the local script estimates it from Finnhub and flags it on-site as an estimate; this fallback applies only to that one per-position field. Only the fields named in the Privacy rule below are read; anything else in an entry is silently dropped.
 
 ## Current state (as of 2026-08-09)
 
@@ -89,16 +100,15 @@ A bare list (just `[{ticker, percent}, ...]`, no wrapping object) is also accept
 - `.env` at project root: populated with real `FINNHUB_API_KEY`, `X_API_BEARER_TOKEN`, `GITHUB_TOKEN` (`repo`-scope, verified working), `GITHUB_REPO=BaronYaakov/MarketBaron`. Gitignored, never committed.
 - `backend/`, `frontend/`, and `validate_apis.ps1` from the earlier self-hosted-gateway plan: **removed** (git history still has them if ever needed).
 - `update_dashboard.py`, the Windows Task Scheduler entry (`MarketBaron Dashboard Update`, every 15 min), and the static site (`index.html`/`style.css`/`app.js`) are **all built and live**.
-- **The one remaining piece: no Cowork scheduled task exists yet** for the real IBKR-polling pipeline (only a one-time validation task ran, which auto-disabled). Until it exists, `ibkr_snapshot.json` is absent and the local script no-ops every run. The site is currently showing placeholder test data from manual validation runs, not real positions.
+- **Cowork scheduled task `marketbaron-ibkr-sync` is now BUILT and running** (every 15 min). Each run: refreshes `ibkr_snapshot.json` (percent, avg_price, day_change_pct, all_time_gain_pct per position, plus cash_percent and portfolio_day_change_pct), checks `get_account_trades` for anything new vs `last_seen_trade_ids.json`, and — if a new trade is found — appends a draft to `draft_tweets.json` with `status: "awaiting_approval"`. It never writes `pending_tweet.json` itself and never posts anything; that only happens when Jake approves a draft in a live chat with Claude (Cowork), which is what actually creates `pending_tweet.json` for the local script to pick up. First run after creation bootstraps `last_seen_trade_ids.json` from current trade history without drafting anything (avoids retroactively tweeting old trades). **Not yet supplying** `portfolio_month_change_pct` / `portfolio_year_change_pct` / `portfolio_all_time_change_pct` — only `portfolio_day_change_pct` so far; the site shows "—" for the other three Gain-tile tabs until those are added (see schema section above for what's expected and why there's no per-ticker fallback for them).
 
 ## What's left to build
 
-1. **Cowork scheduled task**: recurring, calls the IBKR connector, does the strip-to-allowed-fields + trade-diff + approval-message logic described above, writes `ibkr_snapshot.json` (schema above) and `pending_tweet.json`. This has to be set up back in Cowork (not Claude Code) — it depends on the IBKR MCP connector and in-chat messaging, neither of which Claude Code has access to.
-2. **End-to-end test**: once the above exists, confirm a full cycle — Cowork writes a real snapshot → local script picks it up within 15 min → data.json updates with real numbers → site reflects it.
+1. **End-to-end test**: confirm a full cycle — Cowork writes a real snapshot → local script picks it up within 15 min → `data.json` updates with real numbers → site reflects it. Also test the approval path once a real new trade occurs: draft appears in `draft_tweets.json` → Jake approves in chat → `pending_tweet.json` gets created → local script posts it and clears the pending file.
 
 ## Privacy rule (non-negotiable, updated 2026-08-09)
 
-Allowed to reach `data.json` / the public repo, per position: `ticker`, `percent` (allocation), `avg_price` (per-share cost basis), `day_change_pct`, `all_time_gain_pct`. Also allowed at the top level: `cash_percent` (cash as a % of total portfolio — a percentage, not a balance). These are all prices or percentages — never quantities or totals.
+Allowed to reach `data.json` / the public repo, per position: `ticker`, `percent` (allocation), `avg_price` (per-share cost basis), `day_change_pct`, `all_time_gain_pct`. Also allowed at the top level: `cash_percent` (cash as a % of total portfolio), `portfolio_day_change_pct`, `portfolio_month_change_pct`, `portfolio_year_change_pct`, `portfolio_all_time_change_pct` (account-level return over each period). These are all prices or percentages — never quantities or totals.
 
 **Never allowed, at any layer:** share/contract quantity (position size), account value, total balance, total position dollar value ($ market value = price × quantity), or dollar P&L. The line is "per-share price or a percentage" (fine) vs. "anything requiring quantity to compute, or a dollar total" (forbidden) — quantity is the one number that must never leave the account boundary, since combined with price it reconstructs position size/value.
 
