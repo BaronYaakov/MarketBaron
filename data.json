@@ -49,9 +49,9 @@
       "ticker": "PRMB",
       "percent": 20.17,
       "avg_price": 19.0,
-      "day_change_pct": 0.0,
       "all_time_gain_pct": 24.02,
-      "day_change_source": "ibkr",
+      "day_change_pct": -1.42,
+      "day_change_source": "finnhub_estimate",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     }
   ],
@@ -185,5 +185,5 @@
     }
   ],
   "recent_posts": [],
-  "updated_at": "2026-08-09T08:43:06.514774+00:00"
+  "updated_at": "2026-08-09T08:58:07.307270+00:00"
 }
