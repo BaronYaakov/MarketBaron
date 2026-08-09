@@ -1,7 +1,5 @@
-const ALLOCATION_COLORS = [
-  "#4f8cff", "#ff8c4f", "#4fdb8c", "#db4fdb", "#dbdb4f",
-  "#4fdbdb", "#ff4f7a", "#8c4fff", "#c9c9c9", "#ffb84f",
-];
+const SERIES_SLOTS = 8; // --series-1 … --series-8, fixed categorical order
+const MAX_HOLDING_ROWS = SERIES_SLOTS;
 
 async function loadData() {
   let data;
@@ -27,7 +25,10 @@ function render(data) {
 
   if (data.updated_at) {
     const d = new Date(data.updated_at);
-    document.getElementById("updated").textContent = `Last updated: ${d.toLocaleString()}`;
+    document.getElementById("updated").textContent = `Last updated ${d.toLocaleString(undefined, {
+      dateStyle: "medium",
+      timeStyle: "short",
+    })}`;
   }
 
   if (allocation.length === 0 && news.length === 0 && posts.length === 0) {
@@ -35,49 +36,59 @@ function render(data) {
     return;
   }
 
-  renderAllocation(allocation);
+  renderHoldings(allocation);
   renderNews(news);
   renderPosts(posts);
 }
 
-function renderAllocation(allocation) {
-  const list = document.getElementById("allocation-list");
+function renderHoldings(allocation) {
+  const list = document.getElementById("holdings-list");
+  const count = document.getElementById("holdings-count");
   list.innerHTML = "";
-  allocation.forEach((a) => {
-    const li = document.createElement("li");
+
+  if (allocation.length === 0) {
+    list.innerHTML = '<p class="empty-row">No holdings yet.</p>';
+    count.textContent = "";
+    return;
+  }
+
+  const sorted = [...allocation].sort((a, b) => b.percent - a.percent);
+
+  // Fold anything past the categorical token ceiling into "Other" rather
+  // than generate more hues (breaks CVD safety past the validated set).
+  let rows = sorted;
+  if (sorted.length > MAX_HOLDING_ROWS) {
+    const kept = sorted.slice(0, MAX_HOLDING_ROWS - 1);
+    const otherPct = sorted.slice(MAX_HOLDING_ROWS - 1).reduce((sum, a) => sum + a.percent, 0);
+    rows = [...kept, { ticker: "Other", percent: otherPct }];
+  }
+
+  count.textContent = `${allocation.length} position${allocation.length === 1 ? "" : "s"}`;
+
+  const maxPct = Math.max(...rows.map((r) => r.percent), 1);
+
+  rows.forEach((r, i) => {
+    const row = document.createElement("div");
+    row.className = "holding-row";
+
     const ticker = document.createElement("span");
-    ticker.className = "ticker";
-    ticker.textContent = a.ticker;
+    ticker.className = "holding-ticker";
+    ticker.textContent = r.ticker;
+
+    const track = document.createElement("div");
+    track.className = "holding-track";
+    const fill = document.createElement("div");
+    fill.className = "holding-fill";
+    fill.style.width = `${Math.max((r.percent / maxPct) * 100, 1.5)}%`;
+    fill.style.background = `var(--series-${(i % SERIES_SLOTS) + 1})`;
+    track.appendChild(fill);
+
     const pct = document.createElement("span");
-    pct.textContent = `${a.percent.toFixed(1)}%`;
-    li.append(ticker, pct);
-    list.appendChild(li);
-  });
+    pct.className = "holding-pct";
+    pct.textContent = `${r.percent.toFixed(1)}%`;
 
-  if (allocation.length === 0) return;
-
-  new Chart(document.getElementById("allocation-chart"), {
-    type: "doughnut",
-    data: {
-      labels: allocation.map((a) => a.ticker),
-      datasets: [{
-        data: allocation.map((a) => a.percent),
-        backgroundColor: allocation.map((_, i) => ALLOCATION_COLORS[i % ALLOCATION_COLORS.length]),
-        borderWidth: 0,
-      }],
-    },
-    options: {
-      responsive: true,
-      maintainAspectRatio: false,
-      plugins: {
-        legend: { display: false },
-        tooltip: {
-          callbacks: {
-            label: (ctx) => `${ctx.label}: ${ctx.parsed.toFixed(1)}%`,
-          },
-        },
-      },
-    },
+    row.append(ticker, track, pct);
+    list.appendChild(row);
   });
 }
 
@@ -85,7 +96,7 @@ function renderNews(news) {
   const list = document.getElementById("news-list");
   list.innerHTML = "";
   if (news.length === 0) {
-    list.innerHTML = "<li>No recent news.</li>";
+    list.innerHTML = '<li class="empty-row">No recent news.</li>';
     return;
   }
   news.forEach((n) => {
@@ -98,7 +109,11 @@ function renderNews(news) {
     const meta = document.createElement("div");
     meta.className = "news-meta";
     const when = n.datetime ? new Date(n.datetime * 1000).toLocaleDateString() : "";
-    meta.textContent = [n.ticker, n.source, when].filter(Boolean).join(" · ");
+    const tag = document.createElement("span");
+    tag.className = "ticker-tag";
+    tag.textContent = n.ticker || "";
+    meta.appendChild(tag);
+    meta.append(` · ${[n.source, when].filter(Boolean).join(" · ")}`);
     li.append(a, meta);
     list.appendChild(li);
   });
@@ -108,7 +123,7 @@ function renderPosts(posts) {
   const list = document.getElementById("posts-list");
   list.innerHTML = "";
   if (posts.length === 0) {
-    list.innerHTML = "<li>No recent posts.</li>";
+    list.innerHTML = '<li class="empty-row">No recent posts.</li>';
     return;
   }
   posts.forEach((p) => {
@@ -118,7 +133,10 @@ function renderPosts(posts) {
     text.textContent = p.text || "";
     const meta = document.createElement("div");
     meta.className = "post-meta";
-    const when = p.posted_at ? new Date(p.posted_at).toLocaleString() : "";
+    const when = p.posted_at ? new Date(p.posted_at).toLocaleString(undefined, {
+      dateStyle: "medium",
+      timeStyle: "short",
+    }) : "";
     meta.textContent = when;
     li.append(text, meta);
     list.appendChild(li);

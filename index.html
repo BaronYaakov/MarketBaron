@@ -4,40 +4,53 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>MarketBaron</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%93%88%3C/text%3E%3C/svg%3E">
 <link rel="stylesheet" href="style.css">
-<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
 </head>
 <body>
-<header>
-  <h1>MarketBaron</h1>
-  <p class="subtitle">Public portfolio allocation, ticker news, and recent trade posts. Percentages only — no balances or trade sizes.</p>
-  <p class="updated" id="updated"></p>
-</header>
+<div class="page">
 
-<main>
-  <section class="panel" id="allocation-panel">
-    <h2>Allocation</h2>
-    <div class="chart-wrap">
-      <canvas id="allocation-chart"></canvas>
+  <header class="site-header">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <h1>MarketBaron</h1>
     </div>
-    <ul class="allocation-list" id="allocation-list"></ul>
-  </section>
+    <p class="subtitle">Public portfolio allocation, ticker news, and recent trade posts &mdash; percentages only, never balances or trade size.</p>
+    <p class="updated" id="updated"></p>
+  </header>
 
-  <section class="panel" id="news-panel">
-    <h2>News</h2>
-    <ul class="news-list" id="news-list"></ul>
-  </section>
+  <main>
+    <section class="panel panel-wide" id="allocation-panel">
+      <div class="panel-head">
+        <h2>Holdings</h2>
+        <span class="panel-note" id="holdings-count"></span>
+      </div>
+      <div class="holdings-list" id="holdings-list"></div>
+    </section>
 
-  <section class="panel" id="posts-panel">
-    <h2>Recent Posts</h2>
-    <ul class="posts-list" id="posts-list"></ul>
-  </section>
-</main>
+    <div class="panel-grid">
+      <section class="panel" id="news-panel">
+        <div class="panel-head">
+          <h2>News</h2>
+        </div>
+        <ul class="news-list" id="news-list"></ul>
+      </section>
 
-<footer>
-  <p id="empty-state" hidden>No data yet — check back soon.</p>
-</footer>
+      <section class="panel" id="posts-panel">
+        <div class="panel-head">
+          <h2>Recent Posts</h2>
+        </div>
+        <ul class="posts-list" id="posts-list"></ul>
+      </section>
+    </div>
+  </main>
 
+  <footer>
+    <p id="empty-state" hidden>No data yet &mdash; check back soon.</p>
+    <p class="footnote">Auto-updated on a schedule. Not investment advice.</p>
+  </footer>
+
+</div>
 <script src="app.js"></script>
 </body>
 </html>
