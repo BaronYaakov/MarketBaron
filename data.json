@@ -41,7 +41,7 @@
       "percent": 11.56,
       "avg_price": 78.45,
       "day_change_pct": 3.2,
-      "all_time_gain_pct": 14.78,
+      "all_time_gain_pct": 14.79,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
@@ -185,5 +185,5 @@
     }
   ],
   "recent_posts": [],
-  "updated_at": "2026-08-09T16:58:07.059615+00:00"
+  "updated_at": "2026-08-09T17:13:06.836219+00:00"
 }
