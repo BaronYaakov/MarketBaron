@@ -2,15 +2,18 @@
   "allocation": [
     {
       "ticker": "AAPL",
-      "percent": 42.5
+      "percent": 42.5,
+      "day_change_pct": 0.29
     },
     {
       "ticker": "MSFT",
-      "percent": 31.2
+      "percent": 31.2,
+      "day_change_pct": 0.03
     },
     {
       "ticker": "NVDA",
-      "percent": 26.3
+      "percent": 26.3,
+      "day_change_pct": 2.27
     }
   ],
   "news": [
@@ -79,5 +82,5 @@
     }
   ],
   "recent_posts": [],
-  "updated_at": "2026-08-09T06:42:05.628074+00:00"
+  "updated_at": "2026-08-09T06:55:06.632945+00:00"
 }
