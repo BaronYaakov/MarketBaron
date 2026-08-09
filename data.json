@@ -1,99 +1,189 @@
 {
   "allocation": [
     {
-      "ticker": "AAPL",
-      "percent": 39.0,
-      "avg_price": 187.32,
-      "day_change_pct": 0.31,
-      "all_time_gain_pct": 22.8,
+      "ticker": "AVGO",
+      "percent": 18.25,
+      "avg_price": 381.14,
+      "day_change_pct": 1.4,
+      "all_time_gain_pct": 11.89,
       "day_change_source": "ibkr",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AAPL.png"
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "MSFT",
-      "percent": 29.0,
-      "avg_price": 402.1,
-      "day_change_pct": -0.12,
-      "all_time_gain_pct": 8.4,
+      "ticker": "CLS",
+      "percent": 13.6,
+      "avg_price": 332.2,
+      "day_change_pct": 1.05,
+      "all_time_gain_pct": -4.33,
       "day_change_source": "ibkr",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MSFT.png"
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
-      "ticker": "NVDA",
-      "percent": 23.6,
-      "avg_price": 98.55,
-      "day_change_pct": 2.27,
-      "all_time_gain_pct": 61.9,
+      "ticker": "COR",
+      "percent": 13.71,
+      "avg_price": 288.4,
+      "day_change_pct": -1.4,
+      "all_time_gain_pct": 11.12,
       "day_change_source": "ibkr",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/NVDA.png"
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "ORLY",
+      "percent": 19.95,
+      "avg_price": 84.25,
+      "day_change_pct": -0.15,
+      "all_time_gain_pct": 10.66,
+      "day_change_source": "ibkr",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "P",
+      "percent": 11.56,
+      "avg_price": 78.45,
+      "day_change_pct": 3.2,
+      "all_time_gain_pct": 14.78,
+      "day_change_source": "ibkr",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "PRMB",
+      "percent": 20.17,
+      "avg_price": 19.0,
+      "day_change_pct": -1.42,
+      "all_time_gain_pct": 24.02,
+      "day_change_source": "ibkr",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     }
   ],
-  "cash_percent": 8.4,
+  "cash_percent": 2.74,
   "news": [
     {
-      "ticker": "NVDA",
-      "headline": "Is the Worst Finally Over for Palantir Stock?",
+      "ticker": "AVGO",
+      "headline": "Broadcom (AVGO) Pairs AI Chip Boom With A Software Security Push",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f815733acf70c7a31bac16167b222c022344d6d774450f570bf9b90d916d73bb",
-      "datetime": 1786254600
+      "url": "https://finnhub.io/api/news?id=acf7b437e144f0aeec182da665d73fef5394e3032003655ae563e4f87133869b",
+      "datetime": 1786221754
     },
     {
-      "ticker": "MSFT",
-      "headline": "Moonshot AI's 2.8 Trillion Parameter Model Just Became the First From China to Top a Major Coding Benchmark",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2cfbd3abfdbe69317965c61bcfcff5017905d74ccac3e8258d693a93bd70c65f",
-      "datetime": 1786252800
-    },
-    {
-      "ticker": "NVDA",
-      "headline": "Moonshot AI's 2.8 Trillion Parameter Model Just Became the First From China to Top a Major Coding Benchmark",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2cfbd3abfdbe69317965c61bcfcff5017905d74ccac3e8258d693a93bd70c65f",
-      "datetime": 1786252800
-    },
-    {
-      "ticker": "NVDA",
-      "headline": "Tariff Wave Ahead: Should You Make Shifts to Your Portfolio?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5e8c72299a095cf30ea7d9c4505aa9b6207b360797909a94cd44107e73a1e8bd",
-      "datetime": 1786251000
-    },
-    {
-      "ticker": "AAPL",
-      "headline": "Top 50 High-Quality Dividend Growth Stocks For August 2026",
+      "ticker": "PRMB",
+      "headline": "Primo Brands Corporation 2026 Q2 - Results - Earnings Call Presentation",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=67a12f998d09e3a8032fc7543984727ae385b02a09472666c7971ce61d490975",
-      "datetime": 1786243803
+      "url": "https://finnhub.io/api/news?id=9ea30b21829e2174867ffcef607c0c8e7c7439bca62cacabcb7b886775454148",
+      "datetime": 1786216132
     },
     {
-      "ticker": "MSFT",
-      "headline": "Top 50 High-Quality Dividend Growth Stocks For August 2026",
+      "ticker": "AVGO",
+      "headline": "Nvidia, Micron or Broadcom: What Would Raymond Dalio Do?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=91aca5cb4998ce0bff81500fe9630d528ab91e5fc21132eec54717361dc3d2fe",
+      "datetime": 1786210239
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Alphabet CEO Sundar Pichai Just Made a Decision That Could Move Nvidia and Broadcom Stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=03a07ae02dbfd9d3011f229c578b956544a5767eb16f2799de173d104dc3d6fd",
+      "datetime": 1786204200
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica Inc (NYSE:CLS) Combines High Growth and Relative Strength for CAN SLIM Leadership",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=eb21b4ffdce08327662caa019e7bd4e097145d48386b8fb3be0920442863dfa4",
+      "datetime": 1786188091
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Arista Network: Beating The Incumbents",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=67a12f998d09e3a8032fc7543984727ae385b02a09472666c7971ce61d490975",
-      "datetime": 1786243803
+      "url": "https://finnhub.io/api/news?id=311d4288aeaab09054ad9166fac8107913d51feee8544a4793b5f3fd45fd2a6c",
+      "datetime": 1786157465
     },
     {
-      "ticker": "MSFT",
-      "headline": "Doximity (DOCS) Is Up 31.0% After Raising Revenue Outlook On Clinical AI Adoption - Has The Bull Case Changed?",
+      "ticker": "ORLY",
+      "headline": "O'Reilly Automotive (ORLY) Q2 2026 Earnings Call Transcript",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ca392249955a82463f7624dde85d7a173cdf38bba73c8a92018dbe721bbb0ceb",
-      "datetime": 1786223718
+      "url": "https://finnhub.io/api/news?id=6fe8e2a2aeea952d847e1df178013e75f47143b36694731cb74a7d4d274f1260",
+      "datetime": 1786147263
     },
     {
-      "ticker": "AAPL",
-      "headline": "iPhone 18 Pro Release Date: Apple\u2019s Strategy Demands September Launch",
+      "ticker": "COR",
+      "headline": "AbbVie vs. Abbott Laboratories: Which Healthcare Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c702e905ad937e875a6c95da8c1833929b7960fd52f6742e8ff94c54c1af21e1",
-      "datetime": 1786213858
+      "url": "https://finnhub.io/api/news?id=3852ba4223d6f6fd4381be34a82f8c1b6dd45b23181cf2e6ab311afb3d93f615",
+      "datetime": 1786135497
     },
     {
-      "ticker": "AAPL",
-      "headline": "Warren Buffett is out, and Berkshire Hathaway is spending again",
+      "ticker": "COR",
+      "headline": "Will Pharma and Specialty Demand Boost Cardinal Health's Q4 Results?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=64f073c8ebfc17a8e8c272d21d5fcb60205b6895eda6a27b9ec69930b1afbe0a",
-      "datetime": 1786213378
+      "url": "https://finnhub.io/api/news?id=d7465a2a4c88ee05863f3b79d5beec80125a4c5b3f1728075ee3ed1c26c3ad57",
+      "datetime": 1786126800
+    },
+    {
+      "ticker": "COR",
+      "headline": "Dividend Champion, Contender, And Challenger Highlights: Week Of August 9",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=af72a397d825898b459a1a054ad11e152f22a3d67f610472c2aab599efe41d41",
+      "datetime": 1786125278
+    },
+    {
+      "ticker": "PRMB",
+      "headline": "RBC Capital Maintains Outperform on Primo Brands, Raises Price Target to $31",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=fb0a7562dbe0fd1f429f52b6cbdafab7e36ed4fd995768477b486d3e26faa5b7",
+      "datetime": 1786118775
+    },
+    {
+      "ticker": "P",
+      "headline": "VNT or P: Which Is the Better Value Stock Right Now?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8cd207179deda65819850cf0aabd69c4c33782db628aecf73fb2f0b7b435e889",
+      "datetime": 1786117204
+    },
+    {
+      "ticker": "PRMB",
+      "headline": "Barclays Maintains Overweight on Primo Brands, Raises Price Target to $29",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=9fb79f16832644f04ad54a1dbe5269408b0f5306e933ed9c16c5e18aa4d4bdc7",
+      "datetime": 1786114158
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "DoorDash Will Deliver Your Car Battery in Under an Hour \u2014 And AutoZone Wasn't Invited",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f913d0da467b390ca8f1449836d96230b7046b4257afb16d0ff04d602b50fd62",
+      "datetime": 1786111976
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Barclays Maintains Overweight on Celestica, Lowers Price Target to $406",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=18b5999525d8b8a861b814537e1554ef8f59ce521110f2074bc92e471cc66fb0",
+      "datetime": 1786085188
+    },
+    {
+      "ticker": "P",
+      "headline": "PureCycle Technologies, Inc. (PCT) Reports Q2 Loss, Misses Revenue Estimates",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b695b7d27cbe74fef06bf3a26945df6b57882f67debc198fada2115d1be10241",
+      "datetime": 1786057812
+    },
+    {
+      "ticker": "P",
+      "headline": "$100 Invested In Everpure 10 Years Ago Would Be Worth This Much Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=93e5c3a0ecae456470050aa5bc7031f0ba7b9272abbfc4f340189e0a6f8362eb",
+      "datetime": 1786038330
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "O\u2019Reilly Automotive, suppliers sharing tariff refund benefits",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=49449386bd2e8d93444786578231a0482deaba3eda270a42cd8b4e616c21c432",
+      "datetime": 1786031220
     }
   ],
   "recent_posts": [],
-  "updated_at": "2026-08-09T07:16:30.577712+00:00"
+  "updated_at": "2026-08-09T07:43:06.655369+00:00"
 }
