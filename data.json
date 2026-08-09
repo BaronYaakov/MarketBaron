@@ -1,0 +1,83 @@
+{
+  "allocation": [
+    {
+      "ticker": "AAPL",
+      "percent": 42.5
+    },
+    {
+      "ticker": "MSFT",
+      "percent": 31.2
+    },
+    {
+      "ticker": "NVDA",
+      "percent": 26.3
+    }
+  ],
+  "news": [
+    {
+      "ticker": "NVDA",
+      "headline": "Is the Worst Finally Over for Palantir Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f815733acf70c7a31bac16167b222c022344d6d774450f570bf9b90d916d73bb",
+      "datetime": 1786254600
+    },
+    {
+      "ticker": "MSFT",
+      "headline": "Moonshot AI's 2.8 Trillion Parameter Model Just Became the First From China to Top a Major Coding Benchmark",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2cfbd3abfdbe69317965c61bcfcff5017905d74ccac3e8258d693a93bd70c65f",
+      "datetime": 1786252800
+    },
+    {
+      "ticker": "NVDA",
+      "headline": "Moonshot AI's 2.8 Trillion Parameter Model Just Became the First From China to Top a Major Coding Benchmark",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2cfbd3abfdbe69317965c61bcfcff5017905d74ccac3e8258d693a93bd70c65f",
+      "datetime": 1786252800
+    },
+    {
+      "ticker": "NVDA",
+      "headline": "Tariff Wave Ahead: Should You Make Shifts to Your Portfolio?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5e8c72299a095cf30ea7d9c4505aa9b6207b360797909a94cd44107e73a1e8bd",
+      "datetime": 1786251000
+    },
+    {
+      "ticker": "MSFT",
+      "headline": "Doximity (DOCS) Is Up 31.0% After Raising Revenue Outlook On Clinical AI Adoption - Has The Bull Case Changed?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ca392249955a82463f7624dde85d7a173cdf38bba73c8a92018dbe721bbb0ceb",
+      "datetime": 1786223718
+    },
+    {
+      "ticker": "MSFT",
+      "headline": "Microsoft Shows the \"Magnificent Seven\" What AI Investment Looks Like",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=21b63acb01d792ec0be16094e9eec1c383f49c2215d950da146ff36e3f0603de",
+      "datetime": 1786222862
+    },
+    {
+      "ticker": "AAPL",
+      "headline": "iPhone 18 Pro Release Date: Apple\u2019s Strategy Demands September Launch",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c702e905ad937e875a6c95da8c1833929b7960fd52f6742e8ff94c54c1af21e1",
+      "datetime": 1786213858
+    },
+    {
+      "ticker": "AAPL",
+      "headline": "Warren Buffett is out, and Berkshire Hathaway is spending again",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=64f073c8ebfc17a8e8c272d21d5fcb60205b6895eda6a27b9ec69930b1afbe0a",
+      "datetime": 1786213378
+    },
+    {
+      "ticker": "AAPL",
+      "headline": "VGT Puts 39 Cents of Every Dollar Into Just 3 Stocks. The Pairing That Fixes It Without Selling",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=99fbe6d8449066c60b3d6d2f4916ce53c7d31ec7193caf2eecb51422905bdcec",
+      "datetime": 1786208451
+    }
+  ],
+  "recent_posts": [],
+  "updated_at": "2026-08-09T06:40:06.937305+00:00"
+}
