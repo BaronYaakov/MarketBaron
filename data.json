@@ -6,7 +6,8 @@
       "avg_price": 187.32,
       "day_change_pct": 0.31,
       "all_time_gain_pct": 22.8,
-      "day_change_source": "ibkr"
+      "day_change_source": "ibkr",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AAPL.png"
     },
     {
       "ticker": "MSFT",
@@ -14,7 +15,8 @@
       "avg_price": 402.1,
       "day_change_pct": -0.12,
       "all_time_gain_pct": 8.4,
-      "day_change_source": "ibkr"
+      "day_change_source": "ibkr",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MSFT.png"
     },
     {
       "ticker": "NVDA",
@@ -22,7 +24,8 @@
       "avg_price": 98.55,
       "day_change_pct": 2.27,
       "all_time_gain_pct": 61.9,
-      "day_change_source": "ibkr"
+      "day_change_source": "ibkr",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/NVDA.png"
     }
   ],
   "cash_percent": 8.4,
@@ -56,18 +59,25 @@
       "datetime": 1786251000
     },
     {
+      "ticker": "AAPL",
+      "headline": "Top 50 High-Quality Dividend Growth Stocks For August 2026",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=67a12f998d09e3a8032fc7543984727ae385b02a09472666c7971ce61d490975",
+      "datetime": 1786243803
+    },
+    {
+      "ticker": "MSFT",
+      "headline": "Top 50 High-Quality Dividend Growth Stocks For August 2026",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=67a12f998d09e3a8032fc7543984727ae385b02a09472666c7971ce61d490975",
+      "datetime": 1786243803
+    },
+    {
       "ticker": "MSFT",
       "headline": "Doximity (DOCS) Is Up 31.0% After Raising Revenue Outlook On Clinical AI Adoption - Has The Bull Case Changed?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ca392249955a82463f7624dde85d7a173cdf38bba73c8a92018dbe721bbb0ceb",
       "datetime": 1786223718
-    },
-    {
-      "ticker": "MSFT",
-      "headline": "Microsoft Shows the \"Magnificent Seven\" What AI Investment Looks Like",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=21b63acb01d792ec0be16094e9eec1c383f49c2215d950da146ff36e3f0603de",
-      "datetime": 1786222862
     },
     {
       "ticker": "AAPL",
@@ -82,15 +92,8 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=64f073c8ebfc17a8e8c272d21d5fcb60205b6895eda6a27b9ec69930b1afbe0a",
       "datetime": 1786213378
-    },
-    {
-      "ticker": "AAPL",
-      "headline": "VGT Puts 39 Cents of Every Dollar Into Just 3 Stocks. The Pairing That Fixes It Without Selling",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=99fbe6d8449066c60b3d6d2f4916ce53c7d31ec7193caf2eecb51422905bdcec",
-      "datetime": 1786208451
     }
   ],
   "recent_posts": [],
-  "updated_at": "2026-08-09T07:09:44.388266+00:00"
+  "updated_at": "2026-08-09T07:13:04.594511+00:00"
 }
