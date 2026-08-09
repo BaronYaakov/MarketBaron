@@ -60,6 +60,20 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "A $10,000 Investment in Taiwan Semiconductor Today Will Be Worth This Much by 2028",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=825c17b2f2c1865001cc28250b916ff2b10432a8931909117435ee91c1bdbd4f",
+      "datetime": 1786305000
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Marvell (MRVL) vs. AVGO and NVDA: Can AI Interconnect Growth Deliver the Earnings Its Premium Valuation Demands?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=839ed02a784a723b4186e221b98b5f93319084ad494b5505b6f3cd8ac366d6fc",
+      "datetime": 1786299571
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Top Semiconductor Stock Outpacing Nvidia With a 36% Gain Over 6 Months",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=281b685ec6364503a8f2be16ea0f984ae2e0cd562970fb08f0d9d5f715f121ba",
@@ -71,20 +85,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=202d39bae7b17131653a29abb52b838088a3786ac752a3bc4562801a90900704",
       "datetime": 1786273200
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "How Many of the Largest Companies Do You Own -- and Should You Own More or Fewer?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=34bd1af3aa40e180acf3199a2e32a7b802d15292e5ec7ca3778a2f693d128add",
-      "datetime": 1786258200
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom (AVGO) Pairs AI Chip Boom With A Software Security Push",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=acf7b437e144f0aeec182da665d73fef5394e3032003655ae563e4f87133869b",
-      "datetime": 1786221754
     },
     {
       "ticker": "PRMB",
@@ -186,5 +186,5 @@
     }
   ],
   "recent_posts": [],
-  "updated_at": "2026-08-09T19:58:07.094312+00:00"
+  "updated_at": "2026-08-09T20:13:06.978640+00:00"
 }
