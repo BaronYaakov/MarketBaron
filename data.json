@@ -32,7 +32,7 @@
       "percent": 19.95,
       "avg_price": 84.25,
       "day_change_pct": -0.15,
-      "all_time_gain_pct": 10.66,
+      "all_time_gain_pct": 10.65,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
@@ -59,6 +59,13 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "How Many of the Largest Companies Do You Own -- and Should You Own More or Fewer?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=34bd1af3aa40e180acf3199a2e32a7b802d15292e5ec7ca3778a2f693d128add",
+      "datetime": 1786258200
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Broadcom (AVGO) Pairs AI Chip Boom With A Software Security Push",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=acf7b437e144f0aeec182da665d73fef5394e3032003655ae563e4f87133869b",
@@ -77,13 +84,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=91aca5cb4998ce0bff81500fe9630d528ab91e5fc21132eec54717361dc3d2fe",
       "datetime": 1786210239
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Alphabet CEO Sundar Pichai Just Made a Decision That Could Move Nvidia and Broadcom Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=03a07ae02dbfd9d3011f229c578b956544a5767eb16f2799de173d104dc3d6fd",
-      "datetime": 1786204200
     },
     {
       "ticker": "CLS",
@@ -185,5 +185,5 @@
     }
   ],
   "recent_posts": [],
-  "updated_at": "2026-08-09T07:58:06.514969+00:00"
+  "updated_at": "2026-08-09T08:13:06.539814+00:00"
 }
