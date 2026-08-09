@@ -253,4 +253,22 @@ function renderNews(news) {
   });
 }
 
+// The X timeline widget has proven unreliable in testing (ad blockers,
+// privacy extensions, and third-party cookie restrictions all commonly
+// block it silently — confirmed happening even in a real browser, not
+// just automated ones). Give it a window to render; if the iframe never
+// gets real dimensions, swap in a plain link instead of leaving the bare
+// unstyled "Tweets by..." fallback text sitting in the panel.
+function checkTweetEmbedFallback() {
+  const wrap = document.getElementById("tweet-embed-wrap");
+  const fallback = document.getElementById("tweet-fallback");
+  const iframe = wrap.querySelector("iframe");
+  const rendered = iframe && (iframe.offsetWidth > 0 || iframe.offsetHeight > 0);
+  if (!rendered) {
+    wrap.hidden = true;
+    fallback.hidden = false;
+  }
+}
+setTimeout(checkTweetEmbedFallback, 4000);
+
 loadData();

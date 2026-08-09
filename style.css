@@ -383,6 +383,36 @@ main {
   width: 100% !important;
 }
 
+.tweet-fallback {
+  padding: 2.5rem 1rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.9rem;
+}
+
+.tweet-fallback p {
+  margin: 0;
+  color: var(--ink-secondary);
+  font-size: 0.9rem;
+}
+
+.tweet-fallback-link {
+  display: inline-block;
+  padding: 0.55rem 1.1rem;
+  border-radius: 999px;
+  background: var(--series-1);
+  color: #fff;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.tweet-fallback-link:hover {
+  opacity: 0.9;
+}
+
 .empty-row {
   color: var(--ink-muted);
   font-size: 0.85rem;
