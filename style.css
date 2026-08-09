@@ -329,9 +329,9 @@ main {
   color: var(--ink-muted);
 }
 
-/* News / posts lists */
+/* News list */
 
-.news-list, .posts-list {
+.news-list {
   list-style: none;
   margin: 0;
   padding: 0;
@@ -339,12 +339,12 @@ main {
   flex-direction: column;
 }
 
-.news-list li, .posts-list li {
+.news-list li {
   padding: 0.85rem 0;
   border-top: 1px solid var(--gridline);
 }
 
-.news-list li:first-child, .posts-list li:first-child {
+.news-list li:first-child {
   padding-top: 0;
   border-top: none;
 }
@@ -361,7 +361,7 @@ main {
   color: var(--series-1);
 }
 
-.news-meta, .post-meta {
+.news-meta {
   color: var(--ink-muted);
   font-size: 0.76rem;
   margin-top: 0.3rem;
@@ -373,9 +373,14 @@ main {
   color: var(--ink-secondary);
 }
 
-.post-text {
-  white-space: pre-wrap;
-  font-size: 0.9rem;
+/* Trade Journal — X timeline embed */
+
+.panel-tight {
+  padding-bottom: 0.5rem;
+}
+
+.panel-tight .twitter-timeline {
+  width: 100% !important;
 }
 
 .empty-row {

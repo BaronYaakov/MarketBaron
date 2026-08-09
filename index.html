@@ -68,12 +68,17 @@
     </section>
 
     <div class="panel-grid">
-      <section class="panel" id="posts-panel">
+      <section class="panel panel-tight" id="posts-panel">
         <div class="panel-head">
           <h2>Trade Journal</h2>
-          <span class="panel-note">Rationale behind recent trades</span>
+          <span class="panel-note">Live from @themarketbaron</span>
         </div>
-        <ul class="posts-list" id="posts-list"></ul>
+        <a class="twitter-timeline"
+           id="tweet-timeline"
+           data-height="500"
+           data-chrome="noheader nofooter noborders transparent"
+           data-link-color="#2a78d6"
+           href="https://twitter.com/themarketbaron?ref_src=twsrc%5Etfw">Tweets by @themarketbaron</a>
       </section>
 
       <section class="panel" id="news-panel">
@@ -92,6 +97,13 @@
   </footer>
 
 </div>
+<script>
+  var isDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+  var tl = document.getElementById("tweet-timeline");
+  tl.dataset.theme = isDark ? "dark" : "light";
+  tl.dataset.linkColor = isDark ? "#3987e5" : "#2a78d6";
+</script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <script src="app.js"></script>
 </body>
 </html>

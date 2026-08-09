@@ -56,7 +56,6 @@ function showEmptyState() {
 function render(data) {
   const allocation = Array.isArray(data.allocation) ? data.allocation : [];
   const news = Array.isArray(data.news) ? data.news : [];
-  const posts = Array.isArray(data.recent_posts) ? data.recent_posts : [];
 
   if (data.updated_at) {
     const d = new Date(data.updated_at);
@@ -66,7 +65,9 @@ function render(data) {
     })}`;
   }
 
-  if (allocation.length === 0 && news.length === 0 && posts.length === 0) {
+  // Trade Journal is the X timeline embed now (see index.html), independent
+  // of data.json — it renders even in the empty-state case below.
+  if (allocation.length === 0 && news.length === 0) {
     showEmptyState();
     return;
   }
@@ -74,7 +75,6 @@ function render(data) {
   renderStats(data, allocation);
   renderHoldings(allocation, data.cash_percent);
   renderNews(news);
-  renderPosts(posts);
 }
 
 function renderStats(data, allocation) {
@@ -249,30 +249,6 @@ function renderNews(news) {
     meta.appendChild(tag);
     meta.append(` · ${[n.source, when].filter(Boolean).join(" · ")}`);
     li.append(a, meta);
-    list.appendChild(li);
-  });
-}
-
-function renderPosts(posts) {
-  const list = document.getElementById("posts-list");
-  list.innerHTML = "";
-  if (posts.length === 0) {
-    list.innerHTML = '<li class="empty-row">No recent posts.</li>';
-    return;
-  }
-  posts.forEach((p) => {
-    const li = document.createElement("li");
-    const text = document.createElement("div");
-    text.className = "post-text";
-    text.textContent = p.text || "";
-    const meta = document.createElement("div");
-    meta.className = "post-meta";
-    const when = p.posted_at ? new Date(p.posted_at).toLocaleString(undefined, {
-      dateStyle: "medium",
-      timeStyle: "short",
-    }) : "";
-    meta.textContent = when;
-    li.append(text, meta);
     list.appendChild(li);
   });
 }
