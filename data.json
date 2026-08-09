@@ -32,7 +32,7 @@
       "percent": 19.95,
       "avg_price": 84.25,
       "day_change_pct": -0.15,
-      "all_time_gain_pct": 10.65,
+      "all_time_gain_pct": 10.66,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
@@ -185,5 +185,5 @@
     }
   ],
   "recent_posts": [],
-  "updated_at": "2026-08-09T08:13:06.539814+00:00"
+  "updated_at": "2026-08-09T08:28:06.532229+00:00"
 }
