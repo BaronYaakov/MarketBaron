@@ -2,10 +2,10 @@
   "allocation": [
     {
       "ticker": "AVGO",
-      "percent": 18.37,
+      "percent": 18.38,
       "avg_price": 381.14,
-      "day_change_pct": 0.36,
-      "all_time_gain_pct": 12.64,
+      "day_change_pct": 0.39,
+      "all_time_gain_pct": 12.66,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
@@ -56,8 +56,16 @@
     }
   ],
   "cash_percent": 2.74,
-  "portfolio_day_change_pct": 0.17,
+  "portfolio_day_change_pct": 0.18,
   "news": [
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon: Stunning Earnings Reaffirm Thesis",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=60ca9389ca584e66e564ed2d70bf639a9160b6143b708729197782c79b02b49c",
+      "datetime": 1786329735,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
     {
       "ticker": "AMZN",
       "headline": "Ozempic For $50 a Month? Amazon Pharmacy Rolls Out Cheap Weight-Loss Drugs for Medicare Patients",
@@ -96,14 +104,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=45d749dddc8ea4df97b0be977c700033af7cea0dd9cd8ade85278eb7c85de74c",
       "datetime": 1786309157,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "BofA, JPMorgan, Oppenheimer Name Their 3 Favorite AI Stocks, One Has a $255 Target",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=031a2815a3a9cee38e8e064c7400c6fe54cc1bad5cad4660a8dd73efc719d12b",
-      "datetime": 1786308800,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -577,5 +577,5 @@
       "beta": 1.47
     }
   },
-  "updated_at": "2026-08-10T06:58:13.065508+00:00"
+  "updated_at": "2026-08-10T07:13:13.742047+00:00"
 }
