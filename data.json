@@ -2,19 +2,19 @@
   "allocation": [
     {
       "ticker": "AVGO",
-      "percent": 18.32,
+      "percent": 18.36,
       "avg_price": 381.14,
-      "day_change_pct": 0.06,
-      "all_time_gain_pct": 12.3,
+      "day_change_pct": 0.28,
+      "all_time_gain_pct": 12.54,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
-      "percent": 13.64,
+      "percent": 13.66,
       "avg_price": 332.2,
-      "day_change_pct": 0.31,
-      "all_time_gain_pct": -4.03,
+      "day_change_pct": 0.45,
+      "all_time_gain_pct": -3.9,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
@@ -38,10 +38,10 @@
     },
     {
       "ticker": "P",
-      "percent": 11.56,
+      "percent": 11.57,
       "avg_price": 78.45,
-      "day_change_pct": 0.0,
-      "all_time_gain_pct": 14.78,
+      "day_change_pct": 0.06,
+      "all_time_gain_pct": 14.85,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
@@ -56,11 +56,32 @@
     }
   ],
   "cash_percent": 2.74,
-  "portfolio_day_change_pct": 0.05,
-  "portfolio_month_change_pct": 8.33,
-  "portfolio_year_change_pct": 8.33,
-  "portfolio_all_time_change_pct": 8.33,
+  "portfolio_day_change_pct": 0.12,
   "news": [
+    {
+      "ticker": "AMZN",
+      "headline": "UPS Completed Its Amazon Volume Pullback. Is the Turnaround Finally Working?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=45d749dddc8ea4df97b0be977c700033af7cea0dd9cd8ade85278eb7c85de74c",
+      "datetime": 1786309157,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "BofA, JPMorgan, Oppenheimer Name Their 3 Favorite AI Stocks, One Has a $255 Target",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=031a2815a3a9cee38e8e064c7400c6fe54cc1bad5cad4660a8dd73efc719d12b",
+      "datetime": 1786308800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Electrovaya (TSX:ELVA) Stock Sees Fair Value Lift As Amazon And Jamestown Progress Draw Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d7e7abc6593d820c9731cb2fca311c79c7b7ff7a45a6a14bee4a1b6cc4962816",
+      "datetime": 1786306241,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
     {
       "ticker": "AVGO",
       "headline": "A $10,000 Investment in Taiwan Semiconductor Today Will Be Worth This Much by 2028",
@@ -70,12 +91,44 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "Amazon's $86 2-in-1 laptop and tablet has fully-integrated AI features",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b563b817c44cab4548174be171266ac2b10497054b72f67873e6f2e57e20a0ff",
+      "datetime": 1786302900,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Marvell (MRVL) vs. AVGO and NVDA: Can AI Interconnect Growth Deliver the Earnings Its Premium Valuation Demands?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=839ed02a784a723b4186e221b98b5f93319084ad494b5505b6f3cd8ac366d6fc",
       "datetime": 1786299571,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Forget VFIAX: Vanguard Sells You the Same S&P 500 Fund Without the $3,000 Toll, or the $75 Fee Fidelity Charges to Buy It",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f45e2379d3532d14de2026567c166f0c4f8f943f936b39a9525a667fa4d3d729",
+      "datetime": 1786291486,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Forget VFIAX: Vanguard Sells You the Same S&P 500 Fund Without the $3,000 Toll, or the $75 Fee Fidelity Charges to Buy It",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f45e2379d3532d14de2026567c166f0c4f8f943f936b39a9525a667fa4d3d729",
+      "datetime": 1786291486,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Jeff Bezos breaks his own Amazon record",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6d9ae46012fdad75a3a2fc4f0a2a6e59909101eb9ad86f065e8efed616b80ed4",
+      "datetime": 1786284420,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -92,6 +145,22 @@
       "url": "https://finnhub.io/api/news?id=202d39bae7b17131653a29abb52b838088a3786ac752a3bc4562801a90900704",
       "datetime": 1786273200,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "How Many of the Largest Companies Do You Own -- and Should You Own More or Fewer?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=34bd1af3aa40e180acf3199a2e32a7b802d15292e5ec7ca3778a2f693d128add",
+      "datetime": 1786258200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom (AVGO) Pairs AI Chip Boom With A Software Security Push",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=acf7b437e144f0aeec182da665d73fef5394e3032003655ae563e4f87133869b",
+      "datetime": 1786221754,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "PRMB",
@@ -166,6 +235,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
+      "ticker": "COR",
+      "headline": "Morgan Stanley Maintains Overweight on Cencora, Raises Price Target to $346",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=01551bf92cf6177580b86c7af2751e11be55f52b7ee7bc6186a2a8a67ec26af5",
+      "datetime": 1786114644,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
       "ticker": "PRMB",
       "headline": "Barclays Maintains Overweight on Primo Brands, Raises Price Target to $29",
       "source": "Benzinga",
@@ -182,12 +259,36 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
+      "ticker": "COR",
+      "headline": "JP Morgan Maintains Overweight on Cencora, Raises Price Target to $390",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=61a7ceb4ecf71a5ccab9c3c88be245268b077b60c02d70f829f7f2f67c7ffbe1",
+      "datetime": 1786103269,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Terrible Jobs Report Sparks Rally In AI and Tech: 10 Stocks Leading Friday's Surge",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=07d06119b1075744a6843489de2e699a01317cfa62b1b0dfc3eba4199b6cad1e",
+      "datetime": 1786095456,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
       "ticker": "CLS",
       "headline": "Barclays Maintains Overweight on Celestica, Lowers Price Target to $406",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=18b5999525d8b8a861b814537e1554ef8f59ce521110f2074bc92e471cc66fb0",
       "datetime": 1786085188,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "PRMB",
+      "headline": "Reported August 6, Primo Brands Announces Secondary Offering Of 20M Shares By An Affiliate Of One Rock Capital Partners; Company To Purchase $10M Of Shares From Selling Stockholder",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=c66e4ba35aa6b2d9e6fd13a933456679105f1d2439b796f9c62fb6d58874b2af",
+      "datetime": 1786084683,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     },
     {
       "ticker": "P",
@@ -204,6 +305,94 @@
       "url": "https://finnhub.io/api/news?id=93e5c3a0ecae456470050aa5bc7031f0ba7b9272abbfc4f340189e0a6f8362eb",
       "datetime": 1786038330,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "O\u2019Reilly Automotive, suppliers sharing tariff refund benefits",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=49449386bd2e8d93444786578231a0482deaba3eda270a42cd8b4e616c21c432",
+      "datetime": 1786031220,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Artisan Global Discovery Fund Q2 2026 Portfolio Activity",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7fbf8abb7d5368a7a1620d269f7f89a8c83623180a5e5fdf36ecbd321ecca03a",
+      "datetime": 1786027260,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica Just Unloaded Bad News - Buy It",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0687392afd046864494b7e82036e1dd9550049ffdb9e3eaa56fde142fbb5f8db",
+      "datetime": 1786015322,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica Stock Drops After Raising $3 Billion via Equity",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=d05997ec8b083552eef69d5bb5939cc6d20eac62fd78e5ef8a5398520954581c",
+      "datetime": 1786013562,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica's $3B Raise: Investors Don't Like Dilution And EPS Headwinds",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7634d820ed44c2192732942b56bfb86998edc1d3a01317915f2a74bd5db0eb01",
+      "datetime": 1786013295,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Deluxe (DLX) Q2 Earnings and Revenues Beat Estimates",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5572b1b7e07a4fb7ad1856cddf4e7f8dfacdfc7dc9673c26db22cbdafcf40257",
+      "datetime": 1785976504,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Everpure Announces Date and Conference Call Information for Second Quarter Fiscal 2027 Financial Results",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=baf6298d7693bf0f11bbb6167c5dbc290095ddac68db11453eb61a363da6346a",
+      "datetime": 1785960300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "O'Reilly Auto Parts Is Paying $18.8 Million Because Its Texts Wouldn't Take No for an Answer",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=19aa7635fde3b86fa26e768e53191d819d238c043458d45b073ce13b4dd532ec",
+      "datetime": 1785944940,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "PRMB",
+      "headline": "Gold Jumps 4%, Dow Jones Smashes Record Highs: Stock Market Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=1db0cc6302bebe93b61e5eb9d2a4357679405616901a47c4a140ddf7ad352f6e",
+      "datetime": 1785939260,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+    },
+    {
+      "ticker": "PRMB",
+      "headline": "Primo Brands Corporation (PRMB) Q2 2026 Earnings Call Transcript",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4bfb6e78bb31202f5e31ca39a8577110f03c51a2154a5c01cd43d5c24f19ef89",
+      "datetime": 1785937213,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "Earn 10% On ORLY Stock By Selling Upside You Might Not Miss",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=801462d1faa7f3e91e71fe785557141b642e13e29a61ed86a9125781679f08df",
+      "datetime": 1785851136,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     }
   ],
   "recent_posts": [],
@@ -239,5 +428,154 @@
       "price": 380.14
     }
   ],
-  "updated_at": "2026-08-10T01:52:13.210391+00:00"
+  "companies": {
+    "AVGO": {
+      "name": "Broadcom Inc",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png",
+      "industry": "Semiconductors",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "website": "https://www.broadcom.com",
+      "ipo_date": "2009-08-06",
+      "market_cap_musd": 2035102.4660328242,
+      "country": "US",
+      "currency": "USD",
+      "price": 427.76,
+      "open": 428.4,
+      "day_high": 430.84,
+      "day_low": 421.61,
+      "prev_close": 420.56,
+      "day_change_pct": 1.71,
+      "week52_high": 495.0,
+      "week52_low": 281.87,
+      "pe_ratio": 69.42,
+      "beta": 1.48
+    },
+    "CLS": {
+      "name": "Celestica Inc",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png",
+      "industry": "Electrical Equipment",
+      "exchange": "TORONTO STOCK EXCHANGE",
+      "website": "https://www.celestica.com/",
+      "ipo_date": "1998-07-01",
+      "market_cap_musd": 50896.819747,
+      "country": "CA",
+      "currency": "USD",
+      "price": 317.83,
+      "open": 315.0,
+      "day_high": 319.48,
+      "day_low": 305.75,
+      "prev_close": 314.53,
+      "day_change_pct": 1.05,
+      "week52_high": 655.5,
+      "week52_low": 240.49,
+      "pe_ratio": 38.09,
+      "beta": 1.76
+    },
+    "COR": {
+      "name": "Cencora Inc",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png",
+      "industry": "Health Care",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "website": "https://www.cencora.com/",
+      "ipo_date": "1996-05-28",
+      "market_cap_musd": 61152.47960566185,
+      "country": "US",
+      "currency": "USD",
+      "price": 320.46,
+      "open": 324.0,
+      "day_high": 328.99,
+      "day_low": 319.46,
+      "prev_close": 325.01,
+      "day_change_pct": -1.4,
+      "week52_high": 377.54,
+      "week52_low": 244.82,
+      "pe_ratio": 23.3,
+      "beta": 0.57
+    },
+    "ORLY": {
+      "name": "O'Reilly Automotive Inc",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png",
+      "industry": "Retail",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "website": "https://corporate.oreillyauto.com/",
+      "ipo_date": "1993-04-23",
+      "market_cap_musd": 77509.72444996209,
+      "country": "US",
+      "currency": "USD",
+      "price": 93.53,
+      "open": 92.52,
+      "day_high": 94.0,
+      "day_low": 91.97,
+      "prev_close": 93.37,
+      "day_change_pct": 0.17,
+      "week52_high": 108.72,
+      "week52_low": 82.59,
+      "pe_ratio": 29.24,
+      "beta": 0.54
+    },
+    "P": {
+      "name": "Everpure Inc",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png",
+      "industry": "Technology",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "website": "https://www.purestorage.com/",
+      "ipo_date": "2015-10-07",
+      "market_cap_musd": 29933.065377021547,
+      "country": "US",
+      "currency": "USD",
+      "price": 90.05,
+      "open": 88.01,
+      "day_high": 90.1,
+      "day_low": 86.51,
+      "prev_close": 87.26,
+      "day_change_pct": 3.2,
+      "week52_high": 100.59,
+      "week52_low": 54.37,
+      "pe_ratio": 132.3,
+      "beta": 1.45
+    },
+    "PRMB": {
+      "name": "Primo Brands Corp",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png",
+      "industry": "Beverages",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "website": "https://ir.primobrands.com/",
+      "ipo_date": "1992-06-16",
+      "market_cap_musd": 8540.684537079047,
+      "country": "US",
+      "currency": "USD",
+      "price": 23.57,
+      "open": 23.72,
+      "day_high": 24.08,
+      "day_low": 23.56,
+      "prev_close": 23.91,
+      "day_change_pct": -1.42,
+      "week52_high": 26.21,
+      "week52_low": 14.36,
+      "pe_ratio": 85.15,
+      "beta": 0.69
+    },
+    "AMZN": {
+      "name": "Amazon.com Inc",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png",
+      "industry": "Retail",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "website": "https://www.amazon.com/",
+      "ipo_date": "1997-05-15",
+      "market_cap_musd": 2960627.6972878375,
+      "country": "US",
+      "currency": "USD",
+      "price": 274.48,
+      "open": 272.87,
+      "day_high": 278.31,
+      "day_low": 272.75,
+      "prev_close": 272.26,
+      "day_change_pct": 0.82,
+      "week52_high": 287.2,
+      "week52_low": 196.0,
+      "pe_ratio": 21.89,
+      "beta": 1.47
+    }
+  },
+  "updated_at": "2026-08-10T02:17:31.441771+00:00"
 }
