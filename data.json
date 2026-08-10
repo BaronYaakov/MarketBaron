@@ -68,6 +68,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "S&P 500 EPS / Revenue Growth, And Amazon Earnings",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ff9824b98e93926be236b9e7ccf0de379a4897178560f20f0f910b32ff5479ba",
+      "datetime": 1786341900,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Ross Gerber Cites Data to Make a Point: Take Out Alphabet and Amazon, S&P 500 Earnings Growth Looks Far Less Impressive",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d298a5220b40641c678eff9604c5eb557105f440d0bcf084ce2449bc3259ba43",
@@ -104,14 +112,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=66ace6a5e5c05f09c695fa39ef91f09fd32b2d7c937d9fdf45fe41fdc43a8a72",
       "datetime": 1786320300,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Taylor Farms Pulls Salsa and Guacamole Over Salmonella Concerns",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fe7b8c6d166be271be3bca701bc78711a63c4186353a6dc7f3f784fbb967d50b",
-      "datetime": 1786314313,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -577,5 +577,5 @@
       "beta": 1.47
     }
   },
-  "updated_at": "2026-08-10T10:13:12.872798+00:00"
+  "updated_at": "2026-08-10T10:28:13.320748+00:00"
 }
