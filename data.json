@@ -2,10 +2,10 @@
   "allocation": [
     {
       "ticker": "AVGO",
-      "percent": 18.32,
+      "percent": 18.31,
       "avg_price": 381.14,
-      "day_change_pct": 0.08,
-      "all_time_gain_pct": 12.33,
+      "day_change_pct": 0.0,
+      "all_time_gain_pct": 12.23,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
@@ -13,8 +13,8 @@
       "ticker": "CLS",
       "percent": 13.69,
       "avg_price": 332.2,
-      "day_change_pct": 0.66,
-      "all_time_gain_pct": -3.69,
+      "day_change_pct": 0.62,
+      "all_time_gain_pct": -3.74,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
@@ -56,8 +56,32 @@
     }
   ],
   "cash_percent": 2.74,
-  "portfolio_day_change_pct": 0.11,
+  "portfolio_day_change_pct": 0.09,
   "news": [
+    {
+      "ticker": "AMZN",
+      "headline": "Ozempic For $50 a Month? Amazon Pharmacy Rolls Out Cheap Weight-Loss Drugs for Medicare Patients",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=94d82dbdbb2621fa343f905b14fe0424c0b1ea9ae83a9c6b0f3d10e720e2dcad",
+      "datetime": 1786325468,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Airbnb vs. McDonald's: Which Consumer Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f4022937e06bfd5f5ae717583ec3badbc8d65094ff80ff3d6644f4eb3ade6f2f",
+      "datetime": 1786320901,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Meet the High-Yield Dividend Stock Bill Ackman Has Owned for Over a Decade. Here's Why It's a Great Buy in August.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=66ace6a5e5c05f09c695fa39ef91f09fd32b2d7c937d9fdf45fe41fdc43a8a72",
+      "datetime": 1786320300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
     {
       "ticker": "AMZN",
       "headline": "Taylor Farms Pulls Salsa and Guacamole Over Salmonella Concerns",
@@ -83,28 +107,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Electrovaya (TSX:ELVA) Stock Sees Fair Value Lift As Amazon And Jamestown Progress Draw Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d7e7abc6593d820c9731cb2fca311c79c7b7ff7a45a6a14bee4a1b6cc4962816",
-      "datetime": 1786306241,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "A $10,000 Investment in Taiwan Semiconductor Today Will Be Worth This Much by 2028",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=825c17b2f2c1865001cc28250b916ff2b10432a8931909117435ee91c1bdbd4f",
       "datetime": 1786305000,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon's $86 2-in-1 laptop and tablet has fully-integrated AI features",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b563b817c44cab4548174be171266ac2b10497054b72f67873e6f2e57e20a0ff",
-      "datetime": 1786302900,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -121,14 +129,6 @@
       "url": "https://finnhub.io/api/news?id=f45e2379d3532d14de2026567c166f0c4f8f943f936b39a9525a667fa4d3d729",
       "datetime": 1786291486,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Forget VFIAX: Vanguard Sells You the Same S&P 500 Fund Without the $3,000 Toll, or the $75 Fee Fidelity Charges to Buy It",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f45e2379d3532d14de2026567c166f0c4f8f943f936b39a9525a667fa4d3d729",
-      "datetime": 1786291486,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -577,5 +577,5 @@
       "beta": 1.47
     }
   },
-  "updated_at": "2026-08-10T04:58:14.006380+00:00"
+  "updated_at": "2026-08-10T05:13:15.571785+00:00"
 }
