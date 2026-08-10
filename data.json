@@ -2,7 +2,7 @@
   "allocation": [
     {
       "ticker": "AVGO",
-      "percent": 18.26,
+      "percent": 18.27,
       "avg_price": 381.14,
       "day_change_pct": 0.45,
       "all_time_gain_pct": 12.74,
@@ -11,10 +11,10 @@
     },
     {
       "ticker": "CLS",
-      "percent": 13.55,
+      "percent": 13.57,
       "avg_price": 332.2,
-      "day_change_pct": 0.34,
-      "all_time_gain_pct": -4.0,
+      "day_change_pct": 0.37,
+      "all_time_gain_pct": -3.97,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
@@ -29,7 +29,7 @@
     },
     {
       "ticker": "ORLY",
-      "percent": 19.88,
+      "percent": 19.89,
       "avg_price": 84.25,
       "day_change_pct": 0.0,
       "all_time_gain_pct": 11.01,
@@ -38,10 +38,10 @@
     },
     {
       "ticker": "P",
-      "percent": 11.83,
+      "percent": 11.86,
       "avg_price": 78.45,
-      "day_change_pct": 3.02,
-      "all_time_gain_pct": 18.25,
+      "day_change_pct": 3.28,
+      "all_time_gain_pct": 18.54,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
@@ -56,8 +56,56 @@
     }
   ],
   "cash_percent": 2.72,
-  "portfolio_day_change_pct": 0.56,
+  "portfolio_day_change_pct": 0.59,
   "news": [
+    {
+      "ticker": "AMZN",
+      "headline": "48% of Google Cloud Revenue Next Year Could Come From Just 2 Companies That Have Still Never Turned a Profit",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c4850ef1efb39f4b0971e18e6c4b001c66613a10f13b47d07a2080b23900b2a2",
+      "datetime": 1786362680,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "US Treasury, IRS set out initial framework for Saver\u2019s Match rollout",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f33118d510c11f497d05d3f2856cb01530507dc82913cd7df77d8b67d31eac11",
+      "datetime": 1786360678,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon\u2019s New Texas Data Center On Track To Be Biggest Polluter In America",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4c3e890032cab9642f29bd0f7a19cfd78b85a93e38b31a38242196e6b62281ac",
+      "datetime": 1786358613,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "MONDAY: O'BRIEN, ZUCKERMAN, AMAZON TEAMSTERS RALLY FOR DELIVERY PROTECTION ACT",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3ff6de9d2f0842ddd76c70ae2e29c37ba06c5270fdacfe849c24d89e0653d7a5",
+      "datetime": 1786356000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Airbnb CEO: Why AI is the best thing to happen to us",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c005ebb5e28e93e02bece76d0716840853d520f449164ea57d4a1cfb545f02ea",
+      "datetime": 1786356000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "JPMorgan Strategists Raise S&P 500 Target as AI Capex Pays Off",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9b3b40e6c9c7f9bcbfb95bb22942c5e34ce410b02a047edf8656e7f2c4f3029b",
+      "datetime": 1786354100,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
     {
       "ticker": "AVGO",
       "headline": "Cold Jobs Report Warms Up Wall Street, Airbnb Steals the Show",
@@ -65,54 +113,6 @@
       "url": "https://finnhub.io/api/news?id=3265d1322a7e3a01d1233f899e1eb92b1554c6337fa460fa9b425d9af368fe77",
       "datetime": 1786351791,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "S&P 500 EPS / Revenue Growth, And Amazon Earnings",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ff9824b98e93926be236b9e7ccf0de379a4897178560f20f0f910b32ff5479ba",
-      "datetime": 1786341900,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Ross Gerber Cites Data to Make a Point: Take Out Alphabet and Amazon, S&P 500 Earnings Growth Looks Far Less Impressive",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d298a5220b40641c678eff9604c5eb557105f440d0bcf084ce2449bc3259ba43",
-      "datetime": 1786340151,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon: Stunning Earnings Reaffirm Thesis",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=60ca9389ca584e66e564ed2d70bf639a9160b6143b708729197782c79b02b49c",
-      "datetime": 1786329735,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Ozempic For $50 a Month? Amazon Pharmacy Rolls Out Cheap Weight-Loss Drugs for Medicare Patients",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=94d82dbdbb2621fa343f905b14fe0424c0b1ea9ae83a9c6b0f3d10e720e2dcad",
-      "datetime": 1786325468,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Airbnb vs. McDonald's: Which Consumer Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f4022937e06bfd5f5ae717583ec3badbc8d65094ff80ff3d6644f4eb3ade6f2f",
-      "datetime": 1786320901,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Meet the High-Yield Dividend Stock Bill Ackman Has Owned for Over a Decade. Here's Why It's a Great Buy in August.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=66ace6a5e5c05f09c695fa39ef91f09fd32b2d7c937d9fdf45fe41fdc43a8a72",
-      "datetime": 1786320300,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -128,6 +128,14 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=839ed02a784a723b4186e221b98b5f93319084ad494b5505b6f3cd8ac366d6fc",
       "datetime": 1786299571,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "10 Shady Things Amazon Doesn't Want You To Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=956775a631ad336def71e5584f6c8936201289af0c663ce9aa393291c82bc616",
+      "datetime": 1786295700,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -153,14 +161,6 @@
       "url": "https://finnhub.io/api/news?id=202d39bae7b17131653a29abb52b838088a3786ac752a3bc4562801a90900704",
       "datetime": 1786273200,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "How Many of the Largest Companies Do You Own -- and Should You Own More or Fewer?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=34bd1af3aa40e180acf3199a2e32a7b802d15292e5ec7ca3778a2f693d128add",
-      "datetime": 1786258200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "PRMB",
@@ -577,5 +577,5 @@
       "beta": 1.47
     }
   },
-  "updated_at": "2026-08-10T11:58:13.220955+00:00"
+  "updated_at": "2026-08-10T12:13:13.150001+00:00"
 }
