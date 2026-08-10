@@ -56,6 +56,10 @@
     }
   ],
   "cash_percent": 2.74,
+  "portfolio_day_change_pct": -0.1,
+  "portfolio_month_change_pct": 8.33,
+  "portfolio_year_change_pct": 8.33,
+  "portfolio_all_time_change_pct": 8.33,
   "news": [
     {
       "ticker": "AVGO",
@@ -217,5 +221,5 @@
       "price": 380.14
     }
   ],
-  "updated_at": "2026-08-10T01:38:24.882582+00:00"
+  "updated_at": "2026-08-10T01:44:49.884595+00:00"
 }
