@@ -2,10 +2,10 @@
   "allocation": [
     {
       "ticker": "AVGO",
-      "percent": 18.38,
+      "percent": 18.36,
       "avg_price": 381.14,
-      "day_change_pct": 0.73,
-      "all_time_gain_pct": 13.05,
+      "day_change_pct": 0.61,
+      "all_time_gain_pct": 12.91,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
@@ -13,17 +13,17 @@
       "ticker": "CLS",
       "percent": 13.7,
       "avg_price": 332.2,
-      "day_change_pct": 1.08,
-      "all_time_gain_pct": -3.3,
+      "day_change_pct": 1.0,
+      "all_time_gain_pct": -3.37,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "COR",
-      "percent": 13.67,
+      "percent": 13.66,
       "avg_price": 288.4,
-      "day_change_pct": 0.0,
-      "all_time_gain_pct": 11.12,
+      "day_change_pct": -0.14,
+      "all_time_gain_pct": 10.96,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
@@ -56,8 +56,16 @@
     }
   ],
   "cash_percent": 2.73,
-  "portfolio_day_change_pct": 0.4,
+  "portfolio_day_change_pct": 0.34,
   "news": [
+    {
+      "ticker": "AVGO",
+      "headline": "Cold Jobs Report Warms Up Wall Street, Airbnb Steals the Show",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=3265d1322a7e3a01d1233f899e1eb92b1554c6337fa460fa9b425d9af368fe77",
+      "datetime": 1786351791,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
     {
       "ticker": "AMZN",
       "headline": "Ross Gerber Cites Data to Make a Point: Take Out Alphabet and Amazon, S&P 500 Earnings Growth Looks Far Less Impressive",
@@ -152,14 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=34bd1af3aa40e180acf3199a2e32a7b802d15292e5ec7ca3778a2f693d128add",
       "datetime": 1786258200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom (AVGO) Pairs AI Chip Boom With A Software Security Push",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=acf7b437e144f0aeec182da665d73fef5394e3032003655ae563e4f87133869b",
-      "datetime": 1786221754,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -577,5 +577,5 @@
       "beta": 1.47
     }
   },
-  "updated_at": "2026-08-10T09:28:12.840025+00:00"
+  "updated_at": "2026-08-10T09:43:13.150621+00:00"
 }
