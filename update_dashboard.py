@@ -340,6 +340,10 @@ def main() -> int:
     news = fetch_all_news(tickers)
     log(f"Fetched {len(news)} news item(s)")
 
+    logo_by_ticker = {a["ticker"]: a.get("logo_url") for a in allocation}
+    for n in news:
+        n["logo_url"] = logo_by_ticker.get(n.get("ticker"))
+
     posted_tweets = load_json(POSTED_TWEETS_PATH, [])
     posted_tweets = post_pending_tweet(posted_tweets)
 

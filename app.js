@@ -226,6 +226,33 @@ function formatDayChange(pct, source) {
   return wrap;
 }
 
+// Generic fallback icon (a small newspaper glyph) for when a ticker has no
+// logo or the logo fails to load — inline SVG, no external asset/CDN.
+const NEWS_FALLBACK_ICON = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h13a2 2 0 0 1 2 2v13a1 1 0 0 1-1 1H6a2 2 0 0 1-2-2V4Z"/><path d="M19 8h1a1 1 0 0 1 1 1v10a2 2 0 0 1-2 2"/><path d="M7 8h8M7 12h8M7 16h5"/></svg>`;
+
+function buildNewsIcon(n) {
+  const wrap = document.createElement("span");
+  wrap.className = "news-icon";
+
+  const showFallback = () => {
+    wrap.classList.add("news-icon-fallback");
+    wrap.innerHTML = NEWS_FALLBACK_ICON;
+  };
+
+  if (!n.logo_url) {
+    showFallback();
+    return wrap;
+  }
+
+  const img = document.createElement("img");
+  img.src = n.logo_url;
+  img.alt = "";
+  img.loading = "lazy";
+  img.onerror = () => showFallback();
+  wrap.appendChild(img);
+  return wrap;
+}
+
 function renderNews(news) {
   const list = document.getElementById("news-list");
   list.innerHTML = "";
@@ -235,6 +262,10 @@ function renderNews(news) {
   }
   news.forEach((n) => {
     const li = document.createElement("li");
+    li.className = "news-row";
+
+    const body = document.createElement("div");
+    body.className = "news-body";
     const a = document.createElement("a");
     a.href = n.url || "#";
     a.target = "_blank";
@@ -248,7 +279,9 @@ function renderNews(news) {
     tag.textContent = n.ticker || "";
     meta.appendChild(tag);
     meta.append(` · ${[n.source, when].filter(Boolean).join(" · ")}`);
-    li.append(a, meta);
+    body.append(a, meta);
+
+    li.append(buildNewsIcon(n), body);
     list.appendChild(li);
   });
 }
@@ -274,11 +307,17 @@ function renderTransactions(transactions) {
     ticker.className = "transaction-ticker";
     ticker.textContent = t.ticker || "";
 
+    const priceWrap = document.createElement("div");
+    priceWrap.className = "transaction-price-wrap";
+    const priceLabel = document.createElement("span");
+    priceLabel.className = "transaction-price-label";
+    priceLabel.textContent = "Avg Price";
     const price = document.createElement("span");
     price.className = "transaction-price";
     price.textContent = typeof t.price === "number" ? `$${t.price.toFixed(2)}` : "—";
+    priceWrap.append(priceLabel, price);
 
-    row.append(action, ticker, price);
+    row.append(action, ticker, priceWrap);
 
     const meta = document.createElement("div");
     meta.className = "transaction-date";
