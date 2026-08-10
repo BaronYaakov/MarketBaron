@@ -2,61 +2,61 @@
   "allocation": [
     {
       "ticker": "AVGO",
-      "percent": 18.31,
+      "percent": 18.32,
       "avg_price": 381.14,
-      "all_time_gain_pct": 12.25,
-      "day_change_pct": 1.71,
-      "day_change_source": "finnhub_estimate",
+      "day_change_pct": 0.06,
+      "all_time_gain_pct": 12.3,
+      "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
       "percent": 13.64,
       "avg_price": 332.2,
+      "day_change_pct": 0.31,
       "all_time_gain_pct": -4.03,
-      "day_change_pct": 1.05,
-      "day_change_source": "finnhub_estimate",
+      "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "COR",
       "percent": 13.71,
       "avg_price": 288.4,
+      "day_change_pct": 0.0,
       "all_time_gain_pct": 11.12,
-      "day_change_pct": -1.4,
-      "day_change_source": "finnhub_estimate",
+      "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "ORLY",
       "percent": 20.01,
       "avg_price": 84.25,
-      "all_time_gain_pct": 11.02,
-      "day_change_pct": 0.17,
-      "day_change_source": "finnhub_estimate",
+      "day_change_pct": 0.0,
+      "all_time_gain_pct": 11.01,
+      "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "P",
       "percent": 11.56,
       "avg_price": 78.45,
+      "day_change_pct": 0.0,
       "all_time_gain_pct": 14.78,
-      "day_change_pct": 3.2,
-      "day_change_source": "finnhub_estimate",
+      "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "PRMB",
       "percent": 20.17,
       "avg_price": 19.0,
+      "day_change_pct": 0.0,
       "all_time_gain_pct": 24.02,
-      "day_change_pct": -1.42,
-      "day_change_source": "finnhub_estimate",
+      "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     }
   ],
   "cash_percent": 2.74,
-  "portfolio_day_change_pct": -0.1,
+  "portfolio_day_change_pct": 0.05,
   "portfolio_month_change_pct": 8.33,
   "portfolio_year_change_pct": 8.33,
   "portfolio_all_time_change_pct": 8.33,
@@ -66,126 +66,144 @@
       "headline": "A $10,000 Investment in Taiwan Semiconductor Today Will Be Worth This Much by 2028",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=825c17b2f2c1865001cc28250b916ff2b10432a8931909117435ee91c1bdbd4f",
-      "datetime": 1786305000
+      "datetime": 1786305000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
       "headline": "Marvell (MRVL) vs. AVGO and NVDA: Can AI Interconnect Growth Deliver the Earnings Its Premium Valuation Demands?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=839ed02a784a723b4186e221b98b5f93319084ad494b5505b6f3cd8ac366d6fc",
-      "datetime": 1786299571
+      "datetime": 1786299571,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
       "headline": "Top Semiconductor Stock Outpacing Nvidia With a 36% Gain Over 6 Months",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=281b685ec6364503a8f2be16ea0f984ae2e0cd562970fb08f0d9d5f715f121ba",
-      "datetime": 1786281600
+      "datetime": 1786281600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "ORLY",
       "headline": "O'Reilly Says It's Sharing Tariff Refunds With Suppliers. Its Balance Sheet Tells the More Interesting Version.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=202d39bae7b17131653a29abb52b838088a3786ac752a3bc4562801a90900704",
-      "datetime": 1786273200
+      "datetime": 1786273200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "PRMB",
       "headline": "Primo Brands Corporation 2026 Q2 - Results - Earnings Call Presentation",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=9ea30b21829e2174867ffcef607c0c8e7c7439bca62cacabcb7b886775454148",
-      "datetime": 1786216132
+      "datetime": 1786216132,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     },
     {
       "ticker": "CLS",
       "headline": "Celestica Inc (NYSE:CLS) Combines High Growth and Relative Strength for CAN SLIM Leadership",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=eb21b4ffdce08327662caa019e7bd4e097145d48386b8fb3be0920442863dfa4",
-      "datetime": 1786188091
+      "datetime": 1786188091,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "CLS",
       "headline": "Arista Network: Beating The Incumbents",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=311d4288aeaab09054ad9166fac8107913d51feee8544a4793b5f3fd45fd2a6c",
-      "datetime": 1786157465
+      "datetime": 1786157465,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "ORLY",
       "headline": "O'Reilly Automotive (ORLY) Q2 2026 Earnings Call Transcript",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6fe8e2a2aeea952d847e1df178013e75f47143b36694731cb74a7d4d274f1260",
-      "datetime": 1786147263
+      "datetime": 1786147263,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "COR",
       "headline": "AbbVie vs. Abbott Laboratories: Which Healthcare Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3852ba4223d6f6fd4381be34a82f8c1b6dd45b23181cf2e6ab311afb3d93f615",
-      "datetime": 1786135497
+      "datetime": 1786135497,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "COR",
       "headline": "Will Pharma and Specialty Demand Boost Cardinal Health's Q4 Results?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d7465a2a4c88ee05863f3b79d5beec80125a4c5b3f1728075ee3ed1c26c3ad57",
-      "datetime": 1786126800
+      "datetime": 1786126800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "COR",
       "headline": "Dividend Champion, Contender, And Challenger Highlights: Week Of August 9",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=af72a397d825898b459a1a054ad11e152f22a3d67f610472c2aab599efe41d41",
-      "datetime": 1786125278
+      "datetime": 1786125278,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "PRMB",
       "headline": "RBC Capital Maintains Outperform on Primo Brands, Raises Price Target to $31",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=fb0a7562dbe0fd1f429f52b6cbdafab7e36ed4fd995768477b486d3e26faa5b7",
-      "datetime": 1786118775
+      "datetime": 1786118775,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     },
     {
       "ticker": "P",
       "headline": "VNT or P: Which Is the Better Value Stock Right Now?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8cd207179deda65819850cf0aabd69c4c33782db628aecf73fb2f0b7b435e889",
-      "datetime": 1786117204
+      "datetime": 1786117204,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "PRMB",
       "headline": "Barclays Maintains Overweight on Primo Brands, Raises Price Target to $29",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=9fb79f16832644f04ad54a1dbe5269408b0f5306e933ed9c16c5e18aa4d4bdc7",
-      "datetime": 1786114158
+      "datetime": 1786114158,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     },
     {
       "ticker": "ORLY",
       "headline": "DoorDash Will Deliver Your Car Battery in Under an Hour \u2014 And AutoZone Wasn't Invited",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f913d0da467b390ca8f1449836d96230b7046b4257afb16d0ff04d602b50fd62",
-      "datetime": 1786111976
+      "datetime": 1786111976,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "CLS",
       "headline": "Barclays Maintains Overweight on Celestica, Lowers Price Target to $406",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=18b5999525d8b8a861b814537e1554ef8f59ce521110f2074bc92e471cc66fb0",
-      "datetime": 1786085188
+      "datetime": 1786085188,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "P",
       "headline": "PureCycle Technologies, Inc. (PCT) Reports Q2 Loss, Misses Revenue Estimates",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b695b7d27cbe74fef06bf3a26945df6b57882f67debc198fada2115d1be10241",
-      "datetime": 1786057812
+      "datetime": 1786057812,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "P",
       "headline": "$100 Invested In Everpure 10 Years Ago Would Be Worth This Much Today",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=93e5c3a0ecae456470050aa5bc7031f0ba7b9272abbfc4f340189e0a6f8362eb",
-      "datetime": 1786038330
+      "datetime": 1786038330,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     }
   ],
   "recent_posts": [],
@@ -221,5 +239,5 @@
       "price": 380.14
     }
   ],
-  "updated_at": "2026-08-10T01:44:49.884595+00:00"
+  "updated_at": "2026-08-10T01:52:13.210391+00:00"
 }
