@@ -57,15 +57,19 @@ Task Scheduler, independent of whether Cowork is open)
   → assembles data.json = { allocation: [...], cash_percent,
     portfolio_day_change_pct, portfolio_month_change_pct,
     portfolio_year_change_pct, portfolio_all_time_change_pct,
-    news: [...], recent_posts: [...], updated_at }
-    (the four portfolio_* fields just pass through whatever ibkr_snapshot.json
-    has — the local script does not compute or estimate them itself)
+    news: [...], recent_posts: [...], transactions: [...], updated_at }
+    (the four portfolio_* fields and transactions just pass through whatever
+    ibkr_snapshot.json has — the local script does not compute or estimate
+    them itself; recent_posts is still populated from posted_tweets.json but
+    no longer rendered anywhere on-site, see the X-integration-paused note below)
   → git commit + push data.json (and posted_tweets.json) to BaronYaakov/MarketBaron
     (auth: GITHUB_TOKEN embedded in the push URL, GIT_TERMINAL_PROMPT=0 — never
     blocks waiting on a credential prompt, so it's safe fully unattended)
 ```
 
-GitHub Pages (LIVE at `https://baronyaakov.github.io/MarketBaron/`, deploying from `main` / `/root`) serves `index.html`, which fetches `data.json` on load and renders: a stat row (a "Gain" tile with 1D/1M/1Y/All tabs — account-level only, IBKR's own figures — plus position count and top mover), a positions table (symbol, allocation, avg price, day change, all-time gain), a trade journal (rationale behind recent trades), and market news by holding. Purely static — visiting the page never triggers anything.
+GitHub Pages (LIVE at `https://baronyaakov.github.io/MarketBaron/`, deploying from `main` / `/root`) serves `index.html`, which fetches `data.json` on load and renders: a stat row (a "Gain" tile with 1D/1M/1Y/All tabs — account-level only, IBKR's own figures — plus position count and top mover), a positions table (symbol, allocation, avg price, day change, all-time gain), a transaction history (date, ticker, buy/sell, price — no share count, no dollar total), and market news by holding. Purely static — visiting the page never triggers anything.
+
+**X integration is paused (2026-08-09).** The Trade Journal panel briefly embedded a live X timeline widget (`@themarketbaron`) but it was pulled after `syndication.twitter.com` consistently returned `429 Rate limit exceeded` — confirmed directly in Jake's own browser DevTools, not just automated testing, so it's a real limitation of X's free embed API for a low-traffic/new account, not a bug or misconfiguration on our side. The panel now shows Transaction History instead. The X-posting mechanism itself (`post_pending_tweet()` in `update_dashboard.py`, the `pending_tweet.json`/`posted_tweets.json`/Cowork-approval pipeline) is untouched and still fully wired — only the *display* of tweets on the site was removed. Revisit the embed later if useful; the removed code is in git history (see commits around "Add fallback for X timeline embed" and the transaction-history swap).
 
 ### `ibkr_snapshot.json` expected schema (for whoever builds the Cowork task)
 
@@ -85,9 +89,19 @@ GitHub Pages (LIVE at `https://baronyaakov.github.io/MarketBaron/`, deploying fr
   "portfolio_month_change_pct": 3.1,
   "portfolio_year_change_pct": 14.3,
   "portfolio_all_time_change_pct": 41.7,
+  "transactions": [
+    {
+      "date": "2026-08-08",
+      "ticker": "AAPL",
+      "action": "buy",
+      "price": 187.32
+    }
+  ],
   "updated_at": "2026-08-09T06:30:00Z"
 }
 ```
+
+`transactions` (added 2026-08-09, replacing the paused X Trade Journal): a list of recent trades for the Transaction History panel, most-recent-first is not required (the frontend doesn't re-sort — order in equals order rendered). Each entry: `date` (any string `Date.parse()` can read, e.g. ISO), `ticker`, `action` (`"buy"` or `"sell"` only — anything else is dropped), `price` (optional, per-share — a price, not a total). No quantity, no dollar total, same rule as everywhere else. Malformed entries are dropped individually with a warning logged, not fatal to the whole run.
 
 `portfolio_day_change_pct`/`portfolio_month_change_pct`/`portfolio_year_change_pct`/`portfolio_all_time_change_pct` are the whole-ACCOUNT return over that period (IBKR's own NAV/time-weighted return — e.g. its Portfolio Analyst performance data, if the connector exposes it), never any single position's move. This was a deliberate choice (2026-08-09, revised same day from an earlier day/week/year design to day/month/year/all-time): Jake wants these specifically as account growth, not a per-ticker estimate — so unlike `day_change_pct`, there is intentionally **no Finnhub fallback** for any of the four. The site renders them as a single "Gain" tile with a 1D/1M/1Y/All tab switcher (`index.html`'s `.gain-tabs`, wired in `app.js`'s `GAIN_PERIOD_FIELDS`) — if IBKR doesn't supply a given period, that tab just shows "—" when selected rather than approximating from individual holdings. **If the IBKR MCP connector doesn't currently expose 1-month/1-year/all-time account performance, that's worth checking** — whoever is iterating on the Cowork task should look for it (likely under a performance/NAV-history type tool) and add whichever periods are available to the snapshot.
 
@@ -108,7 +122,7 @@ A bare list (just `[{ticker, percent}, ...]`, no wrapping object) is also accept
 
 ## Privacy rule (non-negotiable, updated 2026-08-09)
 
-Allowed to reach `data.json` / the public repo, per position: `ticker`, `percent` (allocation), `avg_price` (per-share cost basis), `day_change_pct`, `all_time_gain_pct`. Also allowed at the top level: `cash_percent` (cash as a % of total portfolio), `portfolio_day_change_pct`, `portfolio_month_change_pct`, `portfolio_year_change_pct`, `portfolio_all_time_change_pct` (account-level return over each period). These are all prices or percentages — never quantities or totals.
+Allowed to reach `data.json` / the public repo, per position: `ticker`, `percent` (allocation), `avg_price` (per-share cost basis), `day_change_pct`, `all_time_gain_pct`. Also allowed at the top level: `cash_percent` (cash as a % of total portfolio), `portfolio_day_change_pct`, `portfolio_month_change_pct`, `portfolio_year_change_pct`, `portfolio_all_time_change_pct` (account-level return over each period), and `transactions` (list of `{date, ticker, action: "buy"|"sell", price}` — price is per-share). These are all prices or percentages — never quantities or totals.
 
 **Never allowed, at any layer:** share/contract quantity (position size), account value, total balance, total position dollar value ($ market value = price × quantity), or dollar P&L. The line is "per-share price or a percentage" (fine) vs. "anything requiring quantity to compute, or a dollar total" (forbidden) — quantity is the one number that must never leave the account boundary, since combined with price it reconstructs position size/value.
 

@@ -68,23 +68,12 @@
     </section>
 
     <div class="panel-grid">
-      <section class="panel panel-tight" id="posts-panel">
+      <section class="panel" id="transactions-panel">
         <div class="panel-head">
-          <h2>Trade Journal</h2>
-          <span class="panel-note">Live from @themarketbaron</span>
+          <h2>Transaction History</h2>
+          <span class="panel-note">Recent trades</span>
         </div>
-        <div id="tweet-embed-wrap">
-          <a class="twitter-timeline"
-             id="tweet-timeline"
-             data-height="500"
-             data-chrome="noheader nofooter noborders transparent"
-             data-link-color="#2a78d6"
-             href="https://twitter.com/themarketbaron?ref_src=twsrc%5Etfw">Tweets by @themarketbaron</a>
-        </div>
-        <div id="tweet-fallback" class="tweet-fallback" hidden>
-          <p>Live trade posts and rationale are posted on X.</p>
-          <a class="tweet-fallback-link" href="https://x.com/themarketbaron" target="_blank" rel="noopener noreferrer">View @themarketbaron on X &#8599;</a>
-        </div>
+        <ul class="transactions-list" id="transactions-list"></ul>
       </section>
 
       <section class="panel" id="news-panel">
@@ -103,13 +92,6 @@
   </footer>
 
 </div>
-<script>
-  var isDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-  var tl = document.getElementById("tweet-timeline");
-  tl.dataset.theme = isDark ? "dark" : "light";
-  tl.dataset.linkColor = isDark ? "#3987e5" : "#2a78d6";
-</script>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <script src="app.js"></script>
 </body>
 </html>

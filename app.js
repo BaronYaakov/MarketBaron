@@ -56,6 +56,7 @@ function showEmptyState() {
 function render(data) {
   const allocation = Array.isArray(data.allocation) ? data.allocation : [];
   const news = Array.isArray(data.news) ? data.news : [];
+  const transactions = Array.isArray(data.transactions) ? data.transactions : [];
 
   if (data.updated_at) {
     const d = new Date(data.updated_at);
@@ -65,9 +66,7 @@ function render(data) {
     })}`;
   }
 
-  // Trade Journal is the X timeline embed now (see index.html), independent
-  // of data.json — it renders even in the empty-state case below.
-  if (allocation.length === 0 && news.length === 0) {
+  if (allocation.length === 0 && news.length === 0 && transactions.length === 0) {
     showEmptyState();
     return;
   }
@@ -75,6 +74,7 @@ function render(data) {
   renderStats(data, allocation);
   renderHoldings(allocation, data.cash_percent);
   renderNews(news);
+  renderTransactions(transactions);
 }
 
 function renderStats(data, allocation) {
@@ -253,22 +253,42 @@ function renderNews(news) {
   });
 }
 
-// The X timeline widget has proven unreliable in testing (ad blockers,
-// privacy extensions, and third-party cookie restrictions all commonly
-// block it silently — confirmed happening even in a real browser, not
-// just automated ones). Give it a window to render; if the iframe never
-// gets real dimensions, swap in a plain link instead of leaving the bare
-// unstyled "Tweets by..." fallback text sitting in the panel.
-function checkTweetEmbedFallback() {
-  const wrap = document.getElementById("tweet-embed-wrap");
-  const fallback = document.getElementById("tweet-fallback");
-  const iframe = wrap.querySelector("iframe");
-  const rendered = iframe && (iframe.offsetWidth > 0 || iframe.offsetHeight > 0);
-  if (!rendered) {
-    wrap.hidden = true;
-    fallback.hidden = false;
+function renderTransactions(transactions) {
+  const list = document.getElementById("transactions-list");
+  list.innerHTML = "";
+  if (transactions.length === 0) {
+    list.innerHTML = '<li class="empty-row">No transactions yet.</li>';
+    return;
   }
+  transactions.forEach((t) => {
+    const li = document.createElement("li");
+
+    const row = document.createElement("div");
+    row.className = "transaction-row";
+
+    const action = document.createElement("span");
+    action.className = `transaction-action action-${(t.action || "").toLowerCase()}`;
+    action.textContent = (t.action || "").toUpperCase();
+
+    const ticker = document.createElement("span");
+    ticker.className = "transaction-ticker";
+    ticker.textContent = t.ticker || "";
+
+    const price = document.createElement("span");
+    price.className = "transaction-price";
+    price.textContent = typeof t.price === "number" ? `$${t.price.toFixed(2)}` : "—";
+
+    row.append(action, ticker, price);
+
+    const meta = document.createElement("div");
+    meta.className = "transaction-date";
+    meta.textContent = t.date ? new Date(t.date).toLocaleDateString(undefined, {
+      dateStyle: "medium",
+    }) : "";
+
+    li.append(row, meta);
+    list.appendChild(li);
+  });
 }
-setTimeout(checkTweetEmbedFallback, 4000);
 
 loadData();

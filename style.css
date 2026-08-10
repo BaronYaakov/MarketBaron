@@ -373,44 +373,67 @@ main {
   color: var(--ink-secondary);
 }
 
-/* Trade Journal — X timeline embed */
+/* Transaction History */
 
-.panel-tight {
-  padding-bottom: 0.5rem;
-}
-
-.panel-tight .twitter-timeline {
-  width: 100% !important;
-}
-
-.tweet-fallback {
-  padding: 2.5rem 1rem;
-  text-align: center;
+.transactions-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
   display: flex;
   flex-direction: column;
+}
+
+.transactions-list li {
+  padding: 0.75rem 0;
+  border-top: 1px solid var(--gridline);
+}
+
+.transactions-list li:first-child {
+  padding-top: 0;
+  border-top: none;
+}
+
+.transaction-row {
+  display: flex;
   align-items: center;
-  gap: 0.9rem;
+  gap: 0.6rem;
 }
 
-.tweet-fallback p {
-  margin: 0;
-  color: var(--ink-secondary);
-  font-size: 0.9rem;
+.transaction-action {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  padding: 0.15rem 0.45rem;
+  border-radius: 5px;
 }
 
-.tweet-fallback-link {
-  display: inline-block;
-  padding: 0.55rem 1.1rem;
-  border-radius: 999px;
-  background: var(--series-1);
-  color: #fff;
-  font-size: 0.85rem;
+.transaction-action.action-buy {
+  color: var(--status-good);
+  background: color-mix(in srgb, var(--status-good) 15%, transparent);
+}
+
+.transaction-action.action-sell {
+  color: var(--status-critical);
+  background: color-mix(in srgb, var(--status-critical) 15%, transparent);
+}
+
+.transaction-ticker {
   font-weight: 600;
-  text-decoration: none;
+  font-size: 0.9rem;
+  color: var(--ink-primary);
 }
 
-.tweet-fallback-link:hover {
-  opacity: 0.9;
+.transaction-price {
+  margin-left: auto;
+  font-size: 0.85rem;
+  color: var(--ink-secondary);
+  font-variant-numeric: tabular-nums;
+}
+
+.transaction-date {
+  margin-top: 0.25rem;
+  font-size: 0.76rem;
+  color: var(--ink-muted);
 }
 
 .empty-row {

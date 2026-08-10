@@ -103,6 +103,36 @@ def load_top_level_fields() -> dict:
     return result
 
 
+def load_transactions() -> list[dict]:
+    """Optional top-level "transactions" list from ibkr_snapshot.json:
+    {date, ticker, action, price} per trade. price is per-share (a price,
+    not a total) — no quantity, no dollar total, per the privacy rule."""
+    raw = load_json(SNAPSHOT_PATH, None)
+    if not isinstance(raw, dict):
+        return []
+    entries = raw.get("transactions", [])
+    if not isinstance(entries, list):
+        return []
+    transactions = []
+    for entry in entries:
+        try:
+            action = str(entry["action"]).lower()
+            if action not in ("buy", "sell"):
+                raise ValueError(f"unexpected action: {action!r}")
+            parsed = {
+                "date": str(entry["date"]),
+                "ticker": str(entry["ticker"]).upper(),
+                "action": action,
+            }
+            price = entry.get("price")
+            if isinstance(price, (int, float)):
+                parsed["price"] = round(float(price), 2)
+            transactions.append(parsed)
+        except (KeyError, TypeError, ValueError) as e:
+            log(f"WARNING: skipping malformed transaction entry: {entry!r} ({e})")
+    return transactions
+
+
 def load_allocation() -> list[dict]:
     """Read ibkr_snapshot.json and strip to ticker/percent plus only the
     allow-listed optional fields above."""
@@ -318,6 +348,7 @@ def main() -> int:
         **load_top_level_fields(),
         "news": news,
         "recent_posts": posted_tweets,
+        "transactions": load_transactions(),
         "updated_at": datetime.datetime.now(datetime.timezone.utc).isoformat(),
     }
 
