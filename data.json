@@ -11,10 +11,10 @@
     },
     {
       "ticker": "CLS",
-      "percent": 13.69,
+      "percent": 13.7,
       "avg_price": 332.2,
-      "day_change_pct": 0.62,
-      "all_time_gain_pct": -3.74,
+      "day_change_pct": 0.71,
+      "all_time_gain_pct": -3.64,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
@@ -56,7 +56,7 @@
     }
   ],
   "cash_percent": 2.74,
-  "portfolio_day_change_pct": 0.12,
+  "portfolio_day_change_pct": 0.13,
   "news": [
     {
       "ticker": "AMZN",
@@ -577,5 +577,5 @@
       "beta": 1.47
     }
   },
-  "updated_at": "2026-08-10T05:43:12.931759+00:00"
+  "updated_at": "2026-08-10T05:58:12.813956+00:00"
 }
