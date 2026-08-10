@@ -2,19 +2,19 @@
   "allocation": [
     {
       "ticker": "AVGO",
-      "percent": 18.34,
+      "percent": 18.32,
       "avg_price": 381.14,
-      "day_change_pct": 0.17,
-      "all_time_gain_pct": 12.42,
+      "day_change_pct": 0.08,
+      "all_time_gain_pct": 12.33,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
-      "percent": 13.65,
+      "percent": 13.69,
       "avg_price": 332.2,
-      "day_change_pct": 0.39,
-      "all_time_gain_pct": -3.95,
+      "day_change_pct": 0.66,
+      "all_time_gain_pct": -3.69,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
@@ -56,7 +56,7 @@
     }
   ],
   "cash_percent": 2.74,
-  "portfolio_day_change_pct": 0.09,
+  "portfolio_day_change_pct": 0.11,
   "news": [
     {
       "ticker": "AMZN",
@@ -577,5 +577,5 @@
       "beta": 1.47
     }
   },
-  "updated_at": "2026-08-10T04:13:14.295135+00:00"
+  "updated_at": "2026-08-10T04:58:14.006380+00:00"
 }
