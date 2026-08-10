@@ -2,19 +2,19 @@
   "allocation": [
     {
       "ticker": "AVGO",
-      "percent": 18.36,
+      "percent": 18.34,
       "avg_price": 381.14,
-      "day_change_pct": 0.28,
-      "all_time_gain_pct": 12.54,
+      "day_change_pct": 0.17,
+      "all_time_gain_pct": 12.42,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
-      "percent": 13.66,
+      "percent": 13.65,
       "avg_price": 332.2,
-      "day_change_pct": 0.45,
-      "all_time_gain_pct": -3.9,
+      "day_change_pct": 0.39,
+      "all_time_gain_pct": -3.95,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
@@ -56,8 +56,16 @@
     }
   ],
   "cash_percent": 2.74,
-  "portfolio_day_change_pct": 0.12,
+  "portfolio_day_change_pct": 0.09,
   "news": [
+    {
+      "ticker": "AMZN",
+      "headline": "Taylor Farms Pulls Salsa and Guacamole Over Salmonella Concerns",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fe7b8c6d166be271be3bca701bc78711a63c4186353a6dc7f3f784fbb967d50b",
+      "datetime": 1786314313,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
     {
       "ticker": "AMZN",
       "headline": "UPS Completed Its Amazon Volume Pullback. Is the Turnaround Finally Working?",
@@ -120,14 +128,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f45e2379d3532d14de2026567c166f0c4f8f943f936b39a9525a667fa4d3d729",
       "datetime": 1786291486,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Jeff Bezos breaks his own Amazon record",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6d9ae46012fdad75a3a2fc4f0a2a6e59909101eb9ad86f065e8efed616b80ed4",
-      "datetime": 1786284420,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -577,5 +577,5 @@
       "beta": 1.47
     }
   },
-  "updated_at": "2026-08-10T02:17:31.441771+00:00"
+  "updated_at": "2026-08-10T04:13:14.295135+00:00"
 }
