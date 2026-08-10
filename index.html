@@ -51,7 +51,7 @@
         <span class="panel-note" id="holdings-count"></span>
       </div>
       <div class="table-scroll">
-        <table class="holdings-table">
+        <table class="data-table">
           <thead>
             <tr>
               <th class="col-ticker">Symbol</th>
@@ -73,7 +73,19 @@
           <h2>Transaction History</h2>
           <span class="panel-note">Recent trades</span>
         </div>
-        <ul class="transactions-list" id="transactions-list"></ul>
+        <div class="table-scroll">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th class="col-action">Action</th>
+                <th class="col-ticker">Symbol</th>
+                <th class="col-num">Date</th>
+                <th class="col-num">Price</th>
+              </tr>
+            </thead>
+            <tbody id="transactions-body"></tbody>
+          </table>
+        </div>
       </section>
 
       <section class="panel" id="news-panel">

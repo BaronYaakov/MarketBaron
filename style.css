@@ -235,13 +235,13 @@ main {
   overflow-x: auto;
 }
 
-.holdings-table {
+.data-table {
   width: 100%;
   border-collapse: collapse;
   font-size: 0.88rem;
 }
 
-.holdings-table th {
+.data-table th {
   text-align: right;
   font-size: 0.72rem;
   font-weight: 600;
@@ -253,11 +253,11 @@ main {
   white-space: nowrap;
 }
 
-.holdings-table th.col-ticker {
+.data-table th.col-ticker {
   text-align: left;
 }
 
-.holdings-table td {
+.data-table td {
   padding: 0.65rem 0;
   border-bottom: 1px solid var(--gridline);
   text-align: right;
@@ -265,15 +265,15 @@ main {
   white-space: nowrap;
 }
 
-.holdings-table tbody tr:last-child td {
+.data-table tbody tr:last-child td {
   border-bottom: none;
 }
 
-.holdings-table tbody tr:hover {
+.data-table tbody tr:hover {
   background: var(--track);
 }
 
-.holdings-table td.col-ticker {
+.data-table td.col-ticker {
   text-align: left;
   font-weight: 600;
   color: var(--ink-primary);
@@ -305,7 +305,7 @@ main {
   background: var(--track);
 }
 
-.holdings-table td.col-num {
+.data-table td.col-num {
   color: var(--ink-secondary);
 }
 
@@ -408,33 +408,18 @@ main {
   color: var(--ink-secondary);
 }
 
-/* Transaction History */
+/* Transaction History — shares .data-table with Positions */
 
-.transactions-list {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  flex-direction: column;
+.data-table th.col-action {
+  text-align: left;
 }
 
-.transactions-list li {
-  padding: 0.75rem 0;
-  border-top: 1px solid var(--gridline);
-}
-
-.transactions-list li:first-child {
-  padding-top: 0;
-  border-top: none;
-}
-
-.transaction-row {
-  display: flex;
-  align-items: center;
-  gap: 0.6rem;
+.data-table td.col-action {
+  text-align: left;
 }
 
 .transaction-action {
+  display: inline-block;
   font-size: 0.7rem;
   font-weight: 700;
   letter-spacing: 0.03em;
@@ -450,40 +435,6 @@ main {
 .transaction-action.action-sell {
   color: var(--status-critical);
   background: color-mix(in srgb, var(--status-critical) 15%, transparent);
-}
-
-.transaction-ticker {
-  font-weight: 600;
-  font-size: 0.9rem;
-  color: var(--ink-primary);
-}
-
-.transaction-price-wrap {
-  margin-left: auto;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-  gap: 0.1rem;
-}
-
-.transaction-price-label {
-  font-size: 0.64rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  color: var(--ink-muted);
-}
-
-.transaction-price {
-  font-size: 0.85rem;
-  color: var(--ink-secondary);
-  font-variant-numeric: tabular-nums;
-}
-
-.transaction-date {
-  margin-top: 0.25rem;
-  font-size: 0.76rem;
-  color: var(--ink-muted);
 }
 
 .empty-row {

@@ -287,46 +287,38 @@ function renderNews(news) {
 }
 
 function renderTransactions(transactions) {
-  const list = document.getElementById("transactions-list");
-  list.innerHTML = "";
+  const body = document.getElementById("transactions-body");
+  body.innerHTML = "";
   if (transactions.length === 0) {
-    list.innerHTML = '<li class="empty-row">No transactions yet.</li>';
+    body.innerHTML = '<tr><td colspan="4" class="empty-row">No transactions yet.</td></tr>';
     return;
   }
   transactions.forEach((t) => {
-    const li = document.createElement("li");
+    const tr = document.createElement("tr");
 
-    const row = document.createElement("div");
-    row.className = "transaction-row";
-
+    const tdAction = document.createElement("td");
+    tdAction.className = "col-action";
     const action = document.createElement("span");
     action.className = `transaction-action action-${(t.action || "").toLowerCase()}`;
     action.textContent = (t.action || "").toUpperCase();
+    tdAction.appendChild(action);
 
-    const ticker = document.createElement("span");
-    ticker.className = "transaction-ticker";
-    ticker.textContent = t.ticker || "";
+    const tdTicker = document.createElement("td");
+    tdTicker.className = "col-ticker";
+    tdTicker.textContent = t.ticker || "";
 
-    const priceWrap = document.createElement("div");
-    priceWrap.className = "transaction-price-wrap";
-    const priceLabel = document.createElement("span");
-    priceLabel.className = "transaction-price-label";
-    priceLabel.textContent = "Avg Price";
-    const price = document.createElement("span");
-    price.className = "transaction-price";
-    price.textContent = typeof t.price === "number" ? `$${t.price.toFixed(2)}` : "—";
-    priceWrap.append(priceLabel, price);
-
-    row.append(action, ticker, priceWrap);
-
-    const meta = document.createElement("div");
-    meta.className = "transaction-date";
-    meta.textContent = t.date ? new Date(t.date).toLocaleDateString(undefined, {
+    const tdDate = document.createElement("td");
+    tdDate.className = "col-num";
+    tdDate.textContent = t.date ? new Date(t.date).toLocaleDateString(undefined, {
       dateStyle: "medium",
     }) : "";
 
-    li.append(row, meta);
-    list.appendChild(li);
+    const tdPrice = document.createElement("td");
+    tdPrice.className = "col-num";
+    tdPrice.textContent = typeof t.price === "number" ? `$${t.price.toFixed(2)}` : "—";
+
+    tr.append(tdAction, tdTicker, tdDate, tdPrice);
+    body.appendChild(tr);
   });
 }
 
