@@ -2,25 +2,25 @@
   "allocation": [
     {
       "ticker": "AVGO",
-      "percent": 18.36,
+      "percent": 18.29,
       "avg_price": 381.14,
-      "day_change_pct": 0.61,
-      "all_time_gain_pct": 12.91,
+      "day_change_pct": 0.65,
+      "all_time_gain_pct": 12.96,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
-      "percent": 13.7,
+      "percent": 13.59,
       "avg_price": 332.2,
-      "day_change_pct": 1.0,
-      "all_time_gain_pct": -3.37,
+      "day_change_pct": 0.69,
+      "all_time_gain_pct": -3.67,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "COR",
-      "percent": 13.66,
+      "percent": 13.59,
       "avg_price": 288.4,
       "day_change_pct": -0.14,
       "all_time_gain_pct": 10.96,
@@ -29,7 +29,7 @@
     },
     {
       "ticker": "ORLY",
-      "percent": 19.95,
+      "percent": 19.87,
       "avg_price": 84.25,
       "day_change_pct": 0.0,
       "all_time_gain_pct": 11.01,
@@ -38,16 +38,16 @@
     },
     {
       "ticker": "P",
-      "percent": 11.63,
+      "percent": 11.93,
       "avg_price": 78.45,
-      "day_change_pct": 0.91,
-      "all_time_gain_pct": 15.83,
+      "day_change_pct": 3.94,
+      "all_time_gain_pct": 19.31,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "PRMB",
-      "percent": 20.11,
+      "percent": 20.03,
       "avg_price": 19.0,
       "day_change_pct": 0.0,
       "all_time_gain_pct": 24.02,
@@ -55,8 +55,8 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     }
   ],
-  "cash_percent": 2.73,
-  "portfolio_day_change_pct": 0.34,
+  "cash_percent": 2.72,
+  "portfolio_day_change_pct": 0.67,
   "news": [
     {
       "ticker": "AVGO",
@@ -577,5 +577,5 @@
       "beta": 1.47
     }
   },
-  "updated_at": "2026-08-10T10:43:13.282345+00:00"
+  "updated_at": "2026-08-10T10:58:12.836802+00:00"
 }
