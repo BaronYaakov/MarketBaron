@@ -157,6 +157,18 @@ function renderHoldings(allocation, cashPercent) {
     tdAllTime.appendChild(formatDayChange(r.all_time_gain_pct));
 
     tr.append(tdTicker, tdPct, tdAvgPrice, tdChange, tdAllTime);
+
+    // Cash and the folded "Other" row don't map to a single company page.
+    if (!r.isCash && r.ticker !== "Other") {
+      tr.classList.add("row-link");
+      tr.tabIndex = 0;
+      tr.setAttribute("role", "link");
+      tr.setAttribute("aria-label", `View ${r.ticker} details`);
+      const go = () => { window.location.href = `stock.html?ticker=${encodeURIComponent(r.ticker)}`; };
+      tr.addEventListener("click", go);
+      tr.addEventListener("keydown", (e) => { if (e.key === "Enter") go(); });
+    }
+
     body.appendChild(tr);
 
     if (r.day_change_source === "finnhub_estimate") sawEstimate = true;
@@ -306,6 +318,16 @@ function renderTransactions(transactions) {
     const tdTicker = document.createElement("td");
     tdTicker.className = "col-ticker";
     tdTicker.textContent = t.ticker || "";
+
+    if (t.ticker) {
+      tr.classList.add("row-link");
+      tr.tabIndex = 0;
+      tr.setAttribute("role", "link");
+      tr.setAttribute("aria-label", `View ${t.ticker} details`);
+      const go = () => { window.location.href = `stock.html?ticker=${encodeURIComponent(t.ticker)}`; };
+      tr.addEventListener("click", go);
+      tr.addEventListener("keydown", (e) => { if (e.key === "Enter") go(); });
+    }
 
     const tdDate = document.createElement("td");
     tdDate.className = "col-num";

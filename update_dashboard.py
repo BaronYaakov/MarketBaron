@@ -33,7 +33,7 @@ PENDING_TWEET_PATH = BASE_DIR / "pending_tweet.json"
 POSTED_TWEETS_PATH = BASE_DIR / "posted_tweets.json"
 DATA_JSON_PATH = BASE_DIR / "data.json"
 
-MAX_NEWS_PER_TICKER = 3
+MAX_NEWS_PER_TICKER = 6
 MAX_RECENT_POSTS = 10
 NEWS_LOOKBACK_DAYS = 7
 
@@ -133,6 +133,24 @@ def load_transactions() -> list[dict]:
     return transactions
 
 
+def merge_transactions(new_transactions: list[dict]) -> list[dict]:
+    """Union new_transactions with whatever's already in the last-pushed
+    data.json, deduped by (date, ticker, action, price). Cowork's snapshot
+    doesn't reliably include transactions every cycle (observed: some runs
+    omit the field entirely) — without this, a bare cycle would silently
+    wipe previously-known trade history from the site. Once a trade is
+    seen, it stays visible forever, even for tickers no longer held."""
+    existing_data = load_json(DATA_JSON_PATH, {})
+    existing = existing_data.get("transactions", []) if isinstance(existing_data, dict) else []
+
+    def key(t):
+        return (t.get("date"), t.get("ticker"), t.get("action"), t.get("price"))
+
+    merged = {key(t): t for t in existing if isinstance(t, dict)}
+    merged.update({key(t): t for t in new_transactions})
+    return sorted(merged.values(), key=lambda t: t.get("date") or "", reverse=True)
+
+
 def load_allocation() -> list[dict]:
     """Read ibkr_snapshot.json and strip to ticker/percent plus only the
     allow-listed optional fields above."""
@@ -159,11 +177,14 @@ def load_allocation() -> list[dict]:
     return allocation
 
 
-def fetch_logo_url(ticker: str) -> str | None:
-    """Public company info (logo image URL) via Finnhub's profile endpoint —
-    not account data."""
+def fetch_company_profile(ticker: str) -> dict:
+    """Public company facts via Finnhub's profile endpoint — name, industry,
+    exchange, market cap, website, logo. All public info about the company
+    itself, not Jake's account or position, so it's outside the privacy
+    rule's scope entirely (that rule is about position size/value, not
+    what's publicly true about the company)."""
     if not FINNHUB_API_KEY:
-        return None
+        return {}
     try:
         resp = requests.get(
             "https://finnhub.io/api/v1/stock/profile2",
@@ -174,16 +195,27 @@ def fetch_logo_url(ticker: str) -> str | None:
         profile = resp.json()
     except requests.RequestException as e:
         log(f"WARNING: Finnhub profile fetch failed for {ticker}: {e}")
-        return None
-    logo = profile.get("logo") if isinstance(profile, dict) else None
-    return logo or None
+        return {}
+    if not isinstance(profile, dict) or not profile:
+        return {}
+    return {
+        "name": profile.get("name"),
+        "logo_url": profile.get("logo") or None,
+        "industry": profile.get("finnhubIndustry"),
+        "exchange": profile.get("exchange"),
+        "website": profile.get("weburl") or None,
+        "ipo_date": profile.get("ipo"),
+        "market_cap_musd": profile.get("marketCapitalization"),
+        "country": profile.get("country"),
+        "currency": profile.get("currency"),
+    }
 
 
-def fetch_day_change(ticker: str) -> float | None:
-    """Public market data (the stock's own daily % move) — not account data,
-    so it doesn't conflict with the {ticker, percent}-only privacy rule."""
+def fetch_quote(ticker: str) -> dict:
+    """Public market data (the stock's own current price/day range) — not
+    account data, so it doesn't conflict with the privacy rule."""
     if not FINNHUB_API_KEY:
-        return None
+        return {}
     try:
         resp = requests.get(
             "https://finnhub.io/api/v1/quote",
@@ -194,9 +226,48 @@ def fetch_day_change(ticker: str) -> float | None:
         quote = resp.json()
     except requests.RequestException as e:
         log(f"WARNING: Finnhub quote fetch failed for {ticker}: {e}")
-        return None
-    dp = quote.get("dp")
-    return round(float(dp), 2) if isinstance(dp, (int, float)) else None
+        return {}
+    if not isinstance(quote, dict):
+        return {}
+    fields = {"c": "price", "o": "open", "h": "day_high", "l": "day_low", "pc": "prev_close", "dp": "day_change_pct"}
+    result = {}
+    for src, dest in fields.items():
+        value = quote.get(src)
+        if isinstance(value, (int, float)):
+            result[dest] = round(float(value), 2)
+    return result
+
+
+def fetch_financials(ticker: str) -> dict:
+    """Public basic financials (52-week range, P/E, beta) via Finnhub's
+    metric endpoint — standard public stock-page data, not account data."""
+    if not FINNHUB_API_KEY:
+        return {}
+    try:
+        resp = requests.get(
+            "https://finnhub.io/api/v1/stock/metric",
+            params={"symbol": ticker, "metric": "all", "token": FINNHUB_API_KEY},
+            timeout=15,
+        )
+        resp.raise_for_status()
+        metric = resp.json().get("metric", {})
+    except requests.RequestException as e:
+        log(f"WARNING: Finnhub financials fetch failed for {ticker}: {e}")
+        return {}
+    if not isinstance(metric, dict):
+        return {}
+    fields = {
+        "52WeekHigh": "week52_high",
+        "52WeekLow": "week52_low",
+        "peBasicExclExtraTTM": "pe_ratio",
+        "beta": "beta",
+    }
+    result = {}
+    for src, dest in fields.items():
+        value = metric.get(src)
+        if isinstance(value, (int, float)):
+            result[dest] = round(float(value), 2)
+    return result
 
 
 def fetch_news_for_ticker(ticker: str) -> list[dict]:
@@ -331,18 +402,32 @@ def main() -> int:
     tickers = [a["ticker"] for a in allocation]
     log(f"Loaded allocation for {len(tickers)} ticker(s): {tickers}")
 
-    for a in allocation:
-        if "day_change_pct" not in a:
-            a["day_change_pct"] = fetch_day_change(a["ticker"])
-            a["day_change_source"] = "finnhub_estimate" if a["day_change_pct"] is not None else None
-        a["logo_url"] = fetch_logo_url(a["ticker"])
+    transactions = merge_transactions(load_transactions())
 
-    news = fetch_all_news(tickers)
+    # Union of currently-held and ever-transacted tickers, so a fully
+    # exited position (e.g. bought then sold, no longer in allocation)
+    # still gets a company profile/quote/news and a working detail page.
+    all_tickers = list(dict.fromkeys(tickers + [t["ticker"] for t in transactions]))
+
+    companies = {}
+    for ticker in all_tickers:
+        profile = fetch_company_profile(ticker)
+        quote = fetch_quote(ticker)
+        financials = fetch_financials(ticker)
+        companies[ticker] = {**profile, **quote, **financials}
+
+    for a in allocation:
+        company = companies.get(a["ticker"], {})
+        if "day_change_pct" not in a:
+            a["day_change_pct"] = company.get("day_change_pct")
+            a["day_change_source"] = "finnhub_estimate" if a["day_change_pct"] is not None else None
+        a["logo_url"] = company.get("logo_url")
+
+    news = fetch_all_news(all_tickers)
     log(f"Fetched {len(news)} news item(s)")
 
-    logo_by_ticker = {a["ticker"]: a.get("logo_url") for a in allocation}
     for n in news:
-        n["logo_url"] = logo_by_ticker.get(n.get("ticker"))
+        n["logo_url"] = companies.get(n.get("ticker"), {}).get("logo_url")
 
     posted_tweets = load_json(POSTED_TWEETS_PATH, [])
     posted_tweets = post_pending_tweet(posted_tweets)
@@ -352,7 +437,8 @@ def main() -> int:
         **load_top_level_fields(),
         "news": news,
         "recent_posts": posted_tweets,
-        "transactions": load_transactions(),
+        "transactions": transactions,
+        "companies": companies,
         "updated_at": datetime.datetime.now(datetime.timezone.utc).isoformat(),
     }
 

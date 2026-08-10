@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MarketBaron &mdash; Company</title>
+<meta name="description" content="Company detail, recent news, and trade history for a MarketBaron holding.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%93%88%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="page">
+
+  <header class="site-header">
+    <a class="back-link" href="index.html">&larr; MarketBaron</a>
+    <div class="company-head" id="company-head">
+      <span class="company-logo-wrap" id="company-logo-wrap"></span>
+      <div>
+        <h1 id="company-name">&mdash;</h1>
+        <p class="company-sub" id="company-sub"></p>
+      </div>
+    </div>
+    <p class="updated" id="updated"></p>
+  </header>
+
+  <main>
+    <p id="not-found" class="not-found" hidden>No record of this ticker &mdash; it's never been held or traded, or data hasn't loaded yet. <a href="index.html">Back to positions</a>.</p>
+
+    <div id="stock-content" hidden>
+      <section class="stat-row" aria-label="Quote">
+        <div class="stat-tile">
+          <span class="stat-label">Price</span>
+          <span class="stat-value" id="quote-price">&mdash;</span>
+          <span class="stat-sub" id="quote-change"></span>
+        </div>
+        <div class="stat-tile">
+          <span class="stat-label">Day Range</span>
+          <span class="stat-value stat-value-sm" id="quote-range">&mdash;</span>
+        </div>
+        <div class="stat-tile">
+          <span class="stat-label">52-Week Range</span>
+          <span class="stat-value stat-value-sm" id="quote-52w">&mdash;</span>
+        </div>
+        <div class="stat-tile">
+          <span class="stat-label">P/E &middot; Beta</span>
+          <span class="stat-value stat-value-sm" id="quote-pe">&mdash;</span>
+        </div>
+      </section>
+
+      <section class="panel panel-wide" id="position-panel">
+        <div class="panel-head">
+          <h2>Your Position</h2>
+          <span class="panel-note" id="position-note" hidden>Not currently held</span>
+        </div>
+        <div class="mini-stats" id="position-stats">
+          <div class="mini-stat">
+            <span class="stat-label">Allocation</span>
+            <span class="mini-stat-value" id="pos-allocation">&mdash;</span>
+          </div>
+          <div class="mini-stat">
+            <span class="stat-label">Avg Price</span>
+            <span class="mini-stat-value" id="pos-avg-price">&mdash;</span>
+          </div>
+          <div class="mini-stat">
+            <span class="stat-label">Day Change</span>
+            <span class="mini-stat-value" id="pos-day-change">&mdash;</span>
+          </div>
+          <div class="mini-stat">
+            <span class="stat-label">All-Time Gain</span>
+            <span class="mini-stat-value" id="pos-all-time">&mdash;</span>
+          </div>
+        </div>
+        <p class="closed-position-note" id="closed-position-note" hidden>This position has been fully closed — no longer part of current holdings. Trade history below.</p>
+      </section>
+
+      <div class="panel-grid">
+        <section class="panel" id="company-news-panel">
+          <div class="panel-head">
+            <h2>News</h2>
+          </div>
+          <ul class="news-list" id="company-news-list"></ul>
+        </section>
+
+        <section class="panel" id="company-transactions-panel">
+          <div class="panel-head">
+            <h2>Your Transactions</h2>
+          </div>
+          <div class="table-scroll">
+            <table class="data-table">
+              <thead>
+                <tr>
+                  <th class="col-action">Action</th>
+                  <th class="col-num">Date</th>
+                  <th class="col-num">Price</th>
+                </tr>
+              </thead>
+              <tbody id="company-transactions-body"></tbody>
+            </table>
+          </div>
+        </section>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <p class="footnote">Auto-updated on a schedule. Percentages and public market data only &mdash; not investment advice.</p>
+  </footer>
+
+</div>
+<script src="stock.js"></script>
+</body>
+</html>
