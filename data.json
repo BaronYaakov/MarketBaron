@@ -2,25 +2,25 @@
   "allocation": [
     {
       "ticker": "AVGO",
-      "percent": 18.39,
+      "percent": 18.33,
       "avg_price": 381.14,
-      "day_change_pct": 0.47,
-      "all_time_gain_pct": 12.76,
+      "day_change_pct": 0.43,
+      "all_time_gain_pct": 12.71,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
-      "percent": 13.7,
+      "percent": 13.69,
       "avg_price": 332.2,
-      "day_change_pct": 0.71,
-      "all_time_gain_pct": -3.65,
+      "day_change_pct": 1.0,
+      "all_time_gain_pct": -3.37,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "COR",
-      "percent": 13.71,
+      "percent": 13.67,
       "avg_price": 288.4,
       "day_change_pct": 0.0,
       "all_time_gain_pct": 11.12,
@@ -29,7 +29,7 @@
     },
     {
       "ticker": "ORLY",
-      "percent": 20.01,
+      "percent": 19.95,
       "avg_price": 84.25,
       "day_change_pct": 0.0,
       "all_time_gain_pct": 11.01,
@@ -38,7 +38,7 @@
     },
     {
       "ticker": "P",
-      "percent": 11.62,
+      "percent": 11.58,
       "avg_price": 78.45,
       "day_change_pct": 0.49,
       "all_time_gain_pct": 15.34,
@@ -47,7 +47,7 @@
     },
     {
       "ticker": "PRMB",
-      "percent": 20.17,
+      "percent": 20.11,
       "avg_price": 19.0,
       "day_change_pct": 0.0,
       "all_time_gain_pct": 24.02,
@@ -55,9 +55,17 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     }
   ],
-  "cash_percent": 2.74,
-  "portfolio_day_change_pct": 0.25,
+  "cash_percent": 2.73,
+  "portfolio_day_change_pct": 0.28,
   "news": [
+    {
+      "ticker": "AMZN",
+      "headline": "Ross Gerber Cites Data to Make a Point: Take Out Alphabet and Amazon, S&P 500 Earnings Growth Looks Far Less Impressive",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d298a5220b40641c678eff9604c5eb557105f440d0bcf084ce2449bc3259ba43",
+      "datetime": 1786340151,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
     {
       "ticker": "AMZN",
       "headline": "Amazon: Stunning Earnings Reaffirm Thesis",
@@ -96,14 +104,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fe7b8c6d166be271be3bca701bc78711a63c4186353a6dc7f3f784fbb967d50b",
       "datetime": 1786314313,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "UPS Completed Its Amazon Volume Pullback. Is the Turnaround Finally Working?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=45d749dddc8ea4df97b0be977c700033af7cea0dd9cd8ade85278eb7c85de74c",
-      "datetime": 1786309157,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -577,5 +577,5 @@
       "beta": 1.47
     }
   },
-  "updated_at": "2026-08-10T07:58:13.438066+00:00"
+  "updated_at": "2026-08-10T08:13:13.134332+00:00"
 }
