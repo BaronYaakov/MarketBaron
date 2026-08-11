@@ -2,10 +2,10 @@
   "allocation": [
     {
       "ticker": "AVGO",
-      "percent": 17.69,
+      "percent": 17.71,
       "avg_price": 381.14,
-      "day_change_pct": -1.45,
-      "all_time_gain_pct": 9.22,
+      "day_change_pct": -1.38,
+      "all_time_gain_pct": 9.3,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
@@ -13,17 +13,17 @@
       "ticker": "B",
       "percent": 13.64,
       "avg_price": 40.58,
-      "day_change_pct": -1.17,
-      "all_time_gain_pct": -1.17,
+      "day_change_pct": -1.16,
+      "all_time_gain_pct": -1.16,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "CLS",
-      "percent": 13.26,
+      "percent": 13.24,
       "avg_price": 332.2,
-      "day_change_pct": -0.82,
-      "all_time_gain_pct": -6.08,
+      "day_change_pct": -0.95,
+      "all_time_gain_pct": -6.2,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
@@ -648,5 +648,5 @@
       "pct": 24.21
     }
   },
-  "updated_at": "2026-08-11T23:28:19.529926+00:00"
+  "updated_at": "2026-08-11T23:43:17.270182+00:00"
 }
