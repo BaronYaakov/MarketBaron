@@ -51,6 +51,22 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d029b355388a6c5acf2d341b04dbb4f2e819b031490d7c38d542a8ef4e8eee44",
+      "datetime": 1786425900,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "AMZN Stock to Close Above $300 by August End? Crypto Punters Bet on the Possibility Following Amazon's Impressive Q2 Performance",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b9b235447a8f31e2a0b64f6c2b9aaab8ea02e7021526cac689f0c43ff58ca623",
+      "datetime": 1786422985,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Is FedEx (FDX) Using Robotics To Sharpen Its Cost Edge Or Just Keep Pace With Rivals?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c59fcc9f4e9677563701370752cd48d371e54493fc7f0373acf499cf9bdde757",
@@ -79,22 +95,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1ef8bf9beed7f6643ed155c5b0b9106cc42a3358657037aad5fa6a82a8e7f533",
       "datetime": 1786402077,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon.com vs. Chewy: Which Consumer Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0f57be225d2d9c1bc10f7f0999c9a86af5a0b63db5521ff58b54d6509695cacb",
-      "datetime": 1786401181,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Microsoft Stock Runs One Of The Market's Biggest Cash-Return Machines",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=68aef218e98284dffbe7165a577e58dc5bddcb93a98b8c46bf2057f8df71060a",
-      "datetime": 1786400355,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -541,10 +541,10 @@
       "day_low": 92.99,
       "prev_close": 90.05,
       "day_change_pct": 8.81,
-      "week52_high": 100.59,
+      "week52_high": 102.2,
       "week52_low": 54.37,
       "pe_ratio": 145.11,
-      "beta": 1.45
+      "beta": 1.47
     },
     "AMZN": {
       "name": "Amazon.com Inc",
@@ -568,5 +568,5 @@
       "beta": 1.47
     }
   },
-  "updated_at": "2026-08-11T05:58:14.339573+00:00"
+  "updated_at": "2026-08-11T06:13:13.213455+00:00"
 }
