@@ -2,19 +2,19 @@
   "allocation": [
     {
       "ticker": "AVGO",
-      "percent": 17.68,
+      "percent": 17.69,
       "avg_price": 381.14,
-      "day_change_pct": -1.5,
-      "all_time_gain_pct": 9.16,
+      "day_change_pct": -1.45,
+      "all_time_gain_pct": 9.22,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "B",
-      "percent": 13.67,
+      "percent": 13.64,
       "avg_price": 40.58,
-      "day_change_pct": -0.95,
-      "all_time_gain_pct": -0.95,
+      "day_change_pct": -1.1,
+      "all_time_gain_pct": -1.1,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
@@ -47,7 +47,7 @@
     },
     {
       "ticker": "PRMB",
-      "percent": 20.07,
+      "percent": 20.06,
       "avg_price": 19.0,
       "day_change_pct": 0.41,
       "all_time_gain_pct": 24.21,
@@ -56,7 +56,7 @@
     }
   ],
   "cash_percent": 1.47,
-  "portfolio_day_change_pct": -0.17,
+  "portfolio_day_change_pct": -0.19,
   "news": [
     {
       "ticker": "AMZN",
@@ -145,6 +145,14 @@
       "url": "https://finnhub.io/api/news?id=6e3fd4446c083d4e075ec7627513cbd7a684c7a2e0c6d005017a2c79be2cf70c",
       "datetime": 1786455498,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "B",
+      "headline": "B of A Securities Maintains Buy on Barrick Mining, Lowers Price Target to $54",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=63c9801c2fb651c9eacee85ab77f75f40e35017caea64e78b8ceebbd471f23fc",
+      "datetime": 1786452840,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "AVGO",
@@ -264,14 +272,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=72ae9e9060e25df87a8b0c1961e9028791c85617fa4c41bf4806784666542c75",
       "datetime": 1786348923,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Barrick Appoints Mark Hill CEO-Designate Of Pre-IPO North American Gold Asset Holding Company Upon Separation; Sees IPO Completed In 2026",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=1b5d243fafb9d4db747ed6a18e5c36c7ed59d3cd313fd8a340ca118a4994b4d2",
-      "datetime": 1786343964,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
@@ -648,5 +648,5 @@
       "pct": 24.21
     }
   },
-  "updated_at": "2026-08-11T22:58:15.958527+00:00"
+  "updated_at": "2026-08-11T23:13:17.147140+00:00"
 }
