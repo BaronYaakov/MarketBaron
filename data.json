@@ -13,8 +13,8 @@
       "ticker": "B",
       "percent": 13.64,
       "avg_price": 40.58,
-      "day_change_pct": -1.1,
-      "all_time_gain_pct": -1.1,
+      "day_change_pct": -1.17,
+      "all_time_gain_pct": -1.17,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
@@ -22,8 +22,8 @@
       "ticker": "CLS",
       "percent": 13.26,
       "avg_price": 332.2,
-      "day_change_pct": -0.86,
-      "all_time_gain_pct": -6.11,
+      "day_change_pct": -0.82,
+      "all_time_gain_pct": -6.08,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
@@ -47,7 +47,7 @@
     },
     {
       "ticker": "PRMB",
-      "percent": 20.06,
+      "percent": 20.07,
       "avg_price": 19.0,
       "day_change_pct": 0.41,
       "all_time_gain_pct": 24.21,
@@ -648,5 +648,5 @@
       "pct": 24.21
     }
   },
-  "updated_at": "2026-08-11T23:13:17.147140+00:00"
+  "updated_at": "2026-08-11T23:28:19.529926+00:00"
 }
