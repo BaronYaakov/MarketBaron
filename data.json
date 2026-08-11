@@ -2,10 +2,10 @@
   "allocation": [
     {
       "ticker": "AVGO",
-      "percent": 17.94,
+      "percent": 17.97,
       "avg_price": 381.14,
-      "day_change_pct": 0.09,
-      "all_time_gain_pct": 10.92,
+      "day_change_pct": 0.21,
+      "all_time_gain_pct": 11.06,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
@@ -38,7 +38,7 @@
     },
     {
       "ticker": "PRMB",
-      "percent": 20.06,
+      "percent": 20.05,
       "avg_price": 19.0,
       "day_change_pct": 0.51,
       "all_time_gain_pct": 24.34,
@@ -47,7 +47,7 @@
     }
   ],
   "cash_percent": 15.24,
-  "portfolio_day_change_pct": 0.23,
+  "portfolio_day_change_pct": 0.26,
   "news": [
     {
       "ticker": "AMZN",
@@ -568,5 +568,5 @@
       "beta": 1.47
     }
   },
-  "updated_at": "2026-08-11T08:43:13.276548+00:00"
+  "updated_at": "2026-08-11T08:58:13.475409+00:00"
 }
