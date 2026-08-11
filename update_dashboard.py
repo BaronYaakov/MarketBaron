@@ -268,6 +268,76 @@ def fetch_financials(ticker: str) -> dict:
     return result
 
 
+def fetch_price_change(ticker: str, days_ago: int) -> float | None:
+    """Public stock price % change over a trailing window (close ~N days
+    ago vs. now), via Finnhub's candle endpoint. Used only for the
+    homepage's "Biggest Win" tile among currently-held tickers - it's the
+    stock's own price move, not account data or a realized trade gain."""
+    if not FINNHUB_API_KEY:
+        return None
+    end = datetime.datetime.now(datetime.timezone.utc)
+    start = end - datetime.timedelta(days=days_ago + 7)  # buffer for weekends/holidays
+    try:
+        resp = requests.get(
+            "https://finnhub.io/api/v1/stock/candle",
+            params={
+                "symbol": ticker,
+                "resolution": "D",
+                "from": int(start.timestamp()),
+                "to": int(end.timestamp()),
+                "token": FINNHUB_API_KEY,
+            },
+            timeout=15,
+        )
+        resp.raise_for_status()
+        candle = resp.json()
+    except requests.RequestException as e:
+        log(f"WARNING: Finnhub candle fetch failed for {ticker}: {e}")
+        return None
+    if not isinstance(candle, dict) or candle.get("s") != "ok":
+        return None
+    closes = candle.get("c", [])
+    if len(closes) < 2 or not closes[0]:
+        return None
+    return round((closes[-1] - closes[0]) / closes[0] * 100, 2)
+
+
+def compute_biggest_win(allocation: list[dict], tickers: list[str]) -> dict:
+    """Among currently-held tickers, the best-performing one per period.
+    'all' uses the real all_time_gain_pct (since actual purchase price);
+    'month'/'year' use the stock's own price move (no per-position
+    month/year gain is tracked, unlike all-time). Only positive gains
+    count as a "win" - if nothing's up, that period shows nothing."""
+    result = {}
+
+    all_candidates = [
+        (a["ticker"], a["all_time_gain_pct"]) for a in allocation
+        if isinstance(a.get("all_time_gain_pct"), (int, float)) and a["all_time_gain_pct"] > 0
+    ]
+    if all_candidates:
+        ticker, pct = max(all_candidates, key=lambda x: x[1])
+        result["all"] = {"ticker": ticker, "pct": pct}
+
+    # month/year are meant to use fetch_price_change() (Finnhub's candle
+    # endpoint) but that endpoint returns 403 Forbidden on the current
+    # Finnhub plan - confirmed live, not assumed. Left disabled rather
+    # than burning API calls that can never succeed; the site shows "—"
+    # for those two tabs until either the plan is upgraded or another
+    # historical-price source is wired in. Re-enable by uncommenting:
+    #
+    # for period, days in (("month", 30), ("year", 365)):
+    #     candidates = []
+    #     for ticker in tickers:
+    #         pct = fetch_price_change(ticker, days)
+    #         if pct is not None and pct > 0:
+    #             candidates.append((ticker, pct))
+    #     if candidates:
+    #         ticker, pct = max(candidates, key=lambda x: x[1])
+    #         result[period] = {"ticker": ticker, "pct": pct}
+
+    return result
+
+
 def fetch_news_for_ticker(ticker: str) -> list[dict]:
     if not FINNHUB_API_KEY:
         log("WARNING: FINNHUB_API_KEY missing — skipping news fetch")
@@ -427,6 +497,8 @@ def main() -> int:
     for n in news:
         n["logo_url"] = companies.get(n.get("ticker"), {}).get("logo_url")
 
+    biggest_win = compute_biggest_win(allocation, tickers)
+
     posted_tweets = load_json(POSTED_TWEETS_PATH, [])
     posted_tweets = post_pending_tweet(posted_tweets)
 
@@ -437,6 +509,7 @@ def main() -> int:
         "recent_posts": posted_tweets,
         "transactions": transactions,
         "companies": companies,
+        "biggest_win": biggest_win,
         "updated_at": datetime.datetime.now(datetime.timezone.utc).isoformat(),
     }
 

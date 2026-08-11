@@ -33,17 +33,60 @@ function updateGainDisplay() {
     el.textContent = `${value >= 0 ? "▲" : "▼"} ${Math.abs(value).toFixed(2)}%`;
     if (value !== 0) el.classList.add(value > 0 ? "status-good" : "status-critical");
   }
-  document.querySelectorAll(".gain-tab").forEach((btn) => {
+  document.querySelectorAll(".gain-tab:not(.win-tab)").forEach((btn) => {
     const isActive = btn.dataset.period === activeGainPeriod;
     btn.classList.toggle("active", isActive);
     btn.setAttribute("aria-selected", String(isActive));
   });
 }
 
-document.querySelectorAll(".gain-tab").forEach((btn) => {
+document.querySelectorAll(".gain-tab:not(.win-tab)").forEach((btn) => {
   btn.addEventListener("click", () => {
     activeGainPeriod = btn.dataset.period;
     updateGainDisplay();
+  });
+});
+
+// Biggest Win tile: best-performing currently-held ticker per period.
+// "all" is a real gain (since actual purchase price); "month"/"year" are
+// the stock's own price move (no per-position month/year gain is
+// tracked) — see compute_biggest_win() in update_dashboard.py.
+let winValues = {};
+let activeWinPeriod = "all";
+
+function updateWinDisplay() {
+  const el = document.getElementById("stat-win");
+  const subEl = document.getElementById("stat-win-sub");
+  const entry = winValues[activeWinPeriod];
+  el.className = "stat-value";
+  subEl.className = "stat-sub";
+  if (!entry) {
+    el.textContent = "—";
+    subEl.textContent = "";
+  } else {
+    el.textContent = entry.ticker;
+    el.classList.add("status-good");
+    subEl.textContent = `+${entry.pct.toFixed(2)}%`;
+    subEl.classList.add("status-good");
+  }
+  // "all" is my actual gain since purchase; "month"/"year" are the
+  // stock's own price move over that window, not a realized trade gain
+  // (no per-position month/year gain is tracked) - disclose the
+  // difference rather than let "Biggest Win" imply the same thing for both.
+  el.title = activeWinPeriod === "all"
+    ? "Gain since purchase price"
+    : "The stock's own price move over this period, not a realized gain on my position";
+  document.querySelectorAll(".win-tab").forEach((btn) => {
+    const isActive = btn.dataset.period === activeWinPeriod;
+    btn.classList.toggle("active", isActive);
+    btn.setAttribute("aria-selected", String(isActive));
+  });
+}
+
+document.querySelectorAll(".win-tab").forEach((btn) => {
+  btn.addEventListener("click", () => {
+    activeWinPeriod = btn.dataset.period;
+    updateWinDisplay();
   });
 });
 
@@ -105,6 +148,15 @@ function renderStats(data, allocation) {
     if (typeof data[field] === "number") gainValues[period] = data[field];
   }
   updateGainDisplay();
+
+  winValues = {};
+  if (data.biggest_win && typeof data.biggest_win === "object") {
+    for (const period of ["month", "year", "all"]) {
+      const entry = data.biggest_win[period];
+      if (entry && typeof entry.pct === "number" && entry.ticker) winValues[period] = entry;
+    }
+  }
+  updateWinDisplay();
 
   const withChange = allocation.filter((a) => typeof a.day_change_pct === "number");
   if (withChange.length === 0) {
