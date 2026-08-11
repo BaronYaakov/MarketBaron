@@ -2,62 +2,70 @@
   "allocation": [
     {
       "ticker": "AVGO",
-      "percent": 17.75,
+      "percent": 17.78,
       "avg_price": 381.14,
-      "day_change_pct": -0.93,
-      "all_time_gain_pct": 9.79,
+      "day_change_pct": -0.9,
+      "all_time_gain_pct": 9.83,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "B",
-      "percent": 13.76,
+      "percent": 13.77,
       "avg_price": 40.58,
-      "day_change_pct": -0.04,
-      "all_time_gain_pct": -0.04,
+      "day_change_pct": -0.11,
+      "all_time_gain_pct": -0.11,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "CLS",
-      "percent": 13.22,
+      "percent": 13.19,
       "avg_price": 332.2,
-      "day_change_pct": -0.96,
-      "all_time_gain_pct": -6.21,
+      "day_change_pct": -1.3,
+      "all_time_gain_pct": -6.54,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "COR",
-      "percent": 13.96,
+      "percent": 13.98,
       "avg_price": 288.4,
-      "day_change_pct": 1.22,
-      "all_time_gain_pct": 14.07,
+      "day_change_pct": 1.29,
+      "all_time_gain_pct": 14.14,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "ORLY",
-      "percent": 19.81,
+      "percent": 19.8,
       "avg_price": 84.25,
-      "day_change_pct": 1.26,
-      "all_time_gain_pct": 10.85,
+      "day_change_pct": 1.11,
+      "all_time_gain_pct": 10.68,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "PRMB",
-      "percent": 20.02,
+      "percent": 20.04,
       "avg_price": 19.0,
-      "day_change_pct": 0.38,
-      "all_time_gain_pct": 24.18,
+      "day_change_pct": 0.36,
+      "all_time_gain_pct": 24.16,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     }
   ],
   "cash_percent": 1.47,
-  "portfolio_day_change_pct": 0.2,
+  "portfolio_day_change_pct": 0.12,
   "news": [
+    {
+      "ticker": "AMZN",
+      "headline": "Uncover the latest developments among dow jones stocks in today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=dc7b678c7dd4cd6a3402643873b5496c8607351731d4b73f311288116d81b5e8",
+      "datetime": 1786466406,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
     {
       "ticker": "P",
       "headline": "Susquehanna Upgrades Everpure (P)",
@@ -153,14 +161,6 @@
       "url": "https://finnhub.io/api/news?id=d84a10af0083ea21190600bd57bc69360ee397ed9392478174e8a669be3141ce",
       "datetime": 1786436130,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Rocket Lab CEO Won\u2019t Take on Musk and Bezos in Broadband: \u2018The Two Most Wealthiest People in the World Are Going After That\u2019",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=eb1e0cd4e3034f21633a3e1a761d19bc8bf7ae67369ea7ee3302946cc9613017",
-      "datetime": 1786435274,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -499,12 +499,12 @@
       "market_cap_musd": 2009601.795962,
       "country": "US",
       "currency": "USD",
-      "price": 418.8,
+      "price": 418.04,
       "open": 424.58,
       "day_high": 426.76,
-      "day_low": 418.01,
+      "day_low": 417.69,
       "prev_close": 422.4,
-      "day_change_pct": -0.85,
+      "day_change_pct": -1.03,
       "week52_high": 495.0,
       "week52_low": 281.87
     },
@@ -518,12 +518,12 @@
       "market_cap_musd": 102138.991923,
       "country": "CA",
       "currency": "USD",
-      "price": 40.5,
+      "price": 40.54,
       "open": 40.67,
       "day_high": 41.13,
       "day_low": 40.35,
       "prev_close": 40.88,
-      "day_change_pct": -0.93,
+      "day_change_pct": -0.83,
       "week52_high": 74.0,
       "week52_low": 30.53
     },
@@ -537,12 +537,12 @@
       "market_cap_musd": 50995.706165,
       "country": "CA",
       "currency": "USD",
-      "price": 311.31,
+      "price": 309.97,
       "open": 317.55,
       "day_high": 319.08,
       "day_low": 309.5,
       "prev_close": 314.59,
-      "day_change_pct": -1.04,
+      "day_change_pct": -1.47,
       "week52_high": 655.5,
       "week52_low": 240.49
     },
@@ -556,12 +556,12 @@
       "market_cap_musd": 62018.83150635026,
       "country": "US",
       "currency": "USD",
-      "price": 329.19,
+      "price": 329.3,
       "open": 325.45,
       "day_high": 333.19,
       "day_low": 324.3,
       "prev_close": 325.0,
-      "day_change_pct": 1.29,
+      "day_change_pct": 1.32,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -575,12 +575,12 @@
       "market_cap_musd": 74610.458723,
       "country": "US",
       "currency": "USD",
-      "price": 93.28,
+      "price": 93.13,
       "open": 91.63,
       "day_high": 93.85,
       "day_low": 91.63,
       "prev_close": 92.23,
-      "day_change_pct": 1.14,
+      "day_change_pct": 0.98,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -594,12 +594,12 @@
       "market_cap_musd": 8518.943239215529,
       "country": "US",
       "currency": "USD",
-      "price": 23.6,
+      "price": 23.53,
       "open": 23.25,
       "day_high": 23.64,
       "day_low": 23.08,
       "prev_close": 23.51,
-      "day_change_pct": 0.38,
+      "day_change_pct": 0.09,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -613,12 +613,12 @@
       "market_cap_musd": 32569.03690361843,
       "country": "US",
       "currency": "USD",
-      "price": 104.06,
+      "price": 104.6,
       "open": 103.88,
       "day_high": 106.41,
       "day_low": 99.41,
       "prev_close": 97.98,
-      "day_change_pct": 6.21,
+      "day_change_pct": 6.76,
       "week52_high": 102.2,
       "week52_low": 54.37
     },
@@ -632,12 +632,12 @@
       "market_cap_musd": 2999566.146769,
       "country": "US",
       "currency": "USD",
-      "price": 272.13,
+      "price": 271.83,
       "open": 278.1,
       "day_high": 278.84,
       "day_low": 271.42,
       "prev_close": 278.09,
-      "day_change_pct": -2.14,
+      "day_change_pct": -2.25,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -645,8 +645,8 @@
   "biggest_win": {
     "all": {
       "ticker": "PRMB",
-      "pct": 24.18
+      "pct": 24.16
     }
   },
-  "updated_at": "2026-08-11T16:58:17.439061+00:00"
+  "updated_at": "2026-08-11T17:13:17.433123+00:00"
 }
