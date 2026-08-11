@@ -2,10 +2,10 @@
   "allocation": [
     {
       "ticker": "AVGO",
-      "percent": 17.69,
+      "percent": 17.7,
       "avg_price": 381.14,
-      "day_change_pct": -1.45,
-      "all_time_gain_pct": 9.21,
+      "day_change_pct": -1.4,
+      "all_time_gain_pct": 9.27,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
@@ -13,17 +13,17 @@
       "ticker": "B",
       "percent": 13.67,
       "avg_price": 40.58,
-      "day_change_pct": -0.9,
-      "all_time_gain_pct": -0.9,
+      "day_change_pct": -0.91,
+      "all_time_gain_pct": -0.91,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "CLS",
-      "percent": 13.23,
+      "percent": 13.22,
       "avg_price": 332.2,
-      "day_change_pct": -1.02,
-      "all_time_gain_pct": -6.27,
+      "day_change_pct": -1.13,
+      "all_time_gain_pct": -6.38,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
@@ -47,7 +47,7 @@
     },
     {
       "ticker": "PRMB",
-      "percent": 20.06,
+      "percent": 20.07,
       "avg_price": 19.0,
       "day_change_pct": 0.41,
       "all_time_gain_pct": 24.21,
@@ -64,6 +64,14 @@
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=5e82ea525220a53dd44151da8aaa4bfeafc253e4a06b421668990e27ea2e7133",
       "datetime": 1786475405,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Microsoft: Don't Get Too Excited (Rating Downgrade)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=383b148d809392fba2c65840e1db42886431b183a7e1be340b1012550da54a8c",
+      "datetime": 1786468741,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -137,14 +145,6 @@
       "url": "https://finnhub.io/api/news?id=b51caef25b330455fb7821b89033bc051d10659f22bf7d920c40b2a62ee9ac4c",
       "datetime": 1786450963,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Irrational Exuberance On Overdrive",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=57152f925c17d4fffcfdb1b14a93076bffaf0e62424e3cc274a2a3c7fd6cf1b5",
-      "datetime": 1786449699,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -648,5 +648,5 @@
       "pct": 24.21
     }
   },
-  "updated_at": "2026-08-11T21:28:16.494324+00:00"
+  "updated_at": "2026-08-11T21:43:16.763401+00:00"
 }
