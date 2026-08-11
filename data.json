@@ -2,61 +2,61 @@
   "allocation": [
     {
       "ticker": "AVGO",
-      "percent": 17.93,
+      "percent": 17.86,
       "avg_price": 381.14,
-      "day_change_pct": -0.12,
-      "all_time_gain_pct": 10.7,
+      "day_change_pct": -0.42,
+      "all_time_gain_pct": 10.36,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "B",
-      "percent": 13.82,
+      "percent": 13.88,
       "avg_price": 40.58,
-      "day_change_pct": 0.18,
-      "all_time_gain_pct": 0.18,
+      "day_change_pct": 0.76,
+      "all_time_gain_pct": 0.76,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "CLS",
-      "percent": 13.24,
+      "percent": 13.22,
       "avg_price": 332.2,
-      "day_change_pct": -0.95,
-      "all_time_gain_pct": -6.2,
+      "day_change_pct": -0.99,
+      "all_time_gain_pct": -6.24,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "COR",
-      "percent": 14.04,
+      "percent": 13.99,
       "avg_price": 288.4,
-      "day_change_pct": 1.64,
-      "all_time_gain_pct": 14.53,
+      "day_change_pct": 1.38,
+      "all_time_gain_pct": 14.24,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "ORLY",
-      "percent": 19.8,
+      "percent": 19.79,
       "avg_price": 84.25,
-      "day_change_pct": 1.03,
-      "all_time_gain_pct": 10.6,
+      "day_change_pct": 1.11,
+      "all_time_gain_pct": 10.69,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "PRMB",
-      "percent": 19.64,
+      "percent": 19.78,
       "avg_price": 19.0,
-      "day_change_pct": -1.7,
-      "all_time_gain_pct": 21.6,
+      "day_change_pct": -0.89,
+      "all_time_gain_pct": 22.6,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     }
   ],
   "cash_percent": 1.47,
-  "portfolio_day_change_pct": -0.04,
+  "portfolio_day_change_pct": 0.13,
   "news": [
     {
       "ticker": "P",
@@ -81,6 +81,14 @@
       "url": "https://finnhub.io/api/news?id=41a082b7d0aa667533f2bd4bf66269cd06c65559dacd538bfd979a529a3b8155",
       "datetime": 1786440600,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon's Zoox Launches Paid Robotaxi Service In Las Vegas and Says 'We Need To Be Regulated'\u2014 The Smoke Incident That Prompted a Recall Explains Why",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=0eeae98792cf1e0f96b584693645a6b9358d956818b85ca5e7d69bb010026299",
+      "datetime": 1786439748,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -115,6 +123,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "Rocket Lab CEO Won\u2019t Take on Musk and Bezos in Broadband: \u2018The Two Most Wealthiest People in the World Are Going After That\u2019",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=eb1e0cd4e3034f21633a3e1a761d19bc8bf7ae67369ea7ee3302946cc9613017",
+      "datetime": 1786435274,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Hock Tan Reaffirmed Broadcom's $100 Billion AI Forecast. Six Customers Carry Nearly All of It.",
       "source": "Yahoo",
@@ -132,26 +148,10 @@
     },
     {
       "ticker": "AMZN",
-      "headline": "AI\u2019s biggest buildout is here. These stocks offer a way to invest in the data center boom",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=98de8d77052dfb76d7d0a47caa21dc7cf8a16f713bba76fa091baca915a70d43",
-      "datetime": 1786431540,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d029b355388a6c5acf2d341b04dbb4f2e819b031490d7c38d542a8ef4e8eee44",
-      "datetime": 1786425900,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "AMZN Stock to Close Above $300 by August End? Crypto Punters Bet on the Possibility Following Amazon's Impressive Q2 Performance",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b9b235447a8f31e2a0b64f6c2b9aaab8ea02e7021526cac689f0c43ff58ca623",
-      "datetime": 1786422985,
+      "headline": "The AI Mexican Standoff: Who Blinks First in the $1 Trillion Market?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=4ad3594e07c5b0d622cc037619300be1e461e15f43928be05101067c46649340",
+      "datetime": 1786431568,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -446,6 +446,18 @@
   "recent_posts": [],
   "transactions": [
     {
+      "date": "2026-08-11",
+      "ticker": "B",
+      "action": "buy",
+      "price": 40.45
+    },
+    {
+      "date": "2026-08-10",
+      "ticker": "P",
+      "action": "sell",
+      "price": 98.74
+    },
+    {
       "date": "2026-08-03",
       "ticker": "CLS",
       "action": "buy",
@@ -487,16 +499,14 @@
       "market_cap_musd": 2009601.795962,
       "country": "US",
       "currency": "USD",
-      "price": 420.86,
+      "price": 419.71,
       "open": 424.58,
       "day_high": 426.76,
       "day_low": 418.01,
       "prev_close": 422.4,
-      "day_change_pct": -0.36,
+      "day_change_pct": -0.64,
       "week52_high": 495.0,
-      "week52_low": 281.87,
-      "pe_ratio": 68.6,
-      "beta": 1.48
+      "week52_low": 281.87
     },
     "B": {
       "name": "Barrick Mining Corp",
@@ -508,16 +518,14 @@
       "market_cap_musd": 102138.991923,
       "country": "CA",
       "currency": "USD",
-      "price": 40.8,
+      "price": 40.66,
       "open": 40.67,
       "day_high": 41.13,
       "day_low": 40.35,
       "prev_close": 40.88,
-      "day_change_pct": -0.2,
+      "day_change_pct": -0.54,
       "week52_high": 74.0,
-      "week52_low": 30.53,
-      "pe_ratio": 11.97,
-      "beta": 3.04
+      "week52_low": 30.53
     },
     "CLS": {
       "name": "Celestica Inc",
@@ -529,16 +537,14 @@
       "market_cap_musd": 50995.706165,
       "country": "CA",
       "currency": "USD",
-      "price": 311.14,
+      "price": 311.47,
       "open": 317.55,
       "day_high": 319.08,
       "day_low": 309.5,
       "prev_close": 314.59,
-      "day_change_pct": -1.1,
+      "day_change_pct": -0.99,
       "week52_high": 655.5,
-      "week52_low": 240.49,
-      "pe_ratio": 38.16,
-      "beta": 1.76
+      "week52_low": 240.49
     },
     "COR": {
       "name": "Cencora Inc",
@@ -550,16 +556,14 @@
       "market_cap_musd": 62018.83150635026,
       "country": "US",
       "currency": "USD",
-      "price": 329.55,
+      "price": 330.15,
       "open": 325.45,
       "day_high": 333.19,
       "day_low": 324.3,
       "prev_close": 325.0,
-      "day_change_pct": 1.4,
+      "day_change_pct": 1.58,
       "week52_high": 377.54,
-      "week52_low": 244.82,
-      "pe_ratio": 23.63,
-      "beta": 0.58
+      "week52_low": 244.82
     },
     "ORLY": {
       "name": "O'Reilly Automotive Inc",
@@ -571,16 +575,14 @@
       "market_cap_musd": 74610.458723,
       "country": "US",
       "currency": "USD",
-      "price": 93.2,
+      "price": 93.42,
       "open": 91.63,
       "day_high": 93.85,
       "day_low": 91.63,
       "prev_close": 92.23,
-      "day_change_pct": 1.05,
+      "day_change_pct": 1.29,
       "week52_high": 108.72,
-      "week52_low": 82.59,
-      "pe_ratio": 29.05,
-      "beta": 0.54
+      "week52_low": 82.59
     },
     "PRMB": {
       "name": "Primo Brands Corp",
@@ -592,16 +594,14 @@
       "market_cap_musd": 8518.943239215529,
       "country": "US",
       "currency": "USD",
-      "price": 23.29,
+      "price": 23.35,
       "open": 23.25,
       "day_high": 23.47,
       "day_low": 23.08,
       "prev_close": 23.51,
-      "day_change_pct": -0.94,
+      "day_change_pct": -0.68,
       "week52_high": 26.21,
-      "week52_low": 14.36,
-      "pe_ratio": 84.93,
-      "beta": 0.69
+      "week52_low": 14.36
     },
     "P": {
       "name": "Everpure Inc",
@@ -613,16 +613,14 @@
       "market_cap_musd": 32569.03690361843,
       "country": "US",
       "currency": "USD",
-      "price": 104.3,
+      "price": 103.61,
       "open": 103.88,
       "day_high": 106.41,
       "day_low": 99.41,
       "prev_close": 97.98,
-      "day_change_pct": 6.45,
+      "day_change_pct": 5.75,
       "week52_high": 102.2,
-      "week52_low": 54.37,
-      "pe_ratio": 145.11,
-      "beta": 1.47
+      "week52_low": 54.37
     },
     "AMZN": {
       "name": "Amazon.com Inc",
@@ -634,17 +632,15 @@
       "market_cap_musd": 2999566.146769,
       "country": "US",
       "currency": "USD",
-      "price": 273.23,
+      "price": 272.74,
       "open": 278.1,
       "day_high": 278.84,
       "day_low": 272.31,
       "prev_close": 278.09,
-      "day_change_pct": -1.75,
+      "day_change_pct": -1.92,
       "week52_high": 287.2,
-      "week52_low": 196.0,
-      "pe_ratio": 21.89,
-      "beta": 1.47
+      "week52_low": 196.0
     }
   },
-  "updated_at": "2026-08-11T15:28:17.186119+00:00"
+  "updated_at": "2026-08-11T15:42:57.160900+00:00"
 }
