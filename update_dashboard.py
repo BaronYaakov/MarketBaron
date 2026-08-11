@@ -239,8 +239,8 @@ def fetch_quote(ticker: str) -> dict:
 
 
 def fetch_financials(ticker: str) -> dict:
-    """Public basic financials (52-week range, P/E, beta) via Finnhub's
-    metric endpoint — standard public stock-page data, not account data."""
+    """Public basic financials (52-week range) via Finnhub's metric
+    endpoint — standard public stock-page data, not account data."""
     if not FINNHUB_API_KEY:
         return {}
     try:
@@ -259,8 +259,6 @@ def fetch_financials(ticker: str) -> dict:
     fields = {
         "52WeekHigh": "week52_high",
         "52WeekLow": "week52_low",
-        "peBasicExclExtraTTM": "pe_ratio",
-        "beta": "beta",
     }
     result = {}
     for src, dest in fields.items():

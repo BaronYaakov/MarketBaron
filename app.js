@@ -1,6 +1,17 @@
 const SERIES_SLOTS = 8; // --series-1 … --series-8, fixed categorical order
 const MAX_HOLDING_ROWS = SERIES_SLOTS;
 
+// A bare "YYYY-MM-DD" string parses as UTC midnight in JS, which then
+// shifts back a calendar day once toLocaleDateString converts it to any
+// timezone behind UTC. Parse the components directly as a local date
+// instead so the displayed date always matches what was recorded.
+function formatDateOnly(dateStr) {
+  if (!dateStr) return "";
+  const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(dateStr);
+  if (!m) return new Date(dateStr).toLocaleDateString(undefined, { dateStyle: "medium" });
+  return new Date(Number(m[1]), Number(m[2]) - 1, Number(m[3])).toLocaleDateString(undefined, { dateStyle: "medium" });
+}
+
 // Gain tile: account-level returns only (IBKR's own figures — never a
 // per-ticker approximation), switchable by period via the 1D/1M/1Y/All tabs.
 const GAIN_PERIOD_FIELDS = {
@@ -336,9 +347,7 @@ function renderTransactions(transactions) {
 
     const tdDate = document.createElement("td");
     tdDate.className = "col-num";
-    tdDate.textContent = t.date ? new Date(t.date).toLocaleDateString(undefined, {
-      dateStyle: "medium",
-    }) : "";
+    tdDate.textContent = formatDateOnly(t.date);
 
     const tdPrice = document.createElement("td");
     tdPrice.className = "col-num";

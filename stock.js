@@ -7,6 +7,16 @@ function shortExchangeName(exchange) {
   return KNOWN[name.toUpperCase()] || name;
 }
 
+// See app.js's formatDateOnly for why this matters: a bare "YYYY-MM-DD"
+// parses as UTC midnight and can shift back a calendar day once displayed
+// in a timezone behind UTC.
+function formatDateOnly(dateStr) {
+  if (!dateStr) return "";
+  const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(dateStr);
+  if (!m) return new Date(dateStr).toLocaleDateString(undefined, { dateStyle: "medium" });
+  return new Date(Number(m[1]), Number(m[2]) - 1, Number(m[3])).toLocaleDateString(undefined, { dateStyle: "medium" });
+}
+
 function formatChange(pct) {
   const span = document.createElement("span");
   if (typeof pct !== "number" || Number.isNaN(pct)) {
@@ -107,10 +117,6 @@ async function loadStockPage() {
       ? `$${companyData.week52_low.toFixed(2)} – $${companyData.week52_high.toFixed(2)}`
       : "—";
 
-  const pe = typeof companyData.pe_ratio === "number" ? companyData.pe_ratio.toFixed(1) : "—";
-  const beta = typeof companyData.beta === "number" ? companyData.beta.toFixed(2) : "—";
-  document.getElementById("quote-pe").textContent = `${pe} · ${beta}`;
-
   const positionStats = document.getElementById("position-stats");
   const positionNote = document.getElementById("position-note");
   const closedNote = document.getElementById("closed-position-note");
@@ -174,7 +180,7 @@ async function loadStockPage() {
       tdAction.appendChild(badge);
       const tdDate = document.createElement("td");
       tdDate.className = "col-num";
-      tdDate.textContent = t.date ? new Date(t.date).toLocaleDateString(undefined, { dateStyle: "medium" }) : "";
+      tdDate.textContent = formatDateOnly(t.date);
       const tdPrice = document.createElement("td");
       tdPrice.className = "col-num";
       tdPrice.textContent = typeof t.price === "number" ? `$${t.price.toFixed(2)}` : "—";
