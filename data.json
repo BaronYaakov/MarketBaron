@@ -75,6 +75,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "Hyperscalers Are 'All In' On Singularity, And OpenAI's Astra Gives Hope",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3fdd8e6cedbdfd6d69208ce3df11f071f2d801b79b60a4325f8e6e15b558f252",
+      "datetime": 1786433400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "AI\u2019s biggest buildout is here. These stocks offer a way to invest in the data center boom",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=98de8d77052dfb76d7d0a47caa21dc7cf8a16f713bba76fa091baca915a70d43",
@@ -95,14 +103,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b9b235447a8f31e2a0b64f6c2b9aaab8ea02e7021526cac689f0c43ff58ca623",
       "datetime": 1786422985,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Is FedEx (FDX) Using Robotics To Sharpen Its Cost Edge Or Just Keep Pace With Rivals?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c59fcc9f4e9677563701370752cd48d371e54493fc7f0373acf499cf9bdde757",
-      "datetime": 1786414131,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -568,5 +568,5 @@
       "beta": 1.47
     }
   },
-  "updated_at": "2026-08-11T11:43:13.636666+00:00"
+  "updated_at": "2026-08-11T11:58:13.809644+00:00"
 }
