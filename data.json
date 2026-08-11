@@ -2,25 +2,25 @@
   "allocation": [
     {
       "ticker": "AVGO",
-      "percent": 17.96,
+      "percent": 17.95,
       "avg_price": 381.14,
-      "day_change_pct": 0.07,
-      "all_time_gain_pct": 10.91,
+      "day_change_pct": 0.06,
+      "all_time_gain_pct": 10.9,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
-      "percent": 13.39,
+      "percent": 13.45,
       "avg_price": 332.2,
-      "day_change_pct": 0.14,
-      "all_time_gain_pct": -5.17,
+      "day_change_pct": 0.67,
+      "all_time_gain_pct": -4.67,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "COR",
-      "percent": 13.81,
+      "percent": 13.8,
       "avg_price": 288.4,
       "day_change_pct": 0.0,
       "all_time_gain_pct": 12.69,
@@ -29,7 +29,7 @@
     },
     {
       "ticker": "ORLY",
-      "percent": 19.58,
+      "percent": 19.56,
       "avg_price": 84.25,
       "day_change_pct": -0.12,
       "all_time_gain_pct": 9.34,
@@ -38,7 +38,7 @@
     },
     {
       "ticker": "PRMB",
-      "percent": 20.09,
+      "percent": 20.07,
       "avg_price": 19.0,
       "day_change_pct": 0.51,
       "all_time_gain_pct": 24.34,
@@ -46,8 +46,8 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     }
   ],
-  "cash_percent": 15.27,
-  "portfolio_day_change_pct": 0.13,
+  "cash_percent": 15.26,
+  "portfolio_day_change_pct": 0.21,
   "news": [
     {
       "ticker": "AMZN",
@@ -568,5 +568,5 @@
       "beta": 1.47
     }
   },
-  "updated_at": "2026-08-11T09:43:13.253734+00:00"
+  "updated_at": "2026-08-11T09:58:13.529440+00:00"
 }
