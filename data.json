@@ -2,10 +2,10 @@
   "allocation": [
     {
       "ticker": "AVGO",
-      "percent": 17.95,
+      "percent": 17.93,
       "avg_price": 381.14,
-      "day_change_pct": 0.06,
-      "all_time_gain_pct": 10.9,
+      "day_change_pct": -0.05,
+      "all_time_gain_pct": 10.77,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
@@ -20,7 +20,7 @@
     },
     {
       "ticker": "COR",
-      "percent": 13.8,
+      "percent": 13.81,
       "avg_price": 288.4,
       "day_change_pct": 0.0,
       "all_time_gain_pct": 12.69,
@@ -29,7 +29,7 @@
     },
     {
       "ticker": "ORLY",
-      "percent": 19.56,
+      "percent": 19.57,
       "avg_price": 84.25,
       "day_change_pct": -0.12,
       "all_time_gain_pct": 9.34,
@@ -38,7 +38,7 @@
     },
     {
       "ticker": "PRMB",
-      "percent": 20.07,
+      "percent": 20.08,
       "avg_price": 19.0,
       "day_change_pct": 0.51,
       "all_time_gain_pct": 24.34,
@@ -47,8 +47,40 @@
     }
   ],
   "cash_percent": 15.26,
-  "portfolio_day_change_pct": 0.21,
+  "portfolio_day_change_pct": 0.19,
   "news": [
+    {
+      "ticker": "AMZN",
+      "headline": "This AI Cloud Stock Is Obliterating Amazon, Microsoft, and Alphabet With a 1-Year Return of 275%. Is It Still a Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8ebe30cd8b7dc05c7c9e8a6b162056fbf75580e6b037e11f3f877315b7f675aa",
+      "datetime": 1786438500,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Behind AI Investment, U.S. Trade Deficit Grows 4th Consecutive Month",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=97266ac649cf852f084780ba4da523061c75fc6f30e2f3e68c46be61a81d018f",
+      "datetime": 1786437900,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Hock Tan Reaffirmed Broadcom's $100 Billion AI Forecast. Six Customers Carry Nearly All of It.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=951f29b3a876182a9529777c2c3dfd11feab683033dfc438abd550f3e2be61d4",
+      "datetime": 1786435260,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "AI\u2019s biggest buildout is here. These stocks offer a way to invest in the data center boom",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=98de8d77052dfb76d7d0a47caa21dc7cf8a16f713bba76fa091baca915a70d43",
+      "datetime": 1786431540,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
     {
       "ticker": "AMZN",
       "headline": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
@@ -71,30 +103,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c59fcc9f4e9677563701370752cd48d371e54493fc7f0373acf499cf9bdde757",
       "datetime": 1786414131,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Dow Jones Futures: Trump Claims 'Control' Of Strait Of Hormuz; SpaceX Rival Rocket Lab Dives On Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5ef4b2b2c7acca96aa82b9012e9994ee7882df64bd05adaa359f627b3a89dbda",
-      "datetime": 1786414114,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Nvidia, Wall Street firms plan $500 billion AI infrastructure push",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ec30c87fc0de235dd20224c2abb5029f534e0b9f34206dd993e489fbf8a18924",
-      "datetime": 1786406611,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Stock And The Profit Signal Everyone Is Chasing",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1ef8bf9beed7f6643ed155c5b0b9106cc42a3358657037aad5fa6a82a8e7f533",
-      "datetime": 1786402077,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -151,14 +159,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=f976cb7345c637c9376ffbd487b7bc0620dbb2a68cf625bff8a36e08486268bf",
       "datetime": 1786383000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Boosts VCF Security: Can it Fend Off Nutanix and IBM?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e24104c38ab21d258dc2ebcfe835b77949c7b85d0a9537bfc7ee887c85c88a77",
-      "datetime": 1786378740,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -568,5 +568,5 @@
       "beta": 1.47
     }
   },
-  "updated_at": "2026-08-11T09:58:13.529440+00:00"
+  "updated_at": "2026-08-11T10:13:13.466456+00:00"
 }
