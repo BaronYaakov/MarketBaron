@@ -2,10 +2,10 @@
   "allocation": [
     {
       "ticker": "AVGO",
-      "percent": 17.94,
+      "percent": 17.93,
       "avg_price": 381.14,
-      "day_change_pct": -1.23,
-      "all_time_gain_pct": 10.85,
+      "day_change_pct": -1.28,
+      "all_time_gain_pct": 10.79,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
@@ -13,7 +13,7 @@
       "ticker": "CLS",
       "percent": 13.4,
       "avg_price": 332.2,
-      "day_change_pct": -0.73,
+      "day_change_pct": -0.74,
       "all_time_gain_pct": -5.03,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
@@ -29,7 +29,7 @@
     },
     {
       "ticker": "ORLY",
-      "percent": 19.6,
+      "percent": 19.61,
       "avg_price": 84.25,
       "day_change_pct": -1.29,
       "all_time_gain_pct": 9.58,
@@ -38,7 +38,7 @@
     },
     {
       "ticker": "PRMB",
-      "percent": 19.96,
+      "percent": 19.97,
       "avg_price": 19.0,
       "day_change_pct": -0.25,
       "all_time_gain_pct": 23.71,
@@ -46,9 +46,41 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     }
   ],
-  "cash_percent": 15.25,
-  "portfolio_day_change_pct": -0.51,
+  "cash_percent": 15.26,
+  "portfolio_day_change_pct": -0.53,
   "news": [
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Stock And The Profit Signal Everyone Is Chasing",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1ef8bf9beed7f6643ed155c5b0b9106cc42a3358657037aad5fa6a82a8e7f533",
+      "datetime": 1786402077,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon.com vs. Chewy: Which Consumer Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0f57be225d2d9c1bc10f7f0999c9a86af5a0b63db5521ff58b54d6509695cacb",
+      "datetime": 1786401181,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Microsoft Stock Runs One Of The Market's Biggest Cash-Return Machines",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=68aef218e98284dffbe7165a577e58dc5bddcb93a98b8c46bf2057f8df71060a",
+      "datetime": 1786400355,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "VYM\u2019s 2.2% Yield Hides $141,000 in Decade-Long Underperformance Versus the S&P 500",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a445b24404d24547a17ed83fb605a2a9c3a72a85b230744c648f0400df5bcb59",
+      "datetime": 1786399516,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
     {
       "ticker": "AMZN",
       "headline": "Airbnb Is Starting To Think Like Amazon's Jeff Bezos, And It's Paying Off",
@@ -74,28 +106,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Dow Jones Futures: Surging Oil Prices Spark Stock Market Losses; SpaceX Rival Rocket Lab Dives On Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7bc00807e1385f574a295126915f74885d10ff16f17a10f942c9b3398e9c09f5",
-      "datetime": 1786397759,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Semiconductor Equipment Makers vs. Chip Designers: Who's Actually Winning the AI Cycle?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=94dd9db0b4c840d4571610fb3bdafaa2702e7bd304c2ebe7b4cf9f81dbd2163a",
       "datetime": 1786395000,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "NFLX Stock: Where Compounding Could Take The Price",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d49c7892030a71fe336467151252cffdeb15ee6b65a538fdd13da98b62e6bcbb",
-      "datetime": 1786394436,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -112,14 +128,6 @@
       "url": "https://finnhub.io/api/news?id=d6e159839af405332cee0df56f8dd0c06e3250028fe1aebafbdab77db5ba36b8",
       "datetime": 1786392600,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "JPMorgan Stock Rises as Bank Lifts S&P Target to 8,000",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=33cc1e557a329b2c4f9e4c1012f7956483595d03a28c40cac09a742634571123",
-      "datetime": 1786392123,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -151,14 +159,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e24104c38ab21d258dc2ebcfe835b77949c7b85d0a9537bfc7ee887c85c88a77",
       "datetime": 1786378740,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Cerebras Q2 Earnings Loom: Buy or Sell CBRS Stock Ahead of Results?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=09465b77cdc52ed4ca08e678a9eda6789afbee85d5b5b56df095a91cfc2e51f9",
-      "datetime": 1786378020,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -427,7 +427,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 2035102.4660328242,
+      "market_cap_musd": 2009601.8708780848,
       "country": "US",
       "currency": "USD",
       "price": 422.4,
@@ -448,7 +448,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.celestica.com/",
       "ipo_date": "1998-07-01",
-      "market_cap_musd": 50896.819747,
+      "market_cap_musd": 50995.706165,
       "country": "CA",
       "currency": "USD",
       "price": 314.59,
@@ -469,7 +469,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 61152.47960566185,
+      "market_cap_musd": 62018.83150635026,
       "country": "US",
       "currency": "USD",
       "price": 325.0,
@@ -490,7 +490,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 77509.72444996209,
+      "market_cap_musd": 76432.39155880007,
       "country": "US",
       "currency": "USD",
       "price": 92.23,
@@ -511,7 +511,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 8540.684537079047,
+      "market_cap_musd": 8518.943239215529,
       "country": "US",
       "currency": "USD",
       "price": 23.51,
@@ -532,7 +532,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 29933.065377021547,
+      "market_cap_musd": 32569.03690361843,
       "country": "US",
       "currency": "USD",
       "price": 97.98,
@@ -553,7 +553,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2960627.6972878375,
+      "market_cap_musd": 2999566.30633034,
       "country": "US",
       "currency": "USD",
       "price": 278.09,
@@ -568,5 +568,5 @@
       "beta": 1.47
     }
   },
-  "updated_at": "2026-08-10T23:28:14.683891+00:00"
+  "updated_at": "2026-08-11T00:43:14.114562+00:00"
 }
