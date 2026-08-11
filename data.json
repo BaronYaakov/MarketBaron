@@ -2,10 +2,10 @@
   "allocation": [
     {
       "ticker": "AVGO",
-      "percent": 18.01,
+      "percent": 17.99,
       "avg_price": 381.14,
-      "day_change_pct": 0.4,
-      "all_time_gain_pct": 11.27,
+      "day_change_pct": 0.28,
+      "all_time_gain_pct": 11.14,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
@@ -47,7 +47,7 @@
     }
   ],
   "cash_percent": 15.25,
-  "portfolio_day_change_pct": 0.3,
+  "portfolio_day_change_pct": 0.27,
   "news": [
     {
       "ticker": "AMZN",
@@ -568,5 +568,5 @@
       "beta": 1.47
     }
   },
-  "updated_at": "2026-08-11T02:28:13.343298+00:00"
+  "updated_at": "2026-08-11T02:43:18.707850+00:00"
 }
