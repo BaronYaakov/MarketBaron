@@ -1,3 +1,12 @@
+// Finnhub's raw exchange field is verbose ("NASDAQ NMS - GLOBAL MARKET",
+// "NEW YORK STOCK EXCHANGE, INC."). Trim to the common short form.
+function shortExchangeName(exchange) {
+  if (!exchange) return exchange;
+  let name = exchange.split(" - ")[0].replace(/,?\s*INC\.?$/i, "").trim();
+  const KNOWN = { "NEW YORK STOCK EXCHANGE": "NYSE", "NASDAQ NMS": "NASDAQ" };
+  return KNOWN[name.toUpperCase()] || name;
+}
+
 function formatChange(pct) {
   const span = document.createElement("span");
   if (typeof pct !== "number" || Number.isNaN(pct)) {
@@ -78,7 +87,7 @@ async function loadStockPage() {
   document.getElementById("company-name").textContent = companyData.name || ticker;
   document.getElementById("company-sub").textContent = [
     ticker,
-    companyData.exchange,
+    shortExchangeName(companyData.exchange),
     companyData.industry,
   ].filter(Boolean).join(" · ");
 

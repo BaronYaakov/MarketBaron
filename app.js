@@ -73,7 +73,12 @@ function render(data) {
 
   renderStats(data, allocation);
   renderHoldings(allocation, data.cash_percent);
-  renderNews(news);
+
+  // data.news includes every ticker ever transacted (closed positions need
+  // that for their own stock.html page) — the homepage should only surface
+  // news for what's actually currently held.
+  const heldTickers = new Set(allocation.map((a) => a.ticker));
+  renderNews(news.filter((n) => heldTickers.has(n.ticker)));
   renderTransactions(transactions);
 }
 

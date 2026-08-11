@@ -165,9 +165,13 @@ body {
 }
 
 .mini-stats {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1.75rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 1.5rem;
+}
+
+.mini-stats[hidden] {
+  display: none;
 }
 
 .mini-stat {
@@ -197,20 +201,20 @@ body {
 main {
   display: flex;
   flex-direction: column;
-  gap: 1rem;
+  gap: 1.5rem;
 }
 
 .stat-row {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-  gap: 1rem;
+  gap: 1.25rem;
 }
 
 .stat-tile {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: 14px;
-  padding: 1.1rem 1.3rem;
+  padding: 1.4rem;
   display: flex;
   flex-direction: column;
   gap: 0.3rem;
@@ -288,7 +292,7 @@ main {
 .panel-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 1rem;
+  gap: 1.25rem;
 }
 
 .panel {
@@ -338,9 +342,14 @@ main {
   text-transform: uppercase;
   letter-spacing: 0.05em;
   color: var(--ink-muted);
-  padding: 0 0 0.6rem;
+  padding: 0 0 0.6rem 1rem;
   border-bottom: 1px solid var(--baseline);
   white-space: nowrap;
+}
+
+.data-table th:first-child,
+.data-table td:first-child {
+  padding-left: 0;
 }
 
 .data-table th.col-ticker {
@@ -348,7 +357,7 @@ main {
 }
 
 .data-table td {
-  padding: 0.65rem 0;
+  padding: 0.65rem 0 0.65rem 1rem;
   border-bottom: 1px solid var(--gridline);
   text-align: right;
   font-variant-numeric: tabular-nums;
