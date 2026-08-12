@@ -11,7 +11,7 @@
     },
     {
       "ticker": "B",
-      "percent": 13.61,
+      "percent": 13.62,
       "avg_price": 40.58,
       "day_change_pct": -0.2,
       "all_time_gain_pct": -1.29,
@@ -648,5 +648,5 @@
       "pct": 24.21
     }
   },
-  "updated_at": "2026-08-12T00:58:18.815446+00:00"
+  "updated_at": "2026-08-12T01:13:17.604178+00:00"
 }
