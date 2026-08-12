@@ -2,10 +2,10 @@
   "allocation": [
     {
       "ticker": "AVGO",
-      "percent": 17.71,
+      "percent": 17.7,
       "avg_price": 381.14,
-      "day_change_pct": 0.16,
-      "all_time_gain_pct": 9.34,
+      "day_change_pct": 0.11,
+      "all_time_gain_pct": 9.29,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
@@ -41,7 +41,7 @@
       "percent": 19.61,
       "avg_price": 84.25,
       "day_change_pct": -0.29,
-      "all_time_gain_pct": 9.55,
+      "all_time_gain_pct": 9.56,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
@@ -56,7 +56,7 @@
     }
   ],
   "cash_percent": 1.47,
-  "portfolio_day_change_pct": 0.21,
+  "portfolio_day_change_pct": 0.2,
   "news": [
     {
       "ticker": "AMZN",
@@ -648,5 +648,5 @@
       "pct": 24.21
     }
   },
-  "updated_at": "2026-08-12T03:43:15.987959+00:00"
+  "updated_at": "2026-08-12T03:58:16.243003+00:00"
 }
