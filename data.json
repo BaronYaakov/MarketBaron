@@ -2,19 +2,19 @@
   "allocation": [
     {
       "ticker": "AVGO",
-      "percent": 17.71,
+      "percent": 17.7,
       "avg_price": 381.14,
-      "day_change_pct": -1.38,
-      "all_time_gain_pct": 9.3,
+      "day_change_pct": 0.11,
+      "all_time_gain_pct": 9.29,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "B",
-      "percent": 13.64,
+      "percent": 13.61,
       "avg_price": 40.58,
-      "day_change_pct": -1.16,
-      "all_time_gain_pct": -1.16,
+      "day_change_pct": -0.2,
+      "all_time_gain_pct": -1.29,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
@@ -22,8 +22,8 @@
       "ticker": "CLS",
       "percent": 13.24,
       "avg_price": 332.2,
-      "day_change_pct": -0.95,
-      "all_time_gain_pct": -6.2,
+      "day_change_pct": 0.36,
+      "all_time_gain_pct": -6.23,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
@@ -31,7 +31,7 @@
       "ticker": "COR",
       "percent": 14.17,
       "avg_price": 288.4,
-      "day_change_pct": 2.62,
+      "day_change_pct": -0.11,
       "all_time_gain_pct": 15.64,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
@@ -40,23 +40,23 @@
       "ticker": "ORLY",
       "percent": 19.5,
       "avg_price": 84.25,
-      "day_change_pct": -0.51,
+      "day_change_pct": -0.88,
       "all_time_gain_pct": 8.91,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "PRMB",
-      "percent": 20.07,
+      "percent": 20.06,
       "avg_price": 19.0,
-      "day_change_pct": 0.41,
+      "day_change_pct": -0.02,
       "all_time_gain_pct": 24.21,
       "day_change_source": "ibkr",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     }
   ],
   "cash_percent": 1.47,
-  "portfolio_day_change_pct": -0.19,
+  "portfolio_day_change_pct": -0.15,
   "news": [
     {
       "ticker": "AMZN",
@@ -496,7 +496,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 2009601.795962,
+      "market_cap_musd": 1979533.89030272,
       "country": "US",
       "currency": "USD",
       "price": 416.08,
@@ -515,7 +515,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.barrick.com/",
       "ipo_date": "1983-05-02",
-      "market_cap_musd": 102138.991923,
+      "market_cap_musd": 95554.24331,
       "country": "CA",
       "currency": "USD",
       "price": 40.13,
@@ -534,7 +534,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.celestica.com/",
       "ipo_date": "1998-07-01",
-      "market_cap_musd": 50995.706165,
+      "market_cap_musd": 50593.268864,
       "country": "CA",
       "currency": "USD",
       "price": 310.38,
@@ -553,7 +553,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 62018.83150635026,
+      "market_cap_musd": 63711.47023732062,
       "country": "US",
       "currency": "USD",
       "price": 333.87,
@@ -572,7 +572,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 74610.458723,
+      "market_cap_musd": 74885.50541025815,
       "country": "US",
       "currency": "USD",
       "price": 92.57,
@@ -591,7 +591,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 8518.943239215529,
+      "market_cap_musd": 8555.17883579413,
       "country": "US",
       "currency": "USD",
       "price": 23.61,
@@ -610,7 +610,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 32569.03690361843,
+      "market_cap_musd": 36358.45333611023,
       "country": "US",
       "currency": "USD",
       "price": 109.38,
@@ -629,7 +629,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2999566.146769,
+      "market_cap_musd": 2936789.7974784984,
       "country": "US",
       "currency": "USD",
       "price": 272.27,
@@ -648,5 +648,5 @@
       "pct": 24.21
     }
   },
-  "updated_at": "2026-08-11T23:58:19.789913+00:00"
+  "updated_at": "2026-08-12T00:58:18.815446+00:00"
 }
