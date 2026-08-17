@@ -60,11 +60,35 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "These S&P500 stocks are the most active in today's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=a245f182d8a1d967af429370e7a6ae69b57fe2b551fd2b28df79504cb335ba28",
+      "datetime": 1786989900,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Why I Like Alphabet's Debt (Rating Upgrade)",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=fff8288435cd26a239c8b7c2fa38d9012a701470a99e9d2e014d4e5d2cc84cdf",
       "datetime": 1786974355,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Anthropic's Revenue Jumps 14x; Chinese AI Targets Nvidia's Moat",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=55b16960fc5530a3a894d5bd5a104f289290cc1784c955f3127ce2a195b4dc6b",
+      "datetime": 1786973866,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "7 Information Technology Stocks With Whale Alerts In Today\u2019s Session",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=6b3d9f6d0b35974ecf161bbdd4062b34a79f2d665e4b337536367549b0ad7112",
+      "datetime": 1786973716,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "AVGO",
@@ -100,10 +124,10 @@
     },
     {
       "ticker": "AMZN",
-      "headline": "Nvidia: One Number In Q2 Decides Where This Stock Goes",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b47b350b282d296daa35eac5e76c4c1f74454410dc092e3cd0bf3265d67bc471",
-      "datetime": 1786967972,
+      "headline": "New York\u2019s Factory Activity Expands to 4-Year Highs: Is AI Powering a Manufacturing Boom?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a817c666393093e4a9d81baac892b4c9159124bdf11d753424efa2f371287bcb",
+      "datetime": 1786969428,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -113,22 +137,6 @@
       "url": "https://finnhub.io/api/news?id=856f50db1b08b71463c96c56a4403068cae8d2c80f7a7deb5fc7bf43353d1c68",
       "datetime": 1786966500,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Wall Street Lunch: McDonald's Menu Gets Energy Boost With Red Bull",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=856f50db1b08b71463c96c56a4403068cae8d2c80f7a7deb5fc7bf43353d1c68",
-      "datetime": 1786966500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The S&P 500's 50% Earnings Boom Comes With A Giant Asterisk",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=82bad46a5349dcc7d397c8ac4e7910af4dca8f32a45e7f0d4ea06a23509cea1e",
-      "datetime": 1786964082,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -393,14 +401,6 @@
       "url": "https://finnhub.io/api/news?id=028c260e733a39110487cb45ee60e31fb6b8a55d5741da0abb0a805912ee9571",
       "datetime": 1786543629,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Boeing upgraded, Under Armour downgraded: Wall Street's top analyst calls",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7504c0ebdb35873be5d7ecd609349b4328e77b4cd540d93061d6e62584bac82d",
-      "datetime": 1786455538,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     }
   ],
   "recent_posts": [],
@@ -459,12 +459,12 @@
       "market_cap_musd": 1872250.5209645792,
       "country": "US",
       "currency": "USD",
-      "price": 394.43,
+      "price": 394.2,
       "open": 397.38,
       "day_high": 399.36,
       "day_low": 392.05,
       "prev_close": 392.99,
-      "day_change_pct": 0.37,
+      "day_change_pct": 0.31,
       "week52_high": 495.0,
       "week52_low": 281.87
     },
@@ -478,12 +478,12 @@
       "market_cap_musd": 93947.084532,
       "country": "CA",
       "currency": "USD",
-      "price": 42.62,
+      "price": 42.61,
       "open": 41.95,
       "day_high": 42.95,
       "day_low": 41.59,
       "prev_close": 41.6,
-      "day_change_pct": 2.45,
+      "day_change_pct": 2.43,
       "week52_high": 74.0,
       "week52_low": 32.34
     },
@@ -497,12 +497,12 @@
       "market_cap_musd": 55735.267898,
       "country": "CA",
       "currency": "USD",
-      "price": 345.35,
+      "price": 346.16,
       "open": 339.82,
-      "day_high": 345.92,
+      "day_high": 346.24,
       "day_low": 335.63,
       "prev_close": 335.05,
-      "day_change_pct": 3.07,
+      "day_change_pct": 3.32,
       "week52_high": 655.5,
       "week52_low": 240.49
     },
@@ -516,12 +516,12 @@
       "market_cap_musd": 59559.07269942651,
       "country": "US",
       "currency": "USD",
-      "price": 314.35,
+      "price": 312.16,
       "open": 311.98,
       "day_high": 318.23,
       "day_low": 311.93,
       "prev_close": 313.82,
-      "day_change_pct": 0.17,
+      "day_change_pct": -0.53,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -535,12 +535,12 @@
       "market_cap_musd": 73785.31743493778,
       "country": "US",
       "currency": "USD",
-      "price": 90.5,
+      "price": 90.4,
       "open": 90.25,
       "day_high": 91.33,
       "day_low": 89.37,
       "prev_close": 91.05,
-      "day_change_pct": -0.6,
+      "day_change_pct": -0.71,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -554,12 +554,12 @@
       "market_cap_musd": 8957.391896943078,
       "country": "US",
       "currency": "USD",
-      "price": 24.29,
+      "price": 24.22,
       "open": 24.45,
       "day_high": 24.67,
-      "day_low": 24.21,
+      "day_low": 24.18,
       "prev_close": 24.7,
-      "day_change_pct": -1.66,
+      "day_change_pct": -1.94,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -573,12 +573,12 @@
       "market_cap_musd": 39114.08851569484,
       "country": "US",
       "currency": "USD",
-      "price": 117.81,
+      "price": 117.89,
       "open": 118.03,
       "day_high": 118.64,
       "day_low": 115.28,
       "prev_close": 118.16,
-      "day_change_pct": -0.3,
+      "day_change_pct": -0.23,
       "week52_high": 118.81,
       "week52_low": 54.37
     },
@@ -592,12 +592,12 @@
       "market_cap_musd": 2842193.9107426074,
       "country": "US",
       "currency": "USD",
-      "price": 259.67,
+      "price": 259.63,
       "open": 265.02,
       "day_high": 265.75,
       "day_low": 258.34,
       "prev_close": 262.65,
-      "day_change_pct": -1.13,
+      "day_change_pct": -1.15,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-17T18:28:14.968896+00:00"
+  "updated_at": "2026-08-17T18:58:16.079452+00:00"
 }
