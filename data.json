@@ -68,6 +68,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "S&P 500: The Bull Market That Won't Die",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f1ec8a7314ab03eed420d0cfdb18ac85d4f8ea02b5035e8dcef764cb10dd5a17",
+      "datetime": 1786986000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Q2 2026 U.S. Retail Preview: Broadline Retail Drives Growth",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=ae35c7b3404a52908905c4837dd0989fe676edb413a0ccdea07c6c3c7a8082ea",
@@ -96,14 +104,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=fff8288435cd26a239c8b7c2fa38d9012a701470a99e9d2e014d4e5d2cc84cdf",
       "datetime": 1786974355,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Anthropic's Revenue Jumps 14x; Chinese AI Targets Nvidia's Moat",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=55b16960fc5530a3a894d5bd5a104f289290cc1784c955f3127ce2a195b4dc6b",
-      "datetime": 1786973866,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-17T20:43:15.771560+00:00"
+  "updated_at": "2026-08-17T21:28:15.369704+00:00"
 }
