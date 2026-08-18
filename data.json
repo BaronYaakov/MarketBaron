@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Walmart Earnings Preview: The Flywheel Is Still Flywheelin' But Ultimately, Operating Margin Needs To Improve",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=41c926e79635cc81075e9e16882bf4e10334111d26af900db9cce5718e10f4b6",
+      "datetime": 1787010000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Tracking Seth Klarman's Baupost Group Holdings - Q2 2026 Update",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=adf36bd6d8d33f0eda81a3ffe443bb9cac2a47726dfa0107317ec0ca23d0c555",
@@ -120,14 +128,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=a130eb5ccc115937cfee96664a88dd3c404581ca5c3938b927a0689b973ddf50",
       "datetime": 1786980472,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Q2 2026 U.S. Retail Preview: Broadline Retail Drives Growth",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ae35c7b3404a52908905c4837dd0989fe676edb413a0ccdea07c6c3c7a8082ea",
-      "datetime": 1786979460,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-18T03:28:15.627997+00:00"
+  "updated_at": "2026-08-18T04:43:16.288780+00:00"
 }
