@@ -68,6 +68,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "ReNew Energy: The Buy Paid Off, But Now It's Time To Hold (Rating Downgrade)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f7edbc3ed471f9093691c66f152989caca89da0b3b41e19da47bf4021190bf3b",
+      "datetime": 1787077386,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Curious about the most active S&P500 stocks in today's session?",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=24c9996a10530fa6a0427d69ff6a313d93278a413a4647420282430a58033efa",
@@ -96,14 +104,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=8dd69aabbe43c613b7278c0d5e797403c3ad736312c150014a177208d23e5709",
       "datetime": 1787066531,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Gary Black Says Tesla Bulls On Social Media Are Like College Students Doing 'Tequila Shots'",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=447d6a489d6659c3dfaaeed3bfbfc33ad8683ebe0e0cad099bb81656e167b5af",
-      "datetime": 1787063849,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-18T22:28:14.159561+00:00"
+  "updated_at": "2026-08-18T22:43:14.620439+00:00"
 }
