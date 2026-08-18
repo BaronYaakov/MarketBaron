@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "B",
+      "headline": "Barrick Mining (NYSE:B) Shows High Growth Momentum With a Breakout Setup",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=4780646c07673941f79502b8f795030e71bea0f27d85674e52471b18d207ab2a",
+      "datetime": 1787049120,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Iran Risk and Oil Above $90 Snap the Rally as Memory Chips Do the Heavy Lifting and Reddit Wobbles Into the S&P 500",
       "source": "ChartMill",
@@ -331,14 +339,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     },
     {
-      "ticker": "B",
-      "headline": "My Take on Barrick Mining's Pullback: This Is a Buying Window, Not a Red Flag.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b27903f9b250cf4748a3e664bad9b2824bf6657df9b5487f2979afd886d577c5",
-      "datetime": 1786629900,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "1 S&P 500 Stock on Our Buy List and 2 Facing Challenges",
       "source": "Yahoo",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-18T10:43:14.827622+00:00"
+  "updated_at": "2026-08-18T10:58:14.814622+00:00"
 }
