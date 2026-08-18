@@ -67,6 +67,22 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "BST: This Income Machine Can Still Work After Reaching $50",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b5c380b6b2e2927db6bc86716c92f45dc841432586987086e79ae1897f03d2c6",
+      "datetime": 1787041816,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "AI Is Not A Bubble: 4 Income Ideas To Ride The Wave",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=77453322fe1810b5de21ec7eeeb1b8a7a5d439d60f9c8386cc5c4778857532e8",
+      "datetime": 1787041800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Iran Risk and Oil Above $90 Snap the Rally as Memory Chips Do the Heavy Lifting and Reddit Wobbles Into the S&P 500",
       "source": "ChartMill",
@@ -160,22 +176,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=99bbd93655f6d558273716de61c40d7ec81cd1655ef6ad3b4315a3368c658635",
       "datetime": 1786972890,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Dan Loeb Exits Nvidia, Meta And Broadcom \u2014 Bets Big On Warner Bros. Discovery",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=39c45bd1c4671c997137747a4ebe9a9e60dd43b31069cf16dab7c70f771b3539",
-      "datetime": 1786970486,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Here\u2019s How Much You Would Have Made Owning Broadcom Stock In The Last 15 Years",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=f65200351395b95268d0797778d962af4b1dac77836435edc827e95d006e94ea",
-      "datetime": 1786967149,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-18T12:43:15.171326+00:00"
+  "updated_at": "2026-08-18T12:58:20.763552+00:00"
 }
