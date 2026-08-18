@@ -60,6 +60,22 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Tracking Seth Klarman's Baupost Group Holdings - Q2 2026 Update",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=adf36bd6d8d33f0eda81a3ffe443bb9cac2a47726dfa0107317ec0ca23d0c555",
+      "datetime": 1786996813,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom Looks Undervalued With 50% Upside",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=99874d8148c4b9d33eb91e656a1e156beca9d0d7e46fbb11c6581690f70eecb3",
+      "datetime": 1786993027,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "These S&P500 stocks are the most active in today's session",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=a245f182d8a1d967af429370e7a6ae69b57fe2b551fd2b28df79504cb335ba28",
@@ -75,35 +91,43 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Nvidia Is the Best S&P 500 Stock of the Past 10, 15, 20 Years \u2014 but 4 Stocks Beat It Over the Past 5 Years",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ce40230fb606f71ab2305d7395b5b280c15c4d8f82d10aa69714bb9bae8aa6b5",
+      "datetime": 1786981995,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Nvidia Is the Best S&P 500 Stock of the Past 10, 15, 20 Years \u2014 but 4 Stocks Beat It Over the Past 5 Years",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ce40230fb606f71ab2305d7395b5b280c15c4d8f82d10aa69714bb9bae8aa6b5",
+      "datetime": 1786981995,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Ray Dalio Ups Bet on SPY and IVV: Time to Buy the S&P 500?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a130eb5ccc115937cfee96664a88dd3c404581ca5c3938b927a0689b973ddf50",
+      "datetime": 1786980472,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Ray Dalio Ups Bet on SPY and IVV: Time to Buy the S&P 500?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a130eb5ccc115937cfee96664a88dd3c404581ca5c3938b927a0689b973ddf50",
+      "datetime": 1786980472,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Q2 2026 U.S. Retail Preview: Broadline Retail Drives Growth",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=ae35c7b3404a52908905c4837dd0989fe676edb413a0ccdea07c6c3c7a8082ea",
       "datetime": 1786979460,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "What's Going On With Amazon Stock Monday?",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=a99d8efdf8d18fce31e8c3b6a924e7785c2d00124f83ebc293d336dbafa946d8",
-      "datetime": 1786976242,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Why Is Target Stock Falling on Monday?",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=e8ebc35b6136fdb30c4d5424751225e49b1bdea3385b06582a8edbb7b91251e5",
-      "datetime": 1786974996,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Why I Like Alphabet's Debt (Rating Upgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=fff8288435cd26a239c8b7c2fa38d9012a701470a99e9d2e014d4e5d2cc84cdf",
-      "datetime": 1786974355,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -136,30 +160,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=f65200351395b95268d0797778d962af4b1dac77836435edc827e95d006e94ea",
       "datetime": 1786967149,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Wall Street Lunch: McDonald's Menu Gets Energy Boost With Red Bull",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=856f50db1b08b71463c96c56a4403068cae8d2c80f7a7deb5fc7bf43353d1c68",
-      "datetime": 1786966500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "David Tepper's Latest AI Bet Is CoreWeave",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=9c4d75270a303776b3ed5c20d30209deccf4a080d295bf8f989e05cad1ba22b9",
-      "datetime": 1786959807,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "What's Going On With Broadcom Stock Monday?",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=b6a0d170e74388c9f61784a5ff087b383fce34977f509d0cf4e798001f403dc2",
-      "datetime": 1786950202,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -456,7 +456,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1872250.5209645792,
+      "market_cap_musd": 1867017.1036644545,
       "country": "US",
       "currency": "USD",
       "price": 392.43,
@@ -475,7 +475,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.barrick.com/",
       "ipo_date": "1983-05-02",
-      "market_cap_musd": 93947.084532,
+      "market_cap_musd": 95132.11703,
       "country": "CA",
       "currency": "USD",
       "price": 42.52,
@@ -494,7 +494,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.celestica.com/",
       "ipo_date": "1998-07-01",
-      "market_cap_musd": 55735.267898,
+      "market_cap_musd": 53493.117218,
       "country": "CA",
       "currency": "USD",
       "price": 340.4,
@@ -513,7 +513,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 59559.07269942651,
+      "market_cap_musd": 59637.311358570005,
       "country": "US",
       "currency": "USD",
       "price": 312.52,
@@ -532,7 +532,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 73785.31743493778,
+      "market_cap_musd": 72992.5368231106,
       "country": "US",
       "currency": "USD",
       "price": 90.23,
@@ -551,7 +551,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 8957.391896943078,
+      "market_cap_musd": 8834.191632399188,
       "country": "US",
       "currency": "USD",
       "price": 24.38,
@@ -570,7 +570,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 39114.08851569484,
+      "market_cap_musd": 38888.05487178732,
       "country": "US",
       "currency": "USD",
       "price": 116.99,
@@ -589,7 +589,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2842193.9107426074,
+      "market_cap_musd": 2818571.764247689,
       "country": "US",
       "currency": "USD",
       "price": 261.31,
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-17T21:28:15.369704+00:00"
+  "updated_at": "2026-08-18T02:28:15.714255+00:00"
 }
