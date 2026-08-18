@@ -76,6 +76,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "AI Utilization May Be The Next Driver Of Growth",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4d2d5bcd7f640b2e20b026df63f0801731062a4dd7031dc67029e970601b4e97",
+      "datetime": 1787074898,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Which dow jones stocks are moving on Tuesday?",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=c403cfdc8e76b95c2c482fae3fa9b3d407ffa166cf0ae935a0f4797898d64f03",
@@ -96,14 +104,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=447d6a489d6659c3dfaaeed3bfbfc33ad8683ebe0e0cad099bb81656e167b5af",
       "datetime": 1787063849,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "US Debt Nearing $40T; Home Depot earnings Better Than Expected",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=fc95bb776035a8a99f006e588d26997bf8c8186e805418709d8338d1a9d649c2",
-      "datetime": 1787063039,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-18T21:58:14.287922+00:00"
+  "updated_at": "2026-08-18T22:13:14.475067+00:00"
 }
