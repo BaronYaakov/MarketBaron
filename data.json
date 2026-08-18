@@ -7,7 +7,7 @@
       "day_change_pct": 0.78,
       "all_time_gain_pct": 10.01,
       "day_change_source": "ibkr",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+      "logo_url": null
     },
     {
       "ticker": "B",
@@ -16,7 +16,7 @@
       "day_change_pct": 1.6,
       "all_time_gain_pct": 0.49,
       "day_change_source": "ibkr",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+      "logo_url": null
     },
     {
       "ticker": "CLS",
@@ -25,7 +25,7 @@
       "day_change_pct": 1.33,
       "all_time_gain_pct": -5.33,
       "day_change_source": "ibkr",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+      "logo_url": null
     },
     {
       "ticker": "COR",
@@ -34,7 +34,7 @@
       "day_change_pct": 0.0,
       "all_time_gain_pct": 15.77,
       "day_change_source": "ibkr",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+      "logo_url": null
     },
     {
       "ticker": "ORLY",
@@ -43,7 +43,7 @@
       "day_change_pct": -0.29,
       "all_time_gain_pct": 9.56,
       "day_change_source": "ibkr",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+      "logo_url": null
     },
     {
       "ticker": "PRMB",
@@ -52,7 +52,7 @@
       "day_change_pct": 0.0,
       "all_time_gain_pct": 24.23,
       "day_change_source": "ibkr",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+      "logo_url": null
     }
   ],
   "cash_percent": 1.46,
@@ -64,7 +64,7 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=d9b4895bcab959f8da4e8a79105bd31fb76e60acd9b52236f18627a61dd4f3bb",
       "datetime": 1787014500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+      "logo_url": null
     },
     {
       "ticker": "AMZN",
@@ -88,7 +88,7 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=99874d8148c4b9d33eb91e656a1e156beca9d0d7e46fbb11c6581690f70eecb3",
       "datetime": 1786993027,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+      "logo_url": null
     },
     {
       "ticker": "AMZN",
@@ -112,7 +112,7 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=ce40230fb606f71ab2305d7395b5b280c15c4d8f82d10aa69714bb9bae8aa6b5",
       "datetime": 1786981995,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+      "logo_url": null
     },
     {
       "ticker": "AMZN",
@@ -128,7 +128,7 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=a130eb5ccc115937cfee96664a88dd3c404581ca5c3938b927a0689b973ddf50",
       "datetime": 1786980472,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+      "logo_url": null
     },
     {
       "ticker": "AMZN",
@@ -144,7 +144,7 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=6b3d9f6d0b35974ecf161bbdd4062b34a79f2d665e4b337536367549b0ad7112",
       "datetime": 1786973716,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+      "logo_url": null
     },
     {
       "ticker": "AVGO",
@@ -152,7 +152,7 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=99bbd93655f6d558273716de61c40d7ec81cd1655ef6ad3b4315a3368c658635",
       "datetime": 1786972890,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+      "logo_url": null
     },
     {
       "ticker": "AVGO",
@@ -160,7 +160,7 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=39c45bd1c4671c997137747a4ebe9a9e60dd43b31069cf16dab7c70f771b3539",
       "datetime": 1786970486,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+      "logo_url": null
     },
     {
       "ticker": "AVGO",
@@ -168,7 +168,7 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=f65200351395b95268d0797778d962af4b1dac77836435edc827e95d006e94ea",
       "datetime": 1786967149,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+      "logo_url": null
     },
     {
       "ticker": "PRMB",
@@ -176,7 +176,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=170eea345b18a98018056bc5d1bc3270ea31d02ad90745629fc957cf00b4b74a",
       "datetime": 1786835319,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+      "logo_url": null
     },
     {
       "ticker": "B",
@@ -184,7 +184,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5c94f99d00aa80c64bf5b4156d3b8b7db74963204b44482e0d3ff48104220993",
       "datetime": 1786802884,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+      "logo_url": null
     },
     {
       "ticker": "B",
@@ -192,7 +192,7 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=2664b925768c4dca10b18582b8e5307cdda98a9d5cad9b1cae8b436218d26873",
       "datetime": 1786780872,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+      "logo_url": null
     },
     {
       "ticker": "B",
@@ -200,7 +200,7 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=a5a4dcd16687a68ff6555e7af6d47067d3d338031982fd23c90f5451b7d2b420",
       "datetime": 1786775872,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+      "logo_url": null
     },
     {
       "ticker": "COR",
@@ -208,7 +208,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=33a2434b268e9c2c0fa89571638f2150a7ee2e9c0b89bccb945d9e3a0e34de88",
       "datetime": 1786736789,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+      "logo_url": null
     },
     {
       "ticker": "B",
@@ -216,7 +216,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=be2cb2a7bea4eade92fee185db2462d5e93e8b59942c98d46ee0510fa71a822f",
       "datetime": 1786734026,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+      "logo_url": null
     },
     {
       "ticker": "PRMB",
@@ -224,7 +224,7 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=aca754d054c2cc29e122e29d60fc10d0d806a9a9424655c9d9e085ef4de25d34",
       "datetime": 1786730477,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+      "logo_url": null
     },
     {
       "ticker": "CLS",
@@ -232,7 +232,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4f2c750bbac4b64353e8d1a9e2551773df854ba18f200a852fb249cc7c8f20a2",
       "datetime": 1786714203,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+      "logo_url": null
     },
     {
       "ticker": "PRMB",
@@ -240,7 +240,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=de40da7518ca188a6aa7643d4d7da659e978c2ec70f85e7018d4eda7f07dce4b",
       "datetime": 1786713720,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+      "logo_url": null
     },
     {
       "ticker": "COR",
@@ -248,7 +248,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6527909585ff50c3ffd622f59d25a2a8135b62bc5d4161ef630603722acb0040",
       "datetime": 1786709161,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+      "logo_url": null
     },
     {
       "ticker": "B",
@@ -256,7 +256,7 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=9b08eb10961e6fa64f222ef2c6d732deb806f24372de8a47034f5629ebdd0bb9",
       "datetime": 1786708057,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+      "logo_url": null
     },
     {
       "ticker": "CLS",
@@ -264,7 +264,7 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=bf655e4a9590a743a1cba322e91ea8de0f1413e8f31e527ea290fd0522a3d79b",
       "datetime": 1786705339,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+      "logo_url": null
     },
     {
       "ticker": "P",
@@ -272,7 +272,7 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=7408f575c4817c6507ac144c8a4c50eb4cd6c23dd250f1df6d208f18dd865527",
       "datetime": 1786697427,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+      "logo_url": null
     },
     {
       "ticker": "COR",
@@ -280,7 +280,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=46e1555335d1b3fb8660b90649ec0bdb67f2d339b6db31f86806d8269edc92c7",
       "datetime": 1786690860,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+      "logo_url": null
     },
     {
       "ticker": "P",
@@ -288,7 +288,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ff6f5e530185c02b44fdea4d27900ce5bf60897189549a4d8bfb198e55dedcaf",
       "datetime": 1786658702,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+      "logo_url": null
     },
     {
       "ticker": "P",
@@ -296,7 +296,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8189a30eb878f827d8d5c604e36c24ef622d4d4424e9a19349b934fdd9dc5ca4",
       "datetime": 1786654380,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+      "logo_url": null
     },
     {
       "ticker": "CLS",
@@ -304,7 +304,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e442cf56ac6bb4587e1429b72c27f090437cf8bcfac29c4ad019f286ca8e5ef3",
       "datetime": 1786641780,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+      "logo_url": null
     },
     {
       "ticker": "COR",
@@ -312,7 +312,7 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=ae11daeda8d96877db82c0a10bfe918a675d25846e92a4e8064b2a6871c035f5",
       "datetime": 1786639550,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+      "logo_url": null
     },
     {
       "ticker": "PRMB",
@@ -320,7 +320,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=9b27d48dab267cff002419e3b85fc378c38b62e409cba101f470ac18938c725b",
       "datetime": 1786631820,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+      "logo_url": null
     },
     {
       "ticker": "PRMB",
@@ -328,7 +328,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2594eeff0e61863810922656b0f7110d2368e0912a2d5e5639797df893d4db13",
       "datetime": 1786630980,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+      "logo_url": null
     },
     {
       "ticker": "B",
@@ -336,7 +336,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b27903f9b250cf4748a3e664bad9b2824bf6657df9b5487f2979afd886d577c5",
       "datetime": 1786629900,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+      "logo_url": null
     },
     {
       "ticker": "ORLY",
@@ -344,7 +344,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e21c889aaf8ddc2e259f96e6863cdb44ab1e86d3684bc9a15c37096a62054670",
       "datetime": 1786624620,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+      "logo_url": null
     },
     {
       "ticker": "P",
@@ -352,7 +352,7 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=8d3feb30c88737fab57c8eaba2bff197653a27d1a4c0047efd2493dbb7c4f12d",
       "datetime": 1786615527,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+      "logo_url": null
     },
     {
       "ticker": "COR",
@@ -360,7 +360,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0d53e7cfc838cb3ace1409d01f73a7fdcde3e3ab900bbe384e3a289dc32023d8",
       "datetime": 1786608546,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+      "logo_url": null
     },
     {
       "ticker": "CLS",
@@ -368,7 +368,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=49b725adecb137326ae1dd654a7a521486885f91212462a93726ee4a2f1005fc",
       "datetime": 1786575660,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+      "logo_url": null
     },
     {
       "ticker": "CLS",
@@ -376,7 +376,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=34e571551876064962ece62df32eddf37a48cbcba54f05cf082717ae644664fb",
       "datetime": 1786571352,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+      "logo_url": null
     },
     {
       "ticker": "COR",
@@ -384,7 +384,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=87049698bf4459af6add0c1d50d42c36766ab980da8f92c3ffdc9fe68bb89f76",
       "datetime": 1786565681,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+      "logo_url": null
     },
     {
       "ticker": "PRMB",
@@ -392,7 +392,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f3cde17bbb4edea3cec9ca35e4e87018a4f340718e011267e8727b3bc16022d8",
       "datetime": 1786553915,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+      "logo_url": null
     },
     {
       "ticker": "P",
@@ -400,7 +400,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6c4864d17f67f2929d771fc9c980757b4542f3a093b7fffe1d7b3af5941687a8",
       "datetime": 1786549762,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+      "logo_url": null
     }
   ],
   "recent_posts": [],
@@ -450,137 +450,60 @@
   ],
   "companies": {
     "AVGO": {
-      "name": "Broadcom Inc",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png",
-      "industry": "Semiconductors",
-      "exchange": "NASDAQ NMS - GLOBAL MARKET",
-      "website": "https://www.broadcom.com",
-      "ipo_date": "2009-08-06",
-      "market_cap_musd": 1867017.1036644545,
-      "country": "US",
-      "currency": "USD",
       "price": 392.43,
       "open": 397.26,
       "day_high": 399.36,
       "day_low": 391.31,
       "prev_close": 392.99,
-      "day_change_pct": -0.14,
-      "week52_high": 495.0,
-      "week52_low": 281.87
+      "day_change_pct": -0.14
     },
     "B": {
-      "name": "Barrick Mining Corp",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png",
-      "industry": "Metals & Mining",
-      "exchange": "TORONTO STOCK EXCHANGE",
-      "website": "https://www.barrick.com/",
-      "ipo_date": "1983-05-02",
-      "market_cap_musd": 95132.11703,
-      "country": "CA",
-      "currency": "USD",
       "price": 42.52,
       "open": 41.89,
       "day_high": 42.95,
       "day_low": 41.59,
       "prev_close": 41.6,
-      "day_change_pct": 2.21,
-      "week52_high": 74.0,
-      "week52_low": 32.34
+      "day_change_pct": 2.21
     },
     "CLS": {
-      "name": "Celestica Inc",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png",
-      "industry": "Electrical Equipment",
-      "exchange": "TORONTO STOCK EXCHANGE",
-      "website": "https://www.celestica.com/",
-      "ipo_date": "1998-07-01",
-      "market_cap_musd": 53493.117218,
-      "country": "CA",
-      "currency": "USD",
       "price": 340.4,
       "open": 337.58,
       "day_high": 346.24,
       "day_low": 335.63,
       "prev_close": 335.05,
-      "day_change_pct": 1.6,
-      "week52_high": 655.5,
-      "week52_low": 240.49
+      "day_change_pct": 1.6
     },
     "COR": {
-      "name": "Cencora Inc",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png",
-      "industry": "Health Care",
-      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
-      "website": "https://www.cencora.com/",
-      "ipo_date": "1996-05-28",
-      "market_cap_musd": 59637.311358570005,
-      "country": "US",
-      "currency": "USD",
       "price": 312.52,
       "open": 312.0,
       "day_high": 318.23,
       "day_low": 311.43,
       "prev_close": 313.82,
-      "day_change_pct": -0.41,
-      "week52_high": 377.54,
-      "week52_low": 244.82
+      "day_change_pct": -0.41
     },
     "ORLY": {
-      "name": "O'Reilly Automotive Inc",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png",
-      "industry": "Retail",
-      "exchange": "NASDAQ NMS - GLOBAL MARKET",
-      "website": "https://corporate.oreillyauto.com/",
-      "ipo_date": "1993-04-23",
-      "market_cap_musd": 72992.5368231106,
-      "country": "US",
-      "currency": "USD",
       "price": 90.23,
       "open": 89.65,
       "day_high": 91.32,
       "day_low": 89.37,
       "prev_close": 91.05,
-      "day_change_pct": -0.9,
-      "week52_high": 108.72,
-      "week52_low": 82.59
+      "day_change_pct": -0.9
     },
     "PRMB": {
-      "name": "Primo Brands Corp",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png",
-      "industry": "Beverages",
-      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
-      "website": "https://ir.primobrands.com/",
-      "ipo_date": "1992-06-16",
-      "market_cap_musd": 8834.191632399188,
-      "country": "US",
-      "currency": "USD",
       "price": 24.38,
       "open": 24.41,
       "day_high": 24.67,
       "day_low": 24.18,
       "prev_close": 24.7,
-      "day_change_pct": -1.3,
-      "week52_high": 26.21,
-      "week52_low": 14.36
+      "day_change_pct": -1.3
     },
     "P": {
-      "name": "Everpure Inc",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png",
-      "industry": "Technology",
-      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
-      "website": "https://www.purestorage.com/",
-      "ipo_date": "2015-10-07",
-      "market_cap_musd": 38888.05487178732,
-      "country": "US",
-      "currency": "USD",
       "price": 116.99,
       "open": 118.49,
       "day_high": 118.64,
       "day_low": 115.28,
       "prev_close": 118.16,
-      "day_change_pct": -0.99,
-      "week52_high": 118.81,
-      "week52_low": 54.37
+      "day_change_pct": -0.99
     },
     "AMZN": {
       "name": "Amazon.com Inc",
@@ -608,5 +531,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-18T07:58:15.166964+00:00"
+  "updated_at": "2026-08-18T08:16:47.963655+00:00"
 }
