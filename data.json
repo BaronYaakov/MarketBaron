@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "P",
+      "headline": "ValuEngine Weekly Market Summary And Commentary",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d9b4895bcab959f8da4e8a79105bd31fb76e60acd9b52236f18627a61dd4f3bb",
+      "datetime": 1787014500,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Walmart Earnings Preview: The Flywheel Is Still Flywheelin' But Ultimately, Operating Margin Needs To Improve",
       "source": "SeekingAlpha",
@@ -393,14 +401,6 @@
       "url": "https://finnhub.io/api/news?id=6c4864d17f67f2929d771fc9c980757b4542f3a093b7fffe1d7b3af5941687a8",
       "datetime": 1786549762,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Citigroup Upgrades Everpure (P)",
-      "source": "Fintel",
-      "url": "https://finnhub.io/api/news?id=028c260e733a39110487cb45ee60e31fb6b8a55d5741da0abb0a805912ee9571",
-      "datetime": 1786543629,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     }
   ],
   "recent_posts": [],
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-18T04:58:15.561433+00:00"
+  "updated_at": "2026-08-18T05:13:16.182224+00:00"
 }
