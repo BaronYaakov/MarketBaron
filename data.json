@@ -75,6 +75,22 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "Cisco, Nvidia, Amazon and Nokia: The Customer List Behind Fabrinet's AI Boom",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=fa00239a2bbb9e2bdcdb0751f354bebd2acd1197d086a3766fc90b48d88693d7",
+      "datetime": 1787044582,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "J.P. Morgan\u2019s Bill Eigen Sounds 2008 Crash Alarm Over AI Boom \u2014 Says Investors Are Missing One Warning Sign That Could Change Everything: \u2018What I\u2019m Terrified of Is\u2026\u2019 (UPDATED)",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=66674a9a9f1dc975189dca3fcd8ca3fd0d96596014f66182c046025ded88d0bd",
+      "datetime": 1787044207,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "BST: This Income Machine Can Still Work After Reaching $50",
       "source": "SeekingAlpha",
@@ -139,28 +155,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "S&P 500: The Bull Market That Won't Die",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=f1ec8a7314ab03eed420d0cfdb18ac85d4f8ea02b5035e8dcef764cb10dd5a17",
-      "datetime": 1786986000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Nvidia Is the Best S&P 500 Stock of the Past 10, 15, 20 Years \u2014 but 4 Stocks Beat It Over the Past 5 Years",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=ce40230fb606f71ab2305d7395b5b280c15c4d8f82d10aa69714bb9bae8aa6b5",
       "datetime": 1786981995,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Nvidia Is the Best S&P 500 Stock of the Past 10, 15, 20 Years \u2014 but 4 Stocks Beat It Over the Past 5 Years",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=ce40230fb606f71ab2305d7395b5b280c15c4d8f82d10aa69714bb9bae8aa6b5",
-      "datetime": 1786981995,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -459,12 +459,12 @@
       "market_cap_musd": 1867017.1036644545,
       "country": "US",
       "currency": "USD",
-      "price": 378.72,
+      "price": 378.0,
       "open": 386.76,
       "day_high": 386.76,
       "day_low": 377.01,
       "prev_close": 392.43,
-      "day_change_pct": -3.49,
+      "day_change_pct": -3.68,
       "week52_high": 495.0,
       "week52_low": 281.87
     },
@@ -478,12 +478,12 @@
       "market_cap_musd": 95132.11703,
       "country": "CA",
       "currency": "USD",
-      "price": 41.94,
+      "price": 41.7,
       "open": 41.98,
       "day_high": 42.52,
-      "day_low": 41.76,
+      "day_low": 41.67,
       "prev_close": 42.52,
-      "day_change_pct": -1.36,
+      "day_change_pct": -1.93,
       "week52_high": 74.0,
       "week52_low": 32.34
     },
@@ -497,12 +497,12 @@
       "market_cap_musd": 53493.117218,
       "country": "CA",
       "currency": "USD",
-      "price": 315.25,
+      "price": 314.86,
       "open": 331.63,
       "day_high": 331.63,
-      "day_low": 314.33,
+      "day_low": 313.4,
       "prev_close": 340.4,
-      "day_change_pct": -7.39,
+      "day_change_pct": -7.5,
       "week52_high": 655.5,
       "week52_low": 240.49
     },
@@ -516,12 +516,12 @@
       "market_cap_musd": 59637.311358570005,
       "country": "US",
       "currency": "USD",
-      "price": 319.81,
+      "price": 319.68,
       "open": 315.12,
       "day_high": 320.0,
       "day_low": 313.92,
       "prev_close": 312.52,
-      "day_change_pct": 2.33,
+      "day_change_pct": 2.29,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -535,12 +535,12 @@
       "market_cap_musd": 72992.5368231106,
       "country": "US",
       "currency": "USD",
-      "price": 91.96,
+      "price": 92.08,
       "open": 91.52,
-      "day_high": 92.11,
+      "day_high": 92.16,
       "day_low": 90.59,
       "prev_close": 90.23,
-      "day_change_pct": 1.92,
+      "day_change_pct": 2.05,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -554,12 +554,12 @@
       "market_cap_musd": 8834.191632399188,
       "country": "US",
       "currency": "USD",
-      "price": 24.17,
+      "price": 24.11,
       "open": 24.25,
       "day_high": 24.4,
-      "day_low": 24.1,
+      "day_low": 24.09,
       "prev_close": 24.38,
-      "day_change_pct": -0.86,
+      "day_change_pct": -1.11,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -573,12 +573,12 @@
       "market_cap_musd": 38888.05487178732,
       "country": "US",
       "currency": "USD",
-      "price": 115.79,
+      "price": 115.14,
       "open": 114.45,
       "day_high": 119.1,
       "day_low": 114.45,
       "prev_close": 116.99,
-      "day_change_pct": -1.03,
+      "day_change_pct": -1.58,
       "week52_high": 118.81,
       "week52_low": 54.37
     },
@@ -592,12 +592,12 @@
       "market_cap_musd": 2818571.764247689,
       "country": "US",
       "currency": "USD",
-      "price": 261.86,
+      "price": 260.98,
       "open": 260.62,
-      "day_high": 262.03,
+      "day_high": 262.18,
       "day_low": 257.73,
       "prev_close": 261.31,
-      "day_change_pct": 0.21,
+      "day_change_pct": -0.13,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-18T14:58:15.424007+00:00"
+  "updated_at": "2026-08-18T15:13:17.920711+00:00"
 }
