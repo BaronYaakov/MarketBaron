@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Tracking Al Gore's Generation Investment Management Portfolio - Q2 2026 Update",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9d71a11ac50f796cfd2586dab3cdda355e745abc81ec1890055606c493633591",
+      "datetime": 1787091773,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=93ae485a341815fe23fcf7ff4561ae7f48c8b2dacec60a5793cc677ac3351659",
@@ -96,14 +104,6 @@
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=c403cfdc8e76b95c2c482fae3fa9b3d407ffa166cf0ae935a0f4797898d64f03",
       "datetime": 1787071206,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The Math Of The AI Bubble Is Changing",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=8dd69aabbe43c613b7278c0d5e797403c3ad736312c150014a177208d23e5709",
-      "datetime": 1787066531,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-19T02:28:15.391613+00:00"
+  "updated_at": "2026-08-19T02:43:15.137898+00:00"
 }
