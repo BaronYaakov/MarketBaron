@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Wall Street Sinks as 30-Year Yield Hits 19-Year High, Chip Names Crumble",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=62931e0861f4d587e501c84a06cf467fff02e73396bc22fd37f2c5a19c943e4b",
+      "datetime": 1787126878,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "COR",
       "headline": "Artisan Global Opportunities Fund Q2 2026 Portfolio Review",
       "source": "SeekingAlpha",
@@ -177,14 +185,6 @@
       "url": "https://finnhub.io/api/news?id=d9b4895bcab959f8da4e8a79105bd31fb76e60acd9b52236f18627a61dd4f3bb",
       "datetime": 1787014500,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Looks Undervalued With 50% Upside",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=99874d8148c4b9d33eb91e656a1e156beca9d0d7e46fbb11c6581690f70eecb3",
-      "datetime": 1786993027,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-19T09:28:13.828992+00:00"
+  "updated_at": "2026-08-19T09:43:13.834240+00:00"
 }
