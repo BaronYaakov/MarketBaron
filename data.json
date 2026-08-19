@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "COR",
+      "headline": "Artisan Global Opportunities Fund Q2 2026 Portfolio Review",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dd9db39e8abddc3f2e8095ac1b6606266bc27875ea4002694cc82d39c229a18c",
+      "datetime": 1787101800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Tracking Al Gore's Generation Investment Management Portfolio - Q2 2026 Update",
       "source": "SeekingAlpha",
@@ -387,14 +395,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
-      "ticker": "COR",
-      "headline": "US Equity Markets End Mixed Amid Tech Stock Gains, Lower Inflation Data",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=87049698bf4459af6add0c1d50d42c36766ab980da8f92c3ffdc9fe68bb89f76",
-      "datetime": 1786565681,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
       "ticker": "PRMB",
       "headline": "Primo (PRMB) Q2 2026 Earnings Call Transcript",
       "source": "Yahoo",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-19T05:28:14.488329+00:00"
+  "updated_at": "2026-08-19T05:43:14.525879+00:00"
 }
