@@ -75,6 +75,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "Investors Should Position For Humanoid Robot Boom\u2014Here's A Picks-And-Shovels Play; First mRNA Cancer Vaccine Succeeds",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=85690539df1f074b0141508ef60dd8720ee3792d4601920da3731c6695610e5e",
+      "datetime": 1787144995,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "B",
       "headline": "Rare Earths Americas Shares Open For Trade At $24.51/Share; IPO Priced At $19/Share On 3.33M Shares",
       "source": "Benzinga",
@@ -107,11 +115,27 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "A Congress Member Bought Up To $60K In Amazon.com Stock: Here's What You Need To Know",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=6050d0a75c7caf1f52dbc1ef348745290ab246ed743107273ad3f1aaa60e63cd",
+      "datetime": 1787137223,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom Rival Marvell Surges After Google Strikes AI Chip Deal, Gets Option to Buy $12.2B Stake",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=ee610846551e06b5814d7484d6a8749e30197f4ffe09530a339f56f4264a3b15",
       "datetime": 1787135863,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Marvell surges after deal allows Alphabet to buy up to $12.2 billion in shares",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=6dc47810f78ab34a7c6cb6bb99746db57805db351b149d1632dcf0d6b148b279",
+      "datetime": 1787135656,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -147,22 +171,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Stripe\u2019s $8 Billion OpenRouter Deal Reveals Where the AI ETF Trade Is Actually Expanding",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=9a884db856424f40ce0359e24909a5d2d6d87fcaabcaa4d867c003d2e6053f7a",
-      "datetime": 1787132878,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Bets Big on Drone Delivery \u2014 Prime Air Targets 500 US Cities as Competition From Wing, Zipline Heats Up",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=f6be7c486db2d06bd450836def9132f456748dd81f206f044f2dc3b5fab33957",
-      "datetime": 1787131840,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Wall Street Sinks as 30-Year Yield Hits 19-Year High, Chip Names Crumble",
       "source": "ChartMill",
@@ -179,20 +187,20 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
+      "ticker": "ORLY",
+      "headline": "See if you qualify for the $18.8M O'Reilly Automotive telemarketing settlement and learn how to stop unwanted texts",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=7db42744f00f14d14e977f5aabca351bb3cee9e8d9bfbc86e277621a09d41b95",
+      "datetime": 1787062830,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "P",
       "headline": "Jana Partners Buys Stake in Data Center Stock Everpure, May Be Up Almost 100% Already",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=cd84f8231493ebb18fccd9f4632072f388ae813ad5bb247d4545f99f0bf939a5",
       "datetime": 1787059139,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia, AMD, Broadcom, Meta Slide as Bond Yields Surge: Why Tech Stocks Are Getting Hit",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=8be0662f56a93fc1a3eafb7348c7ea178f1847ba7757168a8bfdfcfd45768efa",
-      "datetime": 1787053364,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "B",
@@ -459,12 +467,12 @@
       "market_cap_musd": 1807880.3959456205,
       "country": "US",
       "currency": "USD",
-      "price": 364.47,
+      "price": 363.97,
       "open": 376.45,
       "day_high": 376.45,
       "day_low": 357.61,
       "prev_close": 380.0,
-      "day_change_pct": -4.09,
+      "day_change_pct": -4.22,
       "week52_high": 495.0,
       "week52_low": 281.87
     },
@@ -478,12 +486,12 @@
       "market_cap_musd": 97057.805043,
       "country": "CA",
       "currency": "USD",
-      "price": 44.55,
+      "price": 44.56,
       "open": 43.15,
       "day_high": 45.6,
       "day_low": 43.15,
       "prev_close": 42.09,
-      "day_change_pct": 5.84,
+      "day_change_pct": 5.87,
       "week52_high": 74.0,
       "week52_low": 33.18
     },
@@ -497,12 +505,12 @@
       "market_cap_musd": 54215.204578,
       "country": "CA",
       "currency": "USD",
-      "price": 302.43,
+      "price": 302.77,
       "open": 313.0,
       "day_high": 314.26,
       "day_low": 292.5,
       "prev_close": 310.59,
-      "day_change_pct": -2.63,
+      "day_change_pct": -2.52,
       "week52_high": 655.5,
       "week52_low": 240.49
     },
@@ -516,12 +524,12 @@
       "market_cap_musd": 60326.19396281591,
       "country": "US",
       "currency": "USD",
-      "price": 320.26,
+      "price": 321.65,
       "open": 315.08,
-      "day_high": 320.3,
+      "day_high": 321.69,
       "day_low": 312.02,
       "prev_close": 316.13,
-      "day_change_pct": 1.31,
+      "day_change_pct": 1.75,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -535,12 +543,12 @@
       "market_cap_musd": 73421.2863401299,
       "country": "US",
       "currency": "USD",
-      "price": 91.05,
+      "price": 91.3,
       "open": 91.07,
       "day_high": 92.78,
       "day_low": 90.57,
       "prev_close": 90.76,
-      "day_change_pct": 0.32,
+      "day_change_pct": 0.59,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -554,12 +562,12 @@
       "market_cap_musd": 8493.578274372438,
       "country": "US",
       "currency": "USD",
-      "price": 23.85,
+      "price": 23.95,
       "open": 23.75,
       "day_high": 24.0,
       "day_low": 23.69,
       "prev_close": 23.44,
-      "day_change_pct": 1.75,
+      "day_change_pct": 2.18,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -573,12 +581,12 @@
       "market_cap_musd": 38911.32130221745,
       "country": "US",
       "currency": "USD",
-      "price": 112.53,
+      "price": 112.21,
       "open": 117.5,
       "day_high": 118.38,
       "day_low": 110.34,
       "prev_close": 117.06,
-      "day_change_pct": -3.87,
+      "day_change_pct": -4.14,
       "week52_high": 119.1,
       "week52_low": 54.37
     },
@@ -592,12 +600,12 @@
       "market_cap_musd": 2798509.2587166326,
       "country": "US",
       "currency": "USD",
-      "price": 264.36,
+      "price": 264.42,
       "open": 260.22,
       "day_high": 265.15,
       "day_low": 258.58,
       "prev_close": 259.45,
-      "day_change_pct": 1.89,
+      "day_change_pct": 1.92,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -608,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-19T17:28:14.218049+00:00"
+  "updated_at": "2026-08-19T17:43:14.334553+00:00"
 }
