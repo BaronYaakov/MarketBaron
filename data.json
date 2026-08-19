@@ -84,6 +84,14 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "Amtech Systems shares are trading lower after the company reported worse-than-expected Q1 financial results.",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=5fe19d8d82b011548d036955326e9eec94c792a8eb80183da6279cfc3441aa8f",
+      "datetime": 1787153024,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "I Changed My Mind, Broadcom And Semiconductors Have Peaked For Now",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=d38500d4868d52a784ea3876ea29bcfc5b7e7e37c6033d2830182a9a8390dc86",
@@ -185,14 +193,6 @@
       "url": "https://finnhub.io/api/news?id=a5e6f4dd11afb3d6d78fe04163942c1e483d4f91059bb58273f201afb52dcc12",
       "datetime": 1787135065,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Taiwan Semiconductor\u2019s AI Bottleneck Hands Samsung a Powerful Pricing Opportunity",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=d3e68ad50cd62bb2eda41d53822a55b0ed049f85c81afb4a03b02db6193e0b92",
-      "datetime": 1787133682,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "COR",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-19T20:13:15.050175+00:00"
+  "updated_at": "2026-08-19T20:28:15.027114+00:00"
 }
