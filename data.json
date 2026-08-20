@@ -75,6 +75,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
+      "ticker": "B",
+      "headline": "Barrick Mining: Major Progress Toward A Re-Rating",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ce896273f0167ca828c1ad4156c6133d196f6f9b17ebeac071763167503012ad",
+      "datetime": 1787207400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Tracking Cathie Wood's ARK Invest 13F Portfolio - Q2 2026 Update",
       "source": "SeekingAlpha",
@@ -296,14 +304,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=2664b925768c4dca10b18582b8e5307cdda98a9d5cad9b1cae8b436218d26873",
       "datetime": 1786780872,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "What Moved Markets This Week",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=a5a4dcd16687a68ff6555e7af6d47067d3d338031982fd23c90f5451b7d2b420",
-      "datetime": 1786775872,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-20T10:43:14.777392+00:00"
+  "updated_at": "2026-08-20T10:58:14.559288+00:00"
 }
