@@ -84,6 +84,14 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "'Broadcom Seeks More Than $60 Billion in Latest AI Debt Deal' - Bloomberg",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=be47314eef46f3b29cea6eeebfb187ebbd7607353b02e61277f02148e320b8f9",
+      "datetime": 1787242528,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Broadcom: Marvell Panic Causes A Huge Buying Opportunity",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=42c8bba8655a078154193a1cbcdbdcab4010b3969600f3f8c0f4e073167a5b84",
@@ -161,14 +169,6 @@
       "url": "https://finnhub.io/api/news?id=1d050eebd09cb5016f7abe5731c52a94f0db0a80014a38e25e617aeafd19ae35",
       "datetime": 1787225268,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "A 10-Year Treasury Bond Now Pays More Than 118 Of America's Biggest Companies",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=1a918e278efa39fc47340379cc1c25103f095618a9b7a011a4c3fe5235133013",
-      "datetime": 1787220767,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "COR",
@@ -632,5 +632,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-20T22:43:14.877300+00:00"
+  "updated_at": "2026-08-20T22:58:15.730508+00:00"
 }
