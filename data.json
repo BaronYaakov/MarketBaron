@@ -67,6 +67,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "'Anthropic Set to Add Citigroup to Top IPO Banks on Mega-Listing'- Bloomberg",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b953fcc1677023df0bb53e839bc4e97fcf76c4122fdfb3280c74f7c3d72c427e",
+      "datetime": 1787248712,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Hedging Exposure In This Volatile Market",
       "source": "SeekingAlpha",
@@ -129,14 +137,6 @@
       "url": "https://finnhub.io/api/news?id=ba236fba804b8a75f29a1300656f148d24a486838e1002f937ad75d57c912f23",
       "datetime": 1787234760,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Hyperscaler AI Capex: What The Headlines Miss",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ba236fba804b8a75f29a1300656f148d24a486838e1002f937ad75d57c912f23",
-      "datetime": 1787234760,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -632,5 +632,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-20T23:43:14.213734+00:00"
+  "updated_at": "2026-08-20T23:58:14.410795+00:00"
 }
