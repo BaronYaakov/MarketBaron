@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "COR",
+      "headline": "RBC Capital Initiates Coverage of Cencora (COR) with Sector Perform Recommendation",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=4686df89d067221d433b4d9334e75d507527f5bcf24e4164cb3733c43ad98213",
+      "datetime": 1787208249,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Tracking Cathie Wood's ARK Invest 13F Portfolio - Q2 2026 Update",
       "source": "SeekingAlpha",
@@ -379,14 +387,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
-      "ticker": "COR",
-      "headline": "If You Invested $1000 In Cencora Stock 10 Years Ago, You Would Have This Much Today",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=ae11daeda8d96877db82c0a10bfe918a675d25846e92a4e8064b2a6871c035f5",
-      "datetime": 1786639550,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
       "ticker": "PRMB",
       "headline": "Can JDE Peet's Become an Even Bigger Growth Driver for KDP?",
       "source": "Yahoo",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-20T07:43:14.542042+00:00"
+  "updated_at": "2026-08-20T07:58:14.645076+00:00"
 }
