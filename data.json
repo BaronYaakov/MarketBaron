@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Which dow jones stocks are moving on Thursday?",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=dfd1ab1771431dd4977c3660606f49ee58f6377693bed6cc3754ed3555c67ed0",
+      "datetime": 1787253006,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Discover which dow jones stocks are making waves on Thursday.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=1d8363aabcf751eaf84d1590e0e4b66548c336e4febf069797c0fb58279fa25d",
@@ -75,6 +83,22 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "'Anthropic Prepares To File Publicly For Its Potential Mega-IPO As Soon As The End Of August; Expects To Match SpaceX\u2019s Record IPO Size Tr Top It' - Bloomberg",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f477a5bc0781fb216fec7a42849e6c182bdeec9bc55aacf1dd553561957290fe",
+      "datetime": 1787235189,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "'Anthropic Plans to Change Data Retention Policy for Advanced AI' - Bloomberg",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b6a031ed740b031c4076bb06064ca30c3f09acc79ab1a9c6f4b2e11e4bb9f31a",
+      "datetime": 1787235086,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Hyperscaler AI Capex: What The Headlines Miss",
       "source": "SeekingAlpha",
@@ -88,6 +112,14 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=ba236fba804b8a75f29a1300656f148d24a486838e1002f937ad75d57c912f23",
       "datetime": 1787234760,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Walmart's Outlook Signals Cautious Spending Ahead; Treasury Euphoria Fades; Samsung Soars; Bitcoin Shorts Crushed",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=9f0fa6491050ece16f58e6bad9a1a4f330e0e162e9f4b10b87b5fd9db4f36298",
+      "datetime": 1787234643,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -105,14 +137,6 @@
       "url": "https://finnhub.io/api/news?id=710c4f6ba1bc6547fe0bdb24de23d157524b5f38b704e2396156c75b4c0b5bc2",
       "datetime": 1787229301,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "S&P 500: American Exceptionalism Is Worth The Price",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=29fe4eeb7074a68ee08a7e56f6baeebc832f11b0f40f2d2f33378b3516d58e77",
-      "datetime": 1787228379,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -145,30 +169,6 @@
       "url": "https://finnhub.io/api/news?id=e13ecf41fadd7f9e572dadd5e3bdc5317777a408234248d7e28300b61060f4d3",
       "datetime": 1787219108,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Nvidia: The Greatest Company At A Fair Price",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=e13ecf41fadd7f9e572dadd5e3bdc5317777a408234248d7e28300b61060f4d3",
-      "datetime": 1787219108,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Rocket Lab CEO Says $8 Billion Iridium Deal Won\u2019t Take on Elon Musk\u2019s Starlink \u2014 Don\u2019t Intend to 'Directly Compete,\u2019 But Plans Something That 'Hasn\u2019t Been Seen Before\u2019",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=23c8eb3e0ee50518bd0723e669e7a6b7ddc8446079cceb2544235b2ab190e566",
-      "datetime": 1787212721,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon, Target And More On CNBC\u2019s \u2018Final Trades\u2019",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=717f7a6a6e8498667da90fbce84c8b38568e70ad28bda442085cb3582ad21acc",
-      "datetime": 1787211977,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "COR",
@@ -483,12 +483,12 @@
       "market_cap_musd": 1724527.6267192268,
       "country": "US",
       "currency": "USD",
-      "price": 364.84,
-      "open": 366.24,
+      "price": 364.03,
+      "open": 364.39,
       "day_high": 367.12,
       "day_low": 362.25,
       "prev_close": 362.48,
-      "day_change_pct": 0.65,
+      "day_change_pct": 0.43,
       "week52_high": 495.0,
       "week52_low": 281.87
     },
@@ -502,12 +502,12 @@
       "market_cap_musd": 96201.944401,
       "country": "CA",
       "currency": "USD",
-      "price": 46.31,
-      "open": 44.95,
+      "price": 46.27,
+      "open": 44.85,
       "day_high": 46.58,
       "day_low": 44.85,
       "prev_close": 45.13,
-      "day_change_pct": 2.61,
+      "day_change_pct": 2.53,
       "week52_high": 74.0,
       "week52_low": 33.18
     },
@@ -521,12 +521,12 @@
       "market_cap_musd": 49669.962852,
       "country": "CA",
       "currency": "USD",
-      "price": 301.19,
-      "open": 302.54,
-      "day_high": 302.89,
+      "price": 302.0,
+      "open": 301.0,
+      "day_high": 304.16,
       "day_low": 294.56,
       "prev_close": 301.36,
-      "day_change_pct": -0.06,
+      "day_change_pct": 0.21,
       "week52_high": 655.5,
       "week52_low": 240.49
     },
@@ -540,12 +540,12 @@
       "market_cap_musd": 60511.299381445926,
       "country": "US",
       "currency": "USD",
-      "price": 316.25,
-      "open": 313.6,
+      "price": 314.69,
+      "open": 314.77,
       "day_high": 318.23,
       "day_low": 312.61,
       "prev_close": 317.1,
-      "day_change_pct": -0.27,
+      "day_change_pct": -0.76,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -559,12 +559,12 @@
       "market_cap_musd": 73777.22810416922,
       "country": "US",
       "currency": "USD",
-      "price": 88.67,
-      "open": 89.39,
-      "day_high": 90.08,
+      "price": 89.08,
+      "open": 88.79,
+      "day_high": 90.07,
       "day_low": 87.19,
       "prev_close": 91.2,
-      "day_change_pct": -2.77,
+      "day_change_pct": -2.32,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -578,12 +578,12 @@
       "market_cap_musd": 8569.673108959045,
       "country": "US",
       "currency": "USD",
-      "price": 23.22,
-      "open": 23.34,
+      "price": 23.1,
+      "open": 23.33,
       "day_high": 23.8,
       "day_low": 23.02,
       "prev_close": 23.65,
-      "day_change_pct": -1.82,
+      "day_change_pct": -2.33,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -597,12 +597,12 @@
       "market_cap_musd": 37229.352251084914,
       "country": "US",
       "currency": "USD",
-      "price": 110.31,
-      "open": 112.25,
+      "price": 109.98,
+      "open": 112.98,
       "day_high": 114.58,
       "day_low": 109.94,
       "prev_close": 112.0,
-      "day_change_pct": -1.51,
+      "day_change_pct": -1.8,
       "week52_high": 119.1,
       "week52_low": 54.37
     },
@@ -616,12 +616,12 @@
       "market_cap_musd": 2867433.9691303405,
       "country": "US",
       "currency": "USD",
-      "price": 261.33,
-      "open": 264.94,
-      "day_high": 264.94,
-      "day_low": 259.92,
+      "price": 260.11,
+      "open": 263.16,
+      "day_high": 263.84,
+      "day_low": 259.52,
       "prev_close": 265.84,
-      "day_change_pct": -1.7,
+      "day_change_pct": -2.16,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -632,5 +632,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-20T19:28:16.102528+00:00"
+  "updated_at": "2026-08-20T20:28:16.485137+00:00"
 }
