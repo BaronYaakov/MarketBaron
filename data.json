@@ -67,6 +67,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Alphabet: The $250 Billion Capex Offload Plan",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7bdc39cbcc7f603f5a1e1dc62a3eb36c683b391e08b34ff3e80f4715d95ed4af",
+      "datetime": 1787234556,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "ORLY",
       "headline": "These S&P500 stocks that are showing activity before the opening bell on Thursday.",
       "source": "ChartMill",
@@ -81,6 +89,14 @@
       "url": "https://finnhub.io/api/news?id=29fe4eeb7074a68ee08a7e56f6baeebc832f11b0f40f2d2f33378b3516d58e77",
       "datetime": 1787228379,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom\u2019s AI Competition Fears Look Overblown: Analyst",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=63c566376229af761e76e86d8d60aaa72226cbc105b2c97850699d483dab931e",
+      "datetime": 1787227558,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "ORLY",
@@ -131,14 +147,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Marvell: The Deal And The Dilution Are Both Real",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b5fbd015aa9fe59291856988109e96ec2f864c527b3f49ec724d7fc320554a99",
-      "datetime": 1787214238,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "AMZN",
       "headline": "Rocket Lab CEO Says $8 Billion Iridium Deal Won\u2019t Take on Elon Musk\u2019s Starlink \u2014 Don\u2019t Intend to 'Directly Compete,\u2019 But Plans Something That 'Hasn\u2019t Been Seen Before\u2019",
       "source": "Benzinga",
@@ -153,14 +161,6 @@
       "url": "https://finnhub.io/api/news?id=717f7a6a6e8498667da90fbce84c8b38568e70ad28bda442085cb3582ad21acc",
       "datetime": 1787211977,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Moderna Doubles on Melanoma Vaccine Win, Treasury Steps In to Cap Long-End Yields",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=508d178665ed408c01403249081d5127f914ba13062aa866c375984e312e5d86",
-      "datetime": 1787209874,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "COR",
@@ -185,6 +185,14 @@
       "url": "https://finnhub.io/api/news?id=0a9059597d4c9f40795ff4e81be1cf28f0b85d0670c0ef4010d328885cff120f",
       "datetime": 1787189545,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "$100 Invested In Cencora 10 Years Ago Would Be Worth This Much Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=6bebed1f2e3e68b35cbbd95600881bd12104e65e8e3c024f92136859172da6e4",
+      "datetime": 1787162437,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "CLS",
@@ -379,14 +387,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "COR",
-      "headline": "5 Insightful Analyst Questions From Cencora\u2019s Q2 Earnings Call",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=46e1555335d1b3fb8660b90649ec0bdb67f2d339b6db31f86806d8269edc92c7",
-      "datetime": 1786690860,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
       "ticker": "P",
       "headline": "Aether Holdings, Inc. (ATHR) Reports Q3 Loss, Lags Revenue Estimates",
       "source": "Yahoo",
@@ -483,12 +483,12 @@
       "market_cap_musd": 1724527.6267192268,
       "country": "US",
       "currency": "USD",
-      "price": 365.53,
+      "price": 365.16,
       "open": 366.24,
       "day_high": 367.12,
       "day_low": 362.25,
       "prev_close": 362.48,
-      "day_change_pct": 0.84,
+      "day_change_pct": 0.74,
       "week52_high": 495.0,
       "week52_low": 281.87
     },
@@ -502,12 +502,12 @@
       "market_cap_musd": 96201.944401,
       "country": "CA",
       "currency": "USD",
-      "price": 46.18,
+      "price": 46.27,
       "open": 44.95,
       "day_high": 46.58,
       "day_low": 44.85,
       "prev_close": 45.13,
-      "day_change_pct": 2.33,
+      "day_change_pct": 2.53,
       "week52_high": 74.0,
       "week52_low": 33.18
     },
@@ -521,12 +521,12 @@
       "market_cap_musd": 49669.962852,
       "country": "CA",
       "currency": "USD",
-      "price": 298.91,
+      "price": 299.01,
       "open": 302.54,
       "day_high": 302.89,
       "day_low": 294.56,
       "prev_close": 301.36,
-      "day_change_pct": -0.81,
+      "day_change_pct": -0.78,
       "week52_high": 655.5,
       "week52_low": 240.49
     },
@@ -540,12 +540,12 @@
       "market_cap_musd": 60511.299381445926,
       "country": "US",
       "currency": "USD",
-      "price": 317.58,
+      "price": 317.08,
       "open": 313.6,
       "day_high": 318.23,
       "day_low": 312.61,
       "prev_close": 317.1,
-      "day_change_pct": 0.15,
+      "day_change_pct": -0.01,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -559,12 +559,12 @@
       "market_cap_musd": 73777.22810416922,
       "country": "US",
       "currency": "USD",
-      "price": 88.7,
+      "price": 88.48,
       "open": 89.39,
       "day_high": 90.08,
       "day_low": 87.19,
       "prev_close": 91.2,
-      "day_change_pct": -2.74,
+      "day_change_pct": -2.98,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -578,12 +578,12 @@
       "market_cap_musd": 8569.673108959045,
       "country": "US",
       "currency": "USD",
-      "price": 23.22,
+      "price": 23.21,
       "open": 23.34,
       "day_high": 23.8,
       "day_low": 23.13,
       "prev_close": 23.65,
-      "day_change_pct": -1.82,
+      "day_change_pct": -1.86,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -597,12 +597,12 @@
       "market_cap_musd": 37229.352251084914,
       "country": "US",
       "currency": "USD",
-      "price": 110.85,
+      "price": 110.53,
       "open": 112.25,
       "day_high": 114.58,
       "day_low": 110.41,
       "prev_close": 112.0,
-      "day_change_pct": -1.03,
+      "day_change_pct": -1.31,
       "week52_high": 119.1,
       "week52_low": 54.37
     },
@@ -616,12 +616,12 @@
       "market_cap_musd": 2867433.9691303405,
       "country": "US",
       "currency": "USD",
-      "price": 260.4,
+      "price": 260.9,
       "open": 264.94,
       "day_high": 264.94,
       "day_low": 259.92,
       "prev_close": 265.84,
-      "day_change_pct": -2.05,
+      "day_change_pct": -1.86,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -632,5 +632,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-20T18:13:16.933827+00:00"
+  "updated_at": "2026-08-20T18:28:16.876835+00:00"
 }
