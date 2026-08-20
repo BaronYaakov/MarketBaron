@@ -99,6 +99,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "Amazon Prime Video Plans To Invest $2B In Latin America From 2027 Through 2030",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=d500eb2c8807f53a740edbf168db3b0c85c14cd8b84884f644a240167eac9006",
+      "datetime": 1787234860,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Hyperscaler AI Capex: What The Headlines Miss",
       "source": "SeekingAlpha",
@@ -112,14 +120,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=ba236fba804b8a75f29a1300656f148d24a486838e1002f937ad75d57c912f23",
       "datetime": 1787234760,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Walmart's Outlook Signals Cautious Spending Ahead; Treasury Euphoria Fades; Samsung Soars; Bitcoin Shorts Crushed",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=9f0fa6491050ece16f58e6bad9a1a4f330e0e162e9f4b10b87b5fd9db4f36298",
-      "datetime": 1787234643,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -480,7 +480,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1724527.6267192268,
+      "market_cap_musd": 1736374.0537405799,
       "country": "US",
       "currency": "USD",
       "price": 364.03,
@@ -499,7 +499,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.barrick.com/",
       "ipo_date": "1983-05-02",
-      "market_cap_musd": 96201.944401,
+      "market_cap_musd": 102637.352152,
       "country": "CA",
       "currency": "USD",
       "price": 46.27,
@@ -518,7 +518,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.celestica.com/",
       "ipo_date": "1998-07-01",
-      "market_cap_musd": 49669.962852,
+      "market_cap_musd": 47900.386861,
       "country": "CA",
       "currency": "USD",
       "price": 302.0,
@@ -537,7 +537,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 60511.299381445926,
+      "market_cap_musd": 60228.87538071215,
       "country": "US",
       "currency": "USD",
       "price": 314.69,
@@ -556,7 +556,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 73777.22810416922,
+      "market_cap_musd": 72145.14550749325,
       "country": "US",
       "currency": "USD",
       "price": 89.08,
@@ -575,7 +575,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 8569.673108959045,
+      "market_cap_musd": 8361.31920956448,
       "country": "US",
       "currency": "USD",
       "price": 23.1,
@@ -594,7 +594,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 37229.352251084914,
+      "market_cap_musd": 36777.28231167214,
       "country": "US",
       "currency": "USD",
       "price": 109.98,
@@ -613,7 +613,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2867433.9691303405,
+      "market_cap_musd": 2814904.4440549077,
       "country": "US",
       "currency": "USD",
       "price": 260.11,
@@ -632,5 +632,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-20T21:28:14.574231+00:00"
+  "updated_at": "2026-08-20T21:43:14.378411+00:00"
 }
