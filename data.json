@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Moderna Doubles on Melanoma Vaccine Win, Treasury Steps In to Cap Long-End Yields",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=508d178665ed408c01403249081d5127f914ba13062aa866c375984e312e5d86",
+      "datetime": 1787209874,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "COR",
       "headline": "RBC Capital Initiates Coverage of Cencora (COR) with Sector Perform Recommendation",
       "source": "Fintel",
@@ -184,14 +192,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=ee610846551e06b5814d7484d6a8749e30197f4ffe09530a339f56f4264a3b15",
       "datetime": 1787135863,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Marvell surges after deal allows Alphabet to buy up to $12.2 billion in shares",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=6dc47810f78ab34a7c6cb6bb99746db57805db351b149d1632dcf0d6b148b279",
-      "datetime": 1787135656,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-20T08:13:15.698083+00:00"
+  "updated_at": "2026-08-20T08:28:14.291304+00:00"
 }
