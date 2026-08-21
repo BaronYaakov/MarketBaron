@@ -67,6 +67,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "P",
+      "headline": "Wedbush Maintains Outperform on Everpure, Raises Price Target to $127",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f515c1a09ff6d390d5d44db55890b90b42c95ab7a930f7c359a416544e3b9bb1",
+      "datetime": 1787304021,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Wall Street Expects SpaceX to Outgrow Nvidia 7-to-1. Musk Says That's Too Low.",
       "source": "Benzinga",
@@ -443,12 +451,12 @@
       "market_cap_musd": 1731901.9283315977,
       "country": "US",
       "currency": "USD",
-      "price": 368.23,
+      "price": 368.0,
       "open": 369.08,
       "day_high": 375.13,
       "day_low": 365.24,
       "prev_close": 364.03,
-      "day_change_pct": 1.15,
+      "day_change_pct": 1.09,
       "week52_high": 495.0,
       "week52_low": 281.87
     },
@@ -462,12 +470,12 @@
       "market_cap_musd": 102637.352152,
       "country": "CA",
       "currency": "USD",
-      "price": 47.15,
+      "price": 47.34,
       "open": 47.16,
       "day_high": 47.58,
       "day_low": 46.93,
       "prev_close": 46.27,
-      "day_change_pct": 1.9,
+      "day_change_pct": 2.31,
       "week52_high": 74.0,
       "week52_low": 33.18
     },
@@ -481,12 +489,12 @@
       "market_cap_musd": 47900.386861,
       "country": "CA",
       "currency": "USD",
-      "price": 295.01,
+      "price": 295.36,
       "open": 305.1,
       "day_high": 306.0,
       "day_low": 292.64,
       "prev_close": 302.0,
-      "day_change_pct": -2.31,
+      "day_change_pct": -2.2,
       "week52_high": 655.5,
       "week52_low": 240.49
     },
@@ -500,12 +508,12 @@
       "market_cap_musd": 60051.40610086909,
       "country": "US",
       "currency": "USD",
-      "price": 318.88,
+      "price": 319.39,
       "open": 314.76,
       "day_high": 319.95,
       "day_low": 313.13,
       "prev_close": 314.69,
-      "day_change_pct": 1.33,
+      "day_change_pct": 1.49,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -519,12 +527,12 @@
       "market_cap_musd": 72062.22702668683,
       "country": "US",
       "currency": "USD",
-      "price": 89.29,
+      "price": 89.21,
       "open": 89.86,
       "day_high": 90.03,
       "day_low": 88.35,
       "prev_close": 89.08,
-      "day_change_pct": 0.24,
+      "day_change_pct": 0.15,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -538,12 +546,12 @@
       "market_cap_musd": 8370.37806027907,
       "country": "US",
       "currency": "USD",
-      "price": 23.12,
+      "price": 23.04,
       "open": 23.14,
       "day_high": 23.35,
       "day_low": 22.98,
       "prev_close": 23.1,
-      "day_change_pct": 0.09,
+      "day_change_pct": -0.26,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -557,12 +565,12 @@
       "market_cap_musd": 36557.89505276303,
       "country": "US",
       "currency": "USD",
-      "price": 108.76,
+      "price": 108.19,
       "open": 110.79,
       "day_high": 111.28,
-      "day_low": 108.0,
+      "day_low": 107.76,
       "prev_close": 109.98,
-      "day_change_pct": -1.11,
+      "day_change_pct": -1.63,
       "week52_high": 119.1,
       "week52_low": 54.37
     },
@@ -576,12 +584,12 @@
       "market_cap_musd": 2805628.2137530064,
       "country": "US",
       "currency": "USD",
-      "price": 259.89,
+      "price": 258.95,
       "open": 261.0,
       "day_high": 261.09,
       "day_low": 257.04,
       "prev_close": 260.11,
-      "day_change_pct": -0.08,
+      "day_change_pct": -0.45,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -592,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-21T15:13:23.848474+00:00"
+  "updated_at": "2026-08-21T15:28:24.595776+00:00"
 }
