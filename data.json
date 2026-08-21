@@ -60,10 +60,34 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "UBS Sees S&P 500 at 8,100 but Prediction Markets Don't Buy It",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=3bb9a9f2f2e9740f55ab8417594fd2ac610b72890576b86196c579d5312f9cef",
+      "datetime": 1787306813,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Wall Street Expects SpaceX to Outgrow Nvidia 7-to-1. Musk Says That's Too Low.",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=c9f4c1adeb6acc5a651d1e0fc889c5945b89b35f5496dd3857fac3a3baa1a5a6",
+      "datetime": 1787302838,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Walmart In No Man's Land",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=f0808d203fc1d7f37244f9bb4d8d6303f364ce6e9905cf34b9c44ad7d0f0944b",
       "datetime": 1787302427,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Bond Yields Are Rising Everywhere: Why This Isn't a US Debt Crisis",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=d71b5cf3781f553e04af30da32db4425cd2267d1c143666c7135f06c8879bb32",
+      "datetime": 1787301797,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -92,6 +116,14 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "This Nvidia Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Friday",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b854c1f0a0745906c4bd36c9aab4bf8e55ea6e2a523b2a01838eb739a1b1d0d4",
+      "datetime": 1787298418,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "EOS: Looking To Explain Weaker Results, Still A 'Buy'",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=1b28db6798a5f7fbb7a5ac8249e4a625ee682eaaca45c1de30818da665bf6fe5",
@@ -99,28 +131,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Electrovaya: A Bad Case Of Overpromising And Underdelivering - Sell",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d7462a99f0695ca2ed61393c66934631ab0aea836ab40e9ff6b197ad9cb5b5f6",
-      "datetime": 1787285459,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Asia's Digital Economy Benefits From The Continued Shift To Online Buying",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=414b3bbeaf4b3da484df8f5ce5fdf21ae84f377865918d71b7128457cdd9b3fe",
-      "datetime": 1787281500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Tracking Mario Gabelli's Gabelli Funds 13F Portfolio - Q2 2026 Update",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d34e4cb40cc75d54d268277ce81d9c6581998aa1f8ad4091d34324375bc7500b",
-      "datetime": 1787257446,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "ticker": "AVGO",
+      "headline": "Broadcom Steps up NVIDIA Challenge With Potential $100 Billion AI Financing Deal",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=cc22b5af25817b585e266ad92cdb6b1ec302e0d16622910ee36e4a7635c3dcfe",
+      "datetime": 1787291312,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -136,22 +152,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=be47314eef46f3b29cea6eeebfb187ebbd7607353b02e61277f02148e320b8f9",
       "datetime": 1787242528,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom: Marvell Panic Causes A Huge Buying Opportunity",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=42c8bba8655a078154193a1cbcdbdcab4010b3969600f3f8c0f4e073167a5b84",
-      "datetime": 1787236396,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Hyperscaler AI Capex: What The Headlines Miss",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ba236fba804b8a75f29a1300656f148d24a486838e1002f937ad75d57c912f23",
-      "datetime": 1787234760,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -443,12 +443,12 @@
       "market_cap_musd": 1731901.9283315977,
       "country": "US",
       "currency": "USD",
-      "price": 367.45,
+      "price": 368.23,
       "open": 369.08,
       "day_high": 375.13,
       "day_low": 365.24,
       "prev_close": 364.03,
-      "day_change_pct": 0.94,
+      "day_change_pct": 1.15,
       "week52_high": 495.0,
       "week52_low": 281.87
     },
@@ -462,12 +462,12 @@
       "market_cap_musd": 102637.352152,
       "country": "CA",
       "currency": "USD",
-      "price": 47.16,
+      "price": 47.15,
       "open": 47.16,
       "day_high": 47.58,
       "day_low": 46.93,
       "prev_close": 46.27,
-      "day_change_pct": 1.92,
+      "day_change_pct": 1.9,
       "week52_high": 74.0,
       "week52_low": 33.18
     },
@@ -481,12 +481,12 @@
       "market_cap_musd": 47900.386861,
       "country": "CA",
       "currency": "USD",
-      "price": 293.98,
+      "price": 295.01,
       "open": 305.1,
       "day_high": 306.0,
       "day_low": 292.64,
       "prev_close": 302.0,
-      "day_change_pct": -2.66,
+      "day_change_pct": -2.31,
       "week52_high": 655.5,
       "week52_low": 240.49
     },
@@ -500,12 +500,12 @@
       "market_cap_musd": 60051.40610086909,
       "country": "US",
       "currency": "USD",
-      "price": 318.22,
+      "price": 318.88,
       "open": 314.76,
       "day_high": 319.95,
       "day_low": 313.13,
       "prev_close": 314.69,
-      "day_change_pct": 1.12,
+      "day_change_pct": 1.33,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -519,12 +519,12 @@
       "market_cap_musd": 72062.22702668683,
       "country": "US",
       "currency": "USD",
-      "price": 89.82,
+      "price": 89.29,
       "open": 89.86,
       "day_high": 90.03,
       "day_low": 88.35,
       "prev_close": 89.08,
-      "day_change_pct": 0.83,
+      "day_change_pct": 0.24,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -538,12 +538,12 @@
       "market_cap_musd": 8370.37806027907,
       "country": "US",
       "currency": "USD",
-      "price": 23.09,
+      "price": 23.12,
       "open": 23.14,
       "day_high": 23.35,
       "day_low": 22.98,
       "prev_close": 23.1,
-      "day_change_pct": -0.04,
+      "day_change_pct": 0.09,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -557,12 +557,12 @@
       "market_cap_musd": 36557.89505276303,
       "country": "US",
       "currency": "USD",
-      "price": 108.64,
+      "price": 108.76,
       "open": 110.79,
       "day_high": 111.28,
-      "day_low": 108.51,
+      "day_low": 108.0,
       "prev_close": 109.98,
-      "day_change_pct": -1.22,
+      "day_change_pct": -1.11,
       "week52_high": 119.1,
       "week52_low": 54.37
     },
@@ -576,12 +576,12 @@
       "market_cap_musd": 2805628.2137530064,
       "country": "US",
       "currency": "USD",
-      "price": 260.12,
+      "price": 259.89,
       "open": 261.0,
       "day_high": 261.09,
       "day_low": 257.04,
       "prev_close": 260.11,
-      "day_change_pct": 0.0,
+      "day_change_pct": -0.08,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-21T14:58:20.593194+00:00"
+  "updated_at": "2026-08-21T15:13:23.848474+00:00"
 }
