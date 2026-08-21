@@ -67,6 +67,30 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Broadcom: You Snooze, You Lose",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=827aff53ceb201616b5e68d09cc2481ca0db544236dc6d0d0d4c72fb389365e2",
+      "datetime": 1787318683,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Stocks making the biggest moves midday: Moderna, Robinhood, BJ's Wholesale, Coinbase & more",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=5f4598b0d6ba255f594f708ce90e97cacf249bf22caddb167020847d33773921",
+      "datetime": 1787314912,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom debt deal expected to reach upwards of $70 billion, sources say",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=b3b41e43c9ac2b333f576f83346cbcd8b0303b5709bac4d8256b0d01b83dbd59",
+      "datetime": 1787313509,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "The Boring Way To Own AI Is Now The Cheap Way",
       "source": "SeekingAlpha",
@@ -80,6 +104,14 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=932fa91307c2859f9e0df540263c429bdaf34390836266d76de2af254764c9d3",
       "datetime": 1787312405,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom's newest debt deal",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=2c04227ae5351fa6a90d147eba0b15cb06cef2dd3553225b4a061c65c3016eeb",
+      "datetime": 1787310979,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -129,38 +161,6 @@
       "url": "https://finnhub.io/api/news?id=f0808d203fc1d7f37244f9bb4d8d6303f364ce6e9905cf34b9c44ad7d0f0944b",
       "datetime": 1787302427,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Buying Marvell Before Broadcom Is A Big Mistake",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=41a87a44b2d9db0343df5a3e124c0a41c98f2e1827eabeae6e09369b39409150",
-      "datetime": 1787301401,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "This Nvidia Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Friday",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=b854c1f0a0745906c4bd36c9aab4bf8e55ea6e2a523b2a01838eb739a1b1d0d4",
-      "datetime": 1787298418,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "EOS: Looking To Explain Weaker Results, Still A 'Buy'",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=1b28db6798a5f7fbb7a5ac8249e4a625ee682eaaca45c1de30818da665bf6fe5",
-      "datetime": 1787295600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Steps up NVIDIA Challenge With Potential $100 Billion AI Financing Deal",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=cc22b5af25817b585e266ad92cdb6b1ec302e0d16622910ee36e4a7635c3dcfe",
-      "datetime": 1787291312,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "ORLY",
@@ -451,12 +451,12 @@
       "market_cap_musd": 1731901.9283315977,
       "country": "US",
       "currency": "USD",
-      "price": 365.24,
+      "price": 366.01,
       "open": 369.08,
       "day_high": 375.13,
       "day_low": 365.05,
       "prev_close": 364.03,
-      "day_change_pct": 0.33,
+      "day_change_pct": 0.54,
       "week52_high": 495.0,
       "week52_low": 281.87
     },
@@ -470,12 +470,12 @@
       "market_cap_musd": 102637.352152,
       "country": "CA",
       "currency": "USD",
-      "price": 47.51,
+      "price": 47.59,
       "open": 47.16,
       "day_high": 47.79,
       "day_low": 46.93,
       "prev_close": 46.27,
-      "day_change_pct": 2.68,
+      "day_change_pct": 2.85,
       "week52_high": 74.0,
       "week52_low": 33.6
     },
@@ -489,12 +489,12 @@
       "market_cap_musd": 47900.386861,
       "country": "CA",
       "currency": "USD",
-      "price": 299.2,
+      "price": 299.91,
       "open": 305.1,
       "day_high": 306.0,
       "day_low": 292.64,
       "prev_close": 302.0,
-      "day_change_pct": -0.93,
+      "day_change_pct": -0.69,
       "week52_high": 655.5,
       "week52_low": 240.49
     },
@@ -508,12 +508,12 @@
       "market_cap_musd": 60051.40610086909,
       "country": "US",
       "currency": "USD",
-      "price": 319.43,
+      "price": 318.8,
       "open": 314.76,
       "day_high": 320.21,
       "day_low": 313.13,
       "prev_close": 314.69,
-      "day_change_pct": 1.51,
+      "day_change_pct": 1.31,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -527,12 +527,12 @@
       "market_cap_musd": 72062.22702668683,
       "country": "US",
       "currency": "USD",
-      "price": 89.44,
+      "price": 89.28,
       "open": 89.86,
       "day_high": 90.03,
       "day_low": 88.35,
       "prev_close": 89.08,
-      "day_change_pct": 0.4,
+      "day_change_pct": 0.22,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -546,12 +546,12 @@
       "market_cap_musd": 8370.37806027907,
       "country": "US",
       "currency": "USD",
-      "price": 23.14,
+      "price": 23.06,
       "open": 23.14,
       "day_high": 23.35,
       "day_low": 22.98,
       "prev_close": 23.1,
-      "day_change_pct": 0.17,
+      "day_change_pct": -0.17,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -584,12 +584,12 @@
       "market_cap_musd": 2805628.2137530064,
       "country": "US",
       "currency": "USD",
-      "price": 259.27,
+      "price": 258.33,
       "open": 261.0,
       "day_high": 261.09,
       "day_low": 257.04,
       "prev_close": 260.11,
-      "day_change_pct": -0.32,
+      "day_change_pct": -0.68,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-21T17:28:19.806922+00:00"
+  "updated_at": "2026-08-21T17:43:21.056826+00:00"
 }
