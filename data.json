@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "The Boring Way To Own AI Is Now The Cheap Way",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=33b759ae54ec2c1b7dd390a8b24d7dd5de93dea22c3e3bcb0be1805704410c5b",
+      "datetime": 1787312952,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "AI Stocks May Be Ignoring A Growing Risk Seen In Credit Markets",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=932fa91307c2859f9e0df540263c429bdaf34390836266d76de2af254764c9d3",
+      "datetime": 1787312405,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "3 Funds For The Technologies That Could Define The Next Decade",
       "source": "SeekingAlpha",
@@ -123,14 +139,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "$1 Million In The S&P 500: An 11-Stock Direct Indexing Strategy",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=25595542c954f854dc850eb0078ca0894ab39750efa9c25c5000303b15e24f4d",
-      "datetime": 1787301026,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "This Nvidia Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Friday",
       "source": "Benzinga",
@@ -152,14 +160,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=cc22b5af25817b585e266ad92cdb6b1ec302e0d16622910ee36e4a7635c3dcfe",
       "datetime": 1787291312,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Hedging Exposure In This Volatile Market",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=93f337f985f0311e22819a35e71c4675f54bf694bae3c2e6449779c783ab45d3",
-      "datetime": 1787247900,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -451,12 +451,12 @@
       "market_cap_musd": 1731901.9283315977,
       "country": "US",
       "currency": "USD",
-      "price": 368.44,
+      "price": 367.34,
       "open": 369.08,
       "day_high": 375.13,
       "day_low": 365.24,
       "prev_close": 364.03,
-      "day_change_pct": 1.21,
+      "day_change_pct": 0.91,
       "week52_high": 495.0,
       "week52_low": 281.87
     },
@@ -470,12 +470,12 @@
       "market_cap_musd": 102637.352152,
       "country": "CA",
       "currency": "USD",
-      "price": 47.59,
+      "price": 47.61,
       "open": 47.16,
-      "day_high": 47.6,
+      "day_high": 47.72,
       "day_low": 46.93,
       "prev_close": 46.27,
-      "day_change_pct": 2.85,
+      "day_change_pct": 2.9,
       "week52_high": 74.0,
       "week52_low": 33.18
     },
@@ -489,12 +489,12 @@
       "market_cap_musd": 47900.386861,
       "country": "CA",
       "currency": "USD",
-      "price": 296.53,
+      "price": 295.0,
       "open": 305.1,
       "day_high": 306.0,
       "day_low": 292.64,
       "prev_close": 302.0,
-      "day_change_pct": -1.81,
+      "day_change_pct": -2.32,
       "week52_high": 655.5,
       "week52_low": 240.49
     },
@@ -508,12 +508,12 @@
       "market_cap_musd": 60051.40610086909,
       "country": "US",
       "currency": "USD",
-      "price": 319.83,
+      "price": 319.84,
       "open": 314.76,
-      "day_high": 319.95,
+      "day_high": 320.04,
       "day_low": 313.13,
       "prev_close": 314.69,
-      "day_change_pct": 1.63,
+      "day_change_pct": 1.64,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -527,12 +527,12 @@
       "market_cap_musd": 72062.22702668683,
       "country": "US",
       "currency": "USD",
-      "price": 89.31,
+      "price": 89.35,
       "open": 89.86,
       "day_high": 90.03,
       "day_low": 88.35,
       "prev_close": 89.08,
-      "day_change_pct": 0.26,
+      "day_change_pct": 0.3,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -546,12 +546,12 @@
       "market_cap_musd": 8370.37806027907,
       "country": "US",
       "currency": "USD",
-      "price": 23.09,
+      "price": 23.08,
       "open": 23.14,
       "day_high": 23.35,
       "day_low": 22.98,
       "prev_close": 23.1,
-      "day_change_pct": -0.04,
+      "day_change_pct": -0.09,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -565,12 +565,12 @@
       "market_cap_musd": 36557.89505276303,
       "country": "US",
       "currency": "USD",
-      "price": 108.45,
+      "price": 108.24,
       "open": 110.79,
       "day_high": 111.28,
       "day_low": 107.76,
       "prev_close": 109.98,
-      "day_change_pct": -1.39,
+      "day_change_pct": -1.58,
       "week52_high": 119.1,
       "week52_low": 54.37
     },
@@ -584,12 +584,12 @@
       "market_cap_musd": 2805628.2137530064,
       "country": "US",
       "currency": "USD",
-      "price": 260.04,
+      "price": 259.23,
       "open": 261.0,
       "day_high": 261.09,
       "day_low": 257.04,
       "prev_close": 260.11,
-      "day_change_pct": -0.03,
+      "day_change_pct": -0.34,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-21T15:58:19.184837+00:00"
+  "updated_at": "2026-08-21T16:13:20.206462+00:00"
 }
