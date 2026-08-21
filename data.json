@@ -75,6 +75,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "COR",
+      "headline": "Dividend Champion, Contender, And Challenger Highlights: Week August 23",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=39359255fee6dd1beadb269dd99f2e2f1d0813d68dd4371fa931522e517ddb8d",
+      "datetime": 1787334897,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Stay informed with the top movers within the dow jones index on Friday.",
       "source": "ChartMill",
@@ -371,14 +379,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     },
     {
-      "ticker": "COR",
-      "headline": "Cencora (COR): Leveraging Healthcare Growth and AI-Driven Productivity",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6527909585ff50c3ffd622f59d25a2a8135b62bc5d4161ef630603722acb0040",
-      "datetime": 1786709161,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "Micron and 15 Other Stocks To Play The AI Buildout Race: They Are Still 20% Below Highs",
       "source": "Benzinga",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-21T21:58:17.249075+00:00"
+  "updated_at": "2026-08-21T22:13:25.453357+00:00"
 }
