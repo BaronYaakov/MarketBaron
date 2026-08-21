@@ -91,6 +91,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "'Anthropic Taps Google Chip Veteran as Part of Push Into Hardware'- Bloomberg",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=6f7269847b3fca88813f12410a97898a915c1320386f56769e0aecafbfd21dbf",
+      "datetime": 1787328511,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Marvell: A $120 Billion Diamond In The Rough",
       "source": "SeekingAlpha",
@@ -121,14 +129,6 @@
       "url": "https://finnhub.io/api/news?id=827aff53ceb201616b5e68d09cc2481ca0db544236dc6d0d0d4c72fb389365e2",
       "datetime": 1787318683,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Bond Buyback Is Simply A Band-Aid for $40T US Debt; Warsh Faces Jackson Hole Test",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=f82c9754c50b75f885b774fb033d245a87b41d2e46e1c8b139d8d187a762d00e",
-      "datetime": 1787316733,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-21T22:58:17.347679+00:00"
+  "updated_at": "2026-08-21T23:13:14.660519+00:00"
 }
