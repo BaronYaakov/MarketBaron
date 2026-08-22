@@ -155,6 +155,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "P",
+      "headline": "/C O R R E C T I O N -- Everpure/",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=582805df63ea64be736d41e7952e8c0e2c4269965fc5de8a2d3c2c7872a48348",
+      "datetime": 1787346720,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "COR",
       "headline": "Dividend Champion, Contender, And Challenger Highlights: Week August 23",
       "source": "SeekingAlpha",
@@ -163,12 +171,52 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
+      "ticker": "P",
+      "headline": "AI Chip Titan Nvidia Headlines Earnings Calendar; Salesforce, Intuit Also On Deck",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7a383cf6c858fe6b544498740da05ca612f2223839c5f083b53b7ba5945e8a11",
+      "datetime": 1787332228,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Everpure Expected to Post Beat-and-Raise Fiscal Q2 Results, Wedbush Says",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9742840299752381918213b1428cb1f98e0b49502a4728cde4829cdc1973ecb6",
+      "datetime": 1787329494,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Everpure Named A Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Enterprise Storage Platforms",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=356e94d006333955a2adb7f6a6c4dc99e77fa02c3bae7bac32472d72e5dbfa30",
+      "datetime": 1787328300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Everpure Gears Up to Report Q2 Earnings: What Should You Know?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d27b73c660b185ee8e05fd4a9a2e6e17d29be5d89e2cdc79f0a006bc9ebf6830",
+      "datetime": 1787324220,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "ORLY",
       "headline": "2 Cash-Producing Stocks to Target This Week and 1 We Question",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=15685480ad41cf1eb768e96ac776e840d5bcd6224b0af6ed129e581db146b45a",
       "datetime": 1787322707,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Unlocking Q2 Potential of Everpure (P): Exploring Wall Street Estimates for Key Metrics",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2ec15ff3ea4e5c56dc108857c0c377d63d08069930ca83f4a16ce4d41f6d0072",
+      "datetime": 1787321708,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "ORLY",
@@ -185,14 +233,6 @@
       "url": "https://finnhub.io/api/news?id=78ec9f120c4deb1453058a74bb8cb7e89a84ae8b0b2e5935f20ed094e9979f6b",
       "datetime": 1787306950,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Wedbush Maintains Outperform on Everpure, Raises Price Target to $127",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=f515c1a09ff6d390d5d44db55890b90b42c95ab7a930f7c359a416544e3b9bb1",
-      "datetime": 1787304021,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "ORLY",
@@ -299,44 +339,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
-      "ticker": "P",
-      "headline": "Here\u2019s How Much You Would Have Made Owning Everpure Stock In The Last 10 Years",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=90194aaac1449d176822ce22308f3d4e1c73a6a5f78c39288d6b69b173da92b8",
-      "datetime": 1787079638,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Jana Partners Buys Stake in Data Center Stock Everpure, May Be Up Almost 100% Already",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=cd84f8231493ebb18fccd9f4632072f388ae813ad5bb247d4545f99f0bf939a5",
-      "datetime": 1787059139,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
       "ticker": "B",
       "headline": "Barrick Mining (NYSE:B) Shows High Growth Momentum With a Breakout Setup",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=4780646c07673941f79502b8f795030e71bea0f27d85674e52471b18d207ab2a",
       "datetime": 1787049120,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "TD Cowen Maintains Buy on Everpure, Raises Price Target to $170",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=40ba5064db5dbb040ab6fd148fcfad278df5fdbe12473c1a2df4f224afa02cb1",
-      "datetime": 1787048972,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "ValuEngine Weekly Market Summary And Commentary",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d9b4895bcab959f8da4e8a79105bd31fb76e60acd9b52236f18627a61dd4f3bb",
-      "datetime": 1787014500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "CLS",
@@ -576,5 +584,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-22T12:58:13.905763+00:00"
+  "updated_at": "2026-08-22T13:13:14.327765+00:00"
 }
