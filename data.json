@@ -480,7 +480,7 @@
       "prev_close": 302.0,
       "day_change_pct": -1.8,
       "week52_high": 655.5,
-      "week52_low": 240.49
+      "week52_low": 249.63
     },
     "COR": {
       "name": "Cencora Inc",
@@ -584,5 +584,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-22T16:58:14.420865+00:00"
+  "updated_at": "2026-08-22T17:13:14.306711+00:00"
 }
