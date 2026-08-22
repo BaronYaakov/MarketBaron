@@ -60,6 +60,54 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "3 Semiconductor Stocks to Buy Before August Ends",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fae07a955723db3f714470232e761c6fdc1952b0c5b76f33bd3a0db05acc7e54",
+      "datetime": 1787400033,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Alphabet and Amazon Are Investing $420 Billion in Artificial Intelligence (AI) Infrastructure: 4 Hardware Stocks Set to Profit",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=45010cc5dfaaf75e827cb8825140c700529ba7fb5c0db0795bcec5c068e82173",
+      "datetime": 1787398500,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Alphabet and Amazon Are Investing $420 Billion in Artificial Intelligence (AI) Infrastructure: 4 Hardware Stocks Set to Profit",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=45010cc5dfaaf75e827cb8825140c700529ba7fb5c0db0795bcec5c068e82173",
+      "datetime": 1787398500,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Should Airbnb\u2019s AI-Fueled \u201cSuper App\u201d Ambitions Reshape the Core Thesis for ABNB Investors?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c885b4a02563756e43731829292ef86eac3fdb1678c8700c884e6f8707e7a35a",
+      "datetime": 1787397028,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "UPS Fired Amazon. Was It The Smart Move?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2d88613db4b37e2bb0a05f334e69e5b5d596cda0962f0bf16e8ecf2ecb6d12d3",
+      "datetime": 1787385300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Can Viking Holdings (VIK) Stay Below Fair Value After Strong Q2?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c88991d743504067ce69adcf5555d58713d7698a3e845e90ab41f889b4b239c7",
+      "datetime": 1787382628,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Broadcom: The Market Has This One Wrong",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=c958e6fc4f170f0735375bb2c1d20177889e3f3acf7b82f35c7b194ecc6ac73a",
@@ -67,19 +115,43 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Discover which dow jones stocks are making waves on Friday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=2a96d4aa691194c3fc85b2b1ae496aa054a0278a839aae1dbc4db975bd1f5df7",
-      "datetime": 1787339405,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "ticker": "AVGO",
+      "headline": "Marvell vs. Broadcom: the custom silicon shift",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ccef432241e2d087769b39b64d0fbc6be07a1c9ac810ea4b0486d42489db28b0",
+      "datetime": 1787362620,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Which S&P500 stocks are the most active on Friday?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=c44337b50efe0da34e7f47d53a781801f081fdbdc9b1b80bf495179c51b14ae9",
-      "datetime": 1787335501,
+      "headline": "Exclusive: Amazon quietly hiked prices on Echo, Fire TV, Kindle, and eero overnight to offset \u2018significant increases\u2019 in memory costs",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c0dd73f3cbc1057ca08a611010392cd80da245470c134ab2413fd512c8f2d03a",
+      "datetime": 1787359835,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Microsoft vs. Broadcom: One Has 85% Upside, But I'm Picking the Other",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c5d16e8f96982a47e26bf370a9249f74b4b170bbd008ae0bf18f5f8d8835e1bb",
+      "datetime": 1787356802,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Why Broadcom Stock Inched Higher on Friday",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=124cf2c103f115b575e678e0c05744aad58706be262674c98ff40efaac883543",
+      "datetime": 1787356063,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Morgan Stanley resets Nvidia stock forecast ahead of earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5a5a4e6a068bdb20252c6475e749615238304cf78e16fa2dc711175e355359cd",
+      "datetime": 1787354220,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -89,78 +161,6 @@
       "url": "https://finnhub.io/api/news?id=39359255fee6dd1beadb269dd99f2e2f1d0813d68dd4371fa931522e517ddb8d",
       "datetime": 1787334897,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Stay informed with the top movers within the dow jones index on Friday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=8f9d28002ee9400803c1bc65f23e8d2596ad9b71d181614b5198d194aed28983",
-      "datetime": 1787330405,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "'Anthropic Taps Google Chip Veteran as Part of Push Into Hardware'- Bloomberg",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=6f7269847b3fca88813f12410a97898a915c1320386f56769e0aecafbfd21dbf",
-      "datetime": 1787328511,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Marvell: A $120 Billion Diamond In The Rough",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=fb0956b1237fa9dc2ea1c6e2af705dfcb9bb3504a039126c6e640e869e2eeef1",
-      "datetime": 1787319953,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Marvell: A $120 Billion Diamond In The Rough",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=fb0956b1237fa9dc2ea1c6e2af705dfcb9bb3504a039126c6e640e869e2eeef1",
-      "datetime": 1787319953,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Owlet: High Risk, High Reward In Medical Tech And Subscription",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=db7f551f262be6edebed07a92bf0d278b6de0e116a69652943fe7f015875dab9",
-      "datetime": 1787319922,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom: You Snooze, You Lose",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=827aff53ceb201616b5e68d09cc2481ca0db544236dc6d0d0d4c72fb389365e2",
-      "datetime": 1787318683,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Stocks making the biggest moves midday: Moderna, Robinhood, BJ's Wholesale, Coinbase & more",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=5f4598b0d6ba255f594f708ce90e97cacf249bf22caddb167020847d33773921",
-      "datetime": 1787314912,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom debt deal expected to reach upwards of $70 billion, sources say",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=b3b41e43c9ac2b333f576f83346cbcd8b0303b5709bac4d8256b0d01b83dbd59",
-      "datetime": 1787313509,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "AI Stocks May Be Ignoring A Growing Risk Seen In Credit Markets",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=932fa91307c2859f9e0df540263c429bdaf34390836266d76de2af254764c9d3",
-      "datetime": 1787312405,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -552,5 +552,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-22T11:58:13.809937+00:00"
+  "updated_at": "2026-08-22T12:13:14.383537+00:00"
 }
