@@ -461,7 +461,7 @@
       "prev_close": 46.27,
       "day_change_pct": 2.87,
       "week52_high": 74.0,
-      "week52_low": 33.6
+      "week52_low": 34.56
     },
     "CLS": {
       "name": "Celestica Inc",
@@ -584,5 +584,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-22T15:28:14.190994+00:00"
+  "updated_at": "2026-08-22T15:43:14.160538+00:00"
 }
