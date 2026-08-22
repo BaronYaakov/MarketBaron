@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Data Center and Cloud Infrastructure Earnings Face a High-Stakes AI Demand Test",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=e5f829afa2f6175b149487545832e8aa7e002e52df98231000d53e26fd1155fa",
+      "datetime": 1787400428,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "3 Semiconductor Stocks to Buy Before August Ends",
       "source": "Yahoo",
@@ -88,6 +96,14 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c885b4a02563756e43731829292ef86eac3fdb1678c8700c884e6f8707e7a35a",
       "datetime": 1787397028,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "FFA: Beware Of The AI Risk With This High-Yielding Covered Call Fund",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0cbcff8caf58cbcfbfc47128930be73edbbd176eb424c7737c0049545a204699",
+      "datetime": 1787386692,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -123,14 +139,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Exclusive: Amazon quietly hiked prices on Echo, Fire TV, Kindle, and eero overnight to offset \u2018significant increases\u2019 in memory costs",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c0dd73f3cbc1057ca08a611010392cd80da245470c134ab2413fd512c8f2d03a",
-      "datetime": 1787359835,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Microsoft vs. Broadcom: One Has 85% Upside, But I'm Picking the Other",
       "source": "Yahoo",
@@ -147,20 +155,36 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Morgan Stanley resets Nvidia stock forecast ahead of earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5a5a4e6a068bdb20252c6475e749615238304cf78e16fa2dc711175e355359cd",
-      "datetime": 1787354220,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Dividend Champion, Contender, And Challenger Highlights: Week August 23",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=39359255fee6dd1beadb269dd99f2e2f1d0813d68dd4371fa931522e517ddb8d",
       "datetime": 1787334897,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "2 Cash-Producing Stocks to Target This Week and 1 We Question",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=15685480ad41cf1eb768e96ac776e840d5bcd6224b0af6ed129e581db146b45a",
+      "datetime": 1787322707,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "O\u2019Reilly\u2019s New Unsecured Debt and Buybacks Might Change The Case For Investing In O\u2019Reilly (ORLY)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7488fe5ae5e353e64e99bd679a8370aa1ff08b8e76eb29c166ad7f97cf86ad06",
+      "datetime": 1787321562,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "O'Reilly Automotive (ORLY) Stock Looks Strong On Returns But Rich On Earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=78ec9f120c4deb1453058a74bb8cb7e89a84ae8b0b2e5935f20ed094e9979f6b",
+      "datetime": 1787306950,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "P",
@@ -172,18 +196,26 @@
     },
     {
       "ticker": "ORLY",
-      "headline": "These S&P500 stocks that are showing activity before the opening bell on Thursday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=710c4f6ba1bc6547fe0bdb24de23d157524b5f38b704e2396156c75b4c0b5bc2",
-      "datetime": 1787229301,
+      "headline": "O'Reilly Automotive (ORLY) Completes $1.6 Billion Senior Notes Offering",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0445dbaaa9903dcf49551cff0c19b55d040161a5a4e085d8773595b2afa1d8d9",
+      "datetime": 1787303376,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "ORLY",
-      "headline": "Advance Auto Parts: This Big Dip Sets Up A Near-Term Opportunity",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=1d050eebd09cb5016f7abe5731c52a94f0db0a80014a38e25e617aeafd19ae35",
-      "datetime": 1787225268,
+      "headline": "Why O'Reilly (ORLY) Stock Is Trading Lower Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7ecffca570360c281769f5e593843e29a6ee739de15b53e287ec92d6c1ff7b0c",
+      "datetime": 1787272740,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "Advance Auto Parts stock plummets: Its 'perpetual turnaround story' might not be working",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0ece2ca88121fed8ba95101a54b30374432ff6a3e35fb6f0634314677e4fa137",
+      "datetime": 1787260370,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
@@ -273,14 +305,6 @@
       "url": "https://finnhub.io/api/news?id=90194aaac1449d176822ce22308f3d4e1c73a6a5f78c39288d6b69b173da92b8",
       "datetime": 1787079638,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "See if you qualify for the $18.8M O'Reilly Automotive telemarketing settlement and learn how to stop unwanted texts",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=7db42744f00f14d14e977f5aabca351bb3cee9e8d9bfbc86e277621a09d41b95",
-      "datetime": 1787062830,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "P",
@@ -552,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-22T12:28:14.123322+00:00"
+  "updated_at": "2026-08-22T12:43:13.884455+00:00"
 }
