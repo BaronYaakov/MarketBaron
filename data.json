@@ -345,54 +345,6 @@
       "url": "https://finnhub.io/api/news?id=2664b925768c4dca10b18582b8e5307cdda98a9d5cad9b1cae8b436218d26873",
       "datetime": 1786780872,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "AbbVie vs. Bristol-Myers Squibb: Which Healthcare Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=33a2434b268e9c2c0fa89571638f2150a7ee2e9c0b89bccb945d9e3a0e34de88",
-      "datetime": 1786736789,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Dividend Champion, Contender, And Challenger Highlights: Week August 16",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=aca754d054c2cc29e122e29d60fc10d0d806a9a9424655c9d9e085ef4de25d34",
-      "datetime": 1786730477,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Is Celestica (CLS) a Buy as Wall Street Analysts Look Optimistic?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4f2c750bbac4b64353e8d1a9e2551773df854ba18f200a852fb249cc7c8f20a2",
-      "datetime": 1786714203,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "AB InBev's Volumes Return to Growth: Is a Bigger Recovery Brewing?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=de40da7518ca188a6aa7643d4d7da659e978c2ec70f85e7018d4eda7f07dce4b",
-      "datetime": 1786713720,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Micron and 15 Other Stocks To Play The AI Buildout Race: They Are Still 20% Below Highs",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=bf655e4a9590a743a1cba322e91ea8de0f1413e8f31e527ea290fd0522a3d79b",
-      "datetime": 1786705339,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Top 3 Tech Stocks That May Fall Off A Cliff In August",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=7408f575c4817c6507ac144c8a4c50eb4cd6c23dd250f1df6d208f18dd865527",
-      "datetime": 1786697427,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     }
   ],
   "recent_posts": [],
@@ -600,5 +552,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-22T04:58:14.604196+00:00"
+  "updated_at": "2026-08-22T05:13:14.571325+00:00"
 }
