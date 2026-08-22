@@ -458,7 +458,7 @@
       "prev_close": 364.03,
       "day_change_pct": 1.21,
       "week52_high": 495.0,
-      "week52_low": 281.87
+      "week52_low": 286.17
     },
     "B": {
       "name": "Barrick Mining Corp",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-22T04:13:14.959527+00:00"
+  "updated_at": "2026-08-22T04:28:15.182844+00:00"
 }
