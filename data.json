@@ -59,6 +59,78 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Broadcom vs. Marvell Technology: 1 Critical Metric Decides the Better Custom AI Chip Stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=12f1e456221807cd220275e57f4df8b49a9783c2523e582ee86b95a6dfcf70a1",
+      "datetime": 1787509560,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Bill Ackman's Pershing Square invests $1.1B in fintech giant",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=089efd0555812f556abbe08388032dcd1f681a5ea622f68392b3f3c07d23c7d6",
+      "datetime": 1787508420,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Texas welcomed the AI boom. Now Abbott says data centers \"dug their own grave\"",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b755aec59d124c591eb6696c5ca304ce325b5d8990412a76c0cd6678b9d2bf1c",
+      "datetime": 1787506699,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "This is One of the Cheapest Magnificent Seven Stocks Right Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=48b65ed7abb2599709313aae607fee11df40d774f6f47f19246b23464d57077c",
+      "datetime": 1787500854,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Nvidia\u2019s 15% Price Hike Reveals the Hidden Cost of the AI Boom",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4741189c2db3ecc3e1c852ee549c661d3ba5fa23164f186325b42b94f8ae806b",
+      "datetime": 1787499834,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon's Free Cash Flow Went Negative by $7.6 Billion Even as Operating Cash Flow Rose 33%. Here's the Gap AI Capex Is Actually Creating.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a9905b210869231b722441eba4e31cff86108bf3179b3579bcc7fa5dfcd60758",
+      "datetime": 1787499300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Invesco Discovery Mid Cap Growth Fund Q2 2026 Portfolio Performance",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1bc7c8c3f2c66972d3399d77bb4313e98ddbdc8d97239280f5785bd552745225",
+      "datetime": 1787494920,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "If Amazon Is a Top Growth Stock, Then Why Does It Trade at Just 21.3x Forward Earnings While the S&P 500 Trades at 20.4x? This Is the Only Answer I Can Think Of.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9dcc2287ef66a958ed72e89b6c823acb682681976b1000979d8ef38026bd6060",
+      "datetime": 1787488500,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Forget Broadcom: Nvidia (NVDA) Is Still the Top Semiconductor Stock for 2027 and Beyond",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b40be1909044dd7a0c90eeb83fd286d6cccfbb4425b8e58d4185c1043fe67018",
+      "datetime": 1787481000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "B",
       "headline": "Why Macro Trends Matter To Prudent Investors",
       "source": "SeekingAlpha",
@@ -67,99 +139,43 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Data Center and Cloud Infrastructure Earnings Face a High-Stakes AI Demand Test",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=e5f829afa2f6175b149487545832e8aa7e002e52df98231000d53e26fd1155fa",
-      "datetime": 1787400428,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "ticker": "P",
+      "headline": "Everpure (P) Lands Supply Agreement With A Second Top Five Hyperscaler",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=12a99f915fb5de1e93f56e196392f2fa49db2193269bb49879a1ba19698e5a5a",
+      "datetime": 1787465401,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "AVGO",
-      "headline": "3 Semiconductor Stocks to Buy Before August Ends",
+      "headline": "Third Point Starts to Raise Alarm Bells on Broadcom After Dumping AVGO Stock in Q2",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fae07a955723db3f714470232e761c6fdc1952b0c5b76f33bd3a0db05acc7e54",
-      "datetime": 1787400033,
+      "url": "https://finnhub.io/api/news?id=0ca279e7b64d74c6c0ae82e4785b5d0fe1ac8dd868657e961011a4f4d780033c",
+      "datetime": 1787430602,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
-      "headline": "Alphabet and Amazon Are Investing $420 Billion in Artificial Intelligence (AI) Infrastructure: 4 Hardware Stocks Set to Profit",
+      "headline": "Nvidia Stock Doesn\u2019t Look as Expensive as You Think",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=45010cc5dfaaf75e827cb8825140c700529ba7fb5c0db0795bcec5c068e82173",
-      "datetime": 1787398500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Alphabet and Amazon Are Investing $420 Billion in Artificial Intelligence (AI) Infrastructure: 4 Hardware Stocks Set to Profit",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=45010cc5dfaaf75e827cb8825140c700529ba7fb5c0db0795bcec5c068e82173",
-      "datetime": 1787398500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Should Airbnb\u2019s AI-Fueled \u201cSuper App\u201d Ambitions Reshape the Core Thesis for ABNB Investors?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c885b4a02563756e43731829292ef86eac3fdb1678c8700c884e6f8707e7a35a",
-      "datetime": 1787397028,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "FFA: Beware Of The AI Risk With This High-Yielding Covered Call Fund",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=0cbcff8caf58cbcfbfc47128930be73edbbd176eb424c7737c0049545a204699",
-      "datetime": 1787386692,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "UPS Fired Amazon. Was It The Smart Move?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2d88613db4b37e2bb0a05f334e69e5b5d596cda0962f0bf16e8ecf2ecb6d12d3",
-      "datetime": 1787385300,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Can Viking Holdings (VIK) Stay Below Fair Value After Strong Q2?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c88991d743504067ce69adcf5555d58713d7698a3e845e90ab41f889b4b239c7",
-      "datetime": 1787382628,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom: The Market Has This One Wrong",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c958e6fc4f170f0735375bb2c1d20177889e3f3acf7b82f35c7b194ecc6ac73a",
-      "datetime": 1787371290,
+      "url": "https://finnhub.io/api/news?id=b058d47c3d31d5a64d2d76fcaaea49c259aa247d30415df085a628ea6cdd86b9",
+      "datetime": 1787416250,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
-      "headline": "Marvell vs. Broadcom: the custom silicon shift",
+      "headline": "Billionaire David Tepper Sold His Fund's Sandisk Stake in Favor of This Trillion-Dollar Artificial Intelligence (AI) Chip Stock",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ccef432241e2d087769b39b64d0fbc6be07a1c9ac810ea4b0486d42489db28b0",
-      "datetime": 1787362620,
+      "url": "https://finnhub.io/api/news?id=0c667adb3f4c95da24afca1d823f98fcbb3d7f2a5b20dd6cde64e2822b78a60c",
+      "datetime": 1787412000,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
-      "headline": "Microsoft vs. Broadcom: One Has 85% Upside, But I'm Picking the Other",
+      "headline": "D.E. Shaw Just Disclosed a $912 Million SpaceX Stake and a 58% Broadcom Cut in the Same Quarter",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c5d16e8f96982a47e26bf370a9249f74b4b170bbd008ae0bf18f5f8d8835e1bb",
-      "datetime": 1787356802,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Why Broadcom Stock Inched Higher on Friday",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=124cf2c103f115b575e678e0c05744aad58706be262674c98ff40efaac883543",
-      "datetime": 1787356063,
+      "url": "https://finnhub.io/api/news?id=ace452f8b394728c2f58459e4f721b685c2747b169baf43dc452c2c9aa50a6c9",
+      "datetime": 1787407245,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -217,14 +233,6 @@
       "url": "https://finnhub.io/api/news?id=15685480ad41cf1eb768e96ac776e840d5bcd6224b0af6ed129e581db146b45a",
       "datetime": 1787322707,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Unlocking Q2 Potential of Everpure (P): Exploring Wall Street Estimates for Key Metrics",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2ec15ff3ea4e5c56dc108857c0c377d63d08069930ca83f4a16ce4d41f6d0072",
-      "datetime": 1787321708,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "ORLY",
@@ -568,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-23T18:28:16.644254+00:00"
+  "updated_at": "2026-08-23T18:43:16.138058+00:00"
 }
