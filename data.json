@@ -353,30 +353,6 @@
       "url": "https://finnhub.io/api/news?id=6b3d9f6d0b35974ecf161bbdd4062b34a79f2d665e4b337536367549b0ad7112",
       "datetime": 1786973716,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Primo Brands (PRMB) Completes $489.4 Million Follow On Equity Offering",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=170eea345b18a98018056bc5d1bc3270ea31d02ad90745629fc957cf00b4b74a",
-      "datetime": 1786835319,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Barrick Mining (TSX:ABX) Creates New Rest Of World CEO Role",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5c94f99d00aa80c64bf5b4156d3b8b7db74963204b44482e0d3ff48104220993",
-      "datetime": 1786802884,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Benzinga Bulls and Bears: Riot Platforms, Firefly, Virgin Galactic",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=2664b925768c4dca10b18582b8e5307cdda98a9d5cad9b1cae8b436218d26873",
-      "datetime": 1786780872,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     }
   ],
   "recent_posts": [],
@@ -584,5 +560,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-23T04:58:19.633663+00:00"
+  "updated_at": "2026-08-23T05:13:20.524584+00:00"
 }
