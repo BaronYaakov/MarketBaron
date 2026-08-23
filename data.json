@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "B",
+      "headline": "Why Macro Trends Matter To Prudent Investors",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6efb7ff5af1224f0997242995834ac635579fe5b3a38936ed1fad872294cd2d6",
+      "datetime": 1787479200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Data Center and Cloud Infrastructure Earnings Face a High-Stakes AI Demand Test",
       "source": "ChartMill",
@@ -560,5 +568,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-23T14:13:18.762791+00:00"
+  "updated_at": "2026-08-23T14:28:19.317804+00:00"
 }
