@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Market Volatility Risk: Nvidia Earnings And Jackson Hole Next Week",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8522f9c5d378b2e6f3094ea6b686f844912c8f43296bc2edff0144a92bd32f24",
+      "datetime": 1787521046,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "ORLY",
       "headline": "Tracking Akre Capital Management Portfolio - Q2 2026 Update",
       "source": "SeekingAlpha",
@@ -121,14 +129,6 @@
       "url": "https://finnhub.io/api/news?id=1bc7c8c3f2c66972d3399d77bb4313e98ddbdc8d97239280f5785bd552745225",
       "datetime": 1787494920,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "If Amazon Is a Top Growth Stock, Then Why Does It Trade at Just 21.3x Forward Earnings While the S&P 500 Trades at 20.4x? This Is the Only Answer I Can Think Of.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9dcc2287ef66a958ed72e89b6c823acb682681976b1000979d8ef38026bd6060",
-      "datetime": 1787488500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-24T01:58:17.877782+00:00"
+  "updated_at": "2026-08-24T02:13:20.962328+00:00"
 }
