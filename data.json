@@ -99,6 +99,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "EXCLUSIVE: How AI's $220 Billion Bond Boom Competes With the Treasury",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=2bb2ded5a800effa78cb8653a84a46706ba0529ec7d7f6407e9c3107b4344745",
+      "datetime": 1787581265,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "More 'Naked Swimmers' Will Continue To Emerge As The Tide Recedes",
       "source": "SeekingAlpha",
@@ -112,14 +120,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=f7f93a4f108a80e0a29d0f56809afcb0f6385c443b224895dad20328bc16045f",
       "datetime": 1787576240,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Analyst Calls Marvell A Top Chip Pick As AI Demand Builds",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=26eabb9270556fcc992f45fdeb48c363a1a640f8990c5b8a2add623742488481",
-      "datetime": 1787574163,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-24T22:58:17.189575+00:00"
+  "updated_at": "2026-08-24T23:13:15.328131+00:00"
 }
