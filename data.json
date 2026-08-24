@@ -519,7 +519,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 8377.625413807793,
+      "market_cap_musd": 8377.62558,
       "country": "US",
       "currency": "USD",
       "price": 23.12,
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-23T23:58:17.631646+00:00"
+  "updated_at": "2026-08-24T00:13:18.550535+00:00"
 }
