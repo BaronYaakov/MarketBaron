@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "CLS",
+      "headline": "This Darden Analyst Turns Bullish; Here Are Top 4 Upgrades For Monday",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=75c9a349df3cac6a9e6ab490dc286a5698d1c8782679b5be2a7ce8e60a537c38",
+      "datetime": 1787571865,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "UBS Upgrades Celestica to Buy, Raises Price Target to $430",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=36a819c8974e7bff512ed1b0dd01d5909a5b09e112120a1b4b7271a7dc6b485f",
+      "datetime": 1787564516,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Bessent's Toolbox Gets a Rest as Gold Prints $4,600 and Ross Stores Cleans Up",
       "source": "ChartMill",
@@ -105,6 +121,14 @@
       "url": "https://finnhub.io/api/news?id=8079164136545baee830d50713e54d0454e89a8d97afa1928877b95bd1fecba9",
       "datetime": 1787552853,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "What's Going On With Broadcom Stock Monday?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e9c281e529ba0f8103af51a6650da4c8810dabe7fe153119e86186749814e3f7",
+      "datetime": 1787552402,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -184,14 +208,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0ca279e7b64d74c6c0ae82e4785b5d0fe1ac8dd868657e961011a4f4d780033c",
       "datetime": 1787430602,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia Stock Doesn\u2019t Look as Expensive as You Think",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b058d47c3d31d5a64d2d76fcaaea49c259aa247d30415df085a628ea6cdd86b9",
-      "datetime": 1787416250,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -435,12 +451,12 @@
       "market_cap_musd": 1752930.3739067945,
       "country": "US",
       "currency": "USD",
-      "price": 361.52,
+      "price": 360.63,
       "open": 364.28,
       "day_high": 366.17,
-      "day_low": 360.57,
+      "day_low": 360.5,
       "prev_close": 368.45,
-      "day_change_pct": -1.88,
+      "day_change_pct": -2.12,
       "week52_high": 495.0,
       "week52_low": 286.17
     },
@@ -454,12 +470,12 @@
       "market_cap_musd": 105073.26031,
       "country": "CA",
       "currency": "USD",
-      "price": 47.87,
+      "price": 47.71,
       "open": 47.95,
       "day_high": 48.5,
       "day_low": 47.42,
       "prev_close": 47.6,
-      "day_change_pct": 0.57,
+      "day_change_pct": 0.23,
       "week52_high": 74.0,
       "week52_low": 34.56
     },
@@ -473,12 +489,12 @@
       "market_cap_musd": 51953.097668,
       "country": "CA",
       "currency": "USD",
-      "price": 296.61,
+      "price": 296.43,
       "open": 299.75,
       "day_high": 299.75,
       "day_low": 284.55,
       "prev_close": 296.55,
-      "day_change_pct": 0.02,
+      "day_change_pct": -0.04,
       "week52_high": 655.5,
       "week52_low": 249.63
     },
@@ -492,12 +508,12 @@
       "market_cap_musd": 60690.6764654563,
       "country": "US",
       "currency": "USD",
-      "price": 323.79,
+      "price": 323.63,
       "open": 319.2,
       "day_high": 324.58,
       "day_low": 317.65,
       "prev_close": 318.04,
-      "day_change_pct": 1.81,
+      "day_change_pct": 1.76,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -511,12 +527,12 @@
       "market_cap_musd": 72086.49974496182,
       "country": "US",
       "currency": "USD",
-      "price": 90.27,
+      "price": 89.95,
       "open": 89.2,
       "day_high": 91.5,
       "day_low": 89.13,
       "prev_close": 89.11,
-      "day_change_pct": 1.3,
+      "day_change_pct": 0.94,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -530,12 +546,12 @@
       "market_cap_musd": 8377.62558,
       "country": "US",
       "currency": "USD",
-      "price": 23.06,
+      "price": 23.02,
       "open": 23.27,
       "day_high": 23.55,
       "day_low": 22.93,
       "prev_close": 23.12,
-      "day_change_pct": -0.26,
+      "day_change_pct": -0.43,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -549,12 +565,12 @@
       "market_cap_musd": 36082.55709351654,
       "country": "US",
       "currency": "USD",
-      "price": 101.68,
+      "price": 101.69,
       "open": 107.19,
       "day_high": 107.92,
-      "day_low": 101.55,
+      "day_low": 101.51,
       "prev_close": 108.55,
-      "day_change_pct": -6.33,
+      "day_change_pct": -6.32,
       "week52_high": 119.1,
       "week52_low": 55.22
     },
@@ -568,12 +584,12 @@
       "market_cap_musd": 2789664.349908392,
       "country": "US",
       "currency": "USD",
-      "price": 263.25,
+      "price": 263.02,
       "open": 258.76,
       "day_high": 263.32,
       "day_low": 258.76,
       "prev_close": 258.63,
-      "day_change_pct": 1.79,
+      "day_change_pct": 1.7,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -584,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-24T16:43:18.289440+00:00"
+  "updated_at": "2026-08-24T16:58:18.243633+00:00"
 }
