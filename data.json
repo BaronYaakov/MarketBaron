@@ -67,6 +67,22 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Nvidia: The Last Hurrah Before ASIC (Earnings Preview)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6164f6385b35dc0f3b590f19a9191c2ede170765d8c82055d403a81a7c9365fa",
+      "datetime": 1787595674,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Nvidia: The Last Hurrah Before ASIC (Earnings Preview)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6164f6385b35dc0f3b590f19a9191c2ede170765d8c82055d403a81a7c9365fa",
+      "datetime": 1787595674,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "What's going on in today's session: S&P500 most active stocks",
       "source": "ChartMill",
@@ -147,14 +163,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "CoreWeave: A Financial Accident In The Making",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=14c4893a293de51c31c9bf5b654c26c24d36a351390f7301d682b0921f107bd4",
-      "datetime": 1787562375,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "B",
       "headline": "Barrick Mining Q2 2026 Earnings Call: Complete Transcript",
       "source": "Benzinga",
@@ -185,14 +193,6 @@
       "url": "https://finnhub.io/api/news?id=1aeea01c2c79e362bb8d7a4156c210037e7930b09360058585694393a636cc12",
       "datetime": 1787516636,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom vs. Marvell Technology: 1 Critical Metric Decides the Better Custom AI Chip Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=12f1e456221807cd220275e57f4df8b49a9783c2523e582ee86b95a6dfcf70a1",
-      "datetime": 1787509560,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "COR",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-24T22:28:17.637522+00:00"
+  "updated_at": "2026-08-24T22:43:17.171161+00:00"
 }
