@@ -91,6 +91,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "Analyst Calls Marvell A Top Chip Pick As AI Demand Builds",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=26eabb9270556fcc992f45fdeb48c363a1a640f8990c5b8a2add623742488481",
+      "datetime": 1787574163,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "CLS",
       "headline": "This Darden Analyst Turns Bullish; Here Are Top 4 Upgrades For Monday",
       "source": "Benzinga",
@@ -147,14 +155,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "AI's Next Bottleneck Isn't Chips, It's Power, With Demand Expected to Soar 1,100% by 2033: Why CEG, VST, GEV Stocks Are in Focus",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=8e2c1ec5461761727354f02e59fc0d673fb759315111bc11f8c7cea37ebd0de5",
-      "datetime": 1787555910,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "B",
       "headline": "Barrick Mining Q2 2026 Earnings Call: Complete Transcript",
       "source": "Benzinga",
@@ -168,6 +168,14 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=e9c281e529ba0f8103af51a6650da4c8810dabe7fe153119e86186749814e3f7",
       "datetime": 1787552402,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Insights Into Broadcom's Performance Versus Peers In Semiconductors &amp; Semiconductor Equipment Sector",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=10770d838a4ab0198fc9a49e9cd51d5b2bb886d5a02c6ee1f47c4cbe01c2608b",
+      "datetime": 1787551116,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -193,14 +201,6 @@
       "url": "https://finnhub.io/api/news?id=1bc7c8c3f2c66972d3399d77bb4313e98ddbdc8d97239280f5785bd552745225",
       "datetime": 1787494920,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Forget Broadcom: Nvidia (NVDA) Is Still the Top Semiconductor Stock for 2027 and Beyond",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b40be1909044dd7a0c90eeb83fd286d6cccfbb4425b8e58d4185c1043fe67018",
-      "datetime": 1787481000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "B",
@@ -451,12 +451,12 @@
       "market_cap_musd": 1752930.3739067945,
       "country": "US",
       "currency": "USD",
-      "price": 361.19,
+      "price": 360.94,
       "open": 364.28,
       "day_high": 366.17,
       "day_low": 359.54,
       "prev_close": 368.45,
-      "day_change_pct": -1.97,
+      "day_change_pct": -2.04,
       "week52_high": 495.0,
       "week52_low": 286.17
     },
@@ -470,12 +470,12 @@
       "market_cap_musd": 105073.26031,
       "country": "CA",
       "currency": "USD",
-      "price": 47.95,
+      "price": 47.94,
       "open": 47.95,
       "day_high": 48.5,
       "day_low": 47.42,
       "prev_close": 47.6,
-      "day_change_pct": 0.74,
+      "day_change_pct": 0.71,
       "week52_high": 74.0,
       "week52_low": 34.56
     },
@@ -489,12 +489,12 @@
       "market_cap_musd": 51953.097668,
       "country": "CA",
       "currency": "USD",
-      "price": 295.91,
+      "price": 295.99,
       "open": 299.75,
       "day_high": 299.75,
       "day_low": 284.55,
       "prev_close": 296.55,
-      "day_change_pct": -0.22,
+      "day_change_pct": -0.19,
       "week52_high": 655.5,
       "week52_low": 249.63
     },
@@ -508,12 +508,12 @@
       "market_cap_musd": 60690.6764654563,
       "country": "US",
       "currency": "USD",
-      "price": 322.34,
+      "price": 322.53,
       "open": 319.2,
       "day_high": 324.58,
       "day_low": 317.65,
       "prev_close": 318.04,
-      "day_change_pct": 1.35,
+      "day_change_pct": 1.41,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -527,12 +527,12 @@
       "market_cap_musd": 72086.49974496182,
       "country": "US",
       "currency": "USD",
-      "price": 89.94,
+      "price": 90.09,
       "open": 89.2,
       "day_high": 91.5,
       "day_low": 89.13,
       "prev_close": 89.11,
-      "day_change_pct": 0.93,
+      "day_change_pct": 1.1,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -546,12 +546,12 @@
       "market_cap_musd": 8377.62558,
       "country": "US",
       "currency": "USD",
-      "price": 23.05,
+      "price": 23.13,
       "open": 23.27,
       "day_high": 23.55,
       "day_low": 22.93,
       "prev_close": 23.12,
-      "day_change_pct": -0.3,
+      "day_change_pct": 0.04,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -565,12 +565,12 @@
       "market_cap_musd": 36082.55709351654,
       "country": "US",
       "currency": "USD",
-      "price": 100.8,
+      "price": 100.89,
       "open": 107.19,
       "day_high": 107.92,
       "day_low": 100.53,
       "prev_close": 108.55,
-      "day_change_pct": -7.14,
+      "day_change_pct": -7.06,
       "week52_high": 119.1,
       "week52_low": 55.22
     },
@@ -584,12 +584,12 @@
       "market_cap_musd": 2789664.349908392,
       "country": "US",
       "currency": "USD",
-      "price": 262.53,
+      "price": 261.93,
       "open": 258.76,
       "day_high": 263.32,
       "day_low": 258.76,
       "prev_close": 258.63,
-      "day_change_pct": 1.51,
+      "day_change_pct": 1.28,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-24T18:43:18.531311+00:00"
+  "updated_at": "2026-08-24T18:58:18.447172+00:00"
 }
