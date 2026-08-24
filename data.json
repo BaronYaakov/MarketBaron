@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "ORLY",
+      "headline": "Tracking Akre Capital Management Portfolio - Q2 2026 Update",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1aeea01c2c79e362bb8d7a4156c210037e7930b09360058585694393a636cc12",
+      "datetime": 1787516636,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom vs. Marvell Technology: 1 Critical Metric Decides the Better Custom AI Chip Stock",
       "source": "Yahoo",
@@ -264,14 +272,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7ecffca570360c281769f5e593843e29a6ee739de15b53e287ec92d6c1ff7b0c",
       "datetime": 1787272740,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Advance Auto Parts stock plummets: Its 'perpetual turnaround story' might not be working",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0ece2ca88121fed8ba95101a54b30374432ff6a3e35fb6f0634314677e4fa137",
-      "datetime": 1787260370,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-24T00:13:18.550535+00:00"
+  "updated_at": "2026-08-24T01:28:17.411046+00:00"
 }
