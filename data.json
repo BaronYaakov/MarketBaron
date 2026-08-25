@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Amazon: The Cloud King Is Storming Back (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0c8841c779bf255ff372a11f72cc2209db515fd1fa6e70b4a29be96cc5d92748",
+      "datetime": 1787616309,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Plug Power: Tangible Margin Progress But More Work Ahead - Hold",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=65184dd872cbb26322d3ed2f83958c9984fdc25158dd0dfa33b913349c91d272",
@@ -104,14 +112,6 @@
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=d45317f41b896114f8506141212d4c216b33f338075e1988daf4bcbe28cfb3e6",
       "datetime": 1787589605,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "'Amazon plots a new 'Tetromino' warehouse where robots tackle work that's notoriously hard to automate' - Business Insider",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=f8385d3de0b9f991f2591dd0483c8b1cb7502529d12e907235bfc358fd1366ba",
-      "datetime": 1787585554,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -385,14 +385,6 @@
       "url": "https://finnhub.io/api/news?id=4780646c07673941f79502b8f795030e71bea0f27d85674e52471b18d207ab2a",
       "datetime": 1787049120,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "7 Information Technology Stocks With Whale Alerts In Today\u2019s Session",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=6b3d9f6d0b35974ecf161bbdd4062b34a79f2d665e4b337536367549b0ad7112",
-      "datetime": 1786973716,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     }
   ],
   "recent_posts": [],
@@ -600,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-25T04:58:14.743957+00:00"
+  "updated_at": "2026-08-25T05:13:15.813852+00:00"
 }
