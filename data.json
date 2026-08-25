@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=4a58a6f746e24ff8c34ddff188f2b82ff0e1326f391c36ca862d996d0c19ac28",
+      "datetime": 1787685007,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Top dow jones movers in Tuesday's session",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=a8858e98310f85462059e252bd76fc3444519de43c88f68833ab57142ce4739b",
@@ -107,6 +115,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "'Anthropic Expected to Tell Investors It Sees Over $30 Trillion in Potential Revenue' - WSJ Exclusive",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=cee5faec1d2e782d538f1d54ce18c3aa1139b3390e67c37b5389f430018753c2",
+      "datetime": 1787659357,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "B",
       "headline": "Barrick Mining (NYSE: B) Shows Strong Growth Leadership and Momentum in CANSLIM Screen",
       "source": "ChartMill",
@@ -139,28 +155,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Nvidia Earnings Could Trigger a Chilling Reality Check For $1 Trillion AI Boom, Says Analyst: 'Biggest Thing I Am Watching...' (UPDATED)",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=d51149d752196818dc87969d3d6eb90f2a5a000270c4098a5f30ee138f892841",
-      "datetime": 1787645402,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "Chips Take the Punch Ahead of Nvidia as Trump's Canada Tariffs Rattle Detroit",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=2be168855ee50e913a997ad60b9ba46a6dce9f94c3f66325445b6b6e82be88ad",
       "datetime": 1787643808,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Bitcoin Beats Nvidia to Become Top-Performing Major Asset Over 10 Years as BTC Surges Above $80,000",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=e9997f56ea9cf0e733210d7f5fbc9fc4547a46fb9f5e92b5dc1437bd462e96d2",
-      "datetime": 1787637403,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -443,12 +443,12 @@
       "market_cap_musd": 1717795.6976675852,
       "country": "US",
       "currency": "USD",
-      "price": 355.99,
+      "price": 356.02,
       "open": 361.08,
       "day_high": 362.99,
       "day_low": 355.31,
       "prev_close": 358.76,
-      "day_change_pct": -0.77,
+      "day_change_pct": -0.76,
       "week52_high": 495.0,
       "week52_low": 287.17
     },
@@ -462,12 +462,12 @@
       "market_cap_musd": 109665.273012,
       "country": "CA",
       "currency": "USD",
-      "price": 48.9,
+      "price": 48.86,
       "open": 47.66,
       "day_high": 49.14,
       "day_low": 47.52,
       "prev_close": 48.16,
-      "day_change_pct": 1.54,
+      "day_change_pct": 1.45,
       "week52_high": 74.0,
       "week52_low": 35.26
     },
@@ -481,12 +481,12 @@
       "market_cap_musd": 51372.621756,
       "country": "CA",
       "currency": "USD",
-      "price": 304.16,
+      "price": 305.18,
       "open": 301.05,
       "day_high": 307.34,
       "day_low": 298.45,
       "prev_close": 294.57,
-      "day_change_pct": 3.26,
+      "day_change_pct": 3.6,
       "week52_high": 655.5,
       "week52_low": 250.02
     },
@@ -500,12 +500,12 @@
       "market_cap_musd": 61602.82782014356,
       "country": "US",
       "currency": "USD",
-      "price": 326.73,
+      "price": 326.87,
       "open": 322.68,
       "day_high": 326.98,
       "day_low": 321.43,
       "prev_close": 323.77,
-      "day_change_pct": 0.91,
+      "day_change_pct": 0.96,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -519,12 +519,12 @@
       "market_cap_musd": 73182.64041409736,
       "country": "US",
       "currency": "USD",
-      "price": 90.47,
+      "price": 90.48,
       "open": 90.66,
       "day_high": 91.44,
       "day_low": 90.21,
       "prev_close": 90.68,
-      "day_change_pct": -0.23,
+      "day_change_pct": -0.22,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -538,12 +538,12 @@
       "market_cap_musd": 8357.28079029583,
       "country": "US",
       "currency": "USD",
-      "price": 23.26,
+      "price": 23.2,
       "open": 23.25,
       "day_high": 23.41,
       "day_low": 22.94,
       "prev_close": 23.02,
-      "day_change_pct": 1.04,
+      "day_change_pct": 0.78,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -557,12 +557,12 @@
       "market_cap_musd": 34412.22201688048,
       "country": "US",
       "currency": "USD",
-      "price": 102.11,
+      "price": 101.83,
       "open": 102.52,
       "day_high": 106.27,
       "day_low": 101.54,
       "prev_close": 100.44,
-      "day_change_pct": 1.66,
+      "day_change_pct": 1.38,
       "week52_high": 119.1,
       "week52_low": 55.47
     },
@@ -576,12 +576,12 @@
       "market_cap_musd": 2812963.024846142,
       "country": "US",
       "currency": "USD",
-      "price": 260.04,
+      "price": 260.76,
       "open": 262.61,
       "day_high": 263.89,
       "day_low": 259.83,
       "prev_close": 262.07,
-      "day_change_pct": -0.77,
+      "day_change_pct": -0.5,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-25T19:28:18.490790+00:00"
+  "updated_at": "2026-08-25T19:43:19.741449+00:00"
 }
