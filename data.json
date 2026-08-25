@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Amazon: AI Revenue Too Dependent On OpenAI And Anthropic",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c6448c58ce6702b5c883d90b88a7a4127b238b636bd7d75295294a5fa241dc84",
+      "datetime": 1787624672,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon: The Cloud King Is Storming Back (Rating Upgrade)",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=0c8841c779bf255ff372a11f72cc2209db515fd1fa6e70b4a29be96cc5d92748",
@@ -104,14 +112,6 @@
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=b4e7862ecff49c01c686f4ff93eb405072c170ffc8e5c83fda06da0f37f4a012",
       "datetime": 1787594700,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=d45317f41b896114f8506141212d4c216b33f338075e1988daf4bcbe28cfb3e6",
-      "datetime": 1787589605,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-25T06:28:15.294385+00:00"
+  "updated_at": "2026-08-25T06:43:14.999056+00:00"
 }
