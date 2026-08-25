@@ -76,6 +76,22 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "Seeking And Finding Data Center Clarity: The AI Trade And The Economy (Video)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=83dd865c525020fe5df0907bb850f6f2493ba32e01162770b91820599548fa60",
+      "datetime": 1787672208,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "AI Semiconductor Chips Vs. Software Stocks: Understanding Cyclicality And Disruption",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=be982ebc4a89a5a9360ce887cc0bb555e3d0c48ed10a27a2b0c301e97e2dc1a9",
+      "datetime": 1787671968,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Treasury Bond Buybacks Cannot Solve A Fiscal Problem; Nvidia Earnings And Inflation Data Expected Tomorrow",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=b79b16c471bcc0898122b4984a9697a565e0a077e356fc4b8e6fa80e5d01d750",
@@ -147,28 +163,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "SanDisk Could Benefit as Amazon and Microsoft See AI Investments Start to Pay Off",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=4149fc64b4cd21b278e0a067b703e12566c3056dad0e555e5cc45b39bb8f51a4",
-      "datetime": 1787645530,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "Chips Take the Punch Ahead of Nvidia as Trump's Canada Tariffs Rattle Detroit",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=2be168855ee50e913a997ad60b9ba46a6dce9f94c3f66325445b6b6e82be88ad",
       "datetime": 1787643808,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Trump Snapped Up SpaceX Shares 11 Days After $1.77 Trillion IPO: Here's What Else He Purchased",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=cbe6c8155ed64a83931936dfea964f4c80ef801b110ffc103f5160138a09029e",
-      "datetime": 1787614507,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -443,12 +443,12 @@
       "market_cap_musd": 1717795.6976675852,
       "country": "US",
       "currency": "USD",
-      "price": 356.02,
+      "price": 356.15,
       "open": 361.08,
       "day_high": 362.99,
       "day_low": 355.31,
       "prev_close": 358.76,
-      "day_change_pct": -0.76,
+      "day_change_pct": -0.73,
       "week52_high": 495.0,
       "week52_low": 287.17
     },
@@ -462,12 +462,12 @@
       "market_cap_musd": 109665.273012,
       "country": "CA",
       "currency": "USD",
-      "price": 48.86,
+      "price": 48.81,
       "open": 47.66,
       "day_high": 49.14,
       "day_low": 47.52,
       "prev_close": 48.16,
-      "day_change_pct": 1.45,
+      "day_change_pct": 1.35,
       "week52_high": 74.0,
       "week52_low": 35.26
     },
@@ -481,12 +481,12 @@
       "market_cap_musd": 51372.621756,
       "country": "CA",
       "currency": "USD",
-      "price": 305.18,
+      "price": 306.5,
       "open": 301.05,
       "day_high": 307.34,
       "day_low": 298.45,
       "prev_close": 294.57,
-      "day_change_pct": 3.6,
+      "day_change_pct": 4.05,
       "week52_high": 655.5,
       "week52_low": 250.02
     },
@@ -500,12 +500,12 @@
       "market_cap_musd": 61602.82782014356,
       "country": "US",
       "currency": "USD",
-      "price": 326.87,
+      "price": 328.37,
       "open": 322.68,
-      "day_high": 326.98,
+      "day_high": 328.43,
       "day_low": 321.43,
       "prev_close": 323.77,
-      "day_change_pct": 0.96,
+      "day_change_pct": 1.42,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -519,12 +519,12 @@
       "market_cap_musd": 73182.64041409736,
       "country": "US",
       "currency": "USD",
-      "price": 90.48,
+      "price": 90.47,
       "open": 90.66,
       "day_high": 91.44,
       "day_low": 90.21,
       "prev_close": 90.68,
-      "day_change_pct": -0.22,
+      "day_change_pct": -0.23,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -538,12 +538,12 @@
       "market_cap_musd": 8357.28079029583,
       "country": "US",
       "currency": "USD",
-      "price": 23.2,
+      "price": 23.33,
       "open": 23.25,
       "day_high": 23.41,
       "day_low": 22.94,
       "prev_close": 23.02,
-      "day_change_pct": 0.78,
+      "day_change_pct": 1.35,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -557,12 +557,12 @@
       "market_cap_musd": 34412.22201688048,
       "country": "US",
       "currency": "USD",
-      "price": 101.83,
+      "price": 102.72,
       "open": 102.52,
       "day_high": 106.27,
       "day_low": 101.54,
       "prev_close": 100.44,
-      "day_change_pct": 1.38,
+      "day_change_pct": 2.27,
       "week52_high": 119.1,
       "week52_low": 55.47
     },
@@ -576,12 +576,12 @@
       "market_cap_musd": 2812963.024846142,
       "country": "US",
       "currency": "USD",
-      "price": 260.76,
+      "price": 261.03,
       "open": 262.61,
       "day_high": 263.89,
       "day_low": 259.83,
       "prev_close": 262.07,
-      "day_change_pct": -0.5,
+      "day_change_pct": -0.4,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-25T19:43:19.741449+00:00"
+  "updated_at": "2026-08-25T19:58:19.030529+00:00"
 }
