@@ -68,6 +68,22 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "Don't Sleep On Software",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d7c7ff30c1b3e55ae13bdb52cc80cbe1f892ae0321e0f9170dd6c952b580763d",
+      "datetime": 1787679300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Don't Sleep On Software",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d7c7ff30c1b3e55ae13bdb52cc80cbe1f892ae0321e0f9170dd6c952b580763d",
+      "datetime": 1787679300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Broadcom: Moving Big Into Vendor Financing",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=1e3a378c6c5ede2d5185cdc9938738b11f392691a0fd607ae87896267a54b8a3",
@@ -123,14 +139,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Cheapest AI Infrastructure Play Left: Crypto Miners Converting To AI Data Centers",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=fe1524630169d397eb340f337c1eecde8866efa5b89674a966c125fd05b4376c",
-      "datetime": 1787665763,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "10 Information Technology Stocks Whale Activity In Today\u2019s Session",
       "source": "Benzinga",
@@ -153,14 +161,6 @@
       "url": "https://finnhub.io/api/news?id=d1d68cf7c3826cdbf0d9d6f40072245925f2ea7c84433c864ad981993a3b3ac1",
       "datetime": 1787655714,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "SK Hynix: Custom HBM Could Drive The Next Rerating",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=7edd3ae8338441e30e3af009e40ecde12b019837b20aa2e13e543d296c3a2ad5",
-      "datetime": 1787654672,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "ORLY",
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-25T21:43:15.871387+00:00"
+  "updated_at": "2026-08-25T21:58:18.089013+00:00"
 }
