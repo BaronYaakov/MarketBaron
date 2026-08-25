@@ -67,6 +67,22 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Broadcom: Moving Big Into Vendor Financing",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1e3a378c6c5ede2d5185cdc9938738b11f392691a0fd607ae87896267a54b8a3",
+      "datetime": 1787678675,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Broadcom: Moving Big Into Vendor Financing",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1e3a378c6c5ede2d5185cdc9938738b11f392691a0fd607ae87896267a54b8a3",
+      "datetime": 1787678675,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Top dow jones movers in Tuesday's session",
       "source": "ChartMill",
@@ -131,14 +147,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "'Anthropic Expected to Tell Investors It Sees Over $30 Trillion in Potential Revenue' - WSJ Exclusive",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=cee5faec1d2e782d538f1d54ce18c3aa1139b3390e67c37b5389f430018753c2",
-      "datetime": 1787659357,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "B",
       "headline": "Barrick Mining (NYSE: B) Shows Strong Growth Leadership and Momentum in CANSLIM Screen",
       "source": "ChartMill",
@@ -152,14 +160,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=7edd3ae8338441e30e3af009e40ecde12b019837b20aa2e13e543d296c3a2ad5",
       "datetime": 1787654672,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Marvell: The AI Inflection Has Arrived, But The Stock Has Run Ahead (Rating Downgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b79b5a302e89eb720873a11871229e2f0eddf4a13f019bd80f74fe4a1b7d1d34",
-      "datetime": 1787648947,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-25T21:28:16.243727+00:00"
+  "updated_at": "2026-08-25T21:43:15.871387+00:00"
 }
