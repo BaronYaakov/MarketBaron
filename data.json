@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "B",
+      "headline": "Barrick Mining (NYSE: B) Shows Strong Growth Leadership and Momentum in CANSLIM Screen",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=d1d68cf7c3826cdbf0d9d6f40072245925f2ea7c84433c864ad981993a3b3ac1",
+      "datetime": 1787655714,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "ORLY",
       "headline": "Chips Take the Punch Ahead of Nvidia as Trump's Canada Tariffs Rattle Detroit",
       "source": "ChartMill",
@@ -377,14 +385,6 @@
       "url": "https://finnhub.io/api/news?id=dd9db39e8abddc3f2e8095ac1b6606266bc27875ea4002694cc82d39c229a18c",
       "datetime": 1787101800,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Barrick Mining (NYSE:B) Shows High Growth Momentum With a Breakout Setup",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=4780646c07673941f79502b8f795030e71bea0f27d85674e52471b18d207ab2a",
-      "datetime": 1787049120,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     }
   ],
   "recent_posts": [],
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-25T11:13:13.699302+00:00"
+  "updated_at": "2026-08-25T11:28:14.328659+00:00"
 }
