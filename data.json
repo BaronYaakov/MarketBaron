@@ -100,6 +100,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "'Amazon plots a new 'Tetromino' warehouse where robots tackle work that's notoriously hard to automate' - Business Insider",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f8385d3de0b9f991f2591dd0483c8b1cb7502529d12e907235bfc358fd1366ba",
+      "datetime": 1787585554,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "EXCLUSIVE: How AI's $220 Billion Bond Boom Competes With the Treasury",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=2bb2ded5a800effa78cb8653a84a46706ba0529ec7d7f6407e9c3107b4344745",
@@ -113,14 +121,6 @@
       "url": "https://finnhub.io/api/news?id=74c428b2f640aae320191551ae774dcfcd20522fb3883b8639f5f241a28dc568",
       "datetime": 1787579571,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Samsung Crash Brings Semi Selling; Nvidia Earnings Ahead; $1T Treasury Firepower To Buy Bonds",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=f7f93a4f108a80e0a29d0f56809afcb0f6385c443b224895dad20328bc16045f",
-      "datetime": 1787576240,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "CLS",
@@ -448,7 +448,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1752930.3739067945,
+      "market_cap_musd": 1706829.4853766111,
       "country": "US",
       "currency": "USD",
       "price": 358.76,
@@ -467,7 +467,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.barrick.com/",
       "ipo_date": "1983-05-02",
-      "market_cap_musd": 105073.26031,
+      "market_cap_musd": 107904.177207,
       "country": "CA",
       "currency": "USD",
       "price": 48.16,
@@ -486,7 +486,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.celestica.com/",
       "ipo_date": "1998-07-01",
-      "market_cap_musd": 51953.097668,
+      "market_cap_musd": 51411.719742,
       "country": "CA",
       "currency": "USD",
       "price": 294.57,
@@ -505,7 +505,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 60690.6764654563,
+      "market_cap_musd": 61784.11738978194,
       "country": "US",
       "currency": "USD",
       "price": 323.77,
@@ -524,7 +524,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 72086.49974496182,
+      "market_cap_musd": 73356.56724592928,
       "country": "US",
       "currency": "USD",
       "price": 90.68,
@@ -543,7 +543,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 8377.62558,
+      "market_cap_musd": 8341.390175242213,
       "country": "US",
       "currency": "USD",
       "price": 23.02,
@@ -562,7 +562,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 36082.55709351654,
+      "market_cap_musd": 33386.75288607168,
       "country": "US",
       "currency": "USD",
       "price": 100.44,
@@ -581,7 +581,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2789664.349908392,
+      "market_cap_musd": 2826769.48209827,
       "country": "US",
       "currency": "USD",
       "price": 262.07,
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-24T23:58:14.735718+00:00"
+  "updated_at": "2026-08-25T00:13:16.649435+00:00"
 }
