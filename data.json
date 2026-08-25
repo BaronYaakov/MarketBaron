@@ -123,11 +123,19 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Treasury Bond Buybacks Cannot Solve A Fiscal Problem; Nvidia Earnings And Inflation Data Expected Tomorrow",
+      "ticker": "AVGO",
+      "headline": "'OpenAI\u2019s Head of Data Centers Has Left Company' - Wall Street Journal",
       "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=b79b16c471bcc0898122b4984a9697a565e0a077e356fc4b8e6fa80e5d01d750",
-      "datetime": 1787666824,
+      "url": "https://finnhub.io/api/news?id=39b0fa466d0cb9b891e3559e572209ddfe0e69e49183b31d4629ae9ca8373ed2",
+      "datetime": 1787671263,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "'OpenAI\u2019s Head of Data Centers Has Left Company' - Wall Street Journal",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=39b0fa466d0cb9b891e3559e572209ddfe0e69e49183b31d4629ae9ca8373ed2",
+      "datetime": 1787671263,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -144,14 +152,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=434e42cf8589e7aa4b9263207965eb46edb7768b72590e771c4966f1d4a663b8",
       "datetime": 1787664916,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "S&P 500 Earnings Growth Overstated And Bifurcated",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=42d9a7113f1655a274f2dec825fe848131dba114b7685b01a9c3cd5dfdd1fcb2",
-      "datetime": 1787664215,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-25T22:58:15.166444+00:00"
+  "updated_at": "2026-08-25T23:13:15.348019+00:00"
 }
