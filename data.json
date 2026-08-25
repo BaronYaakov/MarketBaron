@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "ORLY",
+      "headline": "Chips Take the Punch Ahead of Nvidia as Trump's Canada Tariffs Rattle Detroit",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=2be168855ee50e913a997ad60b9ba46a6dce9f94c3f66325445b6b6e82be88ad",
+      "datetime": 1787643808,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Amazon: AI Revenue Too Dependent On OpenAI And Anthropic",
       "source": "SeekingAlpha",
@@ -288,14 +296,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0445dbaaa9903dcf49551cff0c19b55d040161a5a4e085d8773595b2afa1d8d9",
       "datetime": 1787303376,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Why O'Reilly (ORLY) Stock Is Trading Lower Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7ecffca570360c281769f5e593843e29a6ee739de15b53e287ec92d6c1ff7b0c",
-      "datetime": 1787272740,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-25T08:43:14.993579+00:00"
+  "updated_at": "2026-08-25T08:58:15.154482+00:00"
 }
