@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Plug Power: Tangible Margin Progress But More Work Ahead - Hold",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=65184dd872cbb26322d3ed2f83958c9984fdc25158dd0dfa33b913349c91d272",
+      "datetime": 1787611510,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Exploring the top movers within the dow jones index during today's session.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=995746628753bb1c107dff0fd621de739c068e1e4feeb404b2f0ce3d0523b435",
@@ -104,14 +112,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=f8385d3de0b9f991f2591dd0483c8b1cb7502529d12e907235bfc358fd1366ba",
       "datetime": 1787585554,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "EXCLUSIVE: How AI's $220 Billion Bond Boom Competes With the Treasury",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=2bb2ded5a800effa78cb8653a84a46706ba0529ec7d7f6407e9c3107b4344745",
-      "datetime": 1787581265,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-25T02:58:14.807893+00:00"
+  "updated_at": "2026-08-25T03:13:14.053284+00:00"
 }
