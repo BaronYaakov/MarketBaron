@@ -67,6 +67,30 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "P",
+      "headline": "Everpure Raises FY2027 Sales Guidance from $4.410B-$4.510B to $5.030B-$5.070B vs $4.501B Est",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=2f2e520705782fd588cc91a4fa18365516c08c04160eb45dcb0711a0a807c0b6",
+      "datetime": 1787760421,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Everpure Sees Q3 Sales $1.325B-$1.335B vs $1.137B Est",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=0681b7fd9ffba31d547e277b1de9bb90e881517d0a417da808cbecec65cb4f02",
+      "datetime": 1787760398,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Everpure Q2 Adj. EPS $0.70 Beats $0.58 Estimate, Sales $1.186B Beat $1.097B Estimate",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f95ec0bb0bd4d0223f51d00dfbd36dd07b17cec24097c7bf5f7e0bc2cb922212",
+      "datetime": 1787760360,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Amazon: Proven Capital Allocation At A Good Price",
       "source": "SeekingAlpha",
@@ -265,30 +289,6 @@
       "url": "https://finnhub.io/api/news?id=39359255fee6dd1beadb269dd99f2e2f1d0813d68dd4371fa931522e517ddb8d",
       "datetime": 1787334897,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "AI Chip Titan Nvidia Headlines Earnings Calendar; Salesforce, Intuit Also On Deck",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7a383cf6c858fe6b544498740da05ca612f2223839c5f083b53b7ba5945e8a11",
-      "datetime": 1787332228,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Everpure Expected to Post Beat-and-Raise Fiscal Q2 Results, Wedbush Says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9742840299752381918213b1428cb1f98e0b49502a4728cde4829cdc1973ecb6",
-      "datetime": 1787329494,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Everpure Named A Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Enterprise Storage Platforms",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=356e94d006333955a2adb7f6a6c4dc99e77fa02c3bae7bac32472d72e5dbfa30",
-      "datetime": 1787328300,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "ORLY",
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-26T20:43:18.724480+00:00"
+  "updated_at": "2026-08-26T20:58:17.029364+00:00"
 }
