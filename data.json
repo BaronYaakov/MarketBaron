@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "SCHD And STK: A 3%+ Income Barbell",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ea4ad1157b42d6bad453f53df9599e9e64e5dddcb48416e8ed75336323562ec6",
+      "datetime": 1787731200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Cheaper Oil and a Chip Bid Set the Table Before Nvidia Speaks",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=bdd5ff242d5acf57f02c5b23519220e818af944279b3c1f3f5ab65b2e2fffb55",
@@ -144,14 +152,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=be982ebc4a89a5a9360ce887cc0bb555e3d0c48ed10a27a2b0c301e97e2dc1a9",
       "datetime": 1787671968,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "'OpenAI\u2019s Head of Data Centers Has Left Company' - Wall Street Journal",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=39b0fa466d0cb9b891e3559e572209ddfe0e69e49183b31d4629ae9ca8373ed2",
-      "datetime": 1787671263,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-26T12:13:15.131232+00:00"
+  "updated_at": "2026-08-26T12:28:15.547536+00:00"
 }
