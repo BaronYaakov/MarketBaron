@@ -67,6 +67,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "Salesforce, Anthropic Announcing Claudeforce Collaboration",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b45c0c392de716a2b59977dd5c54e05d32b650e26e085f67cc83aed57c2fd656",
+      "datetime": 1787760652,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "P",
       "headline": "Everpure Raises FY2027 Sales Guidance from $4.410B-$4.510B to $5.030B-$5.070B vs $4.501B Est",
       "source": "Benzinga",
@@ -136,14 +144,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=6901e062ecece73daa4633570663715ae9d348277f09ba2ca904f277e0277f93",
       "datetime": 1787750070,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The Fed Faces A Dangerous Choice For Investors; Nvidia Earnings Ahead",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=a85b7f6f2b36db6845325910aa53dd8c771a1724b70f359cb8e1af14cc3d4a5c",
-      "datetime": 1787749009,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-26T21:28:17.150717+00:00"
+  "updated_at": "2026-08-26T21:43:17.409938+00:00"
 }
