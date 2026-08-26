@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "The Deep Unknowns Of AI",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=49c2fdfb4b8f477ddec3ad318d577a50fca4171092a596bd62854dea127dc82c",
+      "datetime": 1787716433,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The Deep Unknowns Of AI",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=49c2fdfb4b8f477ddec3ad318d577a50fca4171092a596bd62854dea127dc82c",
+      "datetime": 1787716433,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Tracking David Tepper's Appaloosa Management Portfolio - Q2 2026 Update",
       "source": "SeekingAlpha",
@@ -115,14 +131,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Seeking And Finding Data Center Clarity: The AI Trade And The Economy (Video)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=83dd865c525020fe5df0907bb850f6f2493ba32e01162770b91820599548fa60",
-      "datetime": 1787672208,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "AI Semiconductor Chips Vs. Software Stocks: Understanding Cyclicality And Disruption",
       "source": "SeekingAlpha",
@@ -144,14 +152,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=47b43a5df59caa71cc5d7b2540dd8cfd706d3d6eee70d159cd692ca42ac81686",
       "datetime": 1787666784,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "10 Information Technology Stocks Whale Activity In Today\u2019s Session",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=434e42cf8589e7aa4b9263207965eb46edb7768b72590e771c4966f1d4a663b8",
-      "datetime": 1787664916,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-26T07:58:14.616865+00:00"
+  "updated_at": "2026-08-26T08:13:14.882762+00:00"
 }
