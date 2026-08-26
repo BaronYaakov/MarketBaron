@@ -59,6 +59,38 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "B",
+      "headline": "Newmont: Investors Punished Barrick For This Deal",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d3cdb982455f5a2cf0b54d39e1c0dbf55784aa92e9b347e5a18725420a112883",
+      "datetime": 1787743643,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Q2 Earnings Season Confirmed The AI Infrastructure Thesis, And Revealed What May Come Next",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3043a64782e861938741cf46a220a3d6180567fd623cc1f61989a61fc51d4f93",
+      "datetime": 1787743200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Q2 Earnings Season Confirmed The AI Infrastructure Thesis, And Revealed What May Come Next",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3043a64782e861938741cf46a220a3d6180567fd623cc1f61989a61fc51d4f93",
+      "datetime": 1787743200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Alibaba: Buy The AI Spending Panic After Q2",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=69d28c406d930f3c0238cc48762970949d72a1ca61471e16d05c57ba6f9189bb",
+      "datetime": 1787743151,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "SpaceX: Explosive Growth Still Can't Justify This Stock Price",
       "source": "SeekingAlpha",
@@ -123,35 +155,11 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Cheaper Oil and a Chip Bid Set the Table Before Nvidia Speaks",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=bdd5ff242d5acf57f02c5b23519220e818af944279b3c1f3f5ab65b2e2fffb55",
-      "datetime": 1787727653,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "AMZN",
       "headline": "Big Tech Off-Balance Sheet Concerns",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=a8f293655772bd08531737d5b9ab41904b5ef1c8de5759ac31e2a1d6cdb4ef23",
       "datetime": 1787725800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The Deep Unknowns Of AI",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=49c2fdfb4b8f477ddec3ad318d577a50fca4171092a596bd62854dea127dc82c",
-      "datetime": 1787716433,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Tracking David Tepper's Appaloosa Management Portfolio - Q2 2026 Update",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=68f02ebf639be16304aa29f695612e1a36fd9a7c80878ee95a3e4e4ff62f02aa",
-      "datetime": 1787691303,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -347,14 +355,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "B",
-      "headline": "Reported Earlier, Aura Minerals Greenlights $382M Era Dorada Underground Gold Project In Guatemala, Estimating 111,000 Oz Annual Output And First Half 2028 Production Commencement",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=fa1a28ab83bd6a58ec13058a295a2917a279d81ecea986bc3c5d45965c4da9d9",
-      "datetime": 1787141360,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "Fabrinet: Nice Niche But Overvalued",
       "source": "SeekingAlpha",
@@ -443,12 +443,12 @@
       "market_cap_musd": 1697219.0706100003,
       "country": "US",
       "currency": "USD",
-      "price": 351.49,
+      "price": 351.75,
       "open": 357.58,
       "day_high": 359.47,
-      "day_low": 350.7,
+      "day_low": 350.69,
       "prev_close": 356.74,
-      "day_change_pct": -1.47,
+      "day_change_pct": -1.4,
       "week52_high": 495.0,
       "week52_low": 287.17
     },
@@ -462,12 +462,12 @@
       "market_cap_musd": 111228.870726,
       "country": "CA",
       "currency": "USD",
-      "price": 47.61,
+      "price": 47.56,
       "open": 48.2,
       "day_high": 48.55,
-      "day_low": 47.52,
+      "day_low": 47.51,
       "prev_close": 48.87,
-      "day_change_pct": -2.58,
+      "day_change_pct": -2.68,
       "week52_high": 74.0,
       "week52_low": 35.26
     },
@@ -481,12 +481,12 @@
       "market_cap_musd": 53416.885693,
       "country": "CA",
       "currency": "USD",
-      "price": 309.44,
+      "price": 308.96,
       "open": 306.03,
       "day_high": 313.11,
       "day_low": 303.19,
       "prev_close": 306.86,
-      "day_change_pct": 0.84,
+      "day_change_pct": 0.68,
       "week52_high": 655.5,
       "week52_low": 250.02
     },
@@ -500,12 +500,12 @@
       "market_cap_musd": 62602.763862,
       "country": "US",
       "currency": "USD",
-      "price": 328.89,
+      "price": 328.81,
       "open": 328.38,
       "day_high": 331.0,
       "day_low": 326.3,
       "prev_close": 328.06,
-      "day_change_pct": 0.25,
+      "day_change_pct": 0.23,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -519,12 +519,12 @@
       "market_cap_musd": 73065.340603,
       "country": "US",
       "currency": "USD",
-      "price": 90.47,
+      "price": 90.24,
       "open": 90.36,
       "day_high": 90.82,
       "day_low": 89.35,
       "prev_close": 90.32,
-      "day_change_pct": 0.17,
+      "day_change_pct": -0.09,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -538,12 +538,12 @@
       "market_cap_musd": 8451.386131,
       "country": "US",
       "currency": "USD",
-      "price": 22.95,
+      "price": 23.02,
       "open": 23.24,
       "day_high": 23.35,
       "day_low": 22.86,
       "prev_close": 23.35,
-      "day_change_pct": -1.71,
+      "day_change_pct": -1.41,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -557,12 +557,12 @@
       "market_cap_musd": 34174.550838,
       "country": "US",
       "currency": "USD",
-      "price": 108.51,
+      "price": 108.6,
       "open": 102.51,
       "day_high": 109.62,
       "day_low": 102.51,
       "prev_close": 102.81,
-      "day_change_pct": 5.54,
+      "day_change_pct": 5.63,
       "week52_high": 119.1,
       "week52_low": 56.78
     },
@@ -576,12 +576,12 @@
       "market_cap_musd": 2815875.2247990007,
       "country": "US",
       "currency": "USD",
-      "price": 260.08,
+      "price": 259.56,
       "open": 261.18,
       "day_high": 262.05,
       "day_low": 258.78,
       "prev_close": 261.06,
-      "day_change_pct": -0.38,
+      "day_change_pct": -0.57,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-26T15:28:16.014637+00:00"
+  "updated_at": "2026-08-26T15:43:16.607613+00:00"
 }
