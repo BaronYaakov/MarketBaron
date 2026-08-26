@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Tracking David Tepper's Appaloosa Management Portfolio - Q2 2026 Update",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=68f02ebf639be16304aa29f695612e1a36fd9a7c80878ee95a3e4e4ff62f02aa",
+      "datetime": 1787691303,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "These dow jones stocks are moving in today's session",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=4a58a6f746e24ff8c34ddff188f2b82ff0e1326f391c36ca862d996d0c19ac28",
@@ -129,14 +137,6 @@
       "url": "https://finnhub.io/api/news?id=39b0fa466d0cb9b891e3559e572209ddfe0e69e49183b31d4629ae9ca8373ed2",
       "datetime": 1787671263,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "'OpenAI\u2019s Head of Data Centers Has Left Company' - Wall Street Journal",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=39b0fa466d0cb9b891e3559e572209ddfe0e69e49183b31d4629ae9ca8373ed2",
-      "datetime": 1787671263,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-26T00:58:14.969130+00:00"
+  "updated_at": "2026-08-26T01:13:15.321083+00:00"
 }
