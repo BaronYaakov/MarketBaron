@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "ASC 842 Is About To Drop A Bomb On AI Hype",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5a62231603660e362fa7ccc54abcfdcdb7cf826d42dacfd1052d6ff96b1982b2",
+      "datetime": 1787745520,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon's Anthropic Stake Just Bought It Something Credit Markets Couldn't",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=26de9393f8b02bfcd254144f37822a8090b41ace7a7149760c76b2aa544b4d26",
@@ -137,14 +145,6 @@
       "url": "https://finnhub.io/api/news?id=4481eba7a3af2264a31e545919a5f64097bc00f6a382588094477dc6abd03663",
       "datetime": 1787734386,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Why Amazon's Earnings Matter For Nvidia's Outlook",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=605b07496038751bdcf6893d550beb3dcdef7cc203d959ecfb120f16ab048c6c",
-      "datetime": 1787732100,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -443,12 +443,12 @@
       "market_cap_musd": 1697219.0706100003,
       "country": "US",
       "currency": "USD",
-      "price": 350.69,
+      "price": 350.7,
       "open": 357.58,
       "day_high": 359.47,
-      "day_low": 350.48,
+      "day_low": 350.06,
       "prev_close": 356.74,
-      "day_change_pct": -1.7,
+      "day_change_pct": -1.69,
       "week52_high": 495.0,
       "week52_low": 287.17
     },
@@ -469,7 +469,7 @@
       "prev_close": 48.87,
       "day_change_pct": -2.58,
       "week52_high": 74.0,
-      "week52_low": 35.26
+      "week52_low": 35.97
     },
     "CLS": {
       "name": "Celestica Inc",
@@ -481,12 +481,12 @@
       "market_cap_musd": 53416.885693,
       "country": "CA",
       "currency": "USD",
-      "price": 306.15,
+      "price": 307.76,
       "open": 306.03,
       "day_high": 313.11,
       "day_low": 303.19,
       "prev_close": 306.86,
-      "day_change_pct": -0.23,
+      "day_change_pct": 0.29,
       "week52_high": 655.5,
       "week52_low": 250.02
     },
@@ -500,12 +500,12 @@
       "market_cap_musd": 62602.763862,
       "country": "US",
       "currency": "USD",
-      "price": 329.78,
+      "price": 327.8,
       "open": 328.38,
       "day_high": 331.0,
       "day_low": 326.3,
       "prev_close": 328.06,
-      "day_change_pct": 0.52,
+      "day_change_pct": -0.08,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -519,12 +519,12 @@
       "market_cap_musd": 73065.340603,
       "country": "US",
       "currency": "USD",
-      "price": 89.84,
+      "price": 89.79,
       "open": 90.36,
       "day_high": 90.82,
       "day_low": 89.35,
       "prev_close": 90.32,
-      "day_change_pct": -0.53,
+      "day_change_pct": -0.59,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -538,12 +538,12 @@
       "market_cap_musd": 8451.386131,
       "country": "US",
       "currency": "USD",
-      "price": 22.95,
+      "price": 22.98,
       "open": 23.24,
       "day_high": 23.35,
       "day_low": 22.86,
       "prev_close": 23.35,
-      "day_change_pct": -1.71,
+      "day_change_pct": -1.58,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -557,12 +557,12 @@
       "market_cap_musd": 34174.550838,
       "country": "US",
       "currency": "USD",
-      "price": 107.49,
+      "price": 108.48,
       "open": 102.51,
       "day_high": 109.62,
       "day_low": 102.51,
       "prev_close": 102.81,
-      "day_change_pct": 4.55,
+      "day_change_pct": 5.51,
       "week52_high": 119.1,
       "week52_low": 56.78
     },
@@ -576,12 +576,12 @@
       "market_cap_musd": 2815875.2247990007,
       "country": "US",
       "currency": "USD",
-      "price": 258.7,
+      "price": 258.52,
       "open": 261.18,
       "day_high": 262.05,
       "day_low": 258.35,
       "prev_close": 261.06,
-      "day_change_pct": -0.9,
+      "day_change_pct": -0.97,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-26T16:13:15.992497+00:00"
+  "updated_at": "2026-08-26T16:28:16.521180+00:00"
 }
