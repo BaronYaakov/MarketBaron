@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Why Amazon's Earnings Matter For Nvidia's Outlook",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=605b07496038751bdcf6893d550beb3dcdef7cc203d959ecfb120f16ab048c6c",
+      "datetime": 1787732100,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom: Firing On All Fronts, But Is The Price Really Justified?",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=18309c0ff85bf10e683c5f669b29266b59270aed98f02fdeb9c14f54a3fb5ab3",
+      "datetime": 1787732086,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "SCHD And STK: A 3%+ Income Barbell",
       "source": "SeekingAlpha",
@@ -136,22 +152,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=1e3a378c6c5ede2d5185cdc9938738b11f392691a0fd607ae87896267a54b8a3",
       "datetime": 1787678675,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Broadcom: Moving Big Into Vendor Financing",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=1e3a378c6c5ede2d5185cdc9938738b11f392691a0fd607ae87896267a54b8a3",
-      "datetime": 1787678675,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "AI Semiconductor Chips Vs. Software Stocks: Understanding Cyclicality And Disruption",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=be982ebc4a89a5a9360ce887cc0bb555e3d0c48ed10a27a2b0c301e97e2dc1a9",
-      "datetime": 1787671968,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-26T12:28:15.547536+00:00"
+  "updated_at": "2026-08-26T12:43:15.002708+00:00"
 }
