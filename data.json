@@ -68,6 +68,22 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "Wall Street Lunch: Meta Settles Minors' Addiction, Data Privacy Claims For $12.7B",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=93693e522727c16ce265ecaefe78c970775937a2523bdf51c209f1a64665f5fb",
+      "datetime": 1787750700,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom Is The New Nvidia, And That's The Problem",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e1c1e0d11f02d847fa2f3da08bc17299451bda89bf10efc19cb8b201d06b0484",
+      "datetime": 1787750580,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "The Government Took Equity In Quantum Stocks, So Should We",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=526b9cab301084be2bd6dff7af650538fa06a5242359ebf2c95023bd0bb9e74d",
@@ -115,12 +131,20 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Alibaba: Buy The AI Spending Panic After Q2",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=69d28c406d930f3c0238cc48762970949d72a1ca61471e16d05c57ba6f9189bb",
-      "datetime": 1787743151,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "ticker": "COR",
+      "headline": "Elizabeth S Campbell Takes Money Off The Table, Sells $3.66M In Cencora Stock",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=661f453e83e60bc1b53b5d53f3b91a6df8a240d288f3f371da1af9f74141e344",
+      "datetime": 1787742099,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "OpenAI\u2019s Jalape\u00f1o AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=02442e0bda54dda66dd692a0f5def54bbd177fdb2d0a6cdd651af3fb8ff274da",
+      "datetime": 1787736455,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -144,22 +168,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=4481eba7a3af2264a31e545919a5f64097bc00f6a382588094477dc6abd03663",
       "datetime": 1787734386,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom: Firing On All Fronts, But Is The Price Really Justified?",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=18309c0ff85bf10e683c5f669b29266b59270aed98f02fdeb9c14f54a3fb5ab3",
-      "datetime": 1787732086,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "SCHD And STK: A 3%+ Income Barbell",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ea4ad1157b42d6bad453f53df9599e9e64e5dddcb48416e8ed75336323562ec6",
-      "datetime": 1787731200,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -377,14 +385,6 @@
       "url": "https://finnhub.io/api/news?id=150c2226d9f6e77977ee8c0027998f5892b00eec477ee0d98c77135b366d188f",
       "datetime": 1787132773,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Artisan Global Opportunities Fund Q2 2026 Portfolio Review",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=dd9db39e8abddc3f2e8095ac1b6606266bc27875ea4002694cc82d39c229a18c",
-      "datetime": 1787101800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     }
   ],
   "recent_posts": [],
@@ -443,12 +443,12 @@
       "market_cap_musd": 1697219.0706100003,
       "country": "US",
       "currency": "USD",
-      "price": 352.39,
+      "price": 352.89,
       "open": 357.58,
       "day_high": 359.47,
       "day_low": 350.06,
       "prev_close": 356.74,
-      "day_change_pct": -1.22,
+      "day_change_pct": -1.08,
       "week52_high": 495.0,
       "week52_low": 287.17
     },
@@ -462,12 +462,12 @@
       "market_cap_musd": 111228.870726,
       "country": "CA",
       "currency": "USD",
-      "price": 47.7,
+      "price": 47.78,
       "open": 48.2,
       "day_high": 48.55,
       "day_low": 47.4,
       "prev_close": 48.87,
-      "day_change_pct": -2.39,
+      "day_change_pct": -2.23,
       "week52_high": 74.0,
       "week52_low": 35.97
     },
@@ -481,12 +481,12 @@
       "market_cap_musd": 53416.885693,
       "country": "CA",
       "currency": "USD",
-      "price": 308.9,
+      "price": 308.8,
       "open": 306.03,
       "day_high": 313.11,
       "day_low": 303.19,
       "prev_close": 306.86,
-      "day_change_pct": 0.66,
+      "day_change_pct": 0.63,
       "week52_high": 655.5,
       "week52_low": 250.02
     },
@@ -500,12 +500,12 @@
       "market_cap_musd": 62602.763862,
       "country": "US",
       "currency": "USD",
-      "price": 328.06,
+      "price": 328.63,
       "open": 328.38,
       "day_high": 331.0,
       "day_low": 326.3,
       "prev_close": 328.06,
-      "day_change_pct": 0.0,
+      "day_change_pct": 0.17,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -519,12 +519,12 @@
       "market_cap_musd": 73065.340603,
       "country": "US",
       "currency": "USD",
-      "price": 89.74,
+      "price": 89.93,
       "open": 90.36,
       "day_high": 90.82,
       "day_low": 89.35,
       "prev_close": 90.32,
-      "day_change_pct": -0.64,
+      "day_change_pct": -0.43,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -538,12 +538,12 @@
       "market_cap_musd": 8451.386131,
       "country": "US",
       "currency": "USD",
-      "price": 22.95,
+      "price": 22.86,
       "open": 23.24,
       "day_high": 23.35,
-      "day_low": 22.86,
+      "day_low": 22.85,
       "prev_close": 23.35,
-      "day_change_pct": -1.71,
+      "day_change_pct": -2.1,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -557,12 +557,12 @@
       "market_cap_musd": 34174.550838,
       "country": "US",
       "currency": "USD",
-      "price": 108.73,
+      "price": 108.88,
       "open": 102.51,
       "day_high": 109.62,
       "day_low": 102.51,
       "prev_close": 102.81,
-      "day_change_pct": 5.76,
+      "day_change_pct": 5.9,
       "week52_high": 119.1,
       "week52_low": 56.78
     },
@@ -576,12 +576,12 @@
       "market_cap_musd": 2815875.2247990007,
       "country": "US",
       "currency": "USD",
-      "price": 259.29,
+      "price": 258.64,
       "open": 261.18,
       "day_high": 262.05,
       "day_low": 258.24,
       "prev_close": 261.06,
-      "day_change_pct": -0.68,
+      "day_change_pct": -0.93,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-26T17:28:16.384800+00:00"
+  "updated_at": "2026-08-26T17:43:16.449430+00:00"
 }
