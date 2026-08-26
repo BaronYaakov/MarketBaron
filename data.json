@@ -92,26 +92,34 @@
     },
     {
       "ticker": "AMZN",
-      "headline": "The Government Took Equity In Quantum Stocks, So Should We",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=526b9cab301084be2bd6dff7af650538fa06a5242359ebf2c95023bd0bb9e74d",
-      "datetime": 1787747163,
+      "headline": "'Nscale Will Use NVIDIA's Vera Rubin Chips, Which Will Start To Come Online Late Next Year, To Meet Anthropic\u2019s Needs' - Bloomberg News",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=959b48fa3dbff2027c4d5cc441704d76db6739e56937d96096b2b36574da8506",
+      "datetime": 1787750432,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "ASC 842 Is About To Drop A Bomb On AI Hype",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=5a62231603660e362fa7ccc54abcfdcdb7cf826d42dacfd1052d6ff96b1982b2",
-      "datetime": 1787745520,
+      "headline": "'Anthropic to Pay Nscale $45 Billion for AI Computing Power' - Bloomberg",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=6901e062ecece73daa4633570663715ae9d348277f09ba2ca904f277e0277f93",
+      "datetime": 1787750070,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Amazon's Anthropic Stake Just Bought It Something Credit Markets Couldn't",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=26de9393f8b02bfcd254144f37822a8090b41ace7a7149760c76b2aa544b4d26",
-      "datetime": 1787745013,
+      "headline": "The Fed Faces A Dangerous Choice For Investors; Nvidia Earnings Ahead",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a85b7f6f2b36db6845325910aa53dd8c771a1724b70f359cb8e1af14cc3d4a5c",
+      "datetime": 1787749009,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Microsoft, Amazon, Google Court Kimi K3 Maker Despite Bessent Blacklist Threat",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=5c61b3ea63bf2475f36326e1d3e147963041e66d3a17afacd7431ae125672655",
+      "datetime": 1787748592,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -129,14 +137,6 @@
       "url": "https://finnhub.io/api/news?id=3043a64782e861938741cf46a220a3d6180567fd623cc1f61989a61fc51d4f93",
       "datetime": 1787743200,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Q2 Earnings Season Confirmed The AI Infrastructure Thesis, And Revealed What May Come Next",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=3043a64782e861938741cf46a220a3d6180567fd623cc1f61989a61fc51d4f93",
-      "datetime": 1787743200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "COR",
@@ -443,12 +443,12 @@
       "market_cap_musd": 1697219.0706100003,
       "country": "US",
       "currency": "USD",
-      "price": 354.22,
+      "price": 354.47,
       "open": 357.58,
       "day_high": 359.47,
       "day_low": 350.06,
       "prev_close": 356.74,
-      "day_change_pct": -0.71,
+      "day_change_pct": -0.64,
       "week52_high": 495.0,
       "week52_low": 287.17
     },
@@ -462,12 +462,12 @@
       "market_cap_musd": 111228.870726,
       "country": "CA",
       "currency": "USD",
-      "price": 47.54,
+      "price": 47.43,
       "open": 48.2,
       "day_high": 48.55,
       "day_low": 47.4,
       "prev_close": 48.87,
-      "day_change_pct": -2.72,
+      "day_change_pct": -2.95,
       "week52_high": 74.0,
       "week52_low": 35.97
     },
@@ -481,12 +481,12 @@
       "market_cap_musd": 53416.885693,
       "country": "CA",
       "currency": "USD",
-      "price": 309.26,
+      "price": 307.54,
       "open": 306.03,
       "day_high": 313.11,
       "day_low": 303.19,
       "prev_close": 306.86,
-      "day_change_pct": 0.78,
+      "day_change_pct": 0.22,
       "week52_high": 655.5,
       "week52_low": 253.12
     },
@@ -500,12 +500,12 @@
       "market_cap_musd": 62602.763862,
       "country": "US",
       "currency": "USD",
-      "price": 328.05,
+      "price": 327.86,
       "open": 328.38,
       "day_high": 331.0,
       "day_low": 326.3,
       "prev_close": 328.06,
-      "day_change_pct": -0.0,
+      "day_change_pct": -0.06,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -519,12 +519,12 @@
       "market_cap_musd": 73065.340603,
       "country": "US",
       "currency": "USD",
-      "price": 89.9,
+      "price": 89.82,
       "open": 90.36,
       "day_high": 90.82,
       "day_low": 89.35,
       "prev_close": 90.32,
-      "day_change_pct": -0.47,
+      "day_change_pct": -0.55,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -538,12 +538,12 @@
       "market_cap_musd": 8451.386131,
       "country": "US",
       "currency": "USD",
-      "price": 22.99,
+      "price": 22.98,
       "open": 23.24,
       "day_high": 23.35,
       "day_low": 22.84,
       "prev_close": 23.35,
-      "day_change_pct": -1.54,
+      "day_change_pct": -1.58,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -557,12 +557,12 @@
       "market_cap_musd": 34174.550838,
       "country": "US",
       "currency": "USD",
-      "price": 108.22,
+      "price": 108.9,
       "open": 102.51,
       "day_high": 109.62,
       "day_low": 102.51,
       "prev_close": 102.81,
-      "day_change_pct": 5.26,
+      "day_change_pct": 5.92,
       "week52_high": 119.1,
       "week52_low": 56.78
     },
@@ -576,12 +576,12 @@
       "market_cap_musd": 2815875.2247990007,
       "country": "US",
       "currency": "USD",
-      "price": 259.23,
+      "price": 260.04,
       "open": 261.18,
       "day_high": 262.05,
       "day_low": 258.24,
       "prev_close": 261.06,
-      "day_change_pct": -0.7,
+      "day_change_pct": -0.39,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-26T18:58:16.497415+00:00"
+  "updated_at": "2026-08-26T19:13:17.411134+00:00"
 }
