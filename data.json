@@ -337,54 +337,6 @@
       "url": "https://finnhub.io/api/news?id=ce896273f0167ca828c1ad4156c6133d196f6f9b17ebeac071763167503012ad",
       "datetime": 1787207400,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "$100 Invested In Cencora 10 Years Ago Would Be Worth This Much Today",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=6bebed1f2e3e68b35cbbd95600881bd12104e65e8e3c024f92136859172da6e4",
-      "datetime": 1787162437,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "8 Information Technology Stocks With Whale Alerts In Today\u2019s Session",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=de83141ce2b10055fe3032abde94416522ff165022812de1ec89e1dfbfd67b59",
-      "datetime": 1787146516,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Rare Earths Americas Shares Open For Trade At $24.51/Share; IPO Priced At $19/Share On 3.33M Shares",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=b719bc21b2c3e5b8e9ca6ac53e9164d5915a57a8f8e3fc7e51cca4af40ecb20b",
-      "datetime": 1787141360,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Fabrinet: Nice Niche But Overvalued",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=845b5ae9f218a72c80021905c72b7e50035190d787d622def29a34ad697b78ec",
-      "datetime": 1787138849,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "David Einhorn Has 7 New Stock Picks: Hedge Fund Manager Bets on Buyouts, Spinoffs",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=a5e6f4dd11afb3d6d78fe04163942c1e483d4f91059bb58273f201afb52dcc12",
-      "datetime": 1787135065,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "RBC Capital Initiates Coverage On Cencora with Sector Perform Rating, Announces Price Target of $330",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=150c2226d9f6e77977ee8c0027998f5892b00eec477ee0d98c77135b366d188f",
-      "datetime": 1787132773,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     }
   ],
   "recent_posts": [],
@@ -592,5 +544,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-27T04:58:18.026021+00:00"
+  "updated_at": "2026-08-27T05:13:17.672262+00:00"
 }
