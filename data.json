@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Nvidia Delivered - The Margin Guide Is The Catch",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=99d505a9e667e5d57ef94f0a1e1775bdc344c40277e01f16b33fb6fec01ebf53",
+      "datetime": 1787818554,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "P",
       "headline": "Everpure: Unprecedented Demand And Hyperscaler Wins (Rating Upgrade)",
       "source": "SeekingAlpha",
@@ -169,14 +177,6 @@
       "url": "https://finnhub.io/api/news?id=f6018372a73257397902f83f94ec08db28d77e3e15820591182a0a76c1a5bcab",
       "datetime": 1787752561,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Wall Street Lunch: Meta Settles Minors' Addiction, Data Privacy Claims For $12.7B",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=93693e522727c16ce265ecaefe78c970775937a2523bdf51c209f1a64665f5fb",
-      "datetime": 1787750700,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -560,5 +560,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-27T12:28:17.902706+00:00"
+  "updated_at": "2026-08-27T12:43:18.151086+00:00"
 }
