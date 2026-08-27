@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "B",
+      "headline": "Newmont: The Market Has Finally Caught Up (Rating Downgrade)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d7c6c720e2e4ab9482b5c3412d72bda628ca46541279b08b55592b81ec556830",
+      "datetime": 1787798339,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "P",
       "headline": "Everpure, Inc. 2027 Q2 - Results - Earnings Call Presentation",
       "source": "SeekingAlpha",
@@ -544,5 +552,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-27T06:58:17.966025+00:00"
+  "updated_at": "2026-08-27T07:13:17.845240+00:00"
 }
