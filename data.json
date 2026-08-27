@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "P",
+      "headline": "Everpure: Unprecedented Demand And Hyperscaler Wins (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ce2156e984c6b3c136054c5c9f69fbba5891bb2e4951c4b7dcb41dd6dee1a404",
+      "datetime": 1787815800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "CLS",
       "headline": "Celestica Could Benefit Massively From Jalape\u00f1o Chip Ramps (Rating Upgrade)",
       "source": "SeekingAlpha",
@@ -249,14 +257,6 @@
       "url": "https://finnhub.io/api/news?id=75c9a349df3cac6a9e6ab490dc286a5698d1c8782679b5be2a7ce8e60a537c38",
       "datetime": 1787571865,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Evercore ISI Group Maintains Outperform on Everpure, Raises Price Target to $130",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=0f89cb7a1c7e1502a76b3036e6a892d3d2bf34eb0a643371486253842672757d",
-      "datetime": 1787566943,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "CLS",
@@ -560,5 +560,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-27T11:43:17.905642+00:00"
+  "updated_at": "2026-08-27T11:58:18.418978+00:00"
 }
