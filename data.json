@@ -76,6 +76,14 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "Marvell Q2: I Agree With The Market",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f6ea36e7578e110c526702d56e4e49e3cb1b2da8c578cbd0b5435d64c91ff326",
+      "datetime": 1787857244,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Marvell Q2: Not Good Enough",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=0e41ce09491882242356dc16f075d68cbafb302a6ea2fe9bc854f67b1f464e0b",
@@ -107,6 +115,46 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "P",
+      "headline": "Citigroup Maintains Buy on Everpure, Raises Price Target to $130",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b071f2ae2303462beaefaa5a5203d13e3fc013a9f6e83de0f23d3d4e3dac1f77",
+      "datetime": 1787845338,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "B of A Securities Upgrades Everpure to Buy, Raises Price Target to $150",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=87140f3e90bd7513462becc74b0da0a668c3c7c826276e398f59da7cc467a5ba",
+      "datetime": 1787840433,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "'Anthropic Considers Letting Shareholders Sell In IPO, Departing from SpaceX Playbook' - The Information",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=491ed6988b8b17662268ea664342a264b82b0b51b3a3bda8da64aaa1b4d45f7c",
+      "datetime": 1787840273,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "JP Morgan Maintains Overweight on Everpure, Raises Price Target to $145",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=8e75d81d34e31e52639e1b7546292a4dbf28f9649ad0b4e4326b07e2ec0cf3d7",
+      "datetime": 1787840142,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Everpure Posts \u2018Sizable\u2019 Q2 Beat; FY Outlook Reflects \u2018Management's Improved Visibility And Confidence In Converting Pipeline\u2019",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=4889cb3865e7dd91658c78c6678ebbc93978469bdf51eee65ad282dd4d93253d",
+      "datetime": 1787839294,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "AI Is Nearly The Only Thing Keeping The U.S. Economy Afloat",
       "source": "SeekingAlpha",
@@ -115,19 +163,11 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Datadog: Growing Into A 400x P/E Will Be Difficult",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=81855d00a9347dfd0f902e183ff49704a366bb73ec536d67d69ef89b2051cd75",
-      "datetime": 1787837658,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "P",
-      "headline": "Nvidia's Best Day Since April 2025, Cybersecurity Stocks Go Vertical: Stock Market Today",
+      "headline": "Piper Sandler Reiterates Overweight on Everpure, Raises Price Target to $133",
       "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=98fb71d56f29669c354f3f36d5711f0896d1049f66558374ce7859283953c15e",
-      "datetime": 1787837123,
+      "url": "https://finnhub.io/api/news?id=e5379ef19aa23aa2b0460b4a1f5f30567dcb4476b6220142592789ced181a8dd",
+      "datetime": 1787837680,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
@@ -163,30 +203,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "P",
-      "headline": "Nvidia To Rally Around 146%? Here Are 10 Top Analyst Forecasts For Thursday",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=1f4e4626fe77eca21e793434129701f8b7a09b428149e9af52c6c0cc650b3ed5",
-      "datetime": 1787822361,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Kyndryl Expands Partnership With Broadcom To Provide Consulting Services For VMware Cloud Foundation",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=c924540bfb6030e080ee56e5bb4844e71f9745cd5f989600db44fbc13680656e",
-      "datetime": 1787821270,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Everpure: Unprecedented Demand And Hyperscaler Wins (Rating Upgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ce2156e984c6b3c136054c5c9f69fbba5891bb2e4951c4b7dcb41dd6dee1a404",
-      "datetime": 1787815800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "Celestica Could Benefit Massively From Jalape\u00f1o Chip Ramps (Rating Upgrade)",
       "source": "SeekingAlpha",
@@ -201,22 +217,6 @@
       "url": "https://finnhub.io/api/news?id=d7c6c720e2e4ab9482b5c3412d72bda628ca46541279b08b55592b81ec556830",
       "datetime": 1787798339,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Everpure, Inc. 2027 Q2 - Results - Earnings Call Presentation",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=2dcfe27819b58e8817e262223f060f8ae59815d7e759309ca03846245b675eca",
-      "datetime": 1787794242,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Everpure, Inc. (P) Q2 2027 Earnings Call Transcript",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=0838b3d67ea625eb1d653cb9015bf50b51fad57bc871b56d503c9cf7153f6570",
-      "datetime": 1787776154,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "B",
@@ -560,5 +560,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-27T23:13:18.519203+00:00"
+  "updated_at": "2026-08-27T23:28:22.380097+00:00"
 }
