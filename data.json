@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "How Investors Can Participate In AI",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=31af6443b7bfd53b015bb374b399e20a63049b682e4891e31aeb3cfc81bf073e",
+      "datetime": 1787800200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "B",
       "headline": "Newmont: The Market Has Finally Caught Up (Rating Downgrade)",
       "source": "SeekingAlpha",
@@ -161,14 +169,6 @@
       "url": "https://finnhub.io/api/news?id=e1c1e0d11f02d847fa2f3da08bc17299451bda89bf10efc19cb8b201d06b0484",
       "datetime": 1787750580,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "'Nscale Will Use NVIDIA's Vera Rubin Chips, Which Will Start To Come Online Late Next Year, To Meet Anthropic\u2019s Needs' - Bloomberg News",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=959b48fa3dbff2027c4d5cc441704d76db6739e56937d96096b2b36574da8506",
-      "datetime": 1787750432,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "B",
@@ -552,5 +552,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-27T07:28:17.431472+00:00"
+  "updated_at": "2026-08-27T07:43:17.687712+00:00"
 }
