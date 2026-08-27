@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "P",
+      "headline": "Everpure, Inc. 2027 Q2 - Results - Earnings Call Presentation",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2dcfe27819b58e8817e262223f060f8ae59815d7e759309ca03846245b675eca",
+      "datetime": 1787794242,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "P",
       "headline": "Everpure, Inc. (P) Q2 2027 Earnings Call Transcript",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=0838b3d67ea625eb1d653cb9015bf50b51fad57bc871b56d503c9cf7153f6570",
@@ -273,14 +281,6 @@
       "url": "https://finnhub.io/api/news?id=6efb7ff5af1224f0997242995834ac635579fe5b3a38936ed1fad872294cd2d6",
       "datetime": 1787479200,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Everpure (P) Lands Supply Agreement With A Second Top Five Hyperscaler",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=12a99f915fb5de1e93f56e196392f2fa49db2193269bb49879a1ba19698e5a5a",
-      "datetime": 1787465401,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "COR",
@@ -544,5 +544,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-27T05:43:18.436849+00:00"
+  "updated_at": "2026-08-27T05:58:18.154409+00:00"
 }
