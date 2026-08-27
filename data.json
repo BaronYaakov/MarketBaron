@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "CLS",
+      "headline": "Celestica Could Benefit Massively From Jalape\u00f1o Chip Ramps (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ba86d2286e64e5ca69df03a76da12a296bfa86fae2b7b22099cbb65352a9b31a",
+      "datetime": 1787815212,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "How Investors Can Participate In AI",
       "source": "SeekingAlpha",
@@ -552,5 +560,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-27T11:28:17.657074+00:00"
+  "updated_at": "2026-08-27T11:43:17.905642+00:00"
 }
