@@ -60,6 +60,46 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Exploring the top movers within the dow jones index during today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=5c23c716656d25f98d61da7895898b299ef98b2bd2a7cea04355a7c099030532",
+      "datetime": 1787848807,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Nvidia's Unusual Move Answers AI Trade\u2019s Key Question; $40 Trillion US Debt Bomb Ticks; Key Fed Speech Awaited",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=586f505d7e72db784aca8e169728a1f0dfc9b7687c426d0c491ba3ce7f044961",
+      "datetime": 1787835602,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Inside Amazon's Stock Drop: Why Analysts Remain High on AWS AI Momentum",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=bfb37d827fe69738d87787f11dc3d1ffc7cec2c664465d6f6308c5cbe02d1b17",
+      "datetime": 1787835271,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "ETJ: Very High Tech Exposure Could Be A Risk",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c04386acd520e450ecbc6ba427b8cd3bb701cde71cd2850ba4460d9c584f7560",
+      "datetime": 1787834826,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "ETJ: Very High Tech Exposure Could Be A Risk",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c04386acd520e450ecbc6ba427b8cd3bb701cde71cd2850ba4460d9c584f7560",
+      "datetime": 1787834826,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Nvidia's Halo Effect: Let's Look At How Much Of Today's Chip Rally Is Real",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=1ad095896717e3ad97ed8cc50ffbcc20ff66c74146ca5b46cf3e4305e04c5bdb",
@@ -81,22 +121,6 @@
       "url": "https://finnhub.io/api/news?id=952c58ae2a4c18c3868d849fc653a0a0d40a08cf8025a0b5fd2cc0298683dfa1",
       "datetime": 1787828414,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Marvell Earnings Prediction Market Preview: What Will Matt Murphy Say?",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=a82b423c24c8bdb92918cae2b88e188863f6f9020de79ccebc01a4eed95720e0",
-      "datetime": 1787826667,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "\"Meta Took Aim At Anthropic. It Is Also One Of Its Largest Customers; The Social Networking Giant Projected It Could Spend $10 Billion Annually On Anthropic\u2019s Tools, Illustrating The Friend-foe Relationships Underlying The A.I. Race.\" - NY Times Exclusive",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=62443a01291992ee1aa02a33af11edb37dc82f84ddfb4c2f238f3b9a8cdb8177",
-      "datetime": 1787825292,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -131,14 +155,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Nvidia Delivered - The Margin Guide Is The Catch",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=99d505a9e667e5d57ef94f0a1e1775bdc344c40277e01f16b33fb6fec01ebf53",
-      "datetime": 1787818554,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "P",
       "headline": "Everpure: Unprecedented Demand And Hyperscaler Wins (Rating Upgrade)",
       "source": "SeekingAlpha",
@@ -155,27 +171,11 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Trump Weighs New Semiconductor Tariffs That Could Hit AI Data Center Servers, Laptops and Gaming Consoles: Report",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=9b578433161866f32554eabc427980d9a82ffac5111aada37f23dc1b8eec9165",
-      "datetime": 1787813612,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Nvidia Stock Climbs Over 7% in Thursday Pre-Market: What\u2019s Lifting Micron, Intel and Other Chip Stocks?",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=5bac38b5d50e9af866da848c31d5f2cba85176e2d5723bdce8ff92ca7fa4fcda",
       "datetime": 1787808717,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia CEO Jensen Huang Not Taking OpenAI's 'Jalape\u00f1o' Chip Personally: 'Lots of Projects Get Started. Lots of Projects Get Canceled'",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=90e38815acda0e994611751506fe3fc5b06bf92369d50cfe79b57b65cd2e08b8",
-      "datetime": 1787799414,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -411,12 +411,12 @@
       "market_cap_musd": 1691747.8536699272,
       "country": "US",
       "currency": "USD",
-      "price": 369.69,
+      "price": 370.04,
       "open": 361.06,
-      "day_high": 369.85,
+      "day_high": 370.47,
       "day_low": 360.61,
       "prev_close": 355.59,
-      "day_change_pct": 3.97,
+      "day_change_pct": 4.06,
       "week52_high": 495.0,
       "week52_low": 287.17
     },
@@ -430,12 +430,12 @@
       "market_cap_musd": 111228.870726,
       "country": "CA",
       "currency": "USD",
-      "price": 47.54,
+      "price": 47.53,
       "open": 47.02,
       "day_high": 47.61,
       "day_low": 46.56,
       "prev_close": 47.0,
-      "day_change_pct": 1.15,
+      "day_change_pct": 1.13,
       "week52_high": 74.0,
       "week52_low": 35.97
     },
@@ -449,12 +449,12 @@
       "market_cap_musd": 53416.885693,
       "country": "CA",
       "currency": "USD",
-      "price": 320.79,
+      "price": 320.82,
       "open": 316.02,
       "day_high": 325.82,
       "day_low": 313.6,
       "prev_close": 307.32,
-      "day_change_pct": 4.38,
+      "day_change_pct": 4.39,
       "week52_high": 655.5,
       "week52_low": 253.12
     },
@@ -468,12 +468,12 @@
       "market_cap_musd": 62551.240524065666,
       "country": "US",
       "currency": "USD",
-      "price": 322.74,
+      "price": 322.28,
       "open": 325.68,
       "day_high": 325.68,
       "day_low": 321.12,
       "prev_close": 327.79,
-      "day_change_pct": -1.54,
+      "day_change_pct": -1.68,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -487,12 +487,12 @@
       "market_cap_musd": 72442.44077722155,
       "country": "US",
       "currency": "USD",
-      "price": 87.82,
+      "price": 87.85,
       "open": 88.8,
       "day_high": 88.81,
       "day_low": 87.76,
       "prev_close": 89.55,
-      "day_change_pct": -1.93,
+      "day_change_pct": -1.9,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -506,12 +506,12 @@
       "market_cap_musd": 8317.466950337473,
       "country": "US",
       "currency": "USD",
-      "price": 22.78,
+      "price": 22.75,
       "open": 22.91,
       "day_high": 22.94,
       "day_low": 22.57,
       "prev_close": 22.98,
-      "day_change_pct": -0.87,
+      "day_change_pct": -1.0,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -525,12 +525,12 @@
       "market_cap_musd": 36198.8968607937,
       "country": "US",
       "currency": "USD",
-      "price": 99.99,
+      "price": 100.83,
       "open": 110.36,
       "day_high": 112.7,
       "day_low": 95.02,
       "prev_close": 108.9,
-      "day_change_pct": -8.18,
+      "day_change_pct": -7.41,
       "week52_high": 119.1,
       "week52_low": 56.78
     },
@@ -544,12 +544,12 @@
       "market_cap_musd": 2807461.899604243,
       "country": "US",
       "currency": "USD",
-      "price": 256.16,
+      "price": 255.85,
       "open": 259.62,
       "day_high": 259.66,
       "day_low": 255.58,
       "prev_close": 260.28,
-      "day_change_pct": -1.58,
+      "day_change_pct": -1.7,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -560,5 +560,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-27T16:58:18.518793+00:00"
+  "updated_at": "2026-08-27T17:13:17.568615+00:00"
 }
