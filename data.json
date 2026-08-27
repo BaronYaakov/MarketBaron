@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "What's going on in today's session: S&P500 most active stocks",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=ec2b40b60a205b60de6817ccb29564ac8d77ca419b4368cf7973ff4726b60f7f",
+      "datetime": 1787853901,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Exploring the top movers within the dow jones index during today's session.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=5c23c716656d25f98d61da7895898b299ef98b2bd2a7cea04355a7c099030532",
@@ -81,6 +89,14 @@
       "url": "https://finnhub.io/api/news?id=81855d00a9347dfd0f902e183ff49704a366bb73ec536d67d69ef89b2051cd75",
       "datetime": 1787837658,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Nvidia's Best Day Since April 2025, Cybersecurity Stocks Go Vertical: Stock Market Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=98fb71d56f29669c354f3f36d5711f0896d1049f66558374ce7859283953c15e",
+      "datetime": 1787837123,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "AMZN",
@@ -105,14 +121,6 @@
       "url": "https://finnhub.io/api/news?id=c04386acd520e450ecbc6ba427b8cd3bb701cde71cd2850ba4460d9c584f7560",
       "datetime": 1787834826,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "ETJ: Very High Tech Exposure Could Be A Risk",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c04386acd520e450ecbc6ba427b8cd3bb701cde71cd2850ba4460d9c584f7560",
-      "datetime": 1787834826,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -208,14 +216,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=2f2e520705782fd588cc91a4fa18365516c08c04160eb45dcb0711a0a807c0b6",
       "datetime": 1787760421,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Everpure Sees Q3 Sales $1.325B-$1.335B vs $1.137B Est",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=0681b7fd9ffba31d547e277b1de9bb90e881517d0a417da808cbecec65cb4f02",
-      "datetime": 1787760398,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
@@ -411,12 +411,12 @@
       "market_cap_musd": 1747934.902702014,
       "country": "US",
       "currency": "USD",
-      "price": 367.54,
+      "price": 368.29,
       "open": 361.06,
       "day_high": 370.47,
       "day_low": 360.61,
       "prev_close": 355.59,
-      "day_change_pct": 3.36,
+      "day_change_pct": 3.57,
       "week52_high": 495.0,
       "week52_low": 287.17
     },
@@ -430,12 +430,12 @@
       "market_cap_musd": 107262.283296,
       "country": "CA",
       "currency": "USD",
-      "price": 47.35,
+      "price": 47.34,
       "open": 47.02,
       "day_high": 47.61,
       "day_low": 46.56,
       "prev_close": 47.0,
-      "day_change_pct": 0.74,
+      "day_change_pct": 0.72,
       "week52_high": 74.0,
       "week52_low": 35.97
     },
@@ -449,12 +449,12 @@
       "market_cap_musd": 53743.513018,
       "country": "CA",
       "currency": "USD",
-      "price": 318.0,
+      "price": 317.56,
       "open": 316.02,
       "day_high": 325.82,
       "day_low": 313.6,
       "prev_close": 307.32,
-      "day_change_pct": 3.48,
+      "day_change_pct": 3.33,
       "week52_high": 655.5,
       "week52_low": 253.12
     },
@@ -487,12 +487,12 @@
       "market_cap_musd": 71249.22624658572,
       "country": "US",
       "currency": "USD",
-      "price": 88.14,
+      "price": 88.25,
       "open": 88.8,
       "day_high": 88.81,
       "day_low": 87.74,
       "prev_close": 89.55,
-      "day_change_pct": -1.57,
+      "day_change_pct": -1.45,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -525,12 +525,12 @@
       "market_cap_musd": 32203.390820281358,
       "country": "US",
       "currency": "USD",
-      "price": 98.83,
+      "price": 98.21,
       "open": 110.36,
       "day_high": 112.7,
       "day_low": 95.02,
       "prev_close": 108.9,
-      "day_change_pct": -9.25,
+      "day_change_pct": -9.82,
       "week52_high": 119.1,
       "week52_low": 56.78
     },
@@ -544,12 +544,12 @@
       "market_cap_musd": 2762213.3237733627,
       "country": "US",
       "currency": "USD",
-      "price": 255.17,
+      "price": 255.47,
       "open": 259.62,
       "day_high": 259.66,
-      "day_low": 255.11,
+      "day_low": 255.02,
       "prev_close": 260.28,
-      "day_change_pct": -1.96,
+      "day_change_pct": -1.85,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -560,5 +560,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-27T18:28:18.821758+00:00"
+  "updated_at": "2026-08-27T18:43:18.779972+00:00"
 }
