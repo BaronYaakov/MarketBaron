@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "P",
+      "headline": "Everpure, Inc. (P) Q2 2027 Earnings Call Transcript",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0838b3d67ea625eb1d653cb9015bf50b51fad57bc871b56d503c9cf7153f6570",
+      "datetime": 1787776154,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Nvidia Q2 FY27: I'm Buying This Weakness",
       "source": "SeekingAlpha",
@@ -272,14 +280,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=12a99f915fb5de1e93f56e196392f2fa49db2193269bb49879a1ba19698e5a5a",
       "datetime": 1787465401,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "/C O R R E C T I O N -- Everpure/",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=582805df63ea64be736d41e7952e8c0e2c4269965fc5de8a2d3c2c7872a48348",
-      "datetime": 1787346720,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-27T00:43:16.452108+00:00"
+  "updated_at": "2026-08-27T00:58:16.278682+00:00"
 }
