@@ -155,6 +155,22 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
+      "ticker": "P",
+      "headline": "Barclays Maintains Equal-Weight on Everpure, Raises Price Target to $110",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=cbc53270f1d896393ebafbaa31355d2571e7d99d15ecf00609f1a189689d49d7",
+      "datetime": 1787914785,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Northland Capital Markets Maintains Outperform on Everpure, Raises Price Target to $128",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=969fbc0ee4b7a6acec853690b393cf07a5daccc0e2f092746f01724a10359597",
+      "datetime": 1787914214,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Nvidia's Guide Ignites a Broad AI Bid Ahead of Warsh's Jackson Hole Debut",
       "source": "ChartMill",
@@ -208,22 +224,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=8e75d81d34e31e52639e1b7546292a4dbf28f9649ad0b4e4326b07e2ec0cf3d7",
       "datetime": 1787840142,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Everpure Posts \u2018Sizable\u2019 Q2 Beat; FY Outlook Reflects \u2018Management's Improved Visibility And Confidence In Converting Pipeline\u2019",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=4889cb3865e7dd91658c78c6678ebbc93978469bdf51eee65ad282dd4d93253d",
-      "datetime": 1787839294,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Piper Sandler Reiterates Overweight on Everpure, Raises Price Target to $133",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=e5379ef19aa23aa2b0460b4a1f5f30567dcb4476b6220142592789ced181a8dd",
-      "datetime": 1787837680,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
@@ -560,5 +560,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-28T23:28:14.669335+00:00"
+  "updated_at": "2026-08-28T23:43:14.309135+00:00"
 }
