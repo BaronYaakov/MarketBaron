@@ -337,22 +337,6 @@
       "url": "https://finnhub.io/api/news?id=0445dbaaa9903dcf49551cff0c19b55d040161a5a4e085d8773595b2afa1d8d9",
       "datetime": 1787303376,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "RBC Capital Initiates Coverage of Cencora (COR) with Sector Perform Recommendation",
-      "source": "Fintel",
-      "url": "https://finnhub.io/api/news?id=4686df89d067221d433b4d9334e75d507527f5bcf24e4164cb3733c43ad98213",
-      "datetime": 1787208249,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Barrick Mining: Major Progress Toward A Re-Rating",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ce896273f0167ca828c1ad4156c6133d196f6f9b17ebeac071763167503012ad",
-      "datetime": 1787207400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     }
   ],
   "recent_posts": [],
@@ -560,5 +544,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-28T04:58:19.025263+00:00"
+  "updated_at": "2026-08-28T05:13:18.070971+00:00"
 }
