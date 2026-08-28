@@ -115,6 +115,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Why Is Broadcom Stock Sliding Ahead of Earnings?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=fcff8da030159b8c4702662be93d884813319c51352eea9bbd6ae5b13d49ad70",
+      "datetime": 1787923773,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "B",
       "headline": "Hycroft Mining Holding shares are trading lower after the company reported worse-than-expected Q1 EPS results.",
       "source": "Benzinga",
@@ -169,14 +177,6 @@
       "url": "https://finnhub.io/api/news?id=46d08db6f5e6c2f164a700053d2ed4ab13c11dd28127d5084099c97a81390827",
       "datetime": 1787899491,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "In-Depth Analysis: Broadcom Versus Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=d4914c9abe434739a51ae7b0a34c5d08158bc8cf016e8ac76f04f3c952d37a95",
-      "datetime": 1787896721,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -560,5 +560,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-28T23:13:14.700181+00:00"
+  "updated_at": "2026-08-28T23:28:14.669335+00:00"
 }
