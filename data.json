@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Nvidia Is Becoming The AI Nation-State",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c1f21ef0a9fda7ae70ea1fee206f61769ad636a8188e428004badb2cb7db3956",
+      "datetime": 1787882278,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "P",
       "headline": "B of A Securities Upgrades Everpure (P)",
       "source": "Fintel",
@@ -153,14 +161,6 @@
       "url": "https://finnhub.io/api/news?id=4889cb3865e7dd91658c78c6678ebbc93978469bdf51eee65ad282dd4d93253d",
       "datetime": 1787839294,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "AI Is Nearly The Only Thing Keeping The U.S. Economy Afloat",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=5042249b5d75e430c235077c12f10bd46833745096bb02ab7f390c00198a8f09",
-      "datetime": 1787838936,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -544,5 +544,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-28T06:13:17.087371+00:00"
+  "updated_at": "2026-08-28T06:28:18.229468+00:00"
 }
