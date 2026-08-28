@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "AI Stocks Enter a High-Stakes Earnings Gauntlet",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=a55a04d5b30dd8970e2a9e574d09c90f5e0125ae17f03079c65646e6e33f86a2",
+      "datetime": 1787918825,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Nvidia's Guide Ignites a Broad AI Bid Ahead of Warsh's Jackson Hole Debut",
       "source": "ChartMill",
@@ -153,14 +161,6 @@
       "url": "https://finnhub.io/api/news?id=87140f3e90bd7513462becc74b0da0a668c3c7c826276e398f59da7cc467a5ba",
       "datetime": 1787840433,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "'Anthropic Considers Letting Shareholders Sell In IPO, Departing from SpaceX Playbook' - The Information",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=491ed6988b8b17662268ea664342a264b82b0b51b3a3bda8da64aaa1b4d45f7c",
-      "datetime": 1787840273,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -552,5 +552,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-28T12:28:19.297280+00:00"
+  "updated_at": "2026-08-28T12:43:20.108712+00:00"
 }
