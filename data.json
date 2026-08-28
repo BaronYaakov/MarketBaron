@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Nvidia's Guide Ignites a Broad AI Bid Ahead of Warsh's Jackson Hole Debut",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=457bd7fc29d410106289bf72204c3d054ee7a43a67c755c3ca5fa615916a810e",
+      "datetime": 1787913456,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "CLS",
       "headline": "Celestica: When Growth Won't Fund Itself (Rating Upgrade)",
       "source": "SeekingAlpha",
@@ -200,14 +208,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=e25e273e263df871b6acce925ad9baba6f817364280d285e26c199cf4b5f0a81",
       "datetime": 1787824800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "What's Going On With Broadcom Stock Thursday?",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=ff5cb7894b6c1bd8f4e79355024549f0db4bd0367927e280479306035d2a2e0e",
-      "datetime": 1787823217,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -552,5 +552,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-28T11:28:17.779119+00:00"
+  "updated_at": "2026-08-28T11:43:17.856242+00:00"
 }
