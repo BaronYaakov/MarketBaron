@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "CLS",
+      "headline": "Celestica: When Growth Won't Fund Itself (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=46d08db6f5e6c2f164a700053d2ed4ab13c11dd28127d5084099c97a81390827",
+      "datetime": 1787899491,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Nvidia Is Becoming The AI Nation-State",
       "source": "SeekingAlpha",
@@ -544,5 +552,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-28T10:58:17.716698+00:00"
+  "updated_at": "2026-08-28T11:13:17.991538+00:00"
 }
