@@ -75,6 +75,22 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Marvell: A Penny Beat Priced For A Blowout",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=eca0108bed6502b8a0c060a57705f8a4c489937a4aa0e0bd227c072c5f0b1409",
+      "datetime": 1787913227,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Still Holds A Massive Upside Potential",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1570b815d9443f33ee25c024445c6488158bda1b9cc18c1ccc45b441284c31f4",
+      "datetime": 1787913090,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "CLS",
       "headline": "Celestica: When Growth Won't Fund Itself (Rating Upgrade)",
       "source": "SeekingAlpha",
@@ -139,14 +155,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Exploring the top movers within the dow jones index during today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=5c23c716656d25f98d61da7895898b299ef98b2bd2a7cea04355a7c099030532",
-      "datetime": 1787848807,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "P",
       "headline": "Citigroup Maintains Buy on Everpure, Raises Price Target to $130",
       "source": "Benzinga",
@@ -200,14 +208,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=952c58ae2a4c18c3868d849fc653a0a0d40a08cf8025a0b5fd2cc0298683dfa1",
       "datetime": 1787828414,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Harbor Dividend Growth Leaders ETF Q2 2026 Portfolio Update",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=e25e273e263df871b6acce925ad9baba6f817364280d285e26c199cf4b5f0a81",
-      "datetime": 1787824800,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -403,12 +403,12 @@
       "market_cap_musd": 1786233.481413296,
       "country": "US",
       "currency": "USD",
-      "price": 372.68,
+      "price": 373.34,
       "open": 372.36,
       "day_high": 376.59,
       "day_low": 370.19,
       "prev_close": 371.54,
-      "day_change_pct": 0.31,
+      "day_change_pct": 0.48,
       "week52_high": 495.0,
       "week52_low": 287.17
     },
@@ -422,12 +422,12 @@
       "market_cap_musd": 107953.55173,
       "country": "CA",
       "currency": "USD",
-      "price": 46.69,
+      "price": 46.79,
       "open": 47.51,
       "day_high": 47.59,
       "day_low": 45.94,
       "prev_close": 47.32,
-      "day_change_pct": -1.33,
+      "day_change_pct": -1.12,
       "week52_high": 74.0,
       "week52_low": 35.97
     },
@@ -441,12 +441,12 @@
       "market_cap_musd": 55458.624945,
       "country": "CA",
       "currency": "USD",
-      "price": 309.87,
+      "price": 309.04,
       "open": 315.0,
       "day_high": 316.0,
       "day_low": 308.14,
       "prev_close": 317.38,
-      "day_change_pct": -2.37,
+      "day_change_pct": -2.63,
       "week52_high": 655.5,
       "week52_low": 253.12
     },
@@ -460,12 +460,12 @@
       "market_cap_musd": 61156.2964028894,
       "country": "US",
       "currency": "USD",
-      "price": 321.72,
+      "price": 322.76,
       "open": 321.21,
       "day_high": 323.74,
       "day_low": 320.39,
       "prev_close": 321.23,
-      "day_change_pct": 0.15,
+      "day_change_pct": 0.48,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -479,12 +479,12 @@
       "market_cap_musd": 71253.27010807241,
       "country": "US",
       "currency": "USD",
-      "price": 88.12,
+      "price": 88.06,
       "open": 88.47,
       "day_high": 88.91,
       "day_low": 87.8,
       "prev_close": 87.83,
-      "day_change_pct": 0.33,
+      "day_change_pct": 0.26,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -498,12 +498,12 @@
       "market_cap_musd": 8165.4506431016025,
       "country": "US",
       "currency": "USD",
-      "price": 22.59,
+      "price": 22.68,
       "open": 22.7,
       "day_high": 22.83,
       "day_low": 22.53,
       "prev_close": 22.44,
-      "day_change_pct": 0.67,
+      "day_change_pct": 1.07,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -520,7 +520,7 @@
       "price": 94.89,
       "open": 98.38,
       "day_high": 98.85,
-      "day_low": 94.64,
+      "day_low": 94.48,
       "prev_close": 99.24,
       "day_change_pct": -4.38,
       "week52_high": 119.1,
@@ -536,12 +536,12 @@
       "market_cap_musd": 2795597.0864963853,
       "country": "US",
       "currency": "USD",
-      "price": 262.43,
+      "price": 264.93,
       "open": 257.88,
-      "day_high": 262.59,
+      "day_high": 265.09,
       "day_low": 257.78,
       "prev_close": 256.26,
-      "day_change_pct": 2.41,
+      "day_change_pct": 3.38,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -552,5 +552,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-28T14:43:18.759653+00:00"
+  "updated_at": "2026-08-28T14:58:18.575177+00:00"
 }
