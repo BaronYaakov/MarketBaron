@@ -60,6 +60,22 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "What's going on in today's session: dow jones movers",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=5b27de5152d79b81f60ff69ee0c2f519f474646bac52a822fe2fd7513d0b0db2",
+      "datetime": 1787944206,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "What's going on in today's session: S&P500 movers",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=802837a78229d1fdaf9ef33edf81b8bf1aa9a805b33095d80312a8a75ba4bc13",
+      "datetime": 1787943901,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Most active S&P500 stocks in Friday's session",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=13210fb760447de0323c53e269c5825ad9bb4aa1c29a666deefc719645c7df3f",
@@ -83,6 +99,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Broadcom: I Am Hedging Before Q3, You Should Too",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6be85b5cd0ec6d610d5e69926b737836a203aebc633974f9f7efa98778ac91ae",
+      "datetime": 1787930711,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "SentinelOne: Stay On The Sidelines",
       "source": "SeekingAlpha",
@@ -99,14 +123,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Stocks making the biggest moves midday: Amazon, Marvell, PayPal, Salesforce & more",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=81ed8112d0d786c6c71f2d7e405990e49b82117bcb36da65ede80eaa70e96465",
-      "datetime": 1787921025,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Cathie Wood Trims AMD After a 120% Rally \u2014 Is the AI Trade Getting Too Crowded?",
       "source": "Benzinga",
@@ -121,14 +137,6 @@
       "url": "https://finnhub.io/api/news?id=701b2cbd572d5052bba3b972d6bd50938a4b8637e6d2ffaaddbd6ae5e100eae0",
       "datetime": 1787919000,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "AI Stocks Enter a High-Stakes Earnings Gauntlet",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=a55a04d5b30dd8970e2a9e574d09c90f5e0125ae17f03079c65646e6e33f86a2",
-      "datetime": 1787918825,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "B",
@@ -177,14 +185,6 @@
       "url": "https://finnhub.io/api/news?id=14cd3869f7adb2abd7df02fa3fe5bc7082f6ff3bee2a94591724641c5fd4b553",
       "datetime": 1787861438,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Marvell Q2: I Agree With The Market",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=f6ea36e7578e110c526702d56e4e49e3cb1b2da8c578cbd0b5435d64c91ff326",
-      "datetime": 1787857244,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -411,12 +411,12 @@
       "market_cap_musd": 1786233.481413296,
       "country": "US",
       "currency": "USD",
-      "price": 368.39,
+      "price": 368.48,
       "open": 372.36,
       "day_high": 376.59,
       "day_low": 365.35,
       "prev_close": 371.54,
-      "day_change_pct": -0.85,
+      "day_change_pct": -0.82,
       "week52_high": 495.0,
       "week52_low": 287.17
     },
@@ -430,12 +430,12 @@
       "market_cap_musd": 107953.55173,
       "country": "CA",
       "currency": "USD",
-      "price": 45.79,
+      "price": 45.84,
       "open": 47.51,
       "day_high": 47.59,
       "day_low": 45.34,
       "prev_close": 47.32,
-      "day_change_pct": -3.23,
+      "day_change_pct": -3.13,
       "week52_high": 74.0,
       "week52_low": 35.97
     },
@@ -449,12 +449,12 @@
       "market_cap_musd": 55458.624945,
       "country": "CA",
       "currency": "USD",
-      "price": 300.57,
+      "price": 300.13,
       "open": 315.0,
       "day_high": 316.0,
       "day_low": 298.53,
       "prev_close": 317.38,
-      "day_change_pct": -5.3,
+      "day_change_pct": -5.44,
       "week52_high": 655.5,
       "week52_low": 253.12
     },
@@ -468,12 +468,12 @@
       "market_cap_musd": 61156.2964028894,
       "country": "US",
       "currency": "USD",
-      "price": 321.74,
+      "price": 322.35,
       "open": 321.21,
       "day_high": 323.74,
       "day_low": 320.39,
       "prev_close": 321.23,
-      "day_change_pct": 0.16,
+      "day_change_pct": 0.35,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -487,12 +487,12 @@
       "market_cap_musd": 71253.27010807241,
       "country": "US",
       "currency": "USD",
-      "price": 88.27,
+      "price": 88.38,
       "open": 88.47,
       "day_high": 88.91,
       "day_low": 87.64,
       "prev_close": 87.83,
-      "day_change_pct": 0.5,
+      "day_change_pct": 0.63,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -506,12 +506,12 @@
       "market_cap_musd": 8165.4506431016025,
       "country": "US",
       "currency": "USD",
-      "price": 23.21,
+      "price": 23.27,
       "open": 22.7,
-      "day_high": 23.23,
+      "day_high": 23.28,
       "day_low": 22.42,
       "prev_close": 22.44,
-      "day_change_pct": 3.43,
+      "day_change_pct": 3.7,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -525,12 +525,12 @@
       "market_cap_musd": 32303.111154979448,
       "country": "US",
       "currency": "USD",
-      "price": 93.66,
+      "price": 93.65,
       "open": 98.38,
       "day_high": 98.85,
       "day_low": 93.07,
       "prev_close": 99.24,
-      "day_change_pct": -5.62,
+      "day_change_pct": -5.63,
       "week52_high": 119.1,
       "week52_low": 56.78
     },
@@ -544,12 +544,12 @@
       "market_cap_musd": 2795597.0864963853,
       "country": "US",
       "currency": "USD",
-      "price": 265.7,
+      "price": 266.34,
       "open": 257.88,
       "day_high": 267.56,
       "day_low": 257.78,
       "prev_close": 256.26,
-      "day_change_pct": 3.68,
+      "day_change_pct": 3.93,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -560,5 +560,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-28T19:28:16.368850+00:00"
+  "updated_at": "2026-08-28T19:43:20.372177+00:00"
 }
