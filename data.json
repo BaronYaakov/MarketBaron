@@ -67,6 +67,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Broadcom, Palo Alto Networks Headline Earnings Amid A Tight Economic Calendar",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1c83a2c86c8db0866676e3aafc425c609bd7b7715585b004d97d373f8ffa28c4",
+      "datetime": 1788001200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "P",
       "headline": "Everpure (P) Price Target Increased by 37.84% to 130.87",
       "source": "Fintel",
@@ -193,14 +201,6 @@
       "url": "https://finnhub.io/api/news?id=969fbc0ee4b7a6acec853690b393cf07a5daccc0e2f092746f01724a10359597",
       "datetime": 1787914214,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia's Guide Ignites a Broad AI Bid Ahead of Warsh's Jackson Hole Debut",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=457bd7fc29d410106289bf72204c3d054ee7a43a67c755c3ca5fa615916a810e",
-      "datetime": 1787913456,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -528,5 +528,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-29T15:13:15.518249+00:00"
+  "updated_at": "2026-08-29T15:28:14.957114+00:00"
 }
