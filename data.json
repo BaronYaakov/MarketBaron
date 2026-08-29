@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "P",
+      "headline": "Everpure (P) Price Target Increased by 37.84% to 130.87",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=86a84142535314ca991a13bc5a8073f81342406af47fecbecb6700762d2750fb",
+      "datetime": 1787987768,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "PRMB",
       "headline": "Dividend Champion, Contender, And Challenger Highlights: Week August 30",
       "source": "SeekingAlpha",
@@ -224,14 +232,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=87140f3e90bd7513462becc74b0da0a668c3c7c826276e398f59da7cc467a5ba",
       "datetime": 1787840433,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "JP Morgan Maintains Overweight on Everpure, Raises Price Target to $145",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=8e75d81d34e31e52639e1b7546292a4dbf28f9649ad0b4e4326b07e2ec0cf3d7",
-      "datetime": 1787840142,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
@@ -528,5 +528,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-29T07:43:14.988194+00:00"
+  "updated_at": "2026-08-29T07:58:14.514994+00:00"
 }
