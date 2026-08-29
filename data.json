@@ -83,6 +83,22 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "Trump Signs Order to Create US Space Academy, Eyes Moon Landing Before End of Presidency",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=c4754c6576e87b5308cfd20e93bbc32bd73646abad5305798583365706827de2",
+      "datetime": 1787968093,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Walmart Agrees to $50 Million Settlement With DOJ Over Alleged Opioid Prescription Violations, Calls Payout \u2018Immaterial\u2019",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=2727fe7b1d03d8cf5755c1adce1aae6e5a6d673d379ed9278ffd88c870e8566b",
+      "datetime": 1787961673,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
       "ticker": "PRMB",
       "headline": "Dividend Champion, Contender, And Challenger Highlights: Week August 30",
       "source": "SeekingAlpha",
@@ -137,14 +153,6 @@
       "url": "https://finnhub.io/api/news?id=6be85b5cd0ec6d610d5e69926b737836a203aebc633974f9f7efa98778ac91ae",
       "datetime": 1787930711,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "SentinelOne: Stay On The Sidelines",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c150e19c1c5a5cfd8f0750603f2e2211af8fe1b9696129116161fb492ab9be78",
-      "datetime": 1787929215,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -528,5 +536,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-29T16:58:14.251506+00:00"
+  "updated_at": "2026-08-29T17:13:14.272782+00:00"
 }
