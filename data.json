@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Broadcom Stock Faces Valuation Test as Fiscal Q3 Earnings Approach",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=57465e6b570887927c69c198fa50b0fec911d3b237cc3b4a0007f20fa1eb78e1",
+      "datetime": 1788027309,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Broadcom (NASDAQ:AVGO) Fits the Quality Investing Mold",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=b317dfe6483c2192bc020620d935ae55cb112427f9accbe776d234f6b8eae213",
@@ -184,14 +192,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=00ca459523d00476785ba984c3513109ae093739e21e9ba21e3bb04f30aa7dd6",
       "datetime": 1787919084,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia Earnings And The Ecosystem: The 70% Guide, And Everything It Sets In Motion",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=701b2cbd572d5052bba3b972d6bd50938a4b8637e6d2ffaaddbd6ae5e100eae0",
-      "datetime": 1787919000,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -544,5 +544,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-29T23:28:14.442843+00:00"
+  "updated_at": "2026-08-29T23:43:14.284719+00:00"
 }
