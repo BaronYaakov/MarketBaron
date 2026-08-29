@@ -408,7 +408,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1786233.481413296,
+      "market_cap_musd": 1753929.511939874,
       "country": "US",
       "currency": "USD",
       "price": 368.79,
@@ -465,7 +465,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 61156.2964028894,
+      "market_cap_musd": 61478.79434635196,
       "country": "US",
       "currency": "USD",
       "price": 322.03,
@@ -484,7 +484,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 71253.27010807241,
+      "market_cap_musd": 71419.10707869178,
       "country": "US",
       "currency": "USD",
       "price": 88.5,
@@ -503,7 +503,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 8165.4506431016025,
+      "market_cap_musd": 8384.426602280524,
       "country": "US",
       "currency": "USD",
       "price": 23.0,
@@ -522,7 +522,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 32303.111154979448,
+      "market_cap_musd": 31269.331820836756,
       "country": "US",
       "currency": "USD",
       "price": 93.4,
@@ -541,7 +541,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2795597.0864963853,
+      "market_cap_musd": 2871964.195734731,
       "country": "US",
       "currency": "USD",
       "price": 266.43,
@@ -560,5 +560,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-28T23:58:14.234065+00:00"
+  "updated_at": "2026-08-29T00:13:14.156319+00:00"
 }
