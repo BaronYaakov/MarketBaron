@@ -321,46 +321,6 @@
       "url": "https://finnhub.io/api/news?id=1bc7c8c3f2c66972d3399d77bb4313e98ddbdc8d97239280f5785bd552745225",
       "datetime": 1787494920,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Dividend Champion, Contender, And Challenger Highlights: Week August 23",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=39359255fee6dd1beadb269dd99f2e2f1d0813d68dd4371fa931522e517ddb8d",
-      "datetime": 1787334897,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "2 Cash-Producing Stocks to Target This Week and 1 We Question",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=15685480ad41cf1eb768e96ac776e840d5bcd6224b0af6ed129e581db146b45a",
-      "datetime": 1787322707,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "O\u2019Reilly\u2019s New Unsecured Debt and Buybacks Might Change The Case For Investing In O\u2019Reilly (ORLY)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7488fe5ae5e353e64e99bd679a8370aa1ff08b8e76eb29c166ad7f97cf86ad06",
-      "datetime": 1787321562,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "O'Reilly Automotive (ORLY) Stock Looks Strong On Returns But Rich On Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=78ec9f120c4deb1453058a74bb8cb7e89a84ae8b0b2e5935f20ed094e9979f6b",
-      "datetime": 1787306950,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "O'Reilly Automotive (ORLY) Completes $1.6 Billion Senior Notes Offering",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0445dbaaa9903dcf49551cff0c19b55d040161a5a4e085d8773595b2afa1d8d9",
-      "datetime": 1787303376,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     }
   ],
   "recent_posts": [],
@@ -568,5 +528,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-29T04:58:14.316461+00:00"
+  "updated_at": "2026-08-29T05:13:14.262098+00:00"
 }
