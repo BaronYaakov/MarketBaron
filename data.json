@@ -7,7 +7,7 @@
       "day_change_pct": 0.78,
       "all_time_gain_pct": 10.01,
       "day_change_source": "ibkr",
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "B",
@@ -16,7 +16,7 @@
       "day_change_pct": 1.6,
       "all_time_gain_pct": 0.49,
       "day_change_source": "ibkr",
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "CLS",
@@ -104,7 +104,7 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=6be85b5cd0ec6d610d5e69926b737836a203aebc633974f9f7efa98778ac91ae",
       "datetime": 1787930711,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -120,7 +120,7 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=fcff8da030159b8c4702662be93d884813319c51352eea9bbd6ae5b13d49ad70",
       "datetime": 1787923773,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "B",
@@ -128,7 +128,7 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=8a0a100dbbdc7f49cd9b44a2401c864bdfcfb5b1e0d6b57fa40165bcff957a14",
       "datetime": 1787921728,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "AVGO",
@@ -136,7 +136,7 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=00ca459523d00476785ba984c3513109ae093739e21e9ba21e3bb04f30aa7dd6",
       "datetime": 1787919084,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -144,7 +144,7 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=701b2cbd572d5052bba3b972d6bd50938a4b8637e6d2ffaaddbd6ae5e100eae0",
       "datetime": 1787919000,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "B",
@@ -152,7 +152,7 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=8afa0e1643c5dbaae82f93c6a87fd15b003a6278dda2bfd3b6faa137a5b93852",
       "datetime": 1787917820,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "P",
@@ -176,7 +176,7 @@
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=457bd7fc29d410106289bf72204c3d054ee7a43a67c755c3ca5fa615916a810e",
       "datetime": 1787913456,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -184,7 +184,7 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=eca0108bed6502b8a0c060a57705f8a4c489937a4aa0e0bd227c072c5f0b1409",
       "datetime": 1787913227,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -240,7 +240,7 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=d7c6c720e2e4ab9482b5c3412d72bda628ca46541279b08b55592b81ec556830",
       "datetime": 1787798339,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "B",
@@ -248,7 +248,7 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=d3cdb982455f5a2cf0b54d39e1c0dbf55784aa92e9b347e5a18725420a112883",
       "datetime": 1787743643,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "COR",
@@ -264,7 +264,7 @@
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=d1d68cf7c3826cdbf0d9d6f40072245925f2ea7c84433c864ad981993a3b3ac1",
       "datetime": 1787655714,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "ORLY",
@@ -296,7 +296,7 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=8079164136545baee830d50713e54d0454e89a8d97afa1928877b95bd1fecba9",
       "datetime": 1787552853,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "ORLY",
@@ -402,14 +402,34 @@
   ],
   "companies": {
     "AVGO": {
+      "name": "Broadcom Inc",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png",
+      "industry": "Semiconductors",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "website": "https://www.broadcom.com",
+      "ipo_date": "2009-08-06",
+      "market_cap_musd": 1753929.511939874,
+      "country": "US",
+      "currency": "USD",
       "price": 368.79,
       "open": 373.6,
       "day_high": 376.59,
       "day_low": 365.35,
       "prev_close": 371.54,
-      "day_change_pct": -0.74
+      "day_change_pct": -0.74,
+      "week52_high": 495.0,
+      "week52_low": 287.17
     },
     "B": {
+      "name": "Barrick Mining Corp",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png",
+      "industry": "Metals & Mining",
+      "exchange": "TORONTO STOCK EXCHANGE",
+      "website": "https://www.barrick.com/",
+      "ipo_date": "1983-05-02",
+      "market_cap_musd": 107953.55173,
+      "country": "CA",
+      "currency": "USD",
       "price": 45.65,
       "open": 47.5,
       "day_high": 47.59,
@@ -540,5 +560,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-29T01:29:11.190690+00:00"
+  "updated_at": "2026-08-29T01:43:14.245589+00:00"
 }
