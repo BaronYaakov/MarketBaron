@@ -147,6 +147,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "ORLY",
+      "headline": "Here\u2019s How Much You Would Have Made Owning O'Reilly Automotive Stock In The Last 20 Years",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e1f79ea28fc60489c1d45a19c68253b919eeeb4116290baf5c357c9eb0efe1e4",
+      "datetime": 1787934648,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom: I Am Hedging Before Q3, You Should Too",
       "source": "SeekingAlpha",
@@ -536,5 +544,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-29T20:43:14.271992+00:00"
+  "updated_at": "2026-08-29T20:58:14.202769+00:00"
 }
