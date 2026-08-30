@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Wall Street Week Ahead",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ba315618ffbe316cfaad6942270af6a92eed58515a9f13eba6d622c94ad24900",
+      "datetime": 1788069518,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Broadcom Stock Faces Valuation Test as Fiscal Q3 Earnings Approach",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=57465e6b570887927c69c198fa50b0fec911d3b237cc3b4a0007f20fa1eb78e1",
@@ -185,14 +193,6 @@
       "url": "https://finnhub.io/api/news?id=8a0a100dbbdc7f49cd9b44a2401c864bdfcfb5b1e0d6b57fa40165bcff957a14",
       "datetime": 1787921728,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Cathie Wood Trims AMD After a 120% Rally \u2014 Is the AI Trade Getting Too Crowded?",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=00ca459523d00476785ba984c3513109ae093739e21e9ba21e3bb04f30aa7dd6",
-      "datetime": 1787919084,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "B",
@@ -544,5 +544,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-30T10:13:14.881332+00:00"
+  "updated_at": "2026-08-30T10:28:14.682582+00:00"
 }
