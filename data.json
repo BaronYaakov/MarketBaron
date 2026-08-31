@@ -493,12 +493,6 @@
       "market_cap_musd": 31269.331820836756,
       "country": "US",
       "currency": "USD",
-      "price": 93.4,
-      "open": 97.75,
-      "day_high": 98.85,
-      "day_low": 93.07,
-      "prev_close": 99.24,
-      "day_change_pct": -5.88,
       "week52_high": 119.1,
       "week52_low": 56.78
     },
@@ -528,5 +522,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-31T13:13:17.730113+00:00"
+  "updated_at": "2026-08-31T13:28:57.007990+00:00"
 }
