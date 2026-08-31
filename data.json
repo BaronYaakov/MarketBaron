@@ -147,6 +147,22 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "B",
+      "headline": "Here's How Much $1000 Invested In Barrick Mining 5 Years Ago Would Be Worth Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=0bcb08f51330bfdf5ee243b35b40c69190423aaef3747104c9fb053bca5beb6d",
+      "datetime": 1788179435,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
+      "ticker": "B",
+      "headline": "Barrick Mining (NYSE:B) Passes the Peter Lynch Growth-at-a-Reasonable-Price Test",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=f8a339406a0b9aaa55183a14e1dcdf77326f8fa0cf4beda96099209ecc66ebdd",
+      "datetime": 1788167489,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Fall as US-Iran Tensions Flare Up\u2014WMT, RZLV, FNGR in Focus (UPDATED)",
       "source": "Benzinga",
@@ -185,6 +201,22 @@
       "url": "https://finnhub.io/api/news?id=e1f79ea28fc60489c1d45a19c68253b919eeeb4116290baf5c357c9eb0efe1e4",
       "datetime": 1787934648,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "B",
+      "headline": "Hycroft Mining Holding shares are trading lower after the company reported worse-than-expected Q1 EPS results.",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=8a0a100dbbdc7f49cd9b44a2401c864bdfcfb5b1e0d6b57fa40165bcff957a14",
+      "datetime": 1787921728,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
+      "ticker": "B",
+      "headline": "Warsh's Remarks Are Sinking Mining Stocks: Here's Why",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=8afa0e1643c5dbaae82f93c6a87fd15b003a6278dda2bfd3b6faa137a5b93852",
+      "datetime": 1787917820,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "P",
@@ -241,6 +273,22 @@
       "url": "https://finnhub.io/api/news?id=ba86d2286e64e5ca69df03a76da12a296bfa86fae2b7b22099cbb65352a9b31a",
       "datetime": 1787815212,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "B",
+      "headline": "Newmont: The Market Has Finally Caught Up (Rating Downgrade)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d7c6c720e2e4ab9482b5c3412d72bda628ca46541279b08b55592b81ec556830",
+      "datetime": 1787798339,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
+      "ticker": "B",
+      "headline": "Newmont: Investors Punished Barrick For This Deal",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d3cdb982455f5a2cf0b54d39e1c0dbf55784aa92e9b347e5a18725420a112883",
+      "datetime": 1787743643,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "COR",
@@ -369,6 +417,12 @@
       "market_cap_musd": 55458.624945,
       "country": "CA",
       "currency": "USD",
+      "price": 299.4,
+      "open": 299.71,
+      "day_high": 302.08,
+      "day_low": 296.42,
+      "prev_close": 298.7,
+      "day_change_pct": 0.23,
       "week52_high": 655.5,
       "week52_low": 253.12
     },
@@ -381,7 +435,9 @@
       "ipo_date": "1996-05-28",
       "market_cap_musd": 61452.076206,
       "country": "US",
-      "currency": "USD"
+      "currency": "USD",
+      "week52_high": 377.54,
+      "week52_low": 244.82
     },
     "ORLY": {
       "name": "O'Reilly Automotive Inc",
@@ -417,7 +473,9 @@
       "day_high": 22.94,
       "day_low": 22.44,
       "prev_close": 23.0,
-      "day_change_pct": -0.78
+      "day_change_pct": -0.78,
+      "week52_high": 26.21,
+      "week52_low": 14.36
     },
     "P": {
       "name": "Everpure Inc",
@@ -429,6 +487,12 @@
       "market_cap_musd": 31269.331820836756,
       "country": "US",
       "currency": "USD",
+      "price": 92.95,
+      "open": 94.57,
+      "day_high": 95.52,
+      "day_low": 91.76,
+      "prev_close": 93.4,
+      "day_change_pct": -0.48,
       "week52_high": 119.1,
       "week52_low": 56.78
     },
@@ -458,5 +522,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-31T20:29:21.387195+00:00"
+  "updated_at": "2026-08-31T20:44:12.598091+00:00"
 }
