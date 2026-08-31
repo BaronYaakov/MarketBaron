@@ -132,10 +132,10 @@
     },
     {
       "ticker": "AMZN",
-      "headline": "Amazon Web Services Accelerates Middle East AI Push with Saudi Cloud Region Launch",
+      "headline": "9 Consumer Discretionary Stocks Whale Activity In Today\u2019s Session",
       "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=008c44d4eaae4ae1b0b5b8a08366f055bc94038e076494456f3101d6c2935e43",
-      "datetime": 1788183182,
+      "url": "https://finnhub.io/api/news?id=14f42cc652f2e7c2be0ba12f4160d9682b0f43e202beea01b1e88cd5e5c00d7f",
+      "datetime": 1788183348,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -528,5 +528,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-31T21:43:18.435483+00:00"
+  "updated_at": "2026-08-31T21:58:18.160252+00:00"
 }
