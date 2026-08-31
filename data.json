@@ -449,7 +449,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 61478.79434635196,
+      "market_cap_musd": 61452.076206,
       "country": "US",
       "currency": "USD",
       "price": 322.03,
@@ -544,5 +544,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-30T23:58:21.710837+00:00"
+  "updated_at": "2026-08-31T00:13:23.865503+00:00"
 }
