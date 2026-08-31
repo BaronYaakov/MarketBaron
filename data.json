@@ -67,11 +67,27 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Trump Warns Against Killing the Data Center 'Golden Goose': 5 Stocks to Watch",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ad5abf2f1c903c8fd7c1bb74534a035f3cd1df84d39cee310c02a670419fa25f",
+      "datetime": 1788180094,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "The AI Bubble Is Entering Its Most Dangerous Phase As Spending Nears $1 Trillion",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=d88940733070ec5c831b7c4329fde1f6367cc60bc05a6119c98dc3b970e36fdd",
       "datetime": 1788179571,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Oil Rises As US Strikes Iran; Warsh's Hawkishness Reverberates; Weak Stock Market Seasonality Ahead",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=8254cead2ba94488fac39c41d8bf0f016fe92d3652f8e578b2f527cf4635645d",
+      "datetime": 1788178763,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -99,14 +115,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Market Chatter: Apple's Bulkier Mac Computers Popular for AI Use, Development",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=560148904a0538a6552ae0404bdc1faf3ff78ffa78cd977256350934f7711c13",
-      "datetime": 1788170980,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "B",
       "headline": "Barrick Mining (NYSE:B) Passes the Peter Lynch Growth-at-a-Reasonable-Price Test",
       "source": "ChartMill",
@@ -124,6 +132,14 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "Assessing Broadcom's Performance Against Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=cea49b19330bb571858cca3a769968bfa37d47846e66511ee8e9f0f308efbc22",
+      "datetime": 1788155927,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=25962831b90b6605c6dc1c5eaf17a2af332f537e8ab4b38a89e9c5fca14ecb8d",
@@ -132,34 +148,18 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "S&P 500 and Dow Jones Outlook: Top Three Catalysts This Week",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ca3dea02bb91c8852d60782888b29f299e0e70d199186e5959bac5a1ec43b8fe",
+      "datetime": 1788102979,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Wall Street Brunch: Jobs And More AI Litmus Test Earnings",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=b65dcfa0f8f8e542ff67693f72381cc5309af36902e5be4ba7bbc2a6c8f91e94",
       "datetime": 1788084420,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Wall Street Week Ahead",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ba315618ffbe316cfaad6942270af6a92eed58515a9f13eba6d622c94ad24900",
-      "datetime": 1788069518,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Stock Faces Valuation Test as Fiscal Q3 Earnings Approach",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=57465e6b570887927c69c198fa50b0fec911d3b237cc3b4a0007f20fa1eb78e1",
-      "datetime": 1788027309,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom (NASDAQ:AVGO) Fits the Quality Investing Mold",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=b317dfe6483c2192bc020620d935ae55cb112427f9accbe776d234f6b8eae213",
-      "datetime": 1788003083,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -379,12 +379,12 @@
       "market_cap_musd": 1753929.511939874,
       "country": "US",
       "currency": "USD",
-      "price": 369.53,
+      "price": 369.81,
       "open": 370.79,
       "day_high": 372.75,
       "day_low": 366.3,
       "prev_close": 368.79,
-      "day_change_pct": 0.2,
+      "day_change_pct": 0.28,
       "week52_high": 495.0,
       "week52_low": 287.17
     },
@@ -398,12 +398,12 @@
       "market_cap_musd": 107953.55173,
       "country": "CA",
       "currency": "USD",
-      "price": 44.65,
+      "price": 44.76,
       "open": 45.47,
       "day_high": 45.64,
       "day_low": 44.3,
       "prev_close": 45.65,
-      "day_change_pct": -2.19,
+      "day_change_pct": -1.95,
       "week52_high": 74.0,
       "week52_low": 35.97
     },
@@ -417,12 +417,12 @@
       "market_cap_musd": 55458.624945,
       "country": "CA",
       "currency": "USD",
-      "price": 298.31,
+      "price": 298.75,
       "open": 299.88,
       "day_high": 302.08,
       "day_low": 296.42,
       "prev_close": 298.7,
-      "day_change_pct": -0.13,
+      "day_change_pct": 0.02,
       "week52_high": 655.5,
       "week52_low": 253.12
     },
@@ -436,12 +436,12 @@
       "market_cap_musd": 61452.076206,
       "country": "US",
       "currency": "USD",
-      "price": 323.91,
+      "price": 323.82,
       "open": 321.31,
       "day_high": 326.57,
       "day_low": 319.04,
       "prev_close": 322.03,
-      "day_change_pct": 0.58,
+      "day_change_pct": 0.56,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -455,12 +455,12 @@
       "market_cap_musd": 71419.10707869178,
       "country": "US",
       "currency": "USD",
-      "price": 88.78,
+      "price": 88.95,
       "open": 88.47,
       "day_high": 89.35,
       "day_low": 87.91,
       "prev_close": 88.5,
-      "day_change_pct": 0.32,
+      "day_change_pct": 0.51,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -474,12 +474,12 @@
       "market_cap_musd": 8384.426602280524,
       "country": "US",
       "currency": "USD",
-      "price": 22.67,
+      "price": 22.74,
       "open": 22.66,
       "day_high": 22.79,
       "day_low": 22.44,
       "prev_close": 23.0,
-      "day_change_pct": -1.43,
+      "day_change_pct": -1.13,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -493,12 +493,12 @@
       "market_cap_musd": 31269.331820836756,
       "country": "US",
       "currency": "USD",
-      "price": 92.93,
+      "price": 92.99,
       "open": 94.58,
       "day_high": 95.52,
       "day_low": 91.76,
       "prev_close": 93.4,
-      "day_change_pct": -0.5,
+      "day_change_pct": -0.44,
       "week52_high": 119.1,
       "week52_low": 56.78
     },
@@ -512,12 +512,12 @@
       "market_cap_musd": 2871964.195734731,
       "country": "US",
       "currency": "USD",
-      "price": 260.93,
+      "price": 261.05,
       "open": 264.91,
       "day_high": 264.91,
       "day_low": 259.72,
       "prev_close": 266.43,
-      "day_change_pct": -2.06,
+      "day_change_pct": -2.02,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -528,5 +528,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-31T17:28:19.445193+00:00"
+  "updated_at": "2026-08-31T17:43:18.568172+00:00"
 }
