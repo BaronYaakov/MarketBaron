@@ -25,7 +25,7 @@
       "day_change_pct": 1.33,
       "all_time_gain_pct": -5.33,
       "day_change_source": "ibkr",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+      "logo_url": null
     },
     {
       "ticker": "COR",
@@ -43,7 +43,7 @@
       "day_change_pct": -0.29,
       "all_time_gain_pct": 9.56,
       "day_change_source": "ibkr",
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "PRMB",
@@ -52,20 +52,12 @@
       "day_change_pct": 0.0,
       "all_time_gain_pct": 24.23,
       "day_change_source": "ibkr",
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     }
   ],
   "cash_percent": 1.46,
   "portfolio_day_change_pct": 0.48,
   "news": [
-    {
-      "ticker": "AMZN",
-      "headline": "Microsoft: A High-Quality AI Name That Is No Longer Misunderstood",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b1c233d5799408d07e2e32b2a1adca075e81e92599584c8165fa077acb1c0882",
-      "datetime": 1788085673,
-      "logo_url": null
-    },
     {
       "ticker": "AVGO",
       "headline": "Wall Street Brunch: Jobs And More AI Litmus Test Earnings",
@@ -104,54 +96,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=1c83a2c86c8db0866676e3aafc425c609bd7b7715585b004d97d373f8ffa28c4",
       "datetime": 1788001200,
-      "logo_url": null
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Trump Signs Order to Create US Space Academy, Eyes Moon Landing Before End of Presidency",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=c4754c6576e87b5308cfd20e93bbc32bd73646abad5305798583365706827de2",
-      "datetime": 1787968093,
-      "logo_url": null
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Dividend Champion, Contender, And Challenger Highlights: Week August 30",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=a70f356816315e6c1cffbf3ddb6582552dedd39464f32f29f67f627611d5c738",
-      "datetime": 1787954658,
-      "logo_url": null
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "What's going on in today's session: dow jones movers",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=5b27de5152d79b81f60ff69ee0c2f519f474646bac52a822fe2fd7513d0b0db2",
-      "datetime": 1787944206,
-      "logo_url": null
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "What's going on in today's session: S&P500 movers",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=802837a78229d1fdaf9ef33edf81b8bf1aa9a805b33095d80312a8a75ba4bc13",
-      "datetime": 1787943901,
-      "logo_url": null
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Most active S&P500 stocks in Friday's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=13210fb760447de0323c53e269c5825ad9bb4aa1c29a666deefc719645c7df3f",
-      "datetime": 1787940302,
-      "logo_url": null
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Stay informed with the top movers within the dow jones index on Friday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=55cae651cbeff84fbf63cc5a69133b5bb10f6b6420ada6c314a3e1af3a9e0019",
-      "datetime": 1787935206,
       "logo_url": null
     },
     {
@@ -209,16 +153,7 @@
     }
   ],
   "companies": {
-    "AVGO": {
-      "price": 368.79,
-      "open": 373.6,
-      "day_high": 376.59,
-      "day_low": 365.35,
-      "prev_close": 371.54,
-      "day_change_pct": -0.74,
-      "week52_high": 495.0,
-      "week52_low": 287.17
-    },
+    "AVGO": {},
     "B": {
       "name": "Barrick Mining Corp",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png",
@@ -228,27 +163,97 @@
       "ipo_date": "1983-05-02",
       "market_cap_musd": 107953.55173,
       "country": "CA",
-      "currency": "USD"
+      "currency": "USD",
+      "week52_high": 74.0,
+      "week52_low": 35.97
     },
     "CLS": {
-      "name": "Celestica Inc",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png",
-      "industry": "Electrical Equipment",
-      "exchange": "TORONTO STOCK EXCHANGE",
-      "website": "https://www.celestica.com/",
-      "ipo_date": "1998-07-01",
-      "market_cap_musd": 55458.624945,
-      "country": "CA",
-      "currency": "USD"
+      "price": 298.7,
+      "open": 315.0,
+      "day_high": 316.0,
+      "day_low": 298.53,
+      "prev_close": 317.38,
+      "day_change_pct": -5.89,
+      "week52_high": 655.5,
+      "week52_low": 253.12
     },
     "COR": {},
-    "ORLY": {},
+    "ORLY": {
+      "name": "O'Reilly Automotive Inc",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png",
+      "industry": "Retail",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "website": "https://corporate.oreillyauto.com/",
+      "ipo_date": "1993-04-23",
+      "market_cap_musd": 71419.10707869178,
+      "country": "US",
+      "currency": "USD",
+      "price": 88.5,
+      "open": 88.74,
+      "day_high": 88.9,
+      "day_low": 87.64,
+      "prev_close": 87.83,
+      "day_change_pct": 0.76,
+      "week52_high": 108.72,
+      "week52_low": 82.59
+    },
     "PRMB": {
+      "name": "Primo Brands Corp",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png",
+      "industry": "Beverages",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "website": "https://ir.primobrands.com/",
+      "ipo_date": "1992-06-16",
+      "market_cap_musd": 8384.426602280524,
+      "country": "US",
+      "currency": "USD",
+      "price": 23.0,
+      "open": 22.7,
+      "day_high": 23.28,
+      "day_low": 22.42,
+      "prev_close": 22.44,
+      "day_change_pct": 2.5,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
-    "P": {},
-    "AMZN": {}
+    "P": {
+      "name": "Everpure Inc",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png",
+      "industry": "Technology",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "website": "https://www.purestorage.com/",
+      "ipo_date": "2015-10-07",
+      "market_cap_musd": 31269.331820836756,
+      "country": "US",
+      "currency": "USD",
+      "price": 93.4,
+      "open": 97.75,
+      "day_high": 98.85,
+      "day_low": 93.07,
+      "prev_close": 99.24,
+      "day_change_pct": -5.88,
+      "week52_high": 119.1,
+      "week52_low": 56.78
+    },
+    "AMZN": {
+      "name": "Amazon.com Inc",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png",
+      "industry": "Retail",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "website": "https://www.amazon.com/",
+      "ipo_date": "1997-05-15",
+      "market_cap_musd": 2871964.195734731,
+      "country": "US",
+      "currency": "USD",
+      "price": 266.43,
+      "open": 258.32,
+      "day_high": 267.56,
+      "day_low": 257.78,
+      "prev_close": 256.26,
+      "day_change_pct": 3.97,
+      "week52_high": 287.2,
+      "week52_low": 196.0
+    }
   },
   "biggest_win": {
     "all": {
@@ -256,5 +261,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-31T09:28:33.987928+00:00"
+  "updated_at": "2026-08-31T09:43:33.641679+00:00"
 }
