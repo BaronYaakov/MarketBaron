@@ -25,7 +25,7 @@
       "day_change_pct": 1.33,
       "all_time_gain_pct": -5.33,
       "day_change_source": "ibkr",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+      "logo_url": null
     },
     {
       "ticker": "COR",
@@ -43,7 +43,7 @@
       "day_change_pct": -0.29,
       "all_time_gain_pct": 9.56,
       "day_change_source": "ibkr",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+      "logo_url": null
     },
     {
       "ticker": "PRMB",
@@ -52,27 +52,35 @@
       "day_change_pct": 0.0,
       "all_time_gain_pct": 24.23,
       "day_change_source": "ibkr",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+      "logo_url": null
     }
   ],
   "cash_percent": 1.46,
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
-      "ticker": "B",
-      "headline": "Barrick Mining (NYSE:B) Passes the Peter Lynch Growth-at-a-Reasonable-Price Test",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=f8a339406a0b9aaa55183a14e1dcdf77326f8fa0cf4beda96099209ecc66ebdd",
-      "datetime": 1788167489,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+      "ticker": "AMZN",
+      "headline": "Microsoft: A High-Quality AI Name That Is No Longer Misunderstood",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b1c233d5799408d07e2e32b2a1adca075e81e92599584c8165fa077acb1c0882",
+      "datetime": 1788085673,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "COR",
-      "headline": "Walmart Agrees to $50 Million Settlement With DOJ Over Alleged Opioid Prescription Violations, Calls Payout \u2018Immaterial\u2019",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=2727fe7b1d03d8cf5755c1adce1aae6e5a6d673d379ed9278ffd88c870e8566b",
-      "datetime": 1787961673,
+      "ticker": "P",
+      "headline": "Everpure (P) Price Target Increased by 37.84% to 130.87",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=86a84142535314ca991a13bc5a8073f81342406af47fecbecb6700762d2750fb",
+      "datetime": 1787987768,
       "logo_url": null
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Trump Signs Order to Create US Space Academy, Eyes Moon Landing Before End of Presidency",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=c4754c6576e87b5308cfd20e93bbc32bd73646abad5305798583365706827de2",
+      "datetime": 1787968093,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "PRMB",
@@ -80,71 +88,79 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=a70f356816315e6c1cffbf3ddb6582552dedd39464f32f29f67f627611d5c738",
       "datetime": 1787954658,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Here\u2019s How Much You Would Have Made Owning O'Reilly Automotive Stock In The Last 20 Years",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=e1f79ea28fc60489c1d45a19c68253b919eeeb4116290baf5c357c9eb0efe1e4",
-      "datetime": 1787934648,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Hycroft Mining Holding shares are trading lower after the company reported worse-than-expected Q1 EPS results.",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=8a0a100dbbdc7f49cd9b44a2401c864bdfcfb5b1e0d6b57fa40165bcff957a14",
-      "datetime": 1787921728,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Warsh's Remarks Are Sinking Mining Stocks: Here's Why",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=8afa0e1643c5dbaae82f93c6a87fd15b003a6278dda2bfd3b6faa137a5b93852",
-      "datetime": 1787917820,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Newmont: The Market Has Finally Caught Up (Rating Downgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d7c6c720e2e4ab9482b5c3412d72bda628ca46541279b08b55592b81ec556830",
-      "datetime": 1787798339,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Newmont: Investors Punished Barrick For This Deal",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d3cdb982455f5a2cf0b54d39e1c0dbf55784aa92e9b347e5a18725420a112883",
-      "datetime": 1787743643,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Elizabeth S Campbell Takes Money Off The Table, Sells $3.66M In Cencora Stock",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=661f453e83e60bc1b53b5d53f3b91a6df8a240d288f3f371da1af9f74141e344",
-      "datetime": 1787742099,
       "logo_url": null
     },
     {
-      "ticker": "B",
-      "headline": "Barrick Mining (NYSE: B) Shows Strong Growth Leadership and Momentum in CANSLIM Screen",
+      "ticker": "AMZN",
+      "headline": "What's going on in today's session: dow jones movers",
       "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=d1d68cf7c3826cdbf0d9d6f40072245925f2ea7c84433c864ad981993a3b3ac1",
-      "datetime": 1787655714,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+      "url": "https://finnhub.io/api/news?id=5b27de5152d79b81f60ff69ee0c2f519f474646bac52a822fe2fd7513d0b0db2",
+      "datetime": 1787944206,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "ORLY",
-      "headline": "Chips Take the Punch Ahead of Nvidia as Trump's Canada Tariffs Rattle Detroit",
+      "ticker": "AMZN",
+      "headline": "What's going on in today's session: S&P500 movers",
       "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=2be168855ee50e913a997ad60b9ba46a6dce9f94c3f66325445b6b6e82be88ad",
-      "datetime": 1787643808,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+      "url": "https://finnhub.io/api/news?id=802837a78229d1fdaf9ef33edf81b8bf1aa9a805b33095d80312a8a75ba4bc13",
+      "datetime": 1787943901,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Most active S&P500 stocks in Friday's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=13210fb760447de0323c53e269c5825ad9bb4aa1c29a666deefc719645c7df3f",
+      "datetime": 1787940302,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Stay informed with the top movers within the dow jones index on Friday.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=55cae651cbeff84fbf63cc5a69133b5bb10f6b6420ada6c314a3e1af3a9e0019",
+      "datetime": 1787935206,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Barclays Maintains Equal-Weight on Everpure, Raises Price Target to $110",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=cbc53270f1d896393ebafbaa31355d2571e7d99d15ecf00609f1a189689d49d7",
+      "datetime": 1787914785,
+      "logo_url": null
+    },
+    {
+      "ticker": "P",
+      "headline": "Northland Capital Markets Maintains Outperform on Everpure, Raises Price Target to $128",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=969fbc0ee4b7a6acec853690b393cf07a5daccc0e2f092746f01724a10359597",
+      "datetime": 1787914214,
+      "logo_url": null
+    },
+    {
+      "ticker": "P",
+      "headline": "B of A Securities Upgrades Everpure (P)",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=14cd3869f7adb2abd7df02fa3fe5bc7082f6ff3bee2a94591724641c5fd4b553",
+      "datetime": 1787861438,
+      "logo_url": null
+    },
+    {
+      "ticker": "P",
+      "headline": "Citigroup Maintains Buy on Everpure, Raises Price Target to $130",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b071f2ae2303462beaefaa5a5203d13e3fc013a9f6e83de0f23d3d4e3dac1f77",
+      "datetime": 1787845338,
+      "logo_url": null
+    },
+    {
+      "ticker": "P",
+      "headline": "B of A Securities Upgrades Everpure to Buy, Raises Price Target to $150",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=87140f3e90bd7513462becc74b0da0a668c3c7c826276e398f59da7cc467a5ba",
+      "datetime": 1787840433,
+      "logo_url": null
     }
   ],
   "recent_posts": [],
@@ -207,52 +223,28 @@
       "week52_high": 74.0,
       "week52_low": 35.97
     },
-    "CLS": {
-      "name": "Celestica Inc",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png",
-      "industry": "Electrical Equipment",
-      "exchange": "TORONTO STOCK EXCHANGE",
-      "website": "https://www.celestica.com/",
-      "ipo_date": "1998-07-01",
-      "market_cap_musd": 55458.624945,
-      "country": "CA",
-      "currency": "USD",
-      "price": 298.7,
-      "open": 315.0,
-      "day_high": 316.0,
-      "day_low": 298.53,
-      "prev_close": 317.38,
-      "day_change_pct": -5.89,
-      "week52_high": 655.5,
-      "week52_low": 253.12
-    },
+    "CLS": {},
     "COR": {},
-    "ORLY": {
-      "name": "O'Reilly Automotive Inc",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png",
+    "ORLY": {},
+    "PRMB": {
+      "week52_high": 26.21,
+      "week52_low": 14.36
+    },
+    "P": {
+      "week52_high": 119.1,
+      "week52_low": 56.78
+    },
+    "AMZN": {
+      "name": "Amazon.com Inc",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png",
       "industry": "Retail",
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
-      "website": "https://corporate.oreillyauto.com/",
-      "ipo_date": "1993-04-23",
-      "market_cap_musd": 71419.10707869178,
-      "country": "US",
-      "currency": "USD",
-      "week52_high": 108.72,
-      "week52_low": 82.59
-    },
-    "PRMB": {
-      "name": "Primo Brands Corp",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png",
-      "industry": "Beverages",
-      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
-      "website": "https://ir.primobrands.com/",
-      "ipo_date": "1992-06-16",
-      "market_cap_musd": 8384.426602280524,
+      "website": "https://www.amazon.com/",
+      "ipo_date": "1997-05-15",
+      "market_cap_musd": 2871964.195734731,
       "country": "US",
       "currency": "USD"
-    },
-    "P": {},
-    "AMZN": {}
+    }
   },
   "biggest_win": {
     "all": {
@@ -260,5 +252,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-31T10:43:52.452629+00:00"
+  "updated_at": "2026-08-31T10:58:14.402552+00:00"
 }
