@@ -7,7 +7,7 @@
       "day_change_pct": 0.78,
       "all_time_gain_pct": 10.01,
       "day_change_source": "ibkr",
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "B",
@@ -25,7 +25,7 @@
       "day_change_pct": 1.33,
       "all_time_gain_pct": -5.33,
       "day_change_source": "ibkr",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+      "logo_url": null
     },
     {
       "ticker": "COR",
@@ -34,7 +34,7 @@
       "day_change_pct": 0.0,
       "all_time_gain_pct": 15.77,
       "day_change_source": "ibkr",
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "ORLY",
@@ -72,7 +72,7 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=b65dcfa0f8f8e542ff67693f72381cc5309af36902e5be4ba7bbc2a6c8f91e94",
       "datetime": 1788084420,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -80,7 +80,7 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=ba315618ffbe316cfaad6942270af6a92eed58515a9f13eba6d622c94ad24900",
       "datetime": 1788069518,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -88,7 +88,7 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=57465e6b570887927c69c198fa50b0fec911d3b237cc3b4a0007f20fa1eb78e1",
       "datetime": 1788027309,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -96,7 +96,7 @@
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=b317dfe6483c2192bc020620d935ae55cb112427f9accbe776d234f6b8eae213",
       "datetime": 1788003083,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -104,7 +104,7 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=1c83a2c86c8db0866676e3aafc425c609bd7b7715585b004d97d373f8ffa28c4",
       "datetime": 1788001200,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -113,6 +113,14 @@
       "url": "https://finnhub.io/api/news?id=c4754c6576e87b5308cfd20e93bbc32bd73646abad5305798583365706827de2",
       "datetime": 1787968093,
       "logo_url": null
+    },
+    {
+      "ticker": "COR",
+      "headline": "Walmart Agrees to $50 Million Settlement With DOJ Over Alleged Opioid Prescription Violations, Calls Payout \u2018Immaterial\u2019",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=2727fe7b1d03d8cf5755c1adce1aae6e5a6d673d379ed9278ffd88c870e8566b",
+      "datetime": 1787961673,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "AMZN",
@@ -152,7 +160,15 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=6be85b5cd0ec6d610d5e69926b737836a203aebc633974f9f7efa98778ac91ae",
       "datetime": 1787930711,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Elizabeth S Campbell Takes Money Off The Table, Sells $3.66M In Cencora Stock",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=661f453e83e60bc1b53b5d53f3b91a6df8a240d288f3f371da1af9f74141e344",
+      "datetime": 1787742099,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     }
   ],
   "recent_posts": [],
@@ -202,32 +218,36 @@
   ],
   "companies": {
     "AVGO": {
-      "week52_high": 495.0,
-      "week52_low": 287.17
-    },
-    "B": {
-      "price": 45.65,
-      "open": 47.5,
-      "day_high": 47.59,
-      "day_low": 45.34,
-      "prev_close": 47.32,
-      "day_change_pct": -3.53,
-      "week52_high": 74.0,
-      "week52_low": 35.97
-    },
-    "CLS": {
-      "name": "Celestica Inc",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png",
-      "industry": "Electrical Equipment",
-      "exchange": "TORONTO STOCK EXCHANGE",
-      "website": "https://www.celestica.com/",
-      "ipo_date": "1998-07-01",
-      "market_cap_musd": 55458.624945,
-      "country": "CA",
+      "name": "Broadcom Inc",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png",
+      "industry": "Semiconductors",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "website": "https://www.broadcom.com",
+      "ipo_date": "2009-08-06",
+      "market_cap_musd": 1753929.511939874,
+      "country": "US",
       "currency": "USD"
     },
-    "COR": {},
-    "ORLY": {},
+    "B": {},
+    "CLS": {
+      "week52_high": 655.5,
+      "week52_low": 253.12
+    },
+    "COR": {
+      "name": "Cencora Inc",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png",
+      "industry": "Health Care",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "website": "https://www.cencora.com/",
+      "ipo_date": "1996-05-28",
+      "market_cap_musd": 61452.076206,
+      "country": "US",
+      "currency": "USD"
+    },
+    "ORLY": {
+      "week52_high": 108.72,
+      "week52_low": 82.59
+    },
     "PRMB": {
       "name": "Primo Brands Corp",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png",
@@ -237,7 +257,13 @@
       "ipo_date": "1992-06-16",
       "market_cap_musd": 8384.426602280524,
       "country": "US",
-      "currency": "USD"
+      "currency": "USD",
+      "price": 23.0,
+      "open": 22.7,
+      "day_high": 23.28,
+      "day_low": 22.42,
+      "prev_close": 22.44,
+      "day_change_pct": 2.5
     },
     "P": {},
     "AMZN": {
@@ -251,5 +277,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-31T11:28:19.381012+00:00"
+  "updated_at": "2026-08-31T11:43:20.272043+00:00"
 }
