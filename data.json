@@ -123,6 +123,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "Amazon Refutes U.S. Federal Trade Commission Lawsuit Over Allegedly Misleading Advertisers About Its Sponsored Ads Pricing, Auction",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=6fcb3635a2d7b479e61b4db10106767e6bad59d263380ffa6f99148f42d0b392",
+      "datetime": 1788191242,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "AI Power Demand Doubles By 2027: Here's Ways To Position",
       "source": "SeekingAlpha",
@@ -137,14 +145,6 @@
       "url": "https://finnhub.io/api/news?id=fb575e87af9b8cbb3b728c43f2d9c449c0c414b37b1810b534ad42f0fff78134",
       "datetime": 1788183348,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "9 Consumer Discretionary Stocks Whale Activity In Today\u2019s Session",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=14f42cc652f2e7c2be0ba12f4160d9682b0f43e202beea01b1e88cd5e5c00d7f",
-      "datetime": 1788183348,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -528,5 +528,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-31T23:43:16.216338+00:00"
+  "updated_at": "2026-08-31T23:58:16.677618+00:00"
 }
