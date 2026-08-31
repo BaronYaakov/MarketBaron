@@ -16,7 +16,7 @@
       "day_change_pct": 1.6,
       "all_time_gain_pct": 0.49,
       "day_change_source": "ibkr",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+      "logo_url": null
     },
     {
       "ticker": "CLS",
@@ -25,7 +25,7 @@
       "day_change_pct": 1.33,
       "all_time_gain_pct": -5.33,
       "day_change_source": "ibkr",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+      "logo_url": null
     },
     {
       "ticker": "COR",
@@ -59,11 +59,59 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Microsoft: A High-Quality AI Name That Is No Longer Misunderstood",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b1c233d5799408d07e2e32b2a1adca075e81e92599584c8165fa077acb1c0882",
+      "datetime": 1788085673,
+      "logo_url": null
+    },
+    {
       "ticker": "P",
       "headline": "Everpure (P) Price Target Increased by 37.84% to 130.87",
       "source": "Fintel",
       "url": "https://finnhub.io/api/news?id=86a84142535314ca991a13bc5a8073f81342406af47fecbecb6700762d2750fb",
       "datetime": 1787987768,
+      "logo_url": null
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Trump Signs Order to Create US Space Academy, Eyes Moon Landing Before End of Presidency",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=c4754c6576e87b5308cfd20e93bbc32bd73646abad5305798583365706827de2",
+      "datetime": 1787968093,
+      "logo_url": null
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "What's going on in today's session: dow jones movers",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=5b27de5152d79b81f60ff69ee0c2f519f474646bac52a822fe2fd7513d0b0db2",
+      "datetime": 1787944206,
+      "logo_url": null
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "What's going on in today's session: S&P500 movers",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=802837a78229d1fdaf9ef33edf81b8bf1aa9a805b33095d80312a8a75ba4bc13",
+      "datetime": 1787943901,
+      "logo_url": null
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Most active S&P500 stocks in Friday's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=13210fb760447de0323c53e269c5825ad9bb4aa1c29a666deefc719645c7df3f",
+      "datetime": 1787940302,
+      "logo_url": null
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Stay informed with the top movers within the dow jones index on Friday.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=55cae651cbeff84fbf63cc5a69133b5bb10f6b6420ada6c314a3e1af3a9e0019",
+      "datetime": 1787935206,
       "logo_url": null
     },
     {
@@ -81,14 +129,6 @@
       "url": "https://finnhub.io/api/news?id=969fbc0ee4b7a6acec853690b393cf07a5daccc0e2f092746f01724a10359597",
       "datetime": 1787914214,
       "logo_url": null
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica: When Growth Won't Fund Itself (Rating Upgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=46d08db6f5e6c2f164a700053d2ed4ab13c11dd28127d5084099c97a81390827",
-      "datetime": 1787899491,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "P",
@@ -113,30 +153,6 @@
       "url": "https://finnhub.io/api/news?id=87140f3e90bd7513462becc74b0da0a668c3c7c826276e398f59da7cc467a5ba",
       "datetime": 1787840433,
       "logo_url": null
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica Could Benefit Massively From Jalape\u00f1o Chip Ramps (Rating Upgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ba86d2286e64e5ca69df03a76da12a296bfa86fae2b7b22099cbb65352a9b31a",
-      "datetime": 1787815212,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "This Darden Analyst Turns Bullish; Here Are Top 4 Upgrades For Monday",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=75c9a349df3cac6a9e6ab490dc286a5698d1c8782679b5be2a7ce8e60a537c38",
-      "datetime": 1787571865,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "UBS Upgrades Celestica to Buy, Raises Price Target to $430",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=36a819c8974e7bff512ed1b0dd01d5909a5b09e112120a1b4b7271a7dc6b485f",
-      "datetime": 1787564516,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     }
   ],
   "recent_posts": [],
@@ -195,40 +211,17 @@
       "market_cap_musd": 1753929.511939874,
       "country": "US",
       "currency": "USD",
-      "price": 368.79,
-      "open": 373.6,
-      "day_high": 376.59,
-      "day_low": 365.35,
-      "prev_close": 371.54,
-      "day_change_pct": -0.74,
       "week52_high": 495.0,
       "week52_low": 287.17
     },
-    "B": {
-      "name": "Barrick Mining Corp",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png",
-      "industry": "Metals & Mining",
-      "exchange": "TORONTO STOCK EXCHANGE",
-      "website": "https://www.barrick.com/",
-      "ipo_date": "1983-05-02",
-      "market_cap_musd": 107953.55173,
-      "country": "CA",
-      "currency": "USD",
-      "week52_high": 74.0,
-      "week52_low": 35.97
-    },
+    "B": {},
     "CLS": {
-      "name": "Celestica Inc",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png",
-      "industry": "Electrical Equipment",
-      "exchange": "TORONTO STOCK EXCHANGE",
-      "website": "https://www.celestica.com/",
-      "ipo_date": "1998-07-01",
-      "market_cap_musd": 55458.624945,
-      "country": "CA",
-      "currency": "USD",
-      "week52_high": 655.5,
-      "week52_low": 253.12
+      "price": 298.7,
+      "open": 315.0,
+      "day_high": 316.0,
+      "day_low": 298.53,
+      "prev_close": 317.38,
+      "day_change_pct": -5.89
     },
     "COR": {
       "name": "Cencora Inc",
@@ -239,14 +232,17 @@
       "ipo_date": "1996-05-28",
       "market_cap_musd": 61452.076206,
       "country": "US",
-      "currency": "USD"
+      "currency": "USD",
+      "price": 322.03,
+      "open": 322.3,
+      "day_high": 323.74,
+      "day_low": 320.39,
+      "prev_close": 321.23,
+      "day_change_pct": 0.25
     },
     "ORLY": {},
     "PRMB": {},
-    "P": {
-      "week52_high": 119.1,
-      "week52_low": 56.78
-    },
+    "P": {},
     "AMZN": {}
   },
   "biggest_win": {
@@ -255,5 +251,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-08-31T08:43:22.097470+00:00"
+  "updated_at": "2026-08-31T08:58:43.315363+00:00"
 }
