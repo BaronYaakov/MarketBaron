@@ -7,7 +7,7 @@
       "day_change_pct": 0.78,
       "all_time_gain_pct": 10.01,
       "day_change_source": "ibkr",
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "B",
@@ -64,7 +64,7 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=2dd765d8845bc304763a3af23c6c7641b07e0eaf4b429793b5802e86930d69fb",
       "datetime": 1788222242,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -80,7 +80,7 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=6125a10cbc4708559611d3126d9137cd11e7a749ae20ba2cd91d0a8f50748834",
       "datetime": 1788202835,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -104,7 +104,7 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=4e98513098d2b5cc14bbfe6fb8c034e9bee1ed220022a46f52ccf43edf7d570d",
       "datetime": 1788191921,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -120,7 +120,7 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=34fcdc5b395ae44bd3a01c6180162677594447ca079b80f3c68238569f37151a",
       "datetime": 1788191313,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -144,7 +144,7 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=bc03f9bc6310b18cb3bb750d7736f6509cdbda84e035fe14301772b51a57fb5f",
       "datetime": 1788183931,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -152,7 +152,7 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=fb575e87af9b8cbb3b728c43f2d9c449c0c414b37b1810b534ad42f0fff78134",
       "datetime": 1788183348,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "B",
@@ -354,12 +354,23 @@
   ],
   "companies": {
     "AVGO": {
+      "name": "Broadcom Inc",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png",
+      "industry": "Semiconductors",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "website": "https://www.broadcom.com",
+      "ipo_date": "2009-08-06",
+      "market_cap_musd": 1761922.2469569566,
+      "country": "US",
+      "currency": "USD",
       "price": 370.34,
       "open": 369.52,
       "day_high": 372.75,
       "day_low": 366.3,
       "prev_close": 368.79,
-      "day_change_pct": 0.42
+      "day_change_pct": 0.42,
+      "week52_high": 495.0,
+      "week52_low": 287.17
     },
     "B": {
       "name": "Barrick Mining Corp",
@@ -376,7 +387,9 @@
       "day_high": 45.64,
       "day_low": 44.3,
       "prev_close": 45.65,
-      "day_change_pct": -1.8
+      "day_change_pct": -1.8,
+      "week52_high": 74.0,
+      "week52_low": 35.97
     },
     "CLS": {
       "name": "Celestica Inc",
@@ -499,5 +512,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-01T08:44:01.522445+00:00"
+  "updated_at": "2026-09-01T08:58:14.712438+00:00"
 }
