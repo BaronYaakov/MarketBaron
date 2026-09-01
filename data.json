@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Broadcom: Why Q3 Is Not Going To Change Anything",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2dd765d8845bc304763a3af23c6c7641b07e0eaf4b429793b5802e86930d69fb",
+      "datetime": 1788222242,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Top dow jones movers in Monday's session",
       "source": "ChartMill",
@@ -144,14 +152,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=fb575e87af9b8cbb3b728c43f2d9c449c0c414b37b1810b534ad42f0fff78134",
       "datetime": 1788183348,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Trump Warns Against Killing the Data Center 'Golden Goose': 5 Stocks to Watch",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=ad5abf2f1c903c8fd7c1bb74534a035f3cd1df84d39cee310c02a670419fa25f",
-      "datetime": 1788180094,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -305,22 +305,6 @@
       "url": "https://finnhub.io/api/news?id=2be168855ee50e913a997ad60b9ba46a6dce9f94c3f66325445b6b6e82be88ad",
       "datetime": 1787643808,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "This Darden Analyst Turns Bullish; Here Are Top 4 Upgrades For Monday",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=75c9a349df3cac6a9e6ab490dc286a5698d1c8782679b5be2a7ce8e60a537c38",
-      "datetime": 1787571865,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "UBS Upgrades Celestica to Buy, Raises Price Target to $430",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=36a819c8974e7bff512ed1b0dd01d5909a5b09e112120a1b4b7271a7dc6b485f",
-      "datetime": 1787564516,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     }
   ],
   "recent_posts": [],
@@ -528,5 +512,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-01T04:58:14.809647+00:00"
+  "updated_at": "2026-09-01T05:13:14.936161+00:00"
 }
