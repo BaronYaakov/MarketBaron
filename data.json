@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Rising Rates and $90 Oil Break the August Winning Streak",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=a682723299d894f8ee60a01c84e7d16ba079508b5f0a24675319482dacfc0af5",
+      "datetime": 1788251083,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom: Why Q3 Is Not Going To Change Anything",
       "source": "SeekingAlpha",
@@ -128,14 +136,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=34fcdc5b395ae44bd3a01c6180162677594447ca079b80f3c68238569f37151a",
       "datetime": 1788191313,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Refutes U.S. Federal Trade Commission Lawsuit Over Allegedly Misleading Advertisers About Its Sponsored Ads Pricing, Auction",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=6fcb3635a2d7b479e61b4db10106767e6bad59d263380ffa6f99148f42d0b392",
-      "datetime": 1788191242,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -512,5 +512,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-01T08:58:14.712438+00:00"
+  "updated_at": "2026-09-01T09:13:15.505470+00:00"
 }
