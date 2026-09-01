@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "CLS",
+      "headline": "Celestica (NYSE:CLS): An Affordable Growth Opportunity",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=465bbe58115f6e9ea75ff660eeb1ac07da21b33307971c04c35c6cb11f9b2494",
+      "datetime": 1788264714,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Rising Rates and $90 Oil Break the August Winning Streak",
       "source": "ChartMill",
@@ -512,5 +520,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-01T12:28:14.637085+00:00"
+  "updated_at": "2026-09-01T12:43:15.488203+00:00"
 }
