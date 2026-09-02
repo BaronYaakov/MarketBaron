@@ -424,7 +424,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1728904.5832943078,
+      "market_cap_musd": 1758782.1858894876,
       "country": "US",
       "currency": "USD",
       "price": 369.68,
@@ -481,7 +481,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 62972.970243355994,
+      "market_cap_musd": 63158.07261043495,
       "country": "US",
       "currency": "USD",
       "price": 330.97,
@@ -500,7 +500,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 71233.04705079217,
+      "market_cap_musd": 71148.1061622528,
       "country": "US",
       "currency": "USD",
       "price": 87.95,
@@ -519,7 +519,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 8241.096577242899,
+      "market_cap_musd": 8295.750079072743,
       "country": "US",
       "currency": "USD",
       "price": 22.92,
@@ -538,7 +538,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 30312.00527777633,
+      "market_cap_musd": 31172.934038270247,
       "country": "US",
       "currency": "USD",
       "price": 93.78,
@@ -557,7 +557,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2754177.415979541,
+      "market_cap_musd": 2749647.1641008244,
       "country": "US",
       "currency": "USD",
       "price": 254.92,
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-01T23:58:15.283311+00:00"
+  "updated_at": "2026-09-02T00:13:15.036882+00:00"
 }
