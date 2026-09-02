@@ -179,6 +179,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
+      "ticker": "B",
+      "headline": "'Barrick Is Said to Weigh Delaying North America Gold IPO to 2027' - Bloomberg",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a714cdd00cf26659cdee91bf2fe560cc5e0fac091895a73f951a99d6a1d93e50",
+      "datetime": 1788353878,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "P",
       "headline": "Here's Why Investors Must Hold Everpure Stock in Their Portfolios Now",
       "source": "Yahoo",
@@ -361,14 +369,6 @@
       "url": "https://finnhub.io/api/news?id=c722c8496a561211d26704a9a80e75b0fd79a99d2432c59a004343711e4680c3",
       "datetime": 1787762400,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Newmont: Investors Punished Barrick For This Deal",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d3cdb982455f5a2cf0b54d39e1c0dbf55784aa92e9b347e5a18725420a112883",
-      "datetime": 1787743643,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     }
   ],
   "recent_posts": [],
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-02T23:28:16.864129+00:00"
+  "updated_at": "2026-09-02T23:43:16.645261+00:00"
 }
