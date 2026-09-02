@@ -59,6 +59,70 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Panera makes major change to how customers earn rewards",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=50b4adeb360cdc2ed125f34107f24866671b98fdf25f809460bea66e8cb0775a",
+      "datetime": 1788319980,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Nio Bets On China Auto Recovery To Lift Q4 Deliveries Above 40,000 A Month \u2014 But BofA Isn\u2019t Buying The Bull Case",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7224cbfc3d896b9716eef95a2817889441aa9a6c274e44d11e9c3765bff3bd58",
+      "datetime": 1788319446,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The 3 Best Artificial Intelligence (AI) Stocks for September",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=04d9bda988e6249f35bfc2bdcc5c7016f3a0aabfb9fd325e7bd6b651220cd01c",
+      "datetime": 1788316020,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Costco shuts down a key service with no notice",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=19980511c42373f5c59f0a1b34a119de49767533fb7a29198b333f3482988bde",
+      "datetime": 1788315138,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "PVH (PVH), Why Is It Getting So Much Attention Now?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=548f50919725dd90b74616ab1de0f6f00aa852a0b821baef845d1febd0700d07",
+      "datetime": 1788314846,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Precision Camshafts Ltd (BOM:539636) (Q1 2027) Earnings Call Highlights: Standalone Profit ...",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c1c1c9c22c8a0435a01c25cd527fe4348d8e561a8968c9de4c606416ab21a958",
+      "datetime": 1788314468,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Review & Preview: September Blues",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bb8b39ecb39dbca90c3ec3faf89128b1d62253652bc863d0d3ce22e899db6fd4",
+      "datetime": 1788310500,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Roundtable 100 analysts put Nvidia at No. 76 in new tech power ranking",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=354222f8f27a0f2f4173d2755df785fe2c4fb2ea51cf8b15069ad1f5b66fc779",
+      "datetime": 1788308910,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom's earnings loom, but this reveal came first",
       "source": "Yahoo",
@@ -89,70 +153,6 @@
       "url": "https://finnhub.io/api/news?id=620d043f026d4e430f3dd0b99ebd0a5d78e3ff5709fa7166ae3c0b15bc024fdf",
       "datetime": 1788301530,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Tracking Jeremy Grantham's GMO Capital Portfolio - Q2 2026 Update",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=fe39252280e118ff2fa8880a440babc7b5b782509ec2959aebf8fd673a741e95",
-      "datetime": 1788296759,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Faces Crucial Earnings Test After AI Chip Sales Surge 143%",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d41616697790a2bd8323949b38d3d79e34f6d9e8af0e7fa7637a1002f0b53d8b",
-      "datetime": 1788295939,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Stay informed with the top movers within the dow jones index on Tuesday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=2811d09bc453d60ad535201a16e94c17326b4e0711eab591a46c0c53c4effcac",
-      "datetime": 1788289805,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia: Betting Against AI's Landlord Is A Widow-Maker Trade",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=917d8a7976ba8b3e4504514f0e93cec344656db2b6fbf75b1141b2e6a9c958f9",
-      "datetime": 1788289614,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "People Forget Amazon\u2019s $600 Billion E-Commerce Business Is Bigger Than Microsoft",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7899d44983574f63ff430a75fcda7754450d64a9901a155646f3a3cedc22ec80",
-      "datetime": 1788289454,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "What Is a Small Modular Reactor, and Why Is Big Tech Signing Multi-Decade Deals for Them?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=40ae3299927fdac8867996181f00c9345389f738fb770034a4d6d9fc36106a1a",
-      "datetime": 1788288600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Sector Update: Tech Stocks Fall Tuesday Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c15d2d4572a80124b905d5c04acb063d0795e85de51652377711919174c890e2",
-      "datetime": 1788288417,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Doesn't Pay a Dividend and Constantly Dilutes Shareholders. Here's Why I'd Still Buy and Hold It Forever.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6c2606d394776553c4efd386dabb8dea79a57e55468411ce6afcc5e008db9015",
-      "datetime": 1788288180,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -361,14 +361,6 @@
       "url": "https://finnhub.io/api/news?id=661f453e83e60bc1b53b5d53f3b91a6df8a240d288f3f371da1af9f74141e344",
       "datetime": 1787742099,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Chips Take the Punch Ahead of Nvidia as Trump's Canada Tariffs Rattle Detroit",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=2be168855ee50e913a997ad60b9ba46a6dce9f94c3f66325445b6b6e82be88ad",
-      "datetime": 1787643808,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     }
   ],
   "recent_posts": [],
@@ -576,5 +568,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-02T04:58:14.575901+00:00"
+  "updated_at": "2026-09-02T05:13:14.836878+00:00"
 }
