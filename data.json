@@ -59,12 +59,52 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Broadcom's earnings loom, but this reveal came first",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc6e0ae547bdf6114e220c7ddfa53b2c545e4a8f85c3b6e4f6c5d519bd003d1b",
+      "datetime": 1788305580,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "28 Analysts Share Their Broadcom Stock Forecast Before Q3 Earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=396077d30def8fc4312f7b6d5b8d0737cd8d7cc0b039e7359252abf01d694578",
+      "datetime": 1788304605,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Two Stocks That Will Benefit From OpenAI Announcement",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9bf5ee1b316219bd73a73592ec1ac4f516654fa266fb81e2c84bfaf387afd598",
+      "datetime": 1788303001,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Nvidia Just Broke the Stock Market (Again)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=620d043f026d4e430f3dd0b99ebd0a5d78e3ff5709fa7166ae3c0b15bc024fdf",
+      "datetime": 1788301530,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Tracking Jeremy Grantham's GMO Capital Portfolio - Q2 2026 Update",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=fe39252280e118ff2fa8880a440babc7b5b782509ec2959aebf8fd673a741e95",
       "datetime": 1788296759,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom Faces Crucial Earnings Test After AI Chip Sales Surge 143%",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d41616697790a2bd8323949b38d3d79e34f6d9e8af0e7fa7637a1002f0b53d8b",
+      "datetime": 1788295939,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -91,14 +131,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Broadcom Boosts VMware AI Push to Challenge Nutanix & Microsoft",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=57e5abd9b3eeaf33e78b2950f28a4b5f390bbc855e7d0fb8655e91a9ead6e486",
-      "datetime": 1788289140,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "AMZN",
       "headline": "What Is a Small Modular Reactor, and Why Is Big Tech Signing Multi-Decade Deals for Them?",
       "source": "Yahoo",
@@ -123,44 +155,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Broadcom (AVGO) Launches Private AI Cloud Tools, Is It Still Below Fair Value?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=17e3aa4fe7db55fd3c93e54a2d102cc5dee0309a790eb34547c5b6ff87bfadc7",
-      "datetime": 1788282971,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Morgan Stanley delivers bold pre-earnings verdict on Broadcom",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=666a4d45ae57aea0175b12cb763a668c69014e91f4c0b75a8070db994e66843d",
-      "datetime": 1788279167,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Set to Report Q3 Earnings: Buy, Sell or Hold the Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9756a64edf68b73507274202a014dd8f1c50a1438128eabeb138757e52aeaa22",
-      "datetime": 1788278520,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "P",
       "headline": "Here's Why Investors Must Hold Everpure Stock in Their Portfolios Now",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1835c73eefb3bce858c43a7fffc67e1ab7c3d166524edb21f1d3b9c5f930e881",
       "datetime": 1788276480,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "I Keep Buying Marvell Technology Because Its Type Historically Wins",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7b3fc12b56e290dd8a4eb6c48e32ece5d1d1f98d48429eeba2403314eb1986cf",
-      "datetime": 1788274167,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-02T02:58:16.877019+00:00"
+  "updated_at": "2026-09-02T03:13:16.152631+00:00"
 }
