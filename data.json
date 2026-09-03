@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Broadcom Redraws the AI Silicon Runway While Dell's 16% Sprint Pulls Wall Street Off the Mat",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=22f171f60f6796e8d54494cf6fe5bf9e37468691d01468c04bc2efa2e05a16ce",
+      "datetime": 1788426020,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Broadcom's AI Revenue Just Soared 221%, and Profits Tripled. So, Why Is the Stock Flat?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c91c00c43c0d2c8b6bba32987bdc5650c0f70aa6eb7b79f65eec6139e4013b5f",
@@ -121,14 +129,6 @@
       "url": "https://finnhub.io/api/news?id=c4683f6570ac48204ed6c9754b211120982eaf60a14e099f225c45d7eda78da1",
       "datetime": 1788399119,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "US Stock Futures Rangebound After S&P 500, Dow Snap Three-Day Losing Streak As Oil Steadies \u2014 MSFT, DELL, UBER, ASTS, AVGO In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=df7d030f1d789f995d14f5dd72d38a42b65c651926dddea3ab23a17cb88e1643",
-      "datetime": 1788394370,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -568,5 +568,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-03T09:28:15.143989+00:00"
+  "updated_at": "2026-09-03T09:43:15.017680+00:00"
 }
