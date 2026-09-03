@@ -147,6 +147,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "B",
+      "headline": "Barrick: Buy For Copper Growth And Valuation Discount",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ba581a5399744445da3d7b10859e634c29b24ead8dcecb468f20e45e4b2a658c",
+      "datetime": 1788423135,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Dogs Of The Dow: No Buys And Few Worth Watching",
       "source": "SeekingAlpha",
@@ -353,14 +361,6 @@
       "url": "https://finnhub.io/api/news?id=ba86d2286e64e5ca69df03a76da12a296bfa86fae2b7b22099cbb65352a9b31a",
       "datetime": 1787815212,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Newmont: The Market Has Finally Caught Up (Rating Downgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d7c6c720e2e4ab9482b5c3412d72bda628ca46541279b08b55592b81ec556830",
-      "datetime": 1787798339,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     }
   ],
   "recent_posts": [],
@@ -568,5 +568,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-03T12:28:15.843222+00:00"
+  "updated_at": "2026-09-03T12:43:16.347467+00:00"
 }
