@@ -84,6 +84,14 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "Broadcom Inc. (AVGO) Q3 2026 Earnings Call Transcript",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b9a3dc4b47874afb434251b1abece28ec08cce656dac86e9838afa99e0ad2099",
+      "datetime": 1788389081,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Broadcom Inc. Q3 2026 Earnings: Live Updates of $AVGO Earnings Call, Forecast",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=306c41f8c142124ff017612d637d8d31f4aeff372afc95346d99b0554dd016b1",
@@ -104,14 +112,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2b841c03994bdbeaf8a4f9d29cd333752a1fd60a9a87c9844aa5170f19069119",
       "datetime": 1788385749,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Q3 FY2026 earnings: Record revenue on AI chip demand",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=843481624f0f311bd97eb4eb6b949072f718ead3bb8acf7033e149572dc51165",
-      "datetime": 1788385577,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-03T02:58:22.512239+00:00"
+  "updated_at": "2026-09-03T03:13:23.421470+00:00"
 }
