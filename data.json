@@ -187,6 +187,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
+      "ticker": "B",
+      "headline": "The Gold Supercycle Is Just Starting, and Miners Haven't Caught Up",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=7894468d95567f6c79995a4012a5dbad60447e485fb3afc663dc7274a112c37d",
+      "datetime": 1788419143,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "P",
       "headline": "NetApp Stock Slides Despite Earnings Beat",
       "source": "Yahoo",
@@ -200,6 +208,14 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4eb0591b4a4ddbdacbe8445f0d2e7bffc7bdfe5ae291cf42cfd2365c8e27b308",
       "datetime": 1788381000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "ePlus Secures Everpure Ambassador Certification",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e41933616cec0f7bf3f5e52954dc7c666452c78c3d75c8c28131b39594bf951c",
+      "datetime": 1788366940,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
@@ -257,14 +273,6 @@
       "url": "https://finnhub.io/api/news?id=fd5ee68a34606d8f56438cd6c7182483380497c6c1cf288e4c453182bf0a8f0a",
       "datetime": 1788214511,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Everpure (P) Q2 2027 Earnings Call Transcript",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7cbdadd6ebe85738f2f9fae5aacafad067add41a781aa841cdc26fdc58fa7f5f",
-      "datetime": 1788187779,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "COR",
@@ -336,14 +344,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=8a0a100dbbdc7f49cd9b44a2401c864bdfcfb5b1e0d6b57fa40165bcff957a14",
       "datetime": 1787921728,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Warsh's Remarks Are Sinking Mining Stocks: Here's Why",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=8afa0e1643c5dbaae82f93c6a87fd15b003a6278dda2bfd3b6faa137a5b93852",
-      "datetime": 1787917820,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
@@ -427,12 +427,12 @@
       "market_cap_musd": 1645927.6024797447,
       "country": "US",
       "currency": "USD",
-      "price": 347.41,
+      "price": 348.83,
       "open": 356.66,
       "day_high": 356.66,
       "day_low": 342.33,
       "prev_close": 367.24,
-      "day_change_pct": -5.4,
+      "day_change_pct": -5.01,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -446,12 +446,12 @@
       "market_cap_musd": 100579.996653,
       "country": "CA",
       "currency": "USD",
-      "price": 45.39,
+      "price": 45.71,
       "open": 45.03,
-      "day_high": 45.67,
+      "day_high": 45.78,
       "day_low": 44.78,
       "prev_close": 44.13,
-      "day_change_pct": 2.86,
+      "day_change_pct": 3.58,
       "week52_high": 74.0,
       "week52_low": 36.67
     },
@@ -465,12 +465,12 @@
       "market_cap_musd": 48458.195747,
       "country": "CA",
       "currency": "USD",
-      "price": 298.92,
+      "price": 299.87,
       "open": 282.62,
-      "day_high": 299.15,
+      "day_high": 299.92,
       "day_low": 280.7,
       "prev_close": 277.77,
-      "day_change_pct": 7.61,
+      "day_change_pct": 7.96,
       "week52_high": 655.5,
       "week52_low": 253.12
     },
@@ -484,12 +484,12 @@
       "market_cap_musd": 64205.709835064445,
       "country": "US",
       "currency": "USD",
-      "price": 336.62,
+      "price": 337.28,
       "open": 337.15,
       "day_high": 338.49,
       "day_low": 334.87,
       "prev_close": 336.36,
-      "day_change_pct": 0.08,
+      "day_change_pct": 0.27,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -503,12 +503,12 @@
       "market_cap_musd": 70824.52038453202,
       "country": "US",
       "currency": "USD",
-      "price": 87.4,
+      "price": 87.33,
       "open": 87.45,
       "day_high": 88.35,
       "day_low": 86.8,
       "prev_close": 86.97,
-      "day_change_pct": 0.49,
+      "day_change_pct": 0.41,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -522,12 +522,12 @@
       "market_cap_musd": 7978.687210721632,
       "country": "US",
       "currency": "USD",
-      "price": 21.8,
+      "price": 21.55,
       "open": 22.42,
       "day_high": 22.65,
-      "day_low": 21.75,
+      "day_low": 21.54,
       "prev_close": 22.05,
-      "day_change_pct": -1.13,
+      "day_change_pct": -2.27,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -541,12 +541,12 @@
       "market_cap_musd": 30966.84410235335,
       "country": "US",
       "currency": "USD",
-      "price": 95.6,
+      "price": 95.83,
       "open": 92.41,
-      "day_high": 95.62,
+      "day_high": 95.88,
       "day_low": 91.36,
       "prev_close": 92.43,
-      "day_change_pct": 3.43,
+      "day_change_pct": 3.68,
       "week52_high": 119.1,
       "week52_low": 56.78
     },
@@ -560,12 +560,12 @@
       "market_cap_musd": 2795165.4805471427,
       "country": "US",
       "currency": "USD",
-      "price": 257.87,
+      "price": 258.46,
       "open": 256.45,
       "day_high": 259.43,
       "day_low": 256.0,
       "prev_close": 254.98,
-      "day_change_pct": 1.13,
+      "day_change_pct": 1.36,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-03T15:13:25.549372+00:00"
+  "updated_at": "2026-09-03T15:28:19.727007+00:00"
 }
