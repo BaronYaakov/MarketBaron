@@ -124,6 +124,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "Albertsons Companies: High Debt, Recent Insider Buying",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a31e9a6329f195365f27a15944ea8ca7bd4b45400ddae844cdc66d9c49745a23",
+      "datetime": 1788416221,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Better High-Growth Stock for 2026: Amazon.com vs. Uber Technologies",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=92364eaf497a6578fcf1c53fa0f011973cf2ffff067a875b0e11b56950b47086",
@@ -144,14 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c4683f6570ac48204ed6c9754b211120982eaf60a14e099f225c45d7eda78da1",
       "datetime": 1788399119,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Stanley Druckenmiller Increased Amazon More Than 10-Fold and Opened an AMD Position. What\u2019s the Common Bet?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=022d8bbddf28b09847daa166e469eb3b924ea7b8e01f0ed67fdf1e22fad91569",
-      "datetime": 1788386314,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -568,5 +568,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-03T10:28:15.617369+00:00"
+  "updated_at": "2026-09-03T10:43:15.453963+00:00"
 }
