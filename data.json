@@ -131,12 +131,28 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "P",
+      "headline": "NetApp Stock Slides Despite Earnings Beat",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e9e40aa58adbdef2f07f7f001e9d563353c7f9a9b459ace15695a9083a224de1",
+      "datetime": 1788381936,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Snowflake Earnings Show a Company Riding the AI Wave",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=842d404af65a3ee447dbed777717ce83edeb68c5de1ea655eb9c85b97a4e6125",
       "datetime": 1788381360,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "ePlus Achieves Exclusive Ambassador Partner Status with Everpure",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4eb0591b4a4ddbdacbe8445f0d2e7bffc7bdfe5ae291cf42cfd2365c8e27b308",
+      "datetime": 1788381000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "AMZN",
@@ -265,22 +281,6 @@
       "url": "https://finnhub.io/api/news?id=940a43f5ddc818d2bd608a743ecdb586ed6fb5e91ade75734e7d1edb77b505aa",
       "datetime": 1788023101,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Everpure (P) Price Target Increased by 37.84% to 130.87",
-      "source": "Fintel",
-      "url": "https://finnhub.io/api/news?id=86a84142535314ca991a13bc5a8073f81342406af47fecbecb6700762d2750fb",
-      "datetime": 1787987768,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Everpure (P) Stock May Trade At A 28% Discount Despite A Hyperscaler Design Win",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bcab18f7618d20cff3af4cb777c4d06c000a65c4a06683b998d96a66dfd04eb6",
-      "datetime": 1787980998,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "COR",
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-03T02:13:16.376634+00:00"
+  "updated_at": "2026-09-03T02:28:16.363411+00:00"
 }
