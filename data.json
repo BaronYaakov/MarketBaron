@@ -7,7 +7,7 @@
       "day_change_pct": 0.78,
       "all_time_gain_pct": 10.01,
       "day_change_source": "ibkr",
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "B",
@@ -16,7 +16,7 @@
       "day_change_pct": 1.6,
       "all_time_gain_pct": 0.49,
       "day_change_source": "ibkr",
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "CLS",
@@ -25,7 +25,7 @@
       "day_change_pct": 1.33,
       "all_time_gain_pct": -5.33,
       "day_change_source": "ibkr",
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "COR",
@@ -34,7 +34,7 @@
       "day_change_pct": 0.0,
       "all_time_gain_pct": 15.77,
       "day_change_source": "ibkr",
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "ORLY",
@@ -43,7 +43,7 @@
       "day_change_pct": -0.29,
       "all_time_gain_pct": 9.56,
       "day_change_source": "ibkr",
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "PRMB",
@@ -52,7 +52,7 @@
       "day_change_pct": 0.0,
       "all_time_gain_pct": 24.23,
       "day_change_source": "ibkr",
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     }
   ],
   "cash_percent": 1.46,
@@ -64,7 +64,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e6f09c6ffa905ccf9ed76d736c0d2d850c557c9ec20d84c758d1c782ed99423e",
       "datetime": 1788471002,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -72,7 +72,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3413ec929cf8b8d3bbeafd6ee9b96378ac8cfe451773cf8204bf8f5c4b564066",
       "datetime": 1788469980,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -80,7 +80,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f6dc84d795cc9d3d49165b3b4119a584c5faa3b18b1d3fa3e69ccc261f25fe22",
       "datetime": 1788469745,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -88,7 +88,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b0804b234e511e69808b38f92c6ee8ffc81d307ea5abe364d75d67f8e8966f56",
       "datetime": 1788468720,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -96,7 +96,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=04ac137f4bb1d96e07880bedad566a07a3a329670b4b83e5aaea4a1e074ca260",
       "datetime": 1788466706,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -104,7 +104,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=650f125a788a6e90f021911241cbd823e9f82c95cc52824b0f65f4ca2f1bc1f5",
       "datetime": 1788464700,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -112,7 +112,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5f1f17c8bb1127ed14e8a4c58fb95eb489842ee5d3a961bed6199d1b30165b07",
       "datetime": 1788463892,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "COR",
@@ -120,7 +120,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2e84096df15ac30b56cad9794a7c930f96ca0a6d437a48ac470b179160eb83fb",
       "datetime": 1788463320,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "AVGO",
@@ -128,7 +128,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1929c83f981822090b16b53afee4c9c2572fd3eead74ff90e857092239edb7eb",
       "datetime": 1788462906,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -136,7 +136,7 @@
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=2408906dfdb0441202ed8cf0c09a63939053aadd284e7bbc95107dba373c1fe7",
       "datetime": 1788462605,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -144,7 +144,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=eb6b1d2399f922463e8ff2fd23de9f04789f112c4aa915c6d0831a4510681ed7",
       "datetime": 1788462373,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -152,7 +152,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0dd29d7875103b3a39d52951c48618bee16a1342b27a377d187af1c76f13851c",
       "datetime": 1788458726,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
@@ -160,7 +160,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=362f44f9032a1ab95239166a39b7ae8d8d7705c79653a20fb694266e09463b1e",
       "datetime": 1788458357,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
@@ -168,7 +168,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3cfb03fc6a9cb31ecb4adc6227a75ee84b8fab9f6dfd94e3e03740977c166822",
       "datetime": 1788457980,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "ORLY",
@@ -176,7 +176,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=aec30453c0b0f27f3518447afe35bee57f5c16744134b4742bdc042b49feb235",
       "datetime": 1788456198,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "P",
@@ -184,7 +184,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3162805bf3cb4217a079ffca7581120931819ec71115fbd3ac1d25d52921b7b6",
       "datetime": 1788444024,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "COR",
@@ -192,7 +192,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=328a82c3d457909e88b69b893d71448dd5d5c025b99eb4233343050a4eaa9df2",
       "datetime": 1788441720,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "COR",
@@ -200,7 +200,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2ec6ee90c8383466911256286110d4360d06af68636e174e412366405b4fde12",
       "datetime": 1788441099,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "CLS",
@@ -208,7 +208,23 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=d7461d918c3110feab23f7c309dfb1fef02ba914e1b981793022c4a3ce941c8d",
       "datetime": 1788440398,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "B",
+      "headline": "Barrick: Buy For Copper Growth And Valuation Discount",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ba581a5399744445da3d7b10859e634c29b24ead8dcecb468f20e45e4b2a658c",
+      "datetime": 1788423135,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
+      "ticker": "B",
+      "headline": "The Gold Supercycle Is Just Starting, and Miners Haven't Caught Up",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=7894468d95567f6c79995a4012a5dbad60447e485fb3afc663dc7274a112c37d",
+      "datetime": 1788419143,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "P",
@@ -216,7 +232,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e9e40aa58adbdef2f07f7f001e9d563353c7f9a9b459ace15695a9083a224de1",
       "datetime": 1788381936,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "P",
@@ -224,7 +240,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4eb0591b4a4ddbdacbe8445f0d2e7bffc7bdfe5ae291cf42cfd2365c8e27b308",
       "datetime": 1788381000,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "P",
@@ -232,7 +248,7 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=e41933616cec0f7bf3f5e52954dc7c666452c78c3d75c8c28131b39594bf951c",
       "datetime": 1788366940,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "P",
@@ -240,7 +256,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2f500500de7fbcf08e62a2ce88b04df087a73481fc3fc75b0ff7c2356754b4d1",
       "datetime": 1788364560,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "ORLY",
@@ -248,7 +264,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a87a58539911b2f7b1a8340946bb4bfa506bdbeb5077dd575f6d64de6d3531e1",
       "datetime": 1788356183,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "COR",
@@ -256,7 +272,15 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d2b0a78c5b2ec6bef921c8a712d6ecb1fbbbb7aa81af14819d5df457b1463590",
       "datetime": 1788355800,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "B",
+      "headline": "'Barrick Is Said to Weigh Delaying North America Gold IPO to 2027' - Bloomberg",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a714cdd00cf26659cdee91bf2fe560cc5e0fac091895a73f951a99d6a1d93e50",
+      "datetime": 1788353878,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "CLS",
@@ -264,7 +288,7 @@
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=465bbe58115f6e9ea75ff660eeb1ac07da21b33307971c04c35c6cb11f9b2494",
       "datetime": 1788264714,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "ORLY",
@@ -272,7 +296,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fd5ee68a34606d8f56438cd6c7182483380497c6c1cf288e4c453182bf0a8f0a",
       "datetime": 1788214511,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "COR",
@@ -280,7 +304,23 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2c3bd9c7fccc48120afd93d76c875e6f3df03acc9479b68de2005f1d9bbaca11",
       "datetime": 1788182880,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "B",
+      "headline": "Here's How Much $1000 Invested In Barrick Mining 5 Years Ago Would Be Worth Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=0bcb08f51330bfdf5ee243b35b40c69190423aaef3747104c9fb053bca5beb6d",
+      "datetime": 1788179435,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
+      "ticker": "B",
+      "headline": "Barrick Mining (NYSE:B) Passes the Peter Lynch Growth-at-a-Reasonable-Price Test",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=f8a339406a0b9aaa55183a14e1dcdf77326f8fa0cf4beda96099209ecc66ebdd",
+      "datetime": 1788167489,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "COR",
@@ -288,7 +328,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7009d4f82a8712cebfa86427db9a724d72e0b2b5febcd81764d5d26f56545d3b",
       "datetime": 1788028861,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "PRMB",
@@ -296,7 +336,7 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=a70f356816315e6c1cffbf3ddb6582552dedd39464f32f29f67f627611d5c738",
       "datetime": 1787954658,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     },
     {
       "ticker": "ORLY",
@@ -304,7 +344,7 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=e1f79ea28fc60489c1d45a19c68253b919eeeb4116290baf5c357c9eb0efe1e4",
       "datetime": 1787934648,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "ORLY",
@@ -312,7 +352,15 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d37cfb6a552f827ced25117ce583f84268eca554c00e0614966ab3586069b2d1",
       "datetime": 1787934628,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "B",
+      "headline": "Hycroft Mining Holding shares are trading lower after the company reported worse-than-expected Q1 EPS results.",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=8a0a100dbbdc7f49cd9b44a2401c864bdfcfb5b1e0d6b57fa40165bcff957a14",
+      "datetime": 1787921728,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "CLS",
@@ -320,7 +368,7 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=46d08db6f5e6c2f164a700053d2ed4ab13c11dd28127d5084099c97a81390827",
       "datetime": 1787899491,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "ORLY",
@@ -328,7 +376,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2261dbac53e424a49f8982e9c1d854c9ee61159aa1e759fc10f8c06ed645b92e",
       "datetime": 1787845443,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "CLS",
@@ -336,7 +384,7 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=ba86d2286e64e5ca69df03a76da12a296bfa86fae2b7b22099cbb65352a9b31a",
       "datetime": 1787815212,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     }
   ],
   "recent_posts": [],
@@ -386,68 +434,156 @@
   ],
   "companies": {
     "AVGO": {
+      "name": "Broadcom Inc",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png",
+      "industry": "Semiconductors",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "website": "https://www.broadcom.com",
+      "ipo_date": "2009-08-06",
+      "market_cap_musd": 1645927.6024797447,
+      "country": "US",
+      "currency": "USD",
       "price": 357.16,
       "open": 351.74,
       "day_high": 359.4,
       "day_low": 342.33,
       "prev_close": 367.24,
-      "day_change_pct": -2.74
+      "day_change_pct": -2.74,
+      "week52_high": 495.0,
+      "week52_low": 289.96
     },
     "B": {
+      "name": "Barrick Mining Corp",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png",
+      "industry": "Metals & Mining",
+      "exchange": "TORONTO STOCK EXCHANGE",
+      "website": "https://www.barrick.com/",
+      "ipo_date": "1983-05-02",
+      "market_cap_musd": 100579.996653,
+      "country": "CA",
+      "currency": "USD",
       "price": 45.76,
       "open": 45.43,
       "day_high": 45.81,
       "day_low": 44.78,
       "prev_close": 44.13,
-      "day_change_pct": 3.69
+      "day_change_pct": 3.69,
+      "week52_high": 74.0,
+      "week52_low": 37.09
     },
     "CLS": {
+      "name": "Celestica Inc",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png",
+      "industry": "Electrical Equipment",
+      "exchange": "TORONTO STOCK EXCHANGE",
+      "website": "https://www.celestica.com/",
+      "ipo_date": "1998-07-01",
+      "market_cap_musd": 48458.195747,
+      "country": "CA",
+      "currency": "USD",
       "price": 309.84,
       "open": 282.64,
       "day_high": 314.09,
       "day_low": 280.7,
       "prev_close": 277.77,
-      "day_change_pct": 11.55
+      "day_change_pct": 11.55,
+      "week52_high": 655.5,
+      "week52_low": 275.62
     },
     "COR": {
+      "name": "Cencora Inc",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png",
+      "industry": "Health Care",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "website": "https://www.cencora.com/",
+      "ipo_date": "1996-05-28",
+      "market_cap_musd": 64205.709835064445,
+      "country": "US",
+      "currency": "USD",
       "price": 337.22,
       "open": 337.9,
       "day_high": 338.71,
       "day_low": 334.87,
       "prev_close": 336.36,
-      "day_change_pct": 0.26
+      "day_change_pct": 0.26,
+      "week52_high": 377.54,
+      "week52_low": 244.82
     },
     "ORLY": {
+      "name": "O'Reilly Automotive Inc",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png",
+      "industry": "Retail",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "website": "https://corporate.oreillyauto.com/",
+      "ipo_date": "1993-04-23",
+      "market_cap_musd": 70824.52038453202,
+      "country": "US",
+      "currency": "USD",
       "price": 87.38,
       "open": 87.75,
       "day_high": 88.34,
       "day_low": 86.8,
       "prev_close": 86.97,
-      "day_change_pct": 0.47
+      "day_change_pct": 0.47,
+      "week52_high": 108.72,
+      "week52_low": 82.59
     },
     "PRMB": {
+      "name": "Primo Brands Corp",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png",
+      "industry": "Beverages",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "website": "https://ir.primobrands.com/",
+      "ipo_date": "1992-06-16",
+      "market_cap_musd": 7978.687210721632,
+      "country": "US",
+      "currency": "USD",
       "price": 21.91,
       "open": 22.32,
       "day_high": 22.65,
       "day_low": 21.48,
       "prev_close": 22.05,
-      "day_change_pct": -0.63
+      "day_change_pct": -0.63,
+      "week52_high": 26.21,
+      "week52_low": 14.36
     },
     "P": {
+      "name": "Everpure Inc",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png",
+      "industry": "Technology",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "website": "https://www.purestorage.com/",
+      "ipo_date": "2015-10-07",
+      "market_cap_musd": 30966.84410235335,
+      "country": "US",
+      "currency": "USD",
       "price": 98.15,
       "open": 91.78,
       "day_high": 98.26,
       "day_low": 91.36,
       "prev_close": 92.43,
-      "day_change_pct": 6.19
+      "day_change_pct": 6.19,
+      "week52_high": 119.1,
+      "week52_low": 56.78
     },
     "AMZN": {
+      "name": "Amazon.com Inc",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png",
+      "industry": "Retail",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "website": "https://www.amazon.com/",
+      "ipo_date": "1997-05-15",
+      "market_cap_musd": 2795165.4805471427,
+      "country": "US",
+      "currency": "USD",
       "price": 258.9,
       "open": 256.2,
       "day_high": 259.5,
       "day_low": 256.0,
       "prev_close": 254.98,
-      "day_change_pct": 1.54
+      "day_change_pct": 1.54,
+      "week52_high": 287.2,
+      "week52_low": 196.0
     }
   },
   "biggest_win": {
@@ -456,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-03T21:31:50.444359+00:00"
+  "updated_at": "2026-09-03T21:43:20.102352+00:00"
 }
