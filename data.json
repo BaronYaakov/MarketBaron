@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Broadcom's AI Revenue Just Soared 221%, and Profits Tripled. So, Why Is the Stock Flat?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c91c00c43c0d2c8b6bba32987bdc5650c0f70aa6eb7b79f65eec6139e4013b5f",
+      "datetime": 1788419881,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Dow, S&P 500, Nasdaq Futures Rise As Investors Look Past Iran Tensions, Focus On Earnings: AVGO, SNOW, DELL, HPE Stocks In Focus",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f317c1f29b2ff92124d4ecf66187ba975375ea6a56b9c7910e58d90a623a078a",
@@ -120,14 +128,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=df7d030f1d789f995d14f5dd72d38a42b65c651926dddea3ab23a17cb88e1643",
       "datetime": 1788394370,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Billionaire has bold take on 'hot money' rotation",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4d403e63ef7da01e67f381120db4577419616b9b6ae782ec305230e083cd2f12",
-      "datetime": 1788393330,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -568,5 +568,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-03T07:58:14.020109+00:00"
+  "updated_at": "2026-09-03T08:13:14.186600+00:00"
 }
