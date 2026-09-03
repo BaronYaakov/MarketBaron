@@ -68,10 +68,42 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "Walmart Jumps Nearly 2.8% as Justice Department Widens Beef-Pricing Review",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a0271895d125cf03a744e6d2891541b2717b9dcc817bf83b32a9e9d789b46de6",
+      "datetime": 1788470893,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom Shares Fall 5.6% Even as Revenue Surges 86%",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4aca8b06af519c34bb68ec61e22bd7d2d62d74dfd632ec9d30c0c438ddcb858f",
+      "datetime": 1788470420,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Should You Buy Marvell Stock Because Its Operating Margin Keeps Widening?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fed7f650e1edb9385988469941a361630ab1832a2d80d3233bf03cedd534bc52",
+      "datetime": 1788470392,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon vs. Microsoft: 1 Key Metric Identifies the Superior Artificial Intelligence (AI) Cloud Stock",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3413ec929cf8b8d3bbeafd6ee9b96378ac8cfe451773cf8204bf8f5c4b564066",
       "datetime": 1788469980,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "SpaceX Reclaims $2 Trillion Market Cap As Tech Rally, Cybercab Ties Boost Investor Confidence",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6ceae1059cedd1129072a2328eee5a52d54e2eb597785bb86f401bdb4943b676",
+      "datetime": 1788469923,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -83,6 +115,22 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Do You Still Own The NVIDIA You Bought?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=338f755bccfb89a2a652106a4a06220884ab0f0927f842bae23e91bd7970b893",
+      "datetime": 1788469608,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Why Broadcom (AVGO) Stock Is Nosediving",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=08fef5adcf19d5a32ac094f9facf3f934999fd904abf43206f2a0cedad921dcf",
+      "datetime": 1788469398,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Top Analyst Reports for Amazon, AbbVie & Alibaba",
       "source": "Yahoo",
@@ -91,20 +139,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Michael Dell's Wealth Surges Past $100B in 2026 as Dell Stock Hits Record Highs",
+      "ticker": "AMZN",
+      "headline": "The Gap Between HD Stock And Its Own Numbers",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=04ac137f4bb1d96e07880bedad566a07a3a329670b4b83e5aaea4a1e074ca260",
-      "datetime": 1788466706,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Sector Update: Tech Stocks Rise Late Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=650f125a788a6e90f021911241cbd823e9f82c95cc52824b0f65f4ca2f1bc1f5",
-      "datetime": 1788464700,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+      "url": "https://finnhub.io/api/news?id=cf6e42094404bb3d94447866b94d84c7d7823735156afd2a70f4551c48ce5c35",
+      "datetime": 1788466944,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -123,51 +163,11 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Broadcom Delivered Bullish AI Commentary on Fiscal 2027, 2028 Revenue Outlook, Demand Visibility, UBS Says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1929c83f981822090b16b53afee4c9c2572fd3eead74ff90e857092239edb7eb",
-      "datetime": 1788462906,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "AMZN",
       "headline": "Discover which dow jones stocks are making waves on Thursday.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=2408906dfdb0441202ed8cf0c09a63939053aadd284e7bbc95107dba373c1fe7",
       "datetime": 1788462605,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Kyndryl Holdings (KD) Expands Broadcom Alliance, Is The Stock Still Undervalued?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eb6b1d2399f922463e8ff2fd23de9f04789f112c4aa915c6d0831a4510681ed7",
-      "datetime": 1788462373,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Wall Street Nears Record Highs With Help From Mag 7",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0dd29d7875103b3a39d52951c48618bee16a1342b27a377d187af1c76f13851c",
-      "datetime": 1788458726,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Vietnamese Rival To Uber, Lyft Plans To Enter U.S. Market This Year",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=362f44f9032a1ab95239166a39b7ae8d8d7705c79653a20fb694266e09463b1e",
-      "datetime": 1788458357,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Should You Bet on GLW Stock Amid Rising Earnings Estimate Revisions?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3cfb03fc6a9cb31ecb4adc6227a75ee84b8fab9f6dfd94e3e03740977c166822",
-      "datetime": 1788457980,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-03T21:58:23.903181+00:00"
+  "updated_at": "2026-09-03T22:13:35.266811+00:00"
 }
