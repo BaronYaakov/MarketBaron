@@ -108,18 +108,18 @@
     },
     {
       "ticker": "AVGO",
-      "headline": "Why Broadcom CEO Hock Tan Called Anthropic and OpenAI 'Two Geniuses in the Middle of Mongolia'",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4eadf99835e7947ea2755b00ccab9b2d58643e9356623f3734f85904b84e063b",
-      "datetime": 1788420152,
+      "headline": "Broadcom's $230 Billion Roadmap Rewrites The Valuation",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=65e3dcddebbdcbea77309156d10379d43be2a6e1dd46fe8c4213aa8a5161b8ab",
+      "datetime": 1788420708,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
-      "headline": "Broadcom's AI Revenue Just Soared 221%, and Profits Tripled. So, Why Is the Stock Flat?",
+      "headline": "Why Broadcom CEO Hock Tan Called Anthropic and OpenAI 'Two Geniuses in the Middle of Mongolia'",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c91c00c43c0d2c8b6bba32987bdc5650c0f70aa6eb7b79f65eec6139e4013b5f",
-      "datetime": 1788419881,
+      "url": "https://finnhub.io/api/news?id=4eadf99835e7947ea2755b00ccab9b2d58643e9356623f3734f85904b84e063b",
+      "datetime": 1788420152,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -568,5 +568,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-03T11:43:15.714136+00:00"
+  "updated_at": "2026-09-03T11:58:15.594338+00:00"
 }
