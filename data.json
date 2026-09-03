@@ -7,7 +7,7 @@
       "day_change_pct": 0.78,
       "all_time_gain_pct": 10.01,
       "day_change_source": "ibkr",
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "B",
@@ -25,7 +25,7 @@
       "day_change_pct": 1.33,
       "all_time_gain_pct": -5.33,
       "day_change_source": "ibkr",
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "COR",
@@ -52,100 +52,12 @@
       "day_change_pct": 0.0,
       "all_time_gain_pct": 24.23,
       "day_change_source": "ibkr",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+      "logo_url": null
     }
   ],
   "cash_percent": 1.46,
   "portfolio_day_change_pct": 0.48,
   "news": [
-    {
-      "ticker": "AVGO",
-      "headline": "Stock Market Today: Nasdaq Leads Charge As Jobs Data Looms; NetApp Tests Support (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e6f09c6ffa905ccf9ed76d736c0d2d850c557c9ec20d84c758d1c782ed99423e",
-      "datetime": 1788471002,
-      "logo_url": null
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Walmart Jumps Nearly 2.8% as Justice Department Widens Beef-Pricing Review",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a0271895d125cf03a744e6d2891541b2717b9dcc817bf83b32a9e9d789b46de6",
-      "datetime": 1788470893,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Shares Fall 5.6% Even as Revenue Surges 86%",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4aca8b06af519c34bb68ec61e22bd7d2d62d74dfd632ec9d30c0c438ddcb858f",
-      "datetime": 1788470420,
-      "logo_url": null
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Should You Buy Marvell Stock Because Its Operating Margin Keeps Widening?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fed7f650e1edb9385988469941a361630ab1832a2d80d3233bf03cedd534bc52",
-      "datetime": 1788470392,
-      "logo_url": null
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon vs. Microsoft: 1 Key Metric Identifies the Superior Artificial Intelligence (AI) Cloud Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3413ec929cf8b8d3bbeafd6ee9b96378ac8cfe451773cf8204bf8f5c4b564066",
-      "datetime": 1788469980,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "SpaceX Reclaims $2 Trillion Market Cap As Tech Rally, Cybercab Ties Boost Investor Confidence",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6ceae1059cedd1129072a2328eee5a52d54e2eb597785bb86f401bdb4943b676",
-      "datetime": 1788469923,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Cathie Wood Sold About $72.8 Million of AMD and Bought About $53 Million of Nvidia. What Changed?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f6dc84d795cc9d3d49165b3b4119a584c5faa3b18b1d3fa3e69ccc261f25fe22",
-      "datetime": 1788469745,
-      "logo_url": null
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Do You Still Own The NVIDIA You Bought?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=338f755bccfb89a2a652106a4a06220884ab0f0927f842bae23e91bd7970b893",
-      "datetime": 1788469608,
-      "logo_url": null
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Why Broadcom (AVGO) Stock Is Nosediving",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=08fef5adcf19d5a32ac094f9facf3f934999fd904abf43206f2a0cedad921dcf",
-      "datetime": 1788469398,
-      "logo_url": null
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Top Analyst Reports for Amazon, AbbVie & Alibaba",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b0804b234e511e69808b38f92c6ee8ffc81d307ea5abe364d75d67f8e8966f56",
-      "datetime": 1788468720,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The Gap Between HD Stock And Its Own Numbers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cf6e42094404bb3d94447866b94d84c7d7823735156afd2a70f4551c48ce5c35",
-      "datetime": 1788466944,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
     {
       "ticker": "P",
       "headline": "NetApp Stock Climbs After Earnings Beat, Shaking Off Initial Slide",
@@ -161,14 +73,6 @@
       "url": "https://finnhub.io/api/news?id=2e84096df15ac30b56cad9794a7c930f96ca0a6d437a48ac470b179160eb83fb",
       "datetime": 1788463320,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Discover which dow jones stocks are making waves on Thursday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=2408906dfdb0441202ed8cf0c09a63939053aadd284e7bbc95107dba373c1fe7",
-      "datetime": 1788462605,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "ORLY",
@@ -201,30 +105,6 @@
       "url": "https://finnhub.io/api/news?id=2ec6ee90c8383466911256286110d4360d06af68636e174e412366405b4fde12",
       "datetime": 1788441099,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Broadcom Q3: Hardware Could Be The Missing Piece In An AI Portfolio",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d7461d918c3110feab23f7c309dfb1fef02ba914e1b981793022c4a3ce941c8d",
-      "datetime": 1788440398,
-      "logo_url": null
-    },
-    {
-      "ticker": "B",
-      "headline": "Barrick: Buy For Copper Growth And Valuation Discount",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ba581a5399744445da3d7b10859e634c29b24ead8dcecb468f20e45e4b2a658c",
-      "datetime": 1788423135,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "The Gold Supercycle Is Just Starting, and Miners Haven't Caught Up",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=7894468d95567f6c79995a4012a5dbad60447e485fb3afc663dc7274a112c37d",
-      "datetime": 1788419143,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "P",
@@ -275,22 +155,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
-      "ticker": "B",
-      "headline": "'Barrick Is Said to Weigh Delaying North America Gold IPO to 2027' - Bloomberg",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=a714cdd00cf26659cdee91bf2fe560cc5e0fac091895a73f951a99d6a1d93e50",
-      "datetime": 1788353878,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica (NYSE:CLS): An Affordable Growth Opportunity",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=465bbe58115f6e9ea75ff660eeb1ac07da21b33307971c04c35c6cb11f9b2494",
-      "datetime": 1788264714,
-      "logo_url": null
-    },
-    {
       "ticker": "ORLY",
       "headline": "The Half Of Phinia's Outlook That Actually Buys Back Stock",
       "source": "Yahoo",
@@ -307,36 +171,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
-      "ticker": "B",
-      "headline": "Here's How Much $1000 Invested In Barrick Mining 5 Years Ago Would Be Worth Today",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=0bcb08f51330bfdf5ee243b35b40c69190423aaef3747104c9fb053bca5beb6d",
-      "datetime": 1788179435,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Barrick Mining (NYSE:B) Passes the Peter Lynch Growth-at-a-Reasonable-Price Test",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=f8a339406a0b9aaa55183a14e1dcdf77326f8fa0cf4beda96099209ecc66ebdd",
-      "datetime": 1788167489,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
       "ticker": "COR",
       "headline": "AbbVie vs. Johnson & Johnson: Which Healthcare Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7009d4f82a8712cebfa86427db9a724d72e0b2b5febcd81764d5d26f56545d3b",
       "datetime": 1788028861,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Dividend Champion, Contender, And Challenger Highlights: Week August 30",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=a70f356816315e6c1cffbf3ddb6582552dedd39464f32f29f67f627611d5c738",
-      "datetime": 1787954658,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     },
     {
       "ticker": "ORLY",
@@ -355,36 +195,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "B",
-      "headline": "Hycroft Mining Holding shares are trading lower after the company reported worse-than-expected Q1 EPS results.",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=8a0a100dbbdc7f49cd9b44a2401c864bdfcfb5b1e0d6b57fa40165bcff957a14",
-      "datetime": 1787921728,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica: When Growth Won't Fund Itself (Rating Upgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=46d08db6f5e6c2f164a700053d2ed4ab13c11dd28127d5084099c97a81390827",
-      "datetime": 1787899491,
-      "logo_url": null
-    },
-    {
       "ticker": "ORLY",
       "headline": "Is Wall Street Bullish or Bearish on O'Reilly Automotive Stock?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2261dbac53e424a49f8982e9c1d854c9ee61159aa1e759fc10f8c06ed645b92e",
       "datetime": 1787845443,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica Could Benefit Massively From Jalape\u00f1o Chip Ramps (Rating Upgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ba86d2286e64e5ca69df03a76da12a296bfa86fae2b7b22099cbb65352a9b31a",
-      "datetime": 1787815212,
-      "logo_url": null
     }
   ],
   "recent_posts": [],
@@ -433,7 +249,25 @@
     }
   ],
   "companies": {
-    "AVGO": {},
+    "AVGO": {
+      "name": "Broadcom Inc",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png",
+      "industry": "Semiconductors",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "website": "https://www.broadcom.com",
+      "ipo_date": "2009-08-06",
+      "market_cap_musd": 1645927.6024797447,
+      "country": "US",
+      "currency": "USD",
+      "price": 357.16,
+      "open": 351.74,
+      "day_high": 359.4,
+      "day_low": 342.33,
+      "prev_close": 367.24,
+      "day_change_pct": -2.74,
+      "week52_high": 495.0,
+      "week52_low": 289.96
+    },
     "B": {
       "name": "Barrick Mining Corp",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png",
@@ -443,9 +277,26 @@
       "ipo_date": "1983-05-02",
       "market_cap_musd": 100579.996653,
       "country": "CA",
-      "currency": "USD"
+      "currency": "USD",
+      "price": 45.76,
+      "open": 45.43,
+      "day_high": 45.81,
+      "day_low": 44.78,
+      "prev_close": 44.13,
+      "day_change_pct": 3.69,
+      "week52_high": 74.0,
+      "week52_low": 37.09
     },
     "CLS": {
+      "name": "Celestica Inc",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png",
+      "industry": "Electrical Equipment",
+      "exchange": "TORONTO STOCK EXCHANGE",
+      "website": "https://www.celestica.com/",
+      "ipo_date": "1998-07-01",
+      "market_cap_musd": 48458.195747,
+      "country": "CA",
+      "currency": "USD",
       "price": 309.84,
       "open": 282.64,
       "day_high": 314.09,
@@ -487,26 +338,9 @@
       "day_high": 88.34,
       "day_low": 86.8,
       "prev_close": 86.97,
-      "day_change_pct": 0.47,
-      "week52_high": 108.72,
-      "week52_low": 82.59
+      "day_change_pct": 0.47
     },
     "PRMB": {
-      "name": "Primo Brands Corp",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png",
-      "industry": "Beverages",
-      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
-      "website": "https://ir.primobrands.com/",
-      "ipo_date": "1992-06-16",
-      "market_cap_musd": 7978.687210721632,
-      "country": "US",
-      "currency": "USD",
-      "price": 21.91,
-      "open": 22.32,
-      "day_high": 22.65,
-      "day_low": 21.48,
-      "prev_close": 22.05,
-      "day_change_pct": -0.63,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -519,15 +353,7 @@
       "ipo_date": "2015-10-07",
       "market_cap_musd": 30966.84410235335,
       "country": "US",
-      "currency": "USD",
-      "price": 98.15,
-      "open": 91.78,
-      "day_high": 98.26,
-      "day_low": 91.36,
-      "prev_close": 92.43,
-      "day_change_pct": 6.19,
-      "week52_high": 119.1,
-      "week52_low": 56.78
+      "currency": "USD"
     },
     "AMZN": {
       "name": "Amazon.com Inc",
@@ -555,5 +381,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-03T22:59:12.950272+00:00"
+  "updated_at": "2026-09-03T23:13:58.936131+00:00"
 }
