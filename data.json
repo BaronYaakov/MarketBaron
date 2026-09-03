@@ -60,6 +60,46 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Billionaire has bold take on 'hot money' rotation",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4d403e63ef7da01e67f381120db4577419616b9b6ae782ec305230e083cd2f12",
+      "datetime": 1788393330,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom Earnings: AI Chip Sales Tripled. Here\u2019s the $34.8 Billion Number Investors Need to Watch.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ccdfda0af0589b6645954b9e1b6e193f0ec5af995d543942ac296f6b23c9cf10",
+      "datetime": 1788391261,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom Q3 Earnings Call Highlights",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a944e41c4c6b9e712ba8094adff89b87a22f977ac075dd1e7623134e0d706680",
+      "datetime": 1788390198,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom Inc. Q3 2026 Earnings: Live Updates of $AVGO Earnings Call, Forecast",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=306c41f8c142124ff017612d637d8d31f4aeff372afc95346d99b0554dd016b1",
+      "datetime": 1788387716,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Stanley Druckenmiller Increased Amazon More Than 10-Fold and Opened an AMD Position. What\u2019s the Common Bet?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=022d8bbddf28b09847daa166e469eb3b924ea7b8e01f0ed67fdf1e22fad91569",
+      "datetime": 1788386314,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Broadcom's Q3 earnings beat just isn't 'enough' to keep investors happy",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2b841c03994bdbeaf8a4f9d29cd333752a1fd60a9a87c9844aa5170f19069119",
@@ -72,38 +112,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=843481624f0f311bd97eb4eb6b949072f718ead3bb8acf7033e149572dc51165",
       "datetime": 1788385577,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Beats Third-Quarter Estimates on Strong AI Chip Sales",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=26bb6fc1ff3d69d8cdbffafc30d4b995331b2f895e8d70dfa4ed3e3544ab480b",
-      "datetime": 1788385544,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom's price sinks over 6% after releasing Q3 earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eee6076aa4e6b3370ebe635b3d9f61100439093898b5e4f22fbb65a575fd03b8",
-      "datetime": 1788385278,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "No Surprises In Broadcom\u2019s (NASDAQ:AVGO) Q2 Sales Numbers, Inventory Levels Improve",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9a9931826820dde0c14867e84403ca1983f593c5b7f480c53cbec7e280c5ee01",
-      "datetime": 1788385131,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Billionaire Stanley Druckenmiller Dumps Broadcom Before Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=db040ebd5071ed780dadd0b14109d243b3d271833d0a7ea48985683868dd033d",
-      "datetime": 1788384504,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -124,6 +132,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "Snowflake Earnings Show a Company Riding the AI Wave",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=842d404af65a3ee447dbed777717ce83edeb68c5de1ea655eb9c85b97a4e6125",
+      "datetime": 1788381360,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "The $277 Billion That GOOGL Stock Quietly Paid Its Owners",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=06f38cc0c2bacadc255373916dad613fbc155c0a71a3767988a70a290aa8cc9a",
@@ -136,22 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=31b7194b4e0be2d005f7c5d35691847394d2b0af3302eed8b94eb35f4f50b3c2",
       "datetime": 1788380663,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Is Microsoft Stock Winning The Move To The Cloud Or Just The AI Boom?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a3ca8bf7264f74981d3aae7943e348a6a2d277f052b003cf2d84bd5d77308009",
-      "datetime": 1788380043,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "How Could Amazon.com (AMZN) Gain From New Creator Shopping Tools?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9781dcda2f03d1c1bab3236b3269ca68d9da2e34ed86f207132ec16fe1c25e3d",
-      "datetime": 1788379572,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-03T01:58:18.951250+00:00"
+  "updated_at": "2026-09-03T02:13:16.376634+00:00"
 }
