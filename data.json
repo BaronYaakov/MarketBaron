@@ -60,42 +60,74 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Dow, S&P 500, Nasdaq Futures Rise As Investors Look Past Iran Tensions, Focus On Earnings: AVGO, SNOW, DELL, HPE Stocks In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f317c1f29b2ff92124d4ecf66187ba975375ea6a56b9c7910e58d90a623a078a",
+      "datetime": 1788407570,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Billionaire Dan Loeb Exited Nvidia and Broadcom. Is He Calling the Top in AI Chips?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2c8c88244c26033b707b730a9c0166ebdf6e1fd2884f6dc35bfb58d7b0991e98",
+      "datetime": 1788405833,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom Sees $230B In AI Revenue By 2028, Driven By 'Geniuses' OpenAI, Anthropic: Analyst Says Some Risks Remain Unresolved",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=57a32e69965e4c5f2cf33ba46429128fdd67fcb7740bc3c25666c01c707da8d6",
+      "datetime": 1788402864,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Better High-Growth Stock for 2026: Amazon.com vs. Uber Technologies",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=92364eaf497a6578fcf1c53fa0f011973cf2ffff067a875b0e11b56950b47086",
+      "datetime": 1788400137,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=37725a2afd6627e93ea8ff813862aa30b4e2fedcce9463b1029a50dda64ca1af",
+      "datetime": 1788400113,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "How many employees does UnitedHealth have in 2026? Locations & layoffs explained",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=741dc570cf6deaf880ac586ad72e733738fd0f4e0fe9ba458f67230409e4ceca",
+      "datetime": 1788399220,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Zoox vs. Waymo: Are Amazon and Alphabet Ready to Win the Robotaxi Race?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c4683f6570ac48204ed6c9754b211120982eaf60a14e099f225c45d7eda78da1",
+      "datetime": 1788399119,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "US Stock Futures Rangebound After S&P 500, Dow Snap Three-Day Losing Streak As Oil Steadies \u2014 MSFT, DELL, UBER, ASTS, AVGO In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=df7d030f1d789f995d14f5dd72d38a42b65c651926dddea3ab23a17cb88e1643",
+      "datetime": 1788394370,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Billionaire has bold take on 'hot money' rotation",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4d403e63ef7da01e67f381120db4577419616b9b6ae782ec305230e083cd2f12",
       "datetime": 1788393330,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Earnings: AI Chip Sales Tripled. Here\u2019s the $34.8 Billion Number Investors Need to Watch.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ccdfda0af0589b6645954b9e1b6e193f0ec5af995d543942ac296f6b23c9cf10",
-      "datetime": 1788391261,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Q3 Earnings Call Highlights",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a944e41c4c6b9e712ba8094adff89b87a22f977ac075dd1e7623134e0d706680",
-      "datetime": 1788390198,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Inc. (AVGO) Q3 2026 Earnings Call Transcript",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b9a3dc4b47874afb434251b1abece28ec08cce656dac86e9838afa99e0ad2099",
-      "datetime": 1788389081,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Inc. Q3 2026 Earnings: Live Updates of $AVGO Earnings Call, Forecast",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=306c41f8c142124ff017612d637d8d31f4aeff372afc95346d99b0554dd016b1",
-      "datetime": 1788387716,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -105,14 +137,6 @@
       "url": "https://finnhub.io/api/news?id=022d8bbddf28b09847daa166e469eb3b924ea7b8e01f0ed67fdf1e22fad91569",
       "datetime": 1788386314,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom's Q3 earnings beat just isn't 'enough' to keep investors happy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2b841c03994bdbeaf8a4f9d29cd333752a1fd60a9a87c9844aa5170f19069119",
-      "datetime": 1788385749,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -139,36 +163,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Snowflake Earnings Show a Company Riding the AI Wave",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=842d404af65a3ee447dbed777717ce83edeb68c5de1ea655eb9c85b97a4e6125",
-      "datetime": 1788381360,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "P",
       "headline": "ePlus Achieves Exclusive Ambassador Partner Status with Everpure",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4eb0591b4a4ddbdacbe8445f0d2e7bffc7bdfe5ae291cf42cfd2365c8e27b308",
       "datetime": 1788381000,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The $277 Billion That GOOGL Stock Quietly Paid Its Owners",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=06f38cc0c2bacadc255373916dad613fbc155c0a71a3767988a70a290aa8cc9a",
-      "datetime": 1788380786,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "3 Surging  Stocks Worth Investigating",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=31b7194b4e0be2d005f7c5d35691847394d2b0af3302eed8b94eb35f4f50b3c2",
-      "datetime": 1788380663,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -361,14 +361,6 @@
       "url": "https://finnhub.io/api/news?id=d7c6c720e2e4ab9482b5c3412d72bda628ca46541279b08b55592b81ec556830",
       "datetime": 1787798339,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Camino Closes $5.8 Million Brokered Private Placement of Units and Concurrent $9.4 Million Non-Brokered Private Placement of Convertible Debentures",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c722c8496a561211d26704a9a80e75b0fd79a99d2432c59a004343711e4680c3",
-      "datetime": 1787762400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     }
   ],
   "recent_posts": [],
@@ -576,5 +568,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-03T04:58:16.037803+00:00"
+  "updated_at": "2026-09-03T05:13:14.317227+00:00"
 }
