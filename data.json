@@ -59,11 +59,59 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Market Chatter: Global Corporate Giants Draw Regulatory Attention to Blacklisted Groups in Supply Chains",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1367861c8581009df096115fff6512db7c531e25a30f18071cd3089d1e09b0e9",
+      "datetime": 1788426568,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom Redraws the AI Silicon Runway While Dell's 16% Sprint Pulls Wall Street Off the Mat",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=22f171f60f6796e8d54494cf6fe5bf9e37468691d01468c04bc2efa2e05a16ce",
       "datetime": 1788426020,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Snowflake Stock Jumps 24% After Earnings. It\u2019s Turning Into an AI Winner.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=80386f3d6b8c469759762eb546d8c9128d22bb4600ffdb9dcc948b61c1dc8ba1",
+      "datetime": 1788425820,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Why Are Nasdaq, S&P 500 Futures Rising Premarket? TSLA, AVGO, SNOW, HPE, PLTR, LULU Stocks In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e5f39bc962bac2dde06a97ade39c5515e7ee6591fd5ec1c1bbd0d710d55109ef",
+      "datetime": 1788424715,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Oil pulls back, Broadcom disappoints - what\u2019s moving markets",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b425d3d5d967e90539e288af4ad4adc73f52a4b0135fbe4028dd25b772d645ae",
+      "datetime": 1788423630,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Stock market today: Dow, S&P 500, Nasdaq futures rise as investors shrug off Middle East tensions",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8ca36b9258561ce743034a7f95d5bf6859babf0e0c207fa9a8a6046879d65b3b",
+      "datetime": 1788423325,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Why Broadcom CEO Hock Tan Called Anthropic and OpenAI 'Two Geniuses in the Middle of Mongolia'",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4eadf99835e7947ea2755b00ccab9b2d58643e9356623f3734f85904b84e063b",
+      "datetime": 1788420152,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -75,44 +123,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Dow, S&P 500, Nasdaq Futures Rise As Investors Look Past Iran Tensions, Focus On Earnings: AVGO, SNOW, DELL, HPE Stocks In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f317c1f29b2ff92124d4ecf66187ba975375ea6a56b9c7910e58d90a623a078a",
-      "datetime": 1788407570,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Billionaire Dan Loeb Exited Nvidia and Broadcom. Is He Calling the Top in AI Chips?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2c8c88244c26033b707b730a9c0166ebdf6e1fd2884f6dc35bfb58d7b0991e98",
-      "datetime": 1788405833,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Sees $230B In AI Revenue By 2028, Driven By 'Geniuses' OpenAI, Anthropic: Analyst Says Some Risks Remain Unresolved",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=57a32e69965e4c5f2cf33ba46429128fdd67fcb7740bc3c25666c01c707da8d6",
-      "datetime": 1788402864,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "AMZN",
       "headline": "Better High-Growth Stock for 2026: Amazon.com vs. Uber Technologies",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=92364eaf497a6578fcf1c53fa0f011973cf2ffff067a875b0e11b56950b47086",
       "datetime": 1788400137,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=37725a2afd6627e93ea8ff813862aa30b4e2fedcce9463b1029a50dda64ca1af",
-      "datetime": 1788400113,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -136,22 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=022d8bbddf28b09847daa166e469eb3b924ea7b8e01f0ed67fdf1e22fad91569",
       "datetime": 1788386314,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "How To Bank 8.8% A Year On IBM Stock Before Buying A Single Share",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0f8f739418a7a45a2dad10f328dd71edaa2a65cdf5a7361564215194d7e65387",
-      "datetime": 1788382839,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "US judge rejects bid to break up Google's ad business",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=65799ac00b58f546317d37a0d1d23e33cdcf8d758481155cb8e75b739d24a77a",
-      "datetime": 1788381970,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -568,5 +568,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-03T09:58:15.298262+00:00"
+  "updated_at": "2026-09-03T10:13:15.572951+00:00"
 }
