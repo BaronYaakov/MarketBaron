@@ -59,20 +59,84 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Dow Jones Futures Rise, Oil Prices Keep Climbing; Snowflake, Victoria's Secret Are Big Movers With Tesla Cybercab Event Due",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=251477642f7c961dea822eff5f1bff23fafb7bad2d17b2ca06df6f75b92110dd",
+      "datetime": 1788435863,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom and Snowflake Perfectly Sum Up the AI Trade",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=602f38b4d42f6b0ded7f7f587a3ebdaf62281ded3983f17e039518fb1605fb2b",
+      "datetime": 1788435300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Jim Cramer's Says This Stock Is Primed for a \u201cHuge Move\u201d",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=853b390624d1011d63c984487ee258128e1f48ba2d4719e83b5b77cdc221d712",
+      "datetime": 1788434893,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Oil, Interest Rates Limit Wall Street Pre-Bell; Asia, Europe Muted",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=726a99a85724a1366583acb3d0fee4536048dddb1310626f89af8ec1a4e823a6",
+      "datetime": 1788434707,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Tesla's Cybercab event is tonight. Here's what the industry \u2014 and Wall Street \u2014 expects",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4819a0e236580e4cd03c263fb6e9eba0297f96d1f8f028b52e5967fba5c4d59c",
+      "datetime": 1788433200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom, Snowflake, HPE, NetApp, and More Stocks That Explain Today\u2019s Market",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6bf28b0fe4da431e5523b9df5e68bf01b86ef339f0eea4c7f3ad71ca695cf2d0",
+      "datetime": 1788432060,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Thursday; Snowflake to Advance, Broadcom to Decline",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6961cd37cb81f997ef8b51b82ca4c9e96b19c9a7357046bef8d1797113b94246",
+      "datetime": 1788431752,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "How Amazon is transforming your Whole Foods run: CEO",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3a46fe4e20117bb95917e8105098119a31674271a1ee07551c0ada7ba44d257d",
+      "datetime": 1788429600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Not Prime. Not Delivery. This Business Holds the Key to Amazon's Future.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c03144a6c5135f199b63eee4c9ac4fdeeb3651aa945c6790b08eb0fa6100e95e",
+      "datetime": 1788429120,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Market Chatter: Global Corporate Giants Draw Regulatory Attention to Blacklisted Groups in Supply Chains",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1367861c8581009df096115fff6512db7c531e25a30f18071cd3089d1e09b0e9",
       "datetime": 1788426568,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Redraws the AI Silicon Runway While Dell's 16% Sprint Pulls Wall Street Off the Mat",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=22f171f60f6796e8d54494cf6fe5bf9e37468691d01468c04bc2efa2e05a16ce",
-      "datetime": 1788426020,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -83,75 +147,11 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Why Are Nasdaq, S&P 500 Futures Rising Premarket? TSLA, AVGO, SNOW, HPE, PLTR, LULU Stocks In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e5f39bc962bac2dde06a97ade39c5515e7ee6591fd5ec1c1bbd0d710d55109ef",
-      "datetime": 1788424715,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Oil pulls back, Broadcom disappoints - what\u2019s moving markets",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b425d3d5d967e90539e288af4ad4adc73f52a4b0135fbe4028dd25b772d645ae",
-      "datetime": 1788423630,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Stock market today: Dow, S&P 500, Nasdaq futures rise as investors shrug off Middle East tensions",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8ca36b9258561ce743034a7f95d5bf6859babf0e0c207fa9a8a6046879d65b3b",
-      "datetime": 1788423325,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom's $230 Billion Roadmap Rewrites The Valuation",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=65e3dcddebbdcbea77309156d10379d43be2a6e1dd46fe8c4213aa8a5161b8ab",
-      "datetime": 1788420708,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Why Broadcom CEO Hock Tan Called Anthropic and OpenAI 'Two Geniuses in the Middle of Mongolia'",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4eadf99835e7947ea2755b00ccab9b2d58643e9356623f3734f85904b84e063b",
-      "datetime": 1788420152,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "AMZN",
       "headline": "Albertsons Companies: High Debt, Recent Insider Buying",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=a31e9a6329f195365f27a15944ea8ca7bd4b45400ddae844cdc66d9c49745a23",
       "datetime": 1788416221,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Better High-Growth Stock for 2026: Amazon.com vs. Uber Technologies",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=92364eaf497a6578fcf1c53fa0f011973cf2ffff067a875b0e11b56950b47086",
-      "datetime": 1788400137,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "How many employees does UnitedHealth have in 2026? Locations & layoffs explained",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=741dc570cf6deaf880ac586ad72e733738fd0f4e0fe9ba458f67230409e4ceca",
-      "datetime": 1788399220,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Zoox vs. Waymo: Are Amazon and Alphabet Ready to Win the Robotaxi Race?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c4683f6570ac48204ed6c9754b211120982eaf60a14e099f225c45d7eda78da1",
-      "datetime": 1788399119,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -568,5 +568,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-03T11:58:15.594338+00:00"
+  "updated_at": "2026-09-03T12:13:16.314674+00:00"
 }
