@@ -148,10 +148,10 @@
     },
     {
       "ticker": "AMZN",
-      "headline": "Albertsons Companies: High Debt, Recent Insider Buying",
+      "headline": "Dogs Of The Dow: No Buys And Few Worth Watching",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=a31e9a6329f195365f27a15944ea8ca7bd4b45400ddae844cdc66d9c49745a23",
-      "datetime": 1788416221,
+      "url": "https://finnhub.io/api/news?id=ed1957ad66206400aa38e5738a92e74edc45daa437de09bdc89fa2634ed6800e",
+      "datetime": 1788422137,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -568,5 +568,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-03T12:13:16.314674+00:00"
+  "updated_at": "2026-09-03T12:28:15.843222+00:00"
 }
