@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "These S&P500 stocks are moving in today's pre-market session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=2dd7d4483cd4f670e119da44d572bf1091418e7f41588bec2d25cfe69ad8e822",
+      "datetime": 1788438902,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Dow Jones Futures Rise, Oil Prices Keep Climbing; Snowflake, Victoria's Secret Are Big Movers With Tesla Cybercab Event Due",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=251477642f7c961dea822eff5f1bff23fafb7bad2d17b2ca06df6f75b92110dd",
@@ -104,14 +112,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6bf28b0fe4da431e5523b9df5e68bf01b86ef339f0eea4c7f3ad71ca695cf2d0",
       "datetime": 1788432060,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Thursday; Snowflake to Advance, Broadcom to Decline",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6961cd37cb81f997ef8b51b82ca4c9e96b19c9a7357046bef8d1797113b94246",
-      "datetime": 1788431752,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -568,5 +568,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-03T12:58:16.605245+00:00"
+  "updated_at": "2026-09-03T13:13:16.807142+00:00"
 }
