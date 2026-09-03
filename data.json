@@ -67,6 +67,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "P",
+      "headline": "NetApp Stock Climbs After Earnings Beat, Shaking Off Initial Slide",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f1f17c8bb1127ed14e8a4c58fb95eb489842ee5d3a961bed6199d1b30165b07",
+      "datetime": 1788463892,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "COR",
       "headline": "Cencora Raises 2026 EPS Outlook as Specialty Businesses Strengthen",
       "source": "Yahoo",
@@ -273,14 +281,6 @@
       "url": "https://finnhub.io/api/news?id=a714cdd00cf26659cdee91bf2fe560cc5e0fac091895a73f951a99d6a1d93e50",
       "datetime": 1788353878,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Here's Why Investors Must Hold Everpure Stock in Their Portfolios Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1835c73eefb3bce858c43a7fffc67e1ab7c3d166524edb21f1d3b9c5f930e881",
-      "datetime": 1788276480,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "CLS",
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-03T20:13:18.727590+00:00"
+  "updated_at": "2026-09-03T20:28:18.502861+00:00"
 }
