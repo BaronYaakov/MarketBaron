@@ -60,26 +60,98 @@
   "news": [
     {
       "ticker": "AVGO",
-      "headline": "Which S&P500 stocks are gapping on Thursday?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=6bc835acf8f7c63b291775e83395281cafdfc68775fff9f739087c86502c4adb",
-      "datetime": 1788446101,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Stock Market Today: Dow Up On Fed Governor Remarks; Nvidia Rallies On Hugging Face Deal (Live Coverage)",
+      "headline": "Broadcom Forecasts Steep Ramp In AI Revenue",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=29a6a9c1762e9ceacb454c47a4c5e87acd0d03cd229e38a11c08e95611a1ce0b",
-      "datetime": 1788444439,
+      "url": "https://finnhub.io/api/news?id=ea536c49bce5b75d7679dc43f1cde23311fc251f162d4e423e45c8641929bd20",
+      "datetime": 1788450914,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Assessment of the U.S. Nuclear Power and Small Modular Reactor Market 2026 Now Available \u2014 Reveals Why Big Tech Is Becoming an Active Force in Nuclear Project Formation, Not Just a Power Buyer",
+      "headline": "Google Was Found to Hold an Illegal Monopoly and Kept It Anyway. Is the Antitrust Nightmare Finally Over?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3566f6f862dfedfb0e67aca7bf85099c0e835cc4ffaa39101bfbaf76b553bf1f",
-      "datetime": 1788444060,
+      "url": "https://finnhub.io/api/news?id=ff030692a3a0d78f152a5c6b1bf5bf4efc1a933e51fd88319daae0c633ccf90b",
+      "datetime": 1788450636,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom 2027 Guidance Meets Expectations; 2028 Sets a High Bar, RBC Says",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4177cd8bac6a7ba60d07410f2a5b352785161c356e6cfb6207662dda0133b915",
+      "datetime": 1788450492,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom Guide to Double Fiscal 2027 AI Revenue is Conservative, Truist Says",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9d625dbc09ae36bc5874d63022c737e4f63e92489e684e267b9b548354e22254",
+      "datetime": 1788449967,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "This Is The Biggest Reason I Keep Accumulating Amazon Stock After Jumping 10% This Year",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2939ce31b6d6569c582b428449c959013d4f1434074b81382ded26e3a17788c2",
+      "datetime": 1788449625,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "This One Metric Is Why I\u2019m Going to Keep Buying Nvidia Hand-Over-Fist",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fe152a76c330cc95884dca3cf9ee6077ca26c809937882c0182ac1ab56ef69f4",
+      "datetime": 1788449440,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "This One Metric Is Why I\u2019m Going to Keep Buying Nvidia Hand-Over-Fist",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fe152a76c330cc95884dca3cf9ee6077ca26c809937882c0182ac1ab56ef69f4",
+      "datetime": 1788449440,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "U.S. Debt, AI Boom Triggers Historic Borrowing Binge, Pushing Up Rates. What To Know.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=47884ebf1a02150728cbf46db2fd784fcec7210c72246d09a90a53accb77b860",
+      "datetime": 1788449389,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Top Midday Stories: Nvidia to Acquire Hugging Face for $12.93 Billion; Broadcom Q3 Adjusted Earnings, Guidance Top Estimates",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0f77f8c457970cbd9277f1212bdff329b1f5be2e66f95fabb26f896d4294cc42",
+      "datetime": 1788449144,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0e9d4c49e9a725e8658eb8c71140dba26a3dd59076461496929f9de5acc4496c",
+      "datetime": 1788448740,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "AVGO Stock Sinks To Near 5-Month Lows Despite Exploding AI Sales \u2014 Wall Street Reactions Are Mixed",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e7641406509eb4c1fa8e44fe55abd42075996051d3050e79e90c681d829bbf2e",
+      "datetime": 1788448420,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Uber Partners Wayve as Autonomous Rides Make U.K. Debut: What's Ahead?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b96fbc4187d72e012ba4e783762ec24fe9155da9a3afe83f6ab7c1240ffa030a",
+      "datetime": 1788448320,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -91,84 +163,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Broadcom Just Put a Massive Number on Its AI Future",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e27e70507201d616a7a547b0f7d16090ff18c33680e960a32d7d13d5f8a13bbe",
-      "datetime": 1788443665,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Stock Tumbles as AI Growth Soars 221%. The Problem Is Investor Expectations",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1974222e562f66f1b24e4f27f1b0d832c70ae5dd24d2802819cbc4736c190114",
-      "datetime": 1788443575,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Targets $230 Billion of AI Revenue by Fiscal 2028",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=58fa800cc5db6f8ff334d374c6eb299c6562cddcc346a1cd449d667ccae9e8d3",
-      "datetime": 1788443048,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Hyperscalers Are the Backbone of AI. Here's Why I Own Amazon, Alphabet, and Meta Platforms.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d934d22d826c74bcf7ec8db3e07907e68208cab163b8c561d7c23b7763bc4af4",
-      "datetime": 1788442920,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Stock Market Today: Dow Climbs On Fed Governor Remarks; Nvidia Rallies On Hugging Face Deal (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dafc8c5323af368274b67f91210239b06c4627e46bd1d56b8a6643220a96f30d",
-      "datetime": 1788442851,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "E-Commerce Update - Alibaba Lawsuit Highlights Regulatory Challenges For Global Companies",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3e7d2f072ec8d8173e911600ce59ffc93cc3713da88eb1eed1dd66f08420d4f2",
-      "datetime": 1788442637,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Why Microsoft Investors Should Fear Amazon More Than Google",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c927428eadc5a3bdcfac73a4697d6dd0035ea6ee41c1501ffaa97a978e23741e",
-      "datetime": 1788442225,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Ayble Health Joins Amazon's Health Benefits Connector to expand Virtual GI Care Access to Millions of Americans",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=032ce3a2d79636ec44978366905f89f0aa46d8057844fea86119668e7f1c72d5",
-      "datetime": 1788442200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Is Generics Still a Quiet Profit Engine for Cardinal Health?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=328a82c3d457909e88b69b893d71448dd5d5c025b99eb4233343050a4eaa9df2",
       "datetime": 1788441720,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Microsoft Follows Amazon and Alphabet on Cloud Disclosure",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0a28c1fed17b90fbf8a45a35abda0eaae19aec11bf70c93f093c41dc18f48865",
-      "datetime": 1788441259,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "COR",
@@ -427,12 +427,12 @@
       "market_cap_musd": 1645927.6024797447,
       "country": "US",
       "currency": "USD",
-      "price": 351.74,
+      "price": 352.39,
       "open": 356.66,
       "day_high": 356.66,
       "day_low": 342.33,
       "prev_close": 367.24,
-      "day_change_pct": -4.22,
+      "day_change_pct": -4.04,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -446,12 +446,12 @@
       "market_cap_musd": 100579.996653,
       "country": "CA",
       "currency": "USD",
-      "price": 45.36,
+      "price": 45.32,
       "open": 45.03,
       "day_high": 45.81,
       "day_low": 44.78,
       "prev_close": 44.13,
-      "day_change_pct": 2.79,
+      "day_change_pct": 2.7,
       "week52_high": 74.0,
       "week52_low": 37.09
     },
@@ -465,12 +465,12 @@
       "market_cap_musd": 48458.195747,
       "country": "CA",
       "currency": "USD",
-      "price": 302.76,
+      "price": 306.49,
       "open": 282.62,
-      "day_high": 302.78,
+      "day_high": 306.94,
       "day_low": 280.7,
       "prev_close": 277.77,
-      "day_change_pct": 9.0,
+      "day_change_pct": 10.34,
       "week52_high": 655.5,
       "week52_low": 253.12
     },
@@ -484,12 +484,12 @@
       "market_cap_musd": 64205.709835064445,
       "country": "US",
       "currency": "USD",
-      "price": 337.16,
+      "price": 336.93,
       "open": 337.15,
       "day_high": 338.49,
       "day_low": 334.87,
       "prev_close": 336.36,
-      "day_change_pct": 0.24,
+      "day_change_pct": 0.17,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -503,12 +503,12 @@
       "market_cap_musd": 70824.52038453202,
       "country": "US",
       "currency": "USD",
-      "price": 87.65,
+      "price": 87.73,
       "open": 87.45,
       "day_high": 88.35,
       "day_low": 86.8,
       "prev_close": 86.97,
-      "day_change_pct": 0.78,
+      "day_change_pct": 0.87,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -522,12 +522,12 @@
       "market_cap_musd": 7978.687210721632,
       "country": "US",
       "currency": "USD",
-      "price": 21.82,
+      "price": 21.77,
       "open": 22.42,
       "day_high": 22.65,
       "day_low": 21.48,
       "prev_close": 22.05,
-      "day_change_pct": -1.04,
+      "day_change_pct": -1.27,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -541,12 +541,12 @@
       "market_cap_musd": 30966.84410235335,
       "country": "US",
       "currency": "USD",
-      "price": 96.88,
+      "price": 96.48,
       "open": 92.41,
-      "day_high": 96.97,
+      "day_high": 97.14,
       "day_low": 91.36,
       "prev_close": 92.43,
-      "day_change_pct": 4.81,
+      "day_change_pct": 4.38,
       "week52_high": 119.1,
       "week52_low": 56.78
     },
@@ -560,12 +560,12 @@
       "market_cap_musd": 2795165.4805471427,
       "country": "US",
       "currency": "USD",
-      "price": 258.75,
+      "price": 259.13,
       "open": 256.45,
       "day_high": 259.43,
       "day_low": 256.0,
       "prev_close": 254.98,
-      "day_change_pct": 1.48,
+      "day_change_pct": 1.63,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-03T15:58:20.666284+00:00"
+  "updated_at": "2026-09-03T16:13:21.042947+00:00"
 }
