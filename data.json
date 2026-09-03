@@ -60,6 +60,46 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Stock Market Today: Nasdaq Leads Charge As Jobs Data Looms; NetApp Tests Support (Live Coverage)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e6f09c6ffa905ccf9ed76d736c0d2d850c557c9ec20d84c758d1c782ed99423e",
+      "datetime": 1788471002,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon vs. Microsoft: 1 Key Metric Identifies the Superior Artificial Intelligence (AI) Cloud Stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3413ec929cf8b8d3bbeafd6ee9b96378ac8cfe451773cf8204bf8f5c4b564066",
+      "datetime": 1788469980,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Cathie Wood Sold About $72.8 Million of AMD and Bought About $53 Million of Nvidia. What Changed?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f6dc84d795cc9d3d49165b3b4119a584c5faa3b18b1d3fa3e69ccc261f25fe22",
+      "datetime": 1788469745,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Top Analyst Reports for Amazon, AbbVie & Alibaba",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b0804b234e511e69808b38f92c6ee8ffc81d307ea5abe364d75d67f8e8966f56",
+      "datetime": 1788468720,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Michael Dell's Wealth Surges Past $100B in 2026 as Dell Stock Hits Record Highs",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=04ac137f4bb1d96e07880bedad566a07a3a329670b4b83e5aaea4a1e074ca260",
+      "datetime": 1788466706,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Sector Update: Tech Stocks Rise Late Afternoon",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=650f125a788a6e90f021911241cbd823e9f82c95cc52824b0f65f4ca2f1bc1f5",
@@ -107,30 +147,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Thursday's session: top gainers and losers in the S&P500 index",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=1bb1adddd9848981c1ec4238462275e64b89e0340003f691f5242cca88dfc968",
-      "datetime": 1788462301,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Investor Who Went 30 Years Without a Loss Just Bet $125 Million on Bitcoin",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=99a5cd9a5a112793b643622eb2bde4dc61b8fab290933dc1e4703db921342c20",
-      "datetime": 1788461972,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "AVGO Q2 Deep Dive: AI Semiconductor Surge Faces Supply Headwinds and Guidance Caution",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6ec3b283c56504b40f014922f410d4ccdf5de4970ea762ad98dacaab86a226d3",
-      "datetime": 1788459318,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "AMZN",
       "headline": "Wall Street Nears Record Highs With Help From Mag 7",
       "source": "Yahoo",
@@ -161,22 +177,6 @@
       "url": "https://finnhub.io/api/news?id=aec30453c0b0f27f3518447afe35bee57f5c16744134b4742bdc042b49feb235",
       "datetime": 1788456198,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Meta Stock Has a New AI Catalyst. Is META Headed Back Toward Its All-Time High?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ed7c295d9e4503f34c540039c59b1877876842c77a31adfd21bb4ddf519de789",
-      "datetime": 1788454838,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "How Far Can Amazon Stock Fall When The Business Is Fine?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=784ebfa6487c7bb29e44e57e5fe3651294c2056dd24186e670d2838f9c797a6a",
-      "datetime": 1788453670,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-03T20:28:18.502861+00:00"
+  "updated_at": "2026-09-03T20:43:18.578376+00:00"
 }
