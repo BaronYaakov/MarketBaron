@@ -52,27 +52,67 @@
       "day_change_pct": 0.0,
       "all_time_gain_pct": 24.23,
       "day_change_source": "ibkr",
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     }
   ],
   "cash_percent": 1.46,
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Walmart Jumps Nearly 2.8% as Justice Department Widens Beef-Pricing Review",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a0271895d125cf03a744e6d2891541b2717b9dcc817bf83b32a9e9d789b46de6",
+      "datetime": 1788470893,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon vs. Microsoft: 1 Key Metric Identifies the Superior Artificial Intelligence (AI) Cloud Stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3413ec929cf8b8d3bbeafd6ee9b96378ac8cfe451773cf8204bf8f5c4b564066",
+      "datetime": 1788469980,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "SpaceX Reclaims $2 Trillion Market Cap As Tech Rally, Cybercab Ties Boost Investor Confidence",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6ceae1059cedd1129072a2328eee5a52d54e2eb597785bb86f401bdb4943b676",
+      "datetime": 1788469923,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Top Analyst Reports for Amazon, AbbVie & Alibaba",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b0804b234e511e69808b38f92c6ee8ffc81d307ea5abe364d75d67f8e8966f56",
+      "datetime": 1788468720,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The Gap Between HD Stock And Its Own Numbers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf6e42094404bb3d94447866b94d84c7d7823735156afd2a70f4551c48ce5c35",
+      "datetime": 1788466944,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "P",
       "headline": "NetApp Stock Climbs After Earnings Beat, Shaking Off Initial Slide",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5f1f17c8bb1127ed14e8a4c58fb95eb489842ee5d3a961bed6199d1b30165b07",
       "datetime": 1788463892,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+      "logo_url": null
     },
     {
-      "ticker": "COR",
-      "headline": "Cencora Raises 2026 EPS Outlook as Specialty Businesses Strengthen",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2e84096df15ac30b56cad9794a7c930f96ca0a6d437a48ac470b179160eb83fb",
-      "datetime": 1788463320,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+      "ticker": "AMZN",
+      "headline": "Discover which dow jones stocks are making waves on Thursday.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=2408906dfdb0441202ed8cf0c09a63939053aadd284e7bbc95107dba373c1fe7",
+      "datetime": 1788462605,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "ORLY",
@@ -83,28 +123,44 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
+      "ticker": "B",
+      "headline": "After-Hours Losers Aug. 8, 2016: TUBE Down 24.2%, MODN 16.4%, NPTN 15.6%, MXL 15.5%, TWER 14%, MTW 12%, ROG 9%, IAG 7.9%, KNDI 5.7%",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=28d231380c51a7ad4c38461c601e1c8a16372da488abc71fce9a61ab4ecdf74a",
+      "datetime": 1788449373,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "P",
       "headline": "Why NetApp Stock Is Falling Despite A Big Earnings Beat",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3162805bf3cb4217a079ffca7581120931819ec71115fbd3ac1d25d52921b7b6",
       "datetime": 1788444024,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+      "logo_url": null
     },
     {
-      "ticker": "COR",
-      "headline": "Is Generics Still a Quiet Profit Engine for Cardinal Health?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=328a82c3d457909e88b69b893d71448dd5d5c025b99eb4233343050a4eaa9df2",
-      "datetime": 1788441720,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+      "ticker": "CLS",
+      "headline": "Broadcom Q3: Hardware Could Be The Missing Piece In An AI Portfolio",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d7461d918c3110feab23f7c309dfb1fef02ba914e1b981793022c4a3ce941c8d",
+      "datetime": 1788440398,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
-      "ticker": "COR",
-      "headline": "Artisan Sold\u00a0Cencora\u00a0(COR) as Earnings Momentum Slowed",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2ec6ee90c8383466911256286110d4360d06af68636e174e412366405b4fde12",
-      "datetime": 1788441099,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+      "ticker": "B",
+      "headline": "Barrick: Buy For Copper Growth And Valuation Discount",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ba581a5399744445da3d7b10859e634c29b24ead8dcecb468f20e45e4b2a658c",
+      "datetime": 1788423135,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
+      "ticker": "B",
+      "headline": "The Gold Supercycle Is Just Starting, and Miners Haven't Caught Up",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=7894468d95567f6c79995a4012a5dbad60447e485fb3afc663dc7274a112c37d",
+      "datetime": 1788419143,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "P",
@@ -112,7 +168,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e9e40aa58adbdef2f07f7f001e9d563353c7f9a9b459ace15695a9083a224de1",
       "datetime": 1788381936,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+      "logo_url": null
     },
     {
       "ticker": "P",
@@ -120,7 +176,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4eb0591b4a4ddbdacbe8445f0d2e7bffc7bdfe5ae291cf42cfd2365c8e27b308",
       "datetime": 1788381000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+      "logo_url": null
     },
     {
       "ticker": "P",
@@ -128,7 +184,7 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=e41933616cec0f7bf3f5e52954dc7c666452c78c3d75c8c28131b39594bf951c",
       "datetime": 1788366940,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+      "logo_url": null
     },
     {
       "ticker": "P",
@@ -136,7 +192,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2f500500de7fbcf08e62a2ce88b04df087a73481fc3fc75b0ff7c2356754b4d1",
       "datetime": 1788364560,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+      "logo_url": null
     },
     {
       "ticker": "ORLY",
@@ -147,12 +203,20 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "COR",
-      "headline": "Cencora\u2019s Accelerate Pharmacy Solutions Launches Cell and Gene Therapy Enablement to Help Health Systems Build and Scale Programs",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d2b0a78c5b2ec6bef921c8a712d6ecb1fbbbb7aa81af14819d5df457b1463590",
-      "datetime": 1788355800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+      "ticker": "B",
+      "headline": "'Barrick Is Said to Weigh Delaying North America Gold IPO to 2027' - Bloomberg",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a714cdd00cf26659cdee91bf2fe560cc5e0fac091895a73f951a99d6a1d93e50",
+      "datetime": 1788353878,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica (NYSE:CLS): An Affordable Growth Opportunity",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=465bbe58115f6e9ea75ff660eeb1ac07da21b33307971c04c35c6cb11f9b2494",
+      "datetime": 1788264714,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "ORLY",
@@ -163,20 +227,28 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "COR",
-      "headline": "Beat the Market the Zacks Way: Accelerant, Insight, General Mills in Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2c3bd9c7fccc48120afd93d76c875e6f3df03acc9479b68de2005f1d9bbaca11",
-      "datetime": 1788182880,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+      "ticker": "B",
+      "headline": "Here's How Much $1000 Invested In Barrick Mining 5 Years Ago Would Be Worth Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=0bcb08f51330bfdf5ee243b35b40c69190423aaef3747104c9fb053bca5beb6d",
+      "datetime": 1788179435,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "COR",
-      "headline": "AbbVie vs. Johnson & Johnson: Which Healthcare Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7009d4f82a8712cebfa86427db9a724d72e0b2b5febcd81764d5d26f56545d3b",
-      "datetime": 1788028861,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+      "ticker": "B",
+      "headline": "Barrick Mining (NYSE:B) Passes the Peter Lynch Growth-at-a-Reasonable-Price Test",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=f8a339406a0b9aaa55183a14e1dcdf77326f8fa0cf4beda96099209ecc66ebdd",
+      "datetime": 1788167489,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
+      "ticker": "PRMB",
+      "headline": "Dividend Champion, Contender, And Challenger Highlights: Week August 30",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a70f356816315e6c1cffbf3ddb6582552dedd39464f32f29f67f627611d5c738",
+      "datetime": 1787954658,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     },
     {
       "ticker": "ORLY",
@@ -195,12 +267,28 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Celestica: When Growth Won't Fund Itself (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=46d08db6f5e6c2f164a700053d2ed4ab13c11dd28127d5084099c97a81390827",
+      "datetime": 1787899491,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "ORLY",
       "headline": "Is Wall Street Bullish or Bearish on O'Reilly Automotive Stock?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2261dbac53e424a49f8982e9c1d854c9ee61159aa1e759fc10f8c06ed645b92e",
       "datetime": 1787845443,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica Could Benefit Massively From Jalape\u00f1o Chip Ramps (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ba86d2286e64e5ca69df03a76da12a296bfa86fae2b7b22099cbb65352a9b31a",
+      "datetime": 1787815212,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     }
   ],
   "recent_posts": [],
@@ -277,15 +365,7 @@
       "ipo_date": "1983-05-02",
       "market_cap_musd": 100579.996653,
       "country": "CA",
-      "currency": "USD",
-      "price": 45.76,
-      "open": 45.43,
-      "day_high": 45.81,
-      "day_low": 44.78,
-      "prev_close": 44.13,
-      "day_change_pct": 3.69,
-      "week52_high": 74.0,
-      "week52_low": 37.09
+      "currency": "USD"
     },
     "CLS": {
       "name": "Celestica Inc",
@@ -302,7 +382,9 @@
       "day_high": 314.09,
       "day_low": 280.7,
       "prev_close": 277.77,
-      "day_change_pct": 11.55
+      "day_change_pct": 11.55,
+      "week52_high": 655.5,
+      "week52_low": 275.62
     },
     "COR": {
       "name": "Cencora Inc",
@@ -313,15 +395,7 @@
       "ipo_date": "1996-05-28",
       "market_cap_musd": 64205.709835064445,
       "country": "US",
-      "currency": "USD",
-      "price": 337.22,
-      "open": 337.9,
-      "day_high": 338.71,
-      "day_low": 334.87,
-      "prev_close": 336.36,
-      "day_change_pct": 0.26,
-      "week52_high": 377.54,
-      "week52_low": 244.82
+      "currency": "USD"
     },
     "ORLY": {
       "name": "O'Reilly Automotive Inc",
@@ -333,27 +407,37 @@
       "market_cap_musd": 70824.52038453202,
       "country": "US",
       "currency": "USD",
-      "price": 87.38,
-      "open": 87.75,
-      "day_high": 88.34,
-      "day_low": 86.8,
-      "prev_close": 86.97,
-      "day_change_pct": 0.47
+      "week52_high": 108.72,
+      "week52_low": 82.59
     },
     "PRMB": {
+      "name": "Primo Brands Corp",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png",
+      "industry": "Beverages",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "website": "https://ir.primobrands.com/",
+      "ipo_date": "1992-06-16",
+      "market_cap_musd": 7978.687210721632,
+      "country": "US",
+      "currency": "USD",
+      "price": 21.91,
+      "open": 22.32,
+      "day_high": 22.65,
+      "day_low": 21.48,
+      "prev_close": 22.05,
+      "day_change_pct": -0.63,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
     "P": {
-      "name": "Everpure Inc",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png",
-      "industry": "Technology",
-      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
-      "website": "https://www.purestorage.com/",
-      "ipo_date": "2015-10-07",
-      "market_cap_musd": 30966.84410235335,
-      "country": "US",
-      "currency": "USD"
+      "price": 98.15,
+      "open": 91.78,
+      "day_high": 98.26,
+      "day_low": 91.36,
+      "prev_close": 92.43,
+      "day_change_pct": 6.19,
+      "week52_high": 119.1,
+      "week52_low": 56.78
     },
     "AMZN": {
       "name": "Amazon.com Inc",
@@ -381,5 +465,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-03T23:13:58.936131+00:00"
+  "updated_at": "2026-09-03T23:29:05.789287+00:00"
 }
