@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Liftoff Mobile: A Fine Business, Fair Price, But I Think Smadex Is The Better Trade",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0203f9a3e127875e285b5b46ac6cee1229c7429903d047c4977c4d2df8b78602",
+      "datetime": 1788508321,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Waller Cracks the Door to a September Pause and the Tape Rewards the AI Software Layer",
       "source": "ChartMill",
@@ -128,14 +136,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4b864eca36ec6b2b10c516aea0eb8e0e35c3ef2e824cb8ea837515cd0fbec64e",
       "datetime": 1788484533,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Review & Preview: Manifesting Steady Rates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=adc72d8d5af1bd197a45d763805d6b9c1363e9d3e7a4a62da7acb3aa5a9543ef",
-      "datetime": 1788479700,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-04T11:58:16.445036+00:00"
+  "updated_at": "2026-09-04T12:13:16.884125+00:00"
 }
