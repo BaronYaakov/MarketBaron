@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Marvell Stock Had A Huge Year And Still Sits Well Below Its High",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=33a19c727a8e65adfa057a149bcbbd12eabac6a3f64ffc7c9bdb04767afab37c",
+      "datetime": 1788557272,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "5-star analyst resets Broadcom stock price target",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8c2c1ec02ce244ebf7d821189eb20f805e144044ea63de5f675e58802b8bfdc9",
+      "datetime": 1788556020,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Magnificent Seven Flash Strong Signal Never Seen Before",
       "source": "Yahoo",
@@ -161,22 +177,6 @@
       "url": "https://finnhub.io/api/news?id=3c516e726b9aa98799bfd614b2a406706faaf70f97eb6c523b8d83da7be41d89",
       "datetime": 1788537660,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "If You Invested $1000 In Broadcom Stock 15 Years Ago, You Would Have This Much Today",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=9805bc16e33dae69ff339bb9add33cdcc4d63b5fd99c7e12d766e1832c18d3bf",
-      "datetime": 1788537625,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "OpenAI Has Launched GPT-6 Astra. These Stocks Will Benefit.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e85117316f4b51707d53ba65c2218eb7d71465c8e731229a79cdd177bc4e43d9",
-      "datetime": 1788536400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "COR",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-04T21:13:16.884615+00:00"
+  "updated_at": "2026-09-04T21:28:16.660162+00:00"
 }
