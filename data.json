@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "OpenAI Declares \u201cAGI Era\u201d With Astra Launch. Anthropic\u2019s Fable 5.1 More Than Doubled Its Predecessor\u2019s Science Score. MSFT and AMZN Both Win, but One Has A Slight Edge",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e5332eae237462b6ab774d53ca05e813f77fb15d434104a9934410e0addfdbe0",
+      "datetime": 1788495090,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Better Consumer Stock for 2026: Amazon.com vs. Walt Disney",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=429aa610495729f4740d060817269bf49848c9b8a351a361a4c4ff6eade346c8",
@@ -137,14 +145,6 @@
       "url": "https://finnhub.io/api/news?id=543a51cb36faa641af065609a5e92d9ec6ff38653264e75f2b2d0a30f222781c",
       "datetime": 1788475235,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Snowflake (SNOW) Stock Soars 16% After Q2 Earnings: Is It Still a Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c780a6e8d681c986341e46c249623dc3e4009a0803b16b3c4aa0c73616f51a7d",
-      "datetime": 1788474180,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-04T05:58:15.487826+00:00"
+  "updated_at": "2026-09-04T06:13:15.623747+00:00"
 }
