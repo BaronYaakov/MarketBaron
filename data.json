@@ -34,7 +34,7 @@
       "day_change_pct": 0.0,
       "all_time_gain_pct": 15.77,
       "day_change_source": "ibkr",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+      "logo_url": null
     },
     {
       "ticker": "ORLY",
@@ -58,6 +58,70 @@
   "cash_percent": 1.46,
   "portfolio_day_change_pct": 0.48,
   "news": [
+    {
+      "ticker": "AVGO",
+      "headline": "Hock Tan Just Put a $230 Billion Number on Broadcom's 2028 AI Revenue. That Is 4 Times This Year's.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b37fd1d13d880cb8fecf07556978e321b5448d4ecf29bae8e3d5613ecb23c04b",
+      "datetime": 1788477121,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Nvidia Is Now Paying to Train Plumbers, and the Stock That Should Benefit Most Just Hit a 52-Week Low",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cfff816a3678757dc1be54563abe9c35d7feb4134cf524e0134f8129f95492c1",
+      "datetime": 1788476959,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "What Amazon.com (AMZN)'s Riverside Warehouse Strike Reveals About Labor Risk in Its Logistics Model",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9ef8cb261c6771c2ee299a911af12007853d7b8869a2027e0e2995a35ac1dd44",
+      "datetime": 1788476935,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "What Cencora (COR)'s Cell and Gene Push and Higher 2026 Outlook Means For Shareholders",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=543a51cb36faa641af065609a5e92d9ec6ff38653264e75f2b2d0a30f222781c",
+      "datetime": 1788475235,
+      "logo_url": null
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Snowflake (SNOW) Stock Soars 16% After Q2 Earnings: Is It Still a Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c780a6e8d681c986341e46c249623dc3e4009a0803b16b3c4aa0c73616f51a7d",
+      "datetime": 1788474180,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "AI Infrastructure Demand Remains Red-Hot: HPE, AVGO, DELL Deliver",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e55ee262788b3341d46d6385d098edd9db66c1575d30b5de1da6df42371c560a",
+      "datetime": 1788472920,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Costco Stock Is Priced For Two Good Years, Is That A Safe Bet?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=25d4af48ad217e8f3a8f62498dc4673b0c0b084f7bb7f5c8b0db90f3e5c5cab3",
+      "datetime": 1788472817,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Jim Cramer Notes Cardinal Health (CAH) is \u201cToo Attractive to Ignore\u201d",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7f06d643160898f1cbdc391a8a9105109c98cd0a5edf1bf978d1a4c97a7e8a62",
+      "datetime": 1788472375,
+      "logo_url": null
+    },
     {
       "ticker": "AVGO",
       "headline": "Stock Market Today: Nasdaq Leads Charge As Jobs Data Looms; NetApp Tests Support (Live Coverage)",
@@ -107,46 +171,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Cathie Wood Sold About $72.8 Million of AMD and Bought About $53 Million of Nvidia. What Changed?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f6dc84d795cc9d3d49165b3b4119a584c5faa3b18b1d3fa3e69ccc261f25fe22",
-      "datetime": 1788469745,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Do You Still Own The NVIDIA You Bought?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=338f755bccfb89a2a652106a4a06220884ab0f0927f842bae23e91bd7970b893",
-      "datetime": 1788469608,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Why Broadcom (AVGO) Stock Is Nosediving",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=08fef5adcf19d5a32ac094f9facf3f934999fd904abf43206f2a0cedad921dcf",
-      "datetime": 1788469398,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Top Analyst Reports for Amazon, AbbVie & Alibaba",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b0804b234e511e69808b38f92c6ee8ffc81d307ea5abe364d75d67f8e8966f56",
-      "datetime": 1788468720,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The Gap Between HD Stock And Its Own Numbers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cf6e42094404bb3d94447866b94d84c7d7823735156afd2a70f4551c48ce5c35",
-      "datetime": 1788466944,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "P",
       "headline": "NetApp Stock Climbs After Earnings Beat, Shaking Off Initial Slide",
       "source": "Yahoo",
@@ -160,15 +184,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2e84096df15ac30b56cad9794a7c930f96ca0a6d437a48ac470b179160eb83fb",
       "datetime": 1788463320,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Discover which dow jones stocks are making waves on Thursday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=2408906dfdb0441202ed8cf0c09a63939053aadd284e7bbc95107dba373c1fe7",
-      "datetime": 1788462605,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "logo_url": null
     },
     {
       "ticker": "ORLY",
@@ -200,7 +216,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=328a82c3d457909e88b69b893d71448dd5d5c025b99eb4233343050a4eaa9df2",
       "datetime": 1788441720,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+      "logo_url": null
     },
     {
       "ticker": "COR",
@@ -208,7 +224,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2ec6ee90c8383466911256286110d4360d06af68636e174e412366405b4fde12",
       "datetime": 1788441099,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+      "logo_url": null
     },
     {
       "ticker": "CLS",
@@ -288,7 +304,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d2b0a78c5b2ec6bef921c8a712d6ecb1fbbbb7aa81af14819d5df457b1463590",
       "datetime": 1788355800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+      "logo_url": null
     },
     {
       "ticker": "B",
@@ -315,28 +331,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "COR",
-      "headline": "Beat the Market the Zacks Way: Accelerant, Insight, General Mills in Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2c3bd9c7fccc48120afd93d76c875e6f3df03acc9479b68de2005f1d9bbaca11",
-      "datetime": 1788182880,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
       "ticker": "B",
       "headline": "Here's How Much $1000 Invested In Barrick Mining 5 Years Ago Would Be Worth Today",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=0bcb08f51330bfdf5ee243b35b40c69190423aaef3747104c9fb053bca5beb6d",
       "datetime": 1788179435,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "AbbVie vs. Johnson & Johnson: Which Healthcare Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7009d4f82a8712cebfa86427db9a724d72e0b2b5febcd81764d5d26f56545d3b",
-      "datetime": 1788028861,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "PRMB",
@@ -440,7 +440,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1645927.6024797447,
+      "market_cap_musd": 1699217.255517751,
       "country": "US",
       "currency": "USD",
       "price": 357.16,
@@ -467,9 +467,7 @@
       "day_high": 45.81,
       "day_low": 44.78,
       "prev_close": 44.13,
-      "day_change_pct": 3.69,
-      "week52_high": 74.0,
-      "week52_low": 37.09
+      "day_change_pct": 3.69
     },
     "CLS": {
       "name": "Celestica Inc",
@@ -486,20 +484,9 @@
       "day_high": 314.09,
       "day_low": 280.7,
       "prev_close": 277.77,
-      "day_change_pct": 11.55,
-      "week52_high": 655.5,
-      "week52_low": 275.62
+      "day_change_pct": 11.55
     },
     "COR": {
-      "name": "Cencora Inc",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png",
-      "industry": "Health Care",
-      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
-      "website": "https://www.cencora.com/",
-      "ipo_date": "1996-05-28",
-      "market_cap_musd": 64205.709835064445,
-      "country": "US",
-      "currency": "USD",
       "price": 337.22,
       "open": 337.9,
       "day_high": 338.71,
@@ -516,7 +503,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 70824.52038453202,
+      "market_cap_musd": 70686.99704397954,
       "country": "US",
       "currency": "USD",
       "price": 87.38,
@@ -535,7 +522,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 7978.687210721632,
+      "market_cap_musd": 7930.186753171428,
       "country": "US",
       "currency": "USD",
       "price": 21.91,
@@ -554,7 +541,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 30966.84410235335,
+      "market_cap_musd": 32625.544747165965,
       "country": "US",
       "currency": "USD",
       "price": 98.15,
@@ -573,7 +560,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2795165.4805471427,
+      "market_cap_musd": 2792576.765121769,
       "country": "US",
       "currency": "USD",
       "price": 258.9,
@@ -592,5 +579,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-03T23:58:19.384429+00:00"
+  "updated_at": "2026-09-04T00:14:01.727046+00:00"
 }
