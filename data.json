@@ -60,6 +60,78 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Every Hyperscaler Raised Capex Again. These 3 Boring Industrials Get Paid No Matter Who Wins the AI Race.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6acd564ff6e95e726f239f19f250b0ad436fef7eba3540791a38081628235b74",
+      "datetime": 1788526200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Jim Cramer says it's time to buy the Magnificent Seven again",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a05f4353356c22e2f80b78e9893cd22b0c37672527ae17f28d2c6602c58812d4",
+      "datetime": 1788525740,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "AI Chips Update - AI Circuit Breaker Revolutionizes Security In Autonomous Systems",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=135651ea21dfd112d3ee800d6902fbf7575e6f985127a56ec2b9d7e2098f6e72",
+      "datetime": 1788525440,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "AVGO Stock\u2019s 27% Selloff Is Sending A Signal \u2013 But Morningstar Sees AI Demand Getting Stronger Through 2030",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4a8fbd2b6b50e0aeae3666440614ae5119a3951fabd952c23d344a0423924d38",
+      "datetime": 1788523139,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Social Buzz: Wallstreetbets Stocks Mixed Premarket Friday; Micron to Rise, Lululemon to Fall",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cecbcb46db91037dcb57edd9b539d5b742462d6b908276fb7066f43658f4e3d9",
+      "datetime": 1788521771,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Update: Market Chatter: Nvidia Increases Equity Investments to $99 Billion",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f2d9c9cd6ff8c333319470b65efbaae819d70d28f78809d1bf1e97d015226e1e",
+      "datetime": 1788521224,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom CEO Says AI Demand Could Be \u2018Significantly\u2019 Higher \u2014 But Land, Power, Chips and Substrates Are Holding Back Data Center Deployments",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=36448c27841c178ecc7fd0374dd7dc223e058d7325d0c3ea71983796d785070f",
+      "datetime": 1788520267,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Company News for Sep 4, 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ee5e042ae25be5b02da137233430caeeecde730f208b8dc9cb9ed0361c13970e",
+      "datetime": 1788516900,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Palantir Billionaire Peter Thiel Buys an AI Stock Up 560% in 10 Years (Hint: Not Nvidia)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2a903dd5b68bf809c45e58ea947afa4c20289169754c7dcc9819730ac46ff338",
+      "datetime": 1788516240,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Procter & Gamble: Minimal EPS Growth On The Horizon Limits The Upside",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=09b88b5c55ce54030543ed53115896da3f36d41d620ccc264bf811be7d64224d",
@@ -75,12 +147,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Broadcom: Buy The AI Reset After Q3 Earnings",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=34b56b4fa4cd907affa1a875e6cf74a28e42190bb1dea7d8df6b2ca4505e16d2",
-      "datetime": 1788508655,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+      "ticker": "COR",
+      "headline": "Is Cencora (COR) Still Undervalued On Higher 2026 Guidance And Strong Q3 Earnings?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=04618d4900fe8b37179a5fec0859112f3acea6bc56cd79493d78642e495aae1a",
+      "datetime": 1788509254,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "AMZN",
@@ -89,70 +161,6 @@
       "url": "https://finnhub.io/api/news?id=0203f9a3e127875e285b5b46ac6cee1229c7429903d047c4977c4d2df8b78602",
       "datetime": 1788508321,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Waller Cracks the Door to a September Pause and the Tape Rewards the AI Software Layer",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=e1137d7b3201b2cd54809b0556e12e60c6e1a4424bf8275d93f9da26f9cf0b5a",
-      "datetime": 1788504037,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "OpenAI Declares \u201cAGI Era\u201d With Astra Launch. Anthropic\u2019s Fable 5.1 More Than Doubled Its Predecessor\u2019s Science Score. MSFT and AMZN Both Win, but One Has A Slight Edge",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e5332eae237462b6ab774d53ca05e813f77fb15d434104a9934410e0addfdbe0",
-      "datetime": 1788495090,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Better Consumer Stock for 2026: Amazon.com vs. Walt Disney",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=429aa610495729f4740d060817269bf49848c9b8a351a361a4c4ff6eade346c8",
-      "datetime": 1788491864,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "My 21%+ Yielding Portfolio Update - Latest Changes And Performance",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ba3a5e5fbf9641dc447aab6cf807032db388b2371b1d4e5fb6823c512e098b3f",
-      "datetime": 1788491722,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "The Bull Case For Kyndryl Holdings (KD) Could Change Following Expanded VMware-AI Alliance With Broadcom",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cbbd127ab9d86b521a4cc49fe9699763976aaa7b06e032876852410487292937",
-      "datetime": 1788491387,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Microsoft drops $101.9 billion surprise as AI reshapes company",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=62b589b09e675758a950d2ff51ded5901c1fc14c245f5dbcb92a9fa33c44a3c7",
-      "datetime": 1788489180,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "CDT Insider Sentiment August 2026 - An AI Mountain Of Worry",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=9748644426a1dd629162a26e795f8d7efad52b7db6afe50a35887ee0e3179f67",
-      "datetime": 1788487800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Wall Street sees nearly 40% upside for one AI chip giant",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=80c208a104293a0b38a200d880b03a1bb3a7abcfdf0f344d3953bc0edded90a7",
-      "datetime": 1788484620,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "COR",
@@ -313,14 +321,6 @@
       "url": "https://finnhub.io/api/news?id=a87a58539911b2f7b1a8340946bb4bfa506bdbeb5077dd575f6d64de6d3531e1",
       "datetime": 1788356183,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Cencora\u2019s Accelerate Pharmacy Solutions Launches Cell and Gene Therapy Enablement to Help Health Systems Build and Scale Programs",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d2b0a78c5b2ec6bef921c8a712d6ecb1fbbbb7aa81af14819d5df457b1463590",
-      "datetime": 1788355800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "B",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-04T12:58:17.434048+00:00"
+  "updated_at": "2026-09-04T13:13:17.043946+00:00"
 }
