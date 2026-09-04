@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Review & Preview: Manifesting Steady Rates",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=adc72d8d5af1bd197a45d763805d6b9c1363e9d3e7a4a62da7acb3aa5a9543ef",
+      "datetime": 1788479700,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Hock Tan Just Put a $230 Billion Number on Broadcom's 2028 AI Revenue. That Is 4 Times This Year's.",
       "source": "Yahoo",
@@ -160,14 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3413ec929cf8b8d3bbeafd6ee9b96378ac8cfe451773cf8204bf8f5c4b564066",
       "datetime": 1788469980,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "SpaceX Reclaims $2 Trillion Market Cap As Tech Rally, Cybercab Ties Boost Investor Confidence",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6ceae1059cedd1129072a2328eee5a52d54e2eb597785bb86f401bdb4943b676",
-      "datetime": 1788469923,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-04T01:58:16.977789+00:00"
+  "updated_at": "2026-09-04T02:13:17.144291+00:00"
 }
