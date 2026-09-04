@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Procter & Gamble: Minimal EPS Growth On The Horizon Limits The Upside",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=09b88b5c55ce54030543ed53115896da3f36d41d620ccc264bf811be7d64224d",
+      "datetime": 1788510651,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "The AI Boom Is Eating Its Own Margins",
       "source": "SeekingAlpha",
@@ -145,14 +153,6 @@
       "url": "https://finnhub.io/api/news?id=80c208a104293a0b38a200d880b03a1bb3a7abcfdf0f344d3953bc0edded90a7",
       "datetime": 1788484620,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "SiriusXM: Deutsche Bank Sees Significant Upside From Digital Audio",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4b864eca36ec6b2b10c516aea0eb8e0e35c3ef2e824cb8ea837515cd0fbec64e",
-      "datetime": 1788484533,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "COR",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-04T12:43:16.474870+00:00"
+  "updated_at": "2026-09-04T12:58:17.434048+00:00"
 }
