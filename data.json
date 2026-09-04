@@ -163,6 +163,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "P",
+      "headline": "Bloom Energy, Illumina, and Everpure Set to Join S&P 500; Others to Join S&P 100, S&P MidCap 400, and S&P SmallCap 600",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=10259c61227e86535dc2039ffd57ee45717f635a498623faabf9377b12d1b721",
+      "datetime": 1788542554,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "How Far AMD Stock Can Swing In Its Calm Case",
       "source": "Yahoo",
@@ -227,6 +235,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
+      "ticker": "P",
+      "headline": "If You Invested $100 In Everpure Stock 10 Years Ago, You Would Have This Much Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=bd8c16a0e22193c492cba62d759ee87185281f3febd1852e90dbbc1d5c09f387",
+      "datetime": 1788460242,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "ORLY",
       "headline": "3 Reasons We Love O'Reilly (ORLY)",
       "source": "Yahoo",
@@ -288,22 +304,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e9e40aa58adbdef2f07f7f001e9d563353c7f9a9b459ace15695a9083a224de1",
       "datetime": 1788381936,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "ePlus Achieves Exclusive Ambassador Partner Status with Everpure",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4eb0591b4a4ddbdacbe8445f0d2e7bffc7bdfe5ae291cf42cfd2365c8e27b308",
-      "datetime": 1788381000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "ePlus Secures Everpure Ambassador Certification",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=e41933616cec0f7bf3f5e52954dc7c666452c78c3d75c8c28131b39594bf951c",
-      "datetime": 1788366940,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-04T22:13:16.461908+00:00"
+  "updated_at": "2026-09-04T22:28:16.319777+00:00"
 }
