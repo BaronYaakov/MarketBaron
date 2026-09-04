@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Waller Cracks the Door to a September Pause and the Tape Rewards the AI Software Layer",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=e1137d7b3201b2cd54809b0556e12e60c6e1a4424bf8275d93f9da26f9cf0b5a",
+      "datetime": 1788504037,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "OpenAI Declares \u201cAGI Era\u201d With Astra Launch. Anthropic\u2019s Fable 5.1 More Than Doubled Its Predecessor\u2019s Science Score. MSFT and AMZN Both Win, but One Has A Slight Edge",
       "source": "Yahoo",
@@ -153,14 +161,6 @@
       "url": "https://finnhub.io/api/news?id=543a51cb36faa641af065609a5e92d9ec6ff38653264e75f2b2d0a30f222781c",
       "datetime": 1788475235,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "AI Infrastructure Demand Remains Red-Hot: HPE, AVGO, DELL Deliver",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e55ee262788b3341d46d6385d098edd9db66c1575d30b5de1da6df42371c560a",
-      "datetime": 1788472920,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "COR",
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-04T08:13:16.354704+00:00"
+  "updated_at": "2026-09-04T08:28:16.170587+00:00"
 }
