@@ -171,6 +171,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "CLS Stock Jumps 12% As Broadcom AI Call Sparks Switch Rally",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a2e0cb97662bef257ad3a6e6f56c60dc0c59416567f2f425a208eed3f6bb1e34",
+      "datetime": 1788466950,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "P",
       "headline": "NetApp Stock Climbs After Earnings Beat, Shaking Off Initial Slide",
       "source": "Yahoo",
@@ -291,6 +299,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Should Investors Buy CLS Stock as Earnings Estimates Improve?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3a7861f46081e0c85778790a9150ee5927016303f6043cfb8eb02f55abbc91d6",
+      "datetime": 1788361440,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "ORLY",
       "headline": "Q2 Earnings Highlights: O'Reilly (NASDAQ:ORLY) Vs The Rest Of The Auto Parts Retailer Stocks",
       "source": "Yahoo",
@@ -316,10 +332,26 @@
     },
     {
       "ticker": "CLS",
-      "headline": "Celestica (NYSE:CLS): An Affordable Growth Opportunity",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=465bbe58115f6e9ea75ff660eeb1ac07da21b33307971c04c35c6cb11f9b2494",
-      "datetime": 1788264714,
+      "headline": "3 AI Stocks With At Least 18% Earnings Growth",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3515f6cab8ec7e38289a44bc15d715e63f34fe32f26c7091ecdee5dcc75dc6ec",
+      "datetime": 1788308555,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "3 Lesser Discussed Stocks That Offer Meaningful AI Exposure",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=55625929bf234e4bb53943f6cb6d477c8ba3ef2d1ea3b35d57eedab5ebf900c1",
+      "datetime": 1788306720,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Two Stocks That Will Benefit From OpenAI Announcement",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9bf5ee1b316219bd73a73592ec1ac4f516654fa266fb81e2c84bfaf387afd598",
+      "datetime": 1788299401,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
@@ -361,14 +393,6 @@
       "url": "https://finnhub.io/api/news?id=d37cfb6a552f827ced25117ce583f84268eca554c00e0614966ab3586069b2d1",
       "datetime": 1787934628,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica: When Growth Won't Fund Itself (Rating Upgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=46d08db6f5e6c2f164a700053d2ed4ab13c11dd28127d5084099c97a81390827",
-      "datetime": 1787899491,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     }
   ],
   "recent_posts": [],
@@ -576,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-04T10:13:16.254313+00:00"
+  "updated_at": "2026-09-04T10:28:16.215798+00:00"
 }
