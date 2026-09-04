@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Broadcom: Buy The AI Reset After Q3 Earnings",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=34b56b4fa4cd907affa1a875e6cf74a28e42190bb1dea7d8df6b2ca4505e16d2",
+      "datetime": 1788508655,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Liftoff Mobile: A Fine Business, Fair Price, But I Think Smadex Is The Better Trade",
       "source": "SeekingAlpha",
@@ -144,14 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b37fd1d13d880cb8fecf07556978e321b5448d4ecf29bae8e3d5613ecb23c04b",
       "datetime": 1788477121,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia Is Now Paying to Train Plumbers, and the Stock That Should Benefit Most Just Hit a 52-Week Low",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cfff816a3678757dc1be54563abe9c35d7feb4134cf524e0134f8129f95492c1",
-      "datetime": 1788476959,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-04T12:13:16.884125+00:00"
+  "updated_at": "2026-09-04T12:28:17.244877+00:00"
 }
