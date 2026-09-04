@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "The AI Boom Is Eating Its Own Margins",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b1f7e5b7eede59329c530114bbe353329f68a74d74cdcc0a7f9d1b0032fdc805",
+      "datetime": 1788509514,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Broadcom: Buy The AI Reset After Q3 Earnings",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=34b56b4fa4cd907affa1a875e6cf74a28e42190bb1dea7d8df6b2ca4505e16d2",
@@ -145,14 +153,6 @@
       "url": "https://finnhub.io/api/news?id=4b864eca36ec6b2b10c516aea0eb8e0e35c3ef2e824cb8ea837515cd0fbec64e",
       "datetime": 1788484533,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Hock Tan Just Put a $230 Billion Number on Broadcom's 2028 AI Revenue. That Is 4 Times This Year's.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b37fd1d13d880cb8fecf07556978e321b5448d4ecf29bae8e3d5613ecb23c04b",
-      "datetime": 1788477121,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "COR",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-04T12:28:17.244877+00:00"
+  "updated_at": "2026-09-04T12:43:16.474870+00:00"
 }
