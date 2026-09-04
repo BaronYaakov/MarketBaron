@@ -76,6 +76,14 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "My 21%+ Yielding Portfolio Update - Latest Changes And Performance",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ba3a5e5fbf9641dc447aab6cf807032db388b2371b1d4e5fb6823c512e098b3f",
+      "datetime": 1788491722,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "The Bull Case For Kyndryl Holdings (KD) Could Change Following Expanded VMware-AI Alliance With Broadcom",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=cbbd127ab9d86b521a4cc49fe9699763976aaa7b06e032876852410487292937",
@@ -161,14 +169,6 @@
       "url": "https://finnhub.io/api/news?id=7f06d643160898f1cbdc391a8a9105109c98cd0a5edf1bf978d1a4c97a7e8a62",
       "datetime": 1788472375,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Stock Market Today: Nasdaq Leads Charge As Jobs Data Looms; NetApp Tests Support (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e6f09c6ffa905ccf9ed76d736c0d2d850c557c9ec20d84c758d1c782ed99423e",
-      "datetime": 1788471002,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-04T07:28:15.695611+00:00"
+  "updated_at": "2026-09-04T07:43:15.805748+00:00"
 }
