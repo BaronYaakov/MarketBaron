@@ -59,11 +59,27 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "David Tepper Sold 41% of His Micron Shares and It Is Still His Second-Biggest Holding",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9d3350274a8c6433c826ac5b3e477c01df84cdf5320d257609a47ea71a307de9",
+      "datetime": 1788557641,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Marvell Stock Had A Huge Year And Still Sits Well Below Its High",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=33a19c727a8e65adfa057a149bcbbd12eabac6a3f64ffc7c9bdb04767afab37c",
       "datetime": 1788557272,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Top Research Reports for Apple, Broadcom & Shell",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d180a4b55542c389cf6aba25f41a111377c11d398072f9790814e4a23b323580",
+      "datetime": 1788556560,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -123,28 +139,20 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "DOJ expands beef price probe to eight retailers, including Walmart and Amazon, with inflation a key issue ahead of midterm elections",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9bbad406a237f83fd6a4847379b3f18b63dac37db772f7dcbd790b938b98fff7",
+      "datetime": 1788547502,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Top 3 AI Stocks To Watch In September 2026",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fc6215a55b3ab9525805e471d0adcad1faf82fad0e378bcd30a22cd0d53ebb1d",
       "datetime": 1788545912,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Jim Cramer Says Buy the Magnificent Seven Again, Traders See Nvidia as Clear Winner",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dce760970cf0a2cf53c37f4df1010ba2adab3cf6cba254a568ccd4bdcabb3435",
-      "datetime": 1788545433,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Lone Star JV Acquires 2M SF Of R&D Space In Silicon Valley",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5bd8d88f316773724a17eccc0d618a50503264b2f3364dfdef5c21c243a40929",
-      "datetime": 1788545327,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -160,14 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7142edd1731b2497e89a8890ef4e2b59398cd1451e4a53179189df624a19ba2f",
       "datetime": 1788539474,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Stocks Fall, Rebound Bullishly; Snowflake, Dell, Tesla, Jobs Report In Focus: Weekly Review",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=079002c7baf993ff7180c4cf43ac325fe8aa2a8bbc75536a6e702d4840b7107a",
-      "datetime": 1788538157,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-04T21:58:16.836508+00:00"
+  "updated_at": "2026-09-04T22:13:16.461908+00:00"
 }
