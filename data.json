@@ -91,6 +91,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "CDT Insider Sentiment August 2026 - An AI Mountain Of Worry",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9748644426a1dd629162a26e795f8d7efad52b7db6afe50a35887ee0e3179f67",
+      "datetime": 1788487800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Wall Street sees nearly 40% upside for one AI chip giant",
       "source": "Yahoo",
@@ -129,14 +137,6 @@
       "url": "https://finnhub.io/api/news?id=cfff816a3678757dc1be54563abe9c35d7feb4134cf524e0134f8129f95492c1",
       "datetime": 1788476959,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "What Amazon.com (AMZN)'s Riverside Warehouse Strike Reveals About Labor Risk in Its Logistics Model",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9ef8cb261c6771c2ee299a911af12007853d7b8869a2027e0e2995a35ac1dd44",
-      "datetime": 1788476935,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "COR",
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-04T06:28:15.714712+00:00"
+  "updated_at": "2026-09-04T06:43:15.952704+00:00"
 }
