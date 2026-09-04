@@ -60,6 +60,46 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Better Consumer Stock for 2026: Amazon.com vs. Walt Disney",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=429aa610495729f4740d060817269bf49848c9b8a351a361a4c4ff6eade346c8",
+      "datetime": 1788491864,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "The Bull Case For Kyndryl Holdings (KD) Could Change Following Expanded VMware-AI Alliance With Broadcom",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cbbd127ab9d86b521a4cc49fe9699763976aaa7b06e032876852410487292937",
+      "datetime": 1788491387,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Microsoft drops $101.9 billion surprise as AI reshapes company",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=62b589b09e675758a950d2ff51ded5901c1fc14c245f5dbcb92a9fa33c44a3c7",
+      "datetime": 1788489180,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Wall Street sees nearly 40% upside for one AI chip giant",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=80c208a104293a0b38a200d880b03a1bb3a7abcfdf0f344d3953bc0edded90a7",
+      "datetime": 1788484620,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "SiriusXM: Deutsche Bank Sees Significant Upside From Digital Audio",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4b864eca36ec6b2b10c516aea0eb8e0e35c3ef2e824cb8ea837515cd0fbec64e",
+      "datetime": 1788484533,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Review & Preview: Manifesting Steady Rates",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=adc72d8d5af1bd197a45d763805d6b9c1363e9d3e7a4a62da7acb3aa5a9543ef",
@@ -115,14 +155,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Costco Stock Is Priced For Two Good Years, Is That A Safe Bet?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=25d4af48ad217e8f3a8f62498dc4673b0c0b084f7bb7f5c8b0db90f3e5c5cab3",
-      "datetime": 1788472817,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Jim Cramer Notes Cardinal Health (CAH) is \u201cToo Attractive to Ignore\u201d",
       "source": "Yahoo",
@@ -137,38 +169,6 @@
       "url": "https://finnhub.io/api/news?id=e6f09c6ffa905ccf9ed76d736c0d2d850c557c9ec20d84c758d1c782ed99423e",
       "datetime": 1788471002,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Walmart Jumps Nearly 2.8% as Justice Department Widens Beef-Pricing Review",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a0271895d125cf03a744e6d2891541b2717b9dcc817bf83b32a9e9d789b46de6",
-      "datetime": 1788470893,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Shares Fall 5.6% Even as Revenue Surges 86%",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4aca8b06af519c34bb68ec61e22bd7d2d62d74dfd632ec9d30c0c438ddcb858f",
-      "datetime": 1788470420,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Should You Buy Marvell Stock Because Its Operating Margin Keeps Widening?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fed7f650e1edb9385988469941a361630ab1832a2d80d3233bf03cedd534bc52",
-      "datetime": 1788470392,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon vs. Microsoft: 1 Key Metric Identifies the Superior Artificial Intelligence (AI) Cloud Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3413ec929cf8b8d3bbeafd6ee9b96378ac8cfe451773cf8204bf8f5c4b564066",
-      "datetime": 1788469980,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -368,22 +368,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=46d08db6f5e6c2f164a700053d2ed4ab13c11dd28127d5084099c97a81390827",
       "datetime": 1787899491,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Is Wall Street Bullish or Bearish on O'Reilly Automotive Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2261dbac53e424a49f8982e9c1d854c9ee61159aa1e759fc10f8c06ed645b92e",
-      "datetime": 1787845443,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica Could Benefit Massively From Jalape\u00f1o Chip Ramps (Rating Upgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ba86d2286e64e5ca69df03a76da12a296bfa86fae2b7b22099cbb65352a9b31a",
-      "datetime": 1787815212,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     }
   ],
@@ -592,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-04T04:58:17.698808+00:00"
+  "updated_at": "2026-09-04T05:13:17.528242+00:00"
 }
