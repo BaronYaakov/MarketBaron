@@ -34,7 +34,7 @@
       "day_change_pct": 0.0,
       "all_time_gain_pct": 15.77,
       "day_change_source": "ibkr",
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "ORLY",
@@ -88,7 +88,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=543a51cb36faa641af065609a5e92d9ec6ff38653264e75f2b2d0a30f222781c",
       "datetime": 1788475235,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "AMZN",
@@ -120,7 +120,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7f06d643160898f1cbdc391a8a9105109c98cd0a5edf1bf978d1a4c97a7e8a62",
       "datetime": 1788472375,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "AVGO",
@@ -184,7 +184,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2e84096df15ac30b56cad9794a7c930f96ca0a6d437a48ac470b179160eb83fb",
       "datetime": 1788463320,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "ORLY",
@@ -216,7 +216,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=328a82c3d457909e88b69b893d71448dd5d5c025b99eb4233343050a4eaa9df2",
       "datetime": 1788441720,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "COR",
@@ -224,7 +224,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2ec6ee90c8383466911256286110d4360d06af68636e174e412366405b4fde12",
       "datetime": 1788441099,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "CLS",
@@ -304,7 +304,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d2b0a78c5b2ec6bef921c8a712d6ecb1fbbbb7aa81af14819d5df457b1463590",
       "datetime": 1788355800,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "B",
@@ -467,7 +467,9 @@
       "day_high": 45.81,
       "day_low": 44.78,
       "prev_close": 44.13,
-      "day_change_pct": 3.69
+      "day_change_pct": 3.69,
+      "week52_high": 74.0,
+      "week52_low": 37.09
     },
     "CLS": {
       "name": "Celestica Inc",
@@ -484,9 +486,20 @@
       "day_high": 314.09,
       "day_low": 280.7,
       "prev_close": 277.77,
-      "day_change_pct": 11.55
+      "day_change_pct": 11.55,
+      "week52_high": 655.5,
+      "week52_low": 275.62
     },
     "COR": {
+      "name": "Cencora Inc",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png",
+      "industry": "Health Care",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "website": "https://www.cencora.com/",
+      "ipo_date": "1996-05-28",
+      "market_cap_musd": 64350.73848475431,
+      "country": "US",
+      "currency": "USD",
       "price": 337.22,
       "open": 337.9,
       "day_high": 338.71,
@@ -579,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-04T00:14:01.727046+00:00"
+  "updated_at": "2026-09-04T00:28:20.094180+00:00"
 }
