@@ -92,6 +92,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "SpaceX Offers Exponential Upside And Extreme Risk",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=339e975b88d11ac6271667e1618bcc0c0700bb92068e34f677ebb50ec802e5e6",
+      "datetime": 1788600796,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon: 2 Tiny Fears, 3 Massive Growth Engines",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=c8521f07cf64344ed6af6c47f00a7762642342d043586c3b584dae10135e3352",
@@ -137,14 +145,6 @@
       "url": "https://finnhub.io/api/news?id=c1d8669e69b6f463738a0b73cf1fb3a8d6f4e8ad7a78361ac19711797ac441d0",
       "datetime": 1788568979,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Barnes & Noble tops 720 stores in major revival",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=97c7c302e822cff4ee917b0db90fee9cf38685b0bced8f8b1a7e8eaf8756e8dd",
-      "datetime": 1788568575,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-05T13:43:16.093221+00:00"
+  "updated_at": "2026-09-05T13:58:16.145494+00:00"
 }
