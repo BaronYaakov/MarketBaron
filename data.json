@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "If You Buy Amazon With $10,000 at a 10% Discount From Its High, Here's What I Predict It Could Be Worth in 10 Years",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=179ce7ea60cb1e3a0b52854075f1d613a6a13b79a04020e734c882047162f692",
+      "datetime": 1788616200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom\u2019s Upcoming Report Is the AI Infrastructure Trade\u2019s Next Pivotal Test",
       "source": "ChartMill",
@@ -129,14 +137,6 @@
       "url": "https://finnhub.io/api/news?id=c51d4f60ed73f68c4d09ab84156f559ef34f8a63b06ece84c28f19dde5d80a93",
       "datetime": 1788575879,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Stock At 20x P/E: A Textbook GARP Opportunity",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=f5e2381a3edeb9222c3c8f657ad412eadfbc02b2a0ae3f98196a3fe07fe51888",
-      "datetime": 1788575462,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-05T13:58:16.145494+00:00"
+  "updated_at": "2026-09-05T14:13:15.950609+00:00"
 }
