@@ -67,6 +67,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "P",
+      "headline": "Bloom Energy, Illumina, Everpure Rise On S&P 500 Inclusion",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9cd48a5bec0ba5b8c330acaf6324b67a1597b5caac77b86baeac115e764b8c52",
+      "datetime": 1788565146,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom (AVGO) Stock Is Down After Q3 Earnings: Is It Too Soon to Buy the Dip?",
       "source": "Yahoo",
@@ -81,6 +89,22 @@
       "url": "https://finnhub.io/api/news?id=20d30617a5a17ce27ce5e98bb4c35c6e1ed0cad8e7a279655369f8de7f334764",
       "datetime": 1788563719,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Bloom Energy, Illumina, and Everpure set to join S&P 500 in quarterly rebalance",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4733fbc4cf9f5032ac5582146394cd9602665db2e1b75dfcd6a4b4d5d63b3cb4",
+      "datetime": 1788563348,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Bloom Energy and These 2 Stocks Are Joining the S&P 500",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=409560d84f09750012b296f2150733ade3491cf5333794bab8f10d8ef449e0fa",
+      "datetime": 1788560160,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "AMZN",
@@ -235,14 +259,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "P",
-      "headline": "If You Invested $100 In Everpure Stock 10 Years Ago, You Would Have This Much Today",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=bd8c16a0e22193c492cba62d759ee87185281f3febd1852e90dbbc1d5c09f387",
-      "datetime": 1788460242,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "3 Reasons We Love O'Reilly (ORLY)",
       "source": "Yahoo",
@@ -257,14 +273,6 @@
       "url": "https://finnhub.io/api/news?id=28d231380c51a7ad4c38461c601e1c8a16372da488abc71fce9a61ab4ecdf74a",
       "datetime": 1788449373,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Why NetApp Stock Is Falling Despite A Big Earnings Beat",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3162805bf3cb4217a079ffca7581120931819ec71115fbd3ac1d25d52921b7b6",
-      "datetime": 1788444024,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "CLS",
@@ -297,14 +305,6 @@
       "url": "https://finnhub.io/api/news?id=7894468d95567f6c79995a4012a5dbad60447e485fb3afc663dc7274a112c37d",
       "datetime": 1788419143,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "NetApp Stock Slides Despite Earnings Beat",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e9e40aa58adbdef2f07f7f001e9d563353c7f9a9b459ace15695a9083a224de1",
-      "datetime": 1788381936,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "CLS",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-05T00:13:16.780846+00:00"
+  "updated_at": "2026-09-05T00:28:15.712503+00:00"
 }
