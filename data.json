@@ -68,6 +68,14 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "Broadcom: The $350 Billion AI Signal Has A $29 Billion Footnote",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4a957a36461a14b44c31074dca27a2577e27ff6326f67b70ee770161e499b813",
+      "datetime": 1788586217,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Broadcom: The Market Has It Wrong",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=c51d4f60ed73f68c4d09ab84156f559ef34f8a63b06ece84c28f19dde5d80a93",
@@ -177,14 +185,6 @@
       "url": "https://finnhub.io/api/news?id=9d3350274a8c6433c826ac5b3e477c01df84cdf5320d257609a47ea71a307de9",
       "datetime": 1788557641,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Marvell Stock Had A Huge Year And Still Sits Well Below Its High",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=33a19c727a8e65adfa057a149bcbbd12eabac6a3f64ffc7c9bdb04767afab37c",
-      "datetime": 1788557272,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-05T09:43:15.367605+00:00"
+  "updated_at": "2026-09-05T09:58:15.526138+00:00"
 }
