@@ -243,6 +243,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
+      "ticker": "B",
+      "headline": "Gold miners and bitcoin stocks fall on strong jobs data",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=888568c3413c102c6b1a946b289488c5602dc955089eddc582df97af583a8455",
+      "datetime": 1788529279,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "COR",
       "headline": "Is Cencora (COR) Still Undervalued On Higher 2026 Guidance And Strong Q3 Earnings?",
       "source": "Yahoo",
@@ -292,6 +300,14 @@
     },
     {
       "ticker": "B",
+      "headline": "Barrick Mining Trading at a Discount: Should You Buy the Stock Now?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5697814d29fa50608743744efdf69d6e7722dd2cf2ad79afe9e07f13e01e0e71",
+      "datetime": 1788440040,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
+      "ticker": "B",
       "headline": "Citigroup Reinstates Neutral on Barrick Mining, Announces $45 Price Target",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=2a982e801186888851dc606fffafd44a3f8554f777a4b2601e6fe315e86b6854",
@@ -331,14 +347,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "B",
-      "headline": "'Barrick Is Said to Weigh Delaying North America Gold IPO to 2027' - Bloomberg",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=a714cdd00cf26659cdee91bf2fe560cc5e0fac091895a73f951a99d6a1d93e50",
-      "datetime": 1788353878,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "3 AI Stocks With At Least 18% Earnings Growth",
       "source": "Yahoo",
@@ -361,14 +369,6 @@
       "url": "https://finnhub.io/api/news?id=fd5ee68a34606d8f56438cd6c7182483380497c6c1cf288e4c453182bf0a8f0a",
       "datetime": 1788214511,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Here's How Much $1000 Invested In Barrick Mining 5 Years Ago Would Be Worth Today",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=0bcb08f51330bfdf5ee243b35b40c69190423aaef3747104c9fb053bca5beb6d",
-      "datetime": 1788179435,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     }
   ],
   "recent_posts": [],
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-05T19:43:16.326735+00:00"
+  "updated_at": "2026-09-05T19:58:16.360315+00:00"
 }
