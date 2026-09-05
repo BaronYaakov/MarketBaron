@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "P",
+      "headline": "Everpure (P) Unveils Energy Efficient Storage And Tougher ESG Reporting",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4623065736d47cb2e455e6272693fe4cb8f33761ac7f929c3bd67b74a419e994",
+      "datetime": 1788639023,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Prediction: Amazon Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club Before 2029",
       "source": "Yahoo",
@@ -89,6 +97,22 @@
       "url": "https://finnhub.io/api/news?id=1d9174c1f988940cc1975ab40426136f1e5e7a4a3b921633c2145cdc1d11d5eb",
       "datetime": 1788630300,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Michael Dell\u2019s Net Worth Up $110 Billion So Far 2026: Why the Surge May Continue",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=5d8fde8474956130cb95bbe2618fb4e7954f56a1d0128a63995f07b867493262",
+      "datetime": 1788626405,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Michael Dell\u2019s Net Worth Up $110 Billion So Far 2026: Why the Surge May Continue",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=5d8fde8474956130cb95bbe2618fb4e7954f56a1d0128a63995f07b867493262",
+      "datetime": 1788626405,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
@@ -131,27 +155,11 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Jim Cramer Says \u201cOwn It, Don\u2019t Trade It\u201d as CVS Health Gains Momentum",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6619411ceaa1efbb1ed0ef4abfe8c96999c54ce69f6f08ca3c1b59d458fc62b9",
-      "datetime": 1788604326,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "LULU, AVGO, DELL, SNOW, GOOGL: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=d932b32e68b90e46469e153ab124503fde3999ed8768a0e2d95e6b563e8eebea",
       "datetime": 1788600358,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom And 2 Other Undervalued Stocks To Own",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=69d699d56a861ec9c4d03e3779633003e2f46c2d3d1b4c920e9c5c1ae9b2a7ab",
-      "datetime": 1788588893,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -217,14 +225,6 @@
       "url": "https://finnhub.io/api/news?id=0adbde8d30092eae3565801426e9311010635a90b7bf2e322b05515a5cbb13b0",
       "datetime": 1788538604,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Bloom Energy, Astera Rally On Hopes They Will Join S&P Friday; Who Else Could Be Added",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3c516e726b9aa98799bfd614b2a406706faaf70f97eb6c523b8d83da7be41d89",
-      "datetime": 1788537660,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "COR",
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-05T22:13:16.481313+00:00"
+  "updated_at": "2026-09-05T22:28:25.118701+00:00"
 }
