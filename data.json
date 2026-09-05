@@ -60,6 +60,22 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Jim Cramer has a blunt message for Amazon stock investors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4b8a03cd47875345ac32fe3f33cb893ca3ed65cb86e14aa8129b02a6a0498df9",
+      "datetime": 1788606180,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Jim Cramer Says \u201cOwn It, Don\u2019t Trade It\u201d as CVS Health Gains Momentum",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6619411ceaa1efbb1ed0ef4abfe8c96999c54ce69f6f08ca3c1b59d458fc62b9",
+      "datetime": 1788604326,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon, Alphabet, and Microsoft: Two I'm Buying and One I'm Selling",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b49a12a2280f98ea7df336d9d898d9719782308d1835256ed6df4f4f8eab6bd6",
@@ -139,14 +155,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "AWS Plans 2 Million More NVIDIA GPUs. Is This Better News for AMZN\u2019s Cloud Growth or NVDA\u2019s Backlog?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f6b9f36a37d028d8a79a72f803fd07ef6925ba669ef79ed010f22b1c59c53d75",
-      "datetime": 1788566659,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Jim Cramer Says \u201cSomeone Must Know Something\u201d About Broadcom Inc. (NASDAQ:AVGO)\u2019s Post-Earnings Share Dip",
       "source": "Yahoo",
@@ -169,14 +177,6 @@
       "url": "https://finnhub.io/api/news?id=b5512c662b984a87a878dcf4afd4a8ffafbea4932a2b2c3ac06d3de9cee73fe1",
       "datetime": 1788564000,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Sirius XM (SIRI) Stock Still Looks Cheap On Cash Flow And Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=20d30617a5a17ce27ce5e98bb4c35c6e1ed0cad8e7a279655369f8de7f334764",
-      "datetime": 1788563719,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-05T11:58:15.850753+00:00"
+  "updated_at": "2026-09-05T12:13:15.986712+00:00"
 }
