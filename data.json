@@ -59,6 +59,30 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Jim Cramer Says \u201cSomeone Must Know Something\u201d About Broadcom Inc. (NASDAQ:AVGO)\u2019s Post-Earnings Share Dip",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=66ef69aa4128f8f327622cbf3691a740a7ed8651a25a862fb05598b79f0e4d50",
+      "datetime": 1788565901,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom (AVGO) Stock Is Down After Q3 Earnings: Is It Too Soon to Buy the Dip?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b5512c662b984a87a878dcf4afd4a8ffafbea4932a2b2c3ac06d3de9cee73fe1",
+      "datetime": 1788564000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Sirius XM (SIRI) Stock Still Looks Cheap On Cash Flow And Earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=20d30617a5a17ce27ce5e98bb4c35c6e1ed0cad8e7a279655369f8de7f334764",
+      "datetime": 1788563719,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "David Tepper Sold 41% of His Micron Shares and It Is Still His Second-Biggest Holding",
       "source": "Yahoo",
@@ -139,27 +163,11 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "DOJ expands beef price probe to eight retailers, including Walmart and Amazon, with inflation a key issue ahead of midterm elections",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9bbad406a237f83fd6a4847379b3f18b63dac37db772f7dcbd790b938b98fff7",
-      "datetime": 1788547502,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Top 3 AI Stocks To Watch In September 2026",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fc6215a55b3ab9525805e471d0adcad1faf82fad0e378bcd30a22cd0d53ebb1d",
       "datetime": 1788545912,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Micron, SanDisk Lead Memory Chip Stocks Rally on Strong AI Demand",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5ff80f7a09c6a44b5cca67c42ac64051e2e4e2fb3e0e31e620dba29a4ccbc4ba",
-      "datetime": 1788543887,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -169,14 +177,6 @@
       "url": "https://finnhub.io/api/news?id=10259c61227e86535dc2039ffd57ee45717f635a498623faabf9377b12d1b721",
       "datetime": 1788542554,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "How Far AMD Stock Can Swing In Its Calm Case",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7142edd1731b2497e89a8890ef4e2b59398cd1451e4a53179189df624a19ba2f",
-      "datetime": 1788539474,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -448,7 +448,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1699884.3308597922,
+      "market_cap_musd": 1702714.139519276,
       "country": "US",
       "currency": "USD",
       "price": 357.89,
@@ -496,7 +496,7 @@
       "prev_close": 309.84,
       "day_change_pct": 0.81,
       "week52_high": 655.5,
-      "week52_low": 275.62
+      "week52_low": 289.01
     },
     "COR": {
       "name": "Cencora Inc",
@@ -505,7 +505,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 63738.66334128758,
+      "market_cap_musd": 63154.25510362374,
       "country": "US",
       "currency": "USD",
       "price": 330.95,
@@ -524,7 +524,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 70905.4132432994,
+      "market_cap_musd": 71099.56383289883,
       "country": "US",
       "currency": "USD",
       "price": 87.89,
@@ -543,7 +543,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 8058.6769936823375,
+      "market_cap_musd": 7962.761907074396,
       "country": "US",
       "currency": "USD",
       "price": 22.0,
@@ -562,7 +562,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 32484.273046261587,
+      "market_cap_musd": 33077.61586936292,
       "country": "US",
       "currency": "USD",
       "price": 99.51,
@@ -581,7 +581,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2760990.1035801135,
+      "market_cap_musd": 2788370.0835424517,
       "country": "US",
       "currency": "USD",
       "price": 258.51,
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-04T23:58:16.040890+00:00"
+  "updated_at": "2026-09-05T00:13:16.780846+00:00"
 }
