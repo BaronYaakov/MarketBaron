@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Broadcom\u2019s Upcoming Report Is the AI Infrastructure Trade\u2019s Next Pivotal Test",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=cffa32dda303e57d5a442ce8d33048110d6b08d1386d1412d615619881576e89",
+      "datetime": 1788611923,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Jim Cramer has a blunt message for Amazon stock investors",
       "source": "Yahoo",
@@ -169,14 +177,6 @@
       "url": "https://finnhub.io/api/news?id=9cd48a5bec0ba5b8c330acaf6324b67a1597b5caac77b86baeac115e764b8c52",
       "datetime": 1788565146,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom (AVGO) Stock Is Down After Q3 Earnings: Is It Too Soon to Buy the Dip?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b5512c662b984a87a878dcf4afd4a8ffafbea4932a2b2c3ac06d3de9cee73fe1",
-      "datetime": 1788564000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-05T12:58:15.881914+00:00"
+  "updated_at": "2026-09-05T13:13:15.910767+00:00"
 }
