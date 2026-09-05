@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Broadcom (AVGO) AI Revenue Soars, But Wall Street Wants More",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5535ab9ca5eb0e8a673a798f8e2b375766bd75c543542b2a8611ca3b37f73859",
+      "datetime": 1788620318,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "If You Buy Amazon With $10,000 at a 10% Discount From Its High, Here's What I Predict It Could Be Worth in 10 Years",
       "source": "Yahoo",
@@ -161,14 +169,6 @@
       "url": "https://finnhub.io/api/news?id=1f2abd83e90d07d31c13eb14b213027822c84c4c217ea9d3e0e8d77d84a07d30",
       "datetime": 1788567300,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Jim Cramer Says \u201cSomeone Must Know Something\u201d About Broadcom Inc. (NASDAQ:AVGO)\u2019s Post-Earnings Share Dip",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=66ef69aa4128f8f327622cbf3691a740a7ed8651a25a862fb05598b79f0e4d50",
-      "datetime": 1788565901,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-05T15:58:16.208273+00:00"
+  "updated_at": "2026-09-05T16:13:16.228673+00:00"
 }
