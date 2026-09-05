@@ -123,6 +123,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "LULU, AVGO, DELL, SNOW, GOOGL: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=d932b32e68b90e46469e153ab124503fde3999ed8768a0e2d95e6b563e8eebea",
+      "datetime": 1788600358,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Amazon: 2 Tiny Fears, 3 Massive Growth Engines",
       "source": "SeekingAlpha",
@@ -144,14 +152,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=4a957a36461a14b44c31074dca27a2577e27ff6326f67b70ee770161e499b813",
       "datetime": 1788586217,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom: The Market Has It Wrong",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c51d4f60ed73f68c4d09ab84156f559ef34f8a63b06ece84c28f19dde5d80a93",
-      "datetime": 1788575879,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-05T18:28:16.480545+00:00"
+  "updated_at": "2026-09-05T18:43:16.230343+00:00"
 }
