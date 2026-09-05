@@ -59,6 +59,46 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "P",
+      "headline": "BE, P, ILMN Join S&P 500; LNG Misses Out \u2014 Bloom Energy Stock Gains While Cheniere Energy Slips",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c1d8669e69b6f463738a0b73cf1fb3a8d6f4e8ad7a78361ac19711797ac441d0",
+      "datetime": 1788568979,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Barnes & Noble tops 720 stores in major revival",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=97c7c302e822cff4ee917b0db90fee9cf38685b0bced8f8b1a7e8eaf8756e8dd",
+      "datetime": 1788568575,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Why Broadcom CEO Hock Tan Called Anthropic and OpenAI 'Two Geniuses in the Middle of Mongolia'",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=be55153244c41ddb356452f332d5e480e3a2753466c33165a63d1466c2521fd7",
+      "datetime": 1788568226,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Bloom Energy, Illumina, and Everpure Set to Join S&P 500; Others to Join S&P 100, S&P MidCap 400, and S&P SmallCap 600",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1f2abd83e90d07d31c13eb14b213027822c84c4c217ea9d3e0e8d77d84a07d30",
+      "datetime": 1788567300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "AWS Plans 2 Million More NVIDIA GPUs. Is This Better News for AMZN\u2019s Cloud Growth or NVDA\u2019s Backlog?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f6b9f36a37d028d8a79a72f803fd07ef6925ba669ef79ed010f22b1c59c53d75",
+      "datetime": 1788566659,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Jim Cramer Says \u201cSomeone Must Know Something\u201d About Broadcom Inc. (NASDAQ:AVGO)\u2019s Post-Earnings Share Dip",
       "source": "Yahoo",
@@ -163,44 +203,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "3 REITs Getting Paid as Big Tech Builds Out AI",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7e8844f96f7bd73e24adf663cb705ebe7ee0bbda5f1e3d14d4f81a9564192b13",
-      "datetime": 1788549777,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Cramer Says the Magnificent Seven Are Finally Cheap and Most Investors Will Miss It",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1bee371d9a95a42566efa671f28c5f6348ee766125af29e1ae54c50f8e240718",
-      "datetime": 1788548450,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "COR",
       "headline": "AbbVie vs. Pfizer: Which Healthcare Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=882e78db4092ee8e4a4f8c9153c570608198427b13f54f3413147816ac706bb2",
       "datetime": 1788547801,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Top 3 AI Stocks To Watch In September 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fc6215a55b3ab9525805e471d0adcad1faf82fad0e378bcd30a22cd0d53ebb1d",
-      "datetime": 1788545912,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Bloom Energy, Illumina, and Everpure Set to Join S&P 500; Others to Join S&P 100, S&P MidCap 400, and S&P SmallCap 600",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=10259c61227e86535dc2039ffd57ee45717f635a498623faabf9377b12d1b721",
-      "datetime": 1788542554,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "P",
@@ -249,14 +257,6 @@
       "url": "https://finnhub.io/api/news?id=a2e0cb97662bef257ad3a6e6f56c60dc0c59416567f2f425a208eed3f6bb1e34",
       "datetime": 1788466950,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "NetApp Stock Climbs After Earnings Beat, Shaking Off Initial Slide",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5f1f17c8bb1127ed14e8a4c58fb95eb489842ee5d3a961bed6199d1b30165b07",
-      "datetime": 1788463892,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "ORLY",
@@ -369,30 +369,6 @@
       "url": "https://finnhub.io/api/news?id=0bcb08f51330bfdf5ee243b35b40c69190423aaef3747104c9fb053bca5beb6d",
       "datetime": 1788179435,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Dividend Champion, Contender, And Challenger Highlights: Week August 30",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=a70f356816315e6c1cffbf3ddb6582552dedd39464f32f29f67f627611d5c738",
-      "datetime": 1787954658,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Here\u2019s How Much You Would Have Made Owning O'Reilly Automotive Stock In The Last 20 Years",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=e1f79ea28fc60489c1d45a19c68253b919eeeb4116290baf5c357c9eb0efe1e4",
-      "datetime": 1787934648,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Why Is O'Reilly Automotive (ORLY) Up 0.5% Since Last Earnings Report?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d37cfb6a552f827ced25117ce583f84268eca554c00e0614966ab3586069b2d1",
-      "datetime": 1787934628,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     }
   ],
   "recent_posts": [],
@@ -600,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-05T04:58:15.747821+00:00"
+  "updated_at": "2026-09-05T05:13:15.491400+00:00"
 }
