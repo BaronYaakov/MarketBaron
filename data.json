@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Amazon Stock At 20x P/E: A Textbook GARP Opportunity",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f5e2381a3edeb9222c3c8f657ad412eadfbc02b2a0ae3f98196a3fe07fe51888",
+      "datetime": 1788575462,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "P",
       "headline": "BE, P, ILMN Join S&P 500; LNG Misses Out \u2014 Bloom Energy Stock Gains While Cheniere Energy Slips",
       "source": "Yahoo",
@@ -193,14 +201,6 @@
       "url": "https://finnhub.io/api/news?id=4521da65387b1edfe02b09e78249415553f3c231a03dbadecd6f07e26011f0f1",
       "datetime": 1788550740,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon's $100 Billion Anthropic Contract Gets a 45% Cheaper Engine",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=194d12b09b91aa6894ab1cfaffb277e2a1a6dfd30c53d527cf70044543ad37b9",
-      "datetime": 1788550640,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "COR",
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-05T06:43:15.833430+00:00"
+  "updated_at": "2026-09-05T06:58:15.606934+00:00"
 }
