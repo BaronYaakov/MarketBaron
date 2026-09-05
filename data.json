@@ -211,6 +211,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Lundin Gold Heads These 3 Top Canadian Quality Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0adbde8d30092eae3565801426e9311010635a90b7bf2e322b05515a5cbb13b0",
+      "datetime": 1788538604,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "P",
       "headline": "Bloom Energy, Astera Rally On Hopes They Will Join S&P Friday; Who Else Could Be Added",
       "source": "Yahoo",
@@ -344,14 +352,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=55625929bf234e4bb53943f6cb6d477c8ba3ef2d1ea3b35d57eedab5ebf900c1",
       "datetime": 1788306720,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Two Stocks That Will Benefit From OpenAI Announcement",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9bf5ee1b316219bd73a73592ec1ac4f516654fa266fb81e2c84bfaf387afd598",
-      "datetime": 1788299401,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-05T07:28:16.246739+00:00"
+  "updated_at": "2026-09-05T07:43:15.742680+00:00"
 }
