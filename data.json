@@ -453,7 +453,7 @@
       "prev_close": 45.76,
       "day_change_pct": -2.21,
       "week52_high": 74.0,
-      "week52_low": 37.09
+      "week52_low": 37.89
     },
     "CLS": {
       "name": "Celestica Inc",
@@ -472,7 +472,7 @@
       "prev_close": 309.84,
       "day_change_pct": 0.81,
       "week52_high": 655.5,
-      "week52_low": 289.01
+      "week52_low": 315.41
     },
     "COR": {
       "name": "Cencora Inc",
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-05T23:58:16.454553+00:00"
+  "updated_at": "2026-09-06T00:13:16.555462+00:00"
 }
