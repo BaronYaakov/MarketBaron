@@ -235,6 +235,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
+      "ticker": "PRMB",
+      "headline": "Primo Brands (PRMB) Down 8.4% Since Last Earnings Report: Can It Rebound?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=139155051ae58c025212ad065b958c5d883ec357da1d4c6af381a411359d3bef",
+      "datetime": 1788535817,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+    },
+    {
       "ticker": "COR",
       "headline": "Cencora Launches Cell and Gene Therapy Enablement for Health Systems",
       "source": "Yahoo",
@@ -369,6 +377,14 @@
       "url": "https://finnhub.io/api/news?id=fd5ee68a34606d8f56438cd6c7182483380497c6c1cf288e4c453182bf0a8f0a",
       "datetime": 1788214511,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "PRMB",
+      "headline": "From Decline to Momentum: Primo Brands\u2019 (PRMB) Impressive Q2 Comeback",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9b868740d5d44b741e85dafc2db40916dc37a518201ceb5572c22f6903dc5ee0",
+      "datetime": 1788187764,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     }
   ],
   "recent_posts": [],
@@ -576,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-06T06:58:19.513624+00:00"
+  "updated_at": "2026-09-06T07:43:18.587890+00:00"
 }
