@@ -60,6 +60,70 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "The S&P 100 ETF Just Dumped Nike and Colgate for 4 AI Stocks. Here\u2019s What That Means for Your Portfolio",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=42fbcd571f4e0ff319ea17c0fe94bd2d9085859a6a211459ff345ebc0a878b0d",
+      "datetime": 1788792776,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The S&P 100 ETF Just Dumped Nike and Colgate for 4 AI Stocks. Here\u2019s What That Means for Your Portfolio",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=42fbcd571f4e0ff319ea17c0fe94bd2d9085859a6a211459ff345ebc0a878b0d",
+      "datetime": 1788792776,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Are Retail-Wholesale Stocks Lagging  Amazon.com (AMZN) This Year?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=645bc31ee7bf59b926ae27a3fab502e63dfbde1d7da2e2829960510937f98c2a",
+      "datetime": 1788792005,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom vs Marvell: One of These AI Chip Stocks Is a Clear Winner",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=10cacaa0c276487f38fdc13443277bde152a7bc9aa6864dd73b60840f308cc19",
+      "datetime": 1788791932,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon.com, Inc. (AMZN) is Attracting Investor Attention: Here is What You Should Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e2a93b759c872d09805baf70de8dda19b5d250b22a2a62d75b9ec40211a79c1f",
+      "datetime": 1788789604,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Cargo Jet Crash Puts Its Air Network in the Spotlight",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d176c52e85ce02fe3b19b9908beac39e801840625880c6464ae0119f84ef2986",
+      "datetime": 1788788593,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Is MercadoLibre Becoming Latin America's Leading Fintech?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9c0dc94bcc6a0539979e16cf6d20be2fbf78d12b8ec66e2558d3465eb7e64540",
+      "datetime": 1788788460,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Fatal Amazon Boeing Plane Crash at Miami Airport: What We Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4512915057ad012538ee7f2c31ef4aa10f0e4a057871269ec15efd1e2c63f22e",
+      "datetime": 1788787140,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Broadcom Inc. (AVGO) Is a Trending Stock: Facts to Know Before Betting on It",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=139ec771ea0213660fd0393d58075d9bf4b8b0961cf78e5ccef71366694e39f2",
@@ -83,75 +147,11 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Amazon Stock in Focus After Cargo Plane Crash Kills 5 in Miami",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=69bae5e64542105120b6d339add7f6bd7d8b3b22ad90b9ceee471a51c57d33f3",
-      "datetime": 1788784496,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Nvidia, Tech Giants Flash Stunning Market Signal",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1310e9180075f970c2c517c9fb196410fa7f00b17c9aedaa1d122cfebafd6117",
-      "datetime": 1788784459,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Oracle Has Fallen Nearly 20% in 2026: One Wall Street Firm Says It\u2019s Going to Double and Then Some",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6c83e9c94a0178a6b7195bd461678399dea08eb79e60975a22da9a91c1aadfdf",
-      "datetime": 1788780346,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The real danger of black market peptides: Novo Nordisk CEO",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e4f8ac3617b2f33eedbb1c60ef9afb9736f048f0aee7e8f1d85d7ed43173db82",
-      "datetime": 1788778800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "AMD Is Now More Expensive Than Nvidia And Broadcom",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=468ca414ae5dd759343ad8e84d73fccf387a3544c952fe9adf7ce1e2f49cbd72",
       "datetime": 1788773400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom: Market Is In Disbelief; Don't Be Mistaken",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=3fb8395b8442cc3160f1217a7f7556b2986ec575fbb2ee4160effa8d6061f111",
-      "datetime": 1788771600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon made fast delivery the norm. Now rivals want in",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ac8519e585e71157db8c222e0c13c577c1ef624d80747747ad5b3fdcc0cb0a1f",
-      "datetime": 1788771600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "SpaceX Stock Is Down 34% From Its High. History Suggests a $10,000 Investment Will Be Worth This Much by Mid-2027.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fd92797ced937dba42f13f70f9d8960d7b9a6d43376d5688a275e0ccd09ec700",
-      "datetime": 1788769980,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom: A New Catalyst The Market Is Missing",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d1244d00ed7d834411f7ae7971e5974664eaebfac0cf81d4ccd66b21b3207ea3",
-      "datetime": 1788769815,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-07T14:28:15.983045+00:00"
+  "updated_at": "2026-09-07T14:43:16.271594+00:00"
 }
