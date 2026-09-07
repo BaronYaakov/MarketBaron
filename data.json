@@ -116,6 +116,14 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "AMD Is Now More Expensive Than Nvidia And Broadcom",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=468ca414ae5dd759343ad8e84d73fccf387a3544c952fe9adf7ce1e2f49cbd72",
+      "datetime": 1788773400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Broadcom: Market Is In Disbelief; Don't Be Mistaken",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=3fb8395b8442cc3160f1217a7f7556b2986ec575fbb2ee4160effa8d6061f111",
@@ -144,14 +152,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=d1244d00ed7d834411f7ae7971e5974664eaebfac0cf81d4ccd66b21b3207ea3",
       "datetime": 1788769815,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Hot Payrolls Reload the September Hike Bet and Push Wall Street Into a Quiet Labor Day on the Back Foot",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=f18133eba8cfe4de1a0040ef723c5f04e69debc44f0a362604012a2d4d428379",
-      "datetime": 1788769378,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-07T13:43:15.851420+00:00"
+  "updated_at": "2026-09-07T13:58:15.701955+00:00"
 }
