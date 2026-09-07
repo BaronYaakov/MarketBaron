@@ -59,6 +59,54 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Amazon Stock in Focus After Cargo Plane Crash Kills 5 in Miami",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=69bae5e64542105120b6d339add7f6bd7d8b3b22ad90b9ceee471a51c57d33f3",
+      "datetime": 1788784496,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Nvidia, Tech Giants Flash Stunning Market Signal",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1310e9180075f970c2c517c9fb196410fa7f00b17c9aedaa1d122cfebafd6117",
+      "datetime": 1788784459,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Oracle Has Fallen Nearly 20% in 2026: One Wall Street Firm Says It\u2019s Going to Double and Then Some",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6c83e9c94a0178a6b7195bd461678399dea08eb79e60975a22da9a91c1aadfdf",
+      "datetime": 1788780346,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The real danger of black market peptides: Novo Nordisk CEO",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e4f8ac3617b2f33eedbb1c60ef9afb9736f048f0aee7e8f1d85d7ed43173db82",
+      "datetime": 1788778800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon made fast delivery the norm. Now rivals want in",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac8519e585e71157db8c222e0c13c577c1ef624d80747747ad5b3fdcc0cb0a1f",
+      "datetime": 1788771600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "SpaceX Stock Is Down 34% From Its High. History Suggests a $10,000 Investment Will Be Worth This Much by Mid-2027.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fd92797ced937dba42f13f70f9d8960d7b9a6d43376d5688a275e0ccd09ec700",
+      "datetime": 1788769980,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Hot Payrolls Reload the September Hike Bet and Push Wall Street Into a Quiet Labor Day on the Back Foot",
       "source": "ChartMill",
@@ -81,54 +129,6 @@
       "url": "https://finnhub.io/api/news?id=d7464315b917d5e4bc3d687097ab69fae0f63bcac3a9995bfa86abd3eca20dfa",
       "datetime": 1788745588,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Nvidia (NVDA)\u2019s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0af492eafa8a1c2529e56b7c222f60c50e17739840635565e17003628c39c2fd",
-      "datetime": 1788737507,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Anthropic Has Committed More Than $100 Billion to AWS, and Its Prospectus Could Reveal More Details About This Contract",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cd58e97c5c5b76bf4fccf8f4b286e1ba6f9c1d350d3666c39ad2a8a1c31456ab",
-      "datetime": 1788734581,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "5 Dead in Amazon Cargo Plane Crash at Miami International Airport",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8c75fc1b41889ae9fb698dd27548b5e0b3ba3a5d107b88c2e53b4257bd9d3d28",
-      "datetime": 1788734034,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Can Nvidia (NVDA) Prove it Doesn\u2019t Live or Die by a Handful of Hyperscalers?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bb778d9eb180c7bcb18e5ce8f837dfc5465ee61464aa9559b4c0f9af1e0ab636",
-      "datetime": 1788729665,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon.com (AMZN) Deepens Its Foothold In Autonomous Mobility And AI Policy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8eddf429086510df4c471ad0d1ae15be623fefe53ef42ab23c4751cf5ccfe488",
-      "datetime": 1788728974,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The Amazon Service Bezos Nicknamed \u201cArtificial Artificial Intelligence\u201d is Closing for Good",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=383f988ce561a7ae090abe0c93ca526142f6aeb207dcd979cc017fc628347793",
-      "datetime": 1788726079,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-07T12:28:16.829871+00:00"
+  "updated_at": "2026-09-07T12:43:17.024649+00:00"
 }
