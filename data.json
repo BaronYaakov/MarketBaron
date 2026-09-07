@@ -59,6 +59,30 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Jabil Rises 36.2% Year to Date: Should You Buy the Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=44dddb55bb0d7ed25552d7253c8bf8e890e65c33b8405b205c6779707d7fd853",
+      "datetime": 1788798000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Bernie Sanders Wants to Ban Superintelligence. What It Means for Microsoft and Amazon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0c382cbcde9ba4178268a50dcc2b63d7dbc8013a1e3fd61d2e9e43c49ce4ea8e",
+      "datetime": 1788796653,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Microsoft Stock Is Building a Trillion-Dollar AI Opportunity. Is $600 Next?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cb0691a9cce468da03f653426f3bea8ca9143c1dd284f0365fe1f7bfe52756fc",
+      "datetime": 1788794119,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "The S&P 100 ETF Just Dumped Nike and Colgate for 4 AI Stocks. Here\u2019s What That Means for Your Portfolio",
       "source": "Yahoo",
@@ -96,30 +120,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e2a93b759c872d09805baf70de8dda19b5d250b22a2a62d75b9ec40211a79c1f",
       "datetime": 1788789604,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Cargo Jet Crash Puts Its Air Network in the Spotlight",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d176c52e85ce02fe3b19b9908beac39e801840625880c6464ae0119f84ef2986",
-      "datetime": 1788788593,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Is MercadoLibre Becoming Latin America's Leading Fintech?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9c0dc94bcc6a0539979e16cf6d20be2fbf78d12b8ec66e2558d3465eb7e64540",
-      "datetime": 1788788460,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Fatal Amazon Boeing Plane Crash at Miami Airport: What We Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4512915057ad012538ee7f2c31ef4aa10f0e4a057871269ec15efd1e2c63f22e",
-      "datetime": 1788787140,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-07T15:58:16.092937+00:00"
+  "updated_at": "2026-09-07T16:13:16.501308+00:00"
 }
