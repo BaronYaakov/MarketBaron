@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "SCHD-Inspired 4-Factor Dividend Growth Strategy Selections For September 2026",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bb42b4fff5961915e0943d39451f7e871deed7c2986a302501fb247dccc82cdd",
+      "datetime": 1788752600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Broadcom: The Valuation At This Point Is Absurdly Inadequate",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=d7464315b917d5e4bc3d687097ab69fae0f63bcac3a9995bfa86abd3eca20dfa",
@@ -153,14 +161,6 @@
       "url": "https://finnhub.io/api/news?id=4623065736d47cb2e455e6272693fe4cb8f33761ac7f929c3bd67b74a419e994",
       "datetime": 1788639023,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "5 big analyst AI moves: iPhone launch to be negative for Apple stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7dcfb0b8f2990b29d3e02d434613a2ba4eb9573f4623d1251b041aa7ea7d9b47",
-      "datetime": 1788636336,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-07T07:58:16.991966+00:00"
+  "updated_at": "2026-09-07T08:13:16.683031+00:00"
 }
