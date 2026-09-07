@@ -108,6 +108,14 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "Broadcom: A New Catalyst The Market Is Missing",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d1244d00ed7d834411f7ae7971e5974664eaebfac0cf81d4ccd66b21b3207ea3",
+      "datetime": 1788769815,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Hot Payrolls Reload the September Hike Bet and Push Wall Street Into a Quiet Labor Day on the Back Foot",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=f18133eba8cfe4de1a0040ef723c5f04e69debc44f0a362604012a2d4d428379",
@@ -144,14 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e62f09f62e1338e340e3353c629772eea6b2dd86df12ced7e15fddae147d0faf",
       "datetime": 1788701400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom And 2 Top Growth Stocks To Watch",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1da2b321390f0151cef238359899a39b3757b12e31984406225343e7aaf08dcf",
-      "datetime": 1788700216,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-07T12:43:17.024649+00:00"
+  "updated_at": "2026-09-07T12:58:15.916776+00:00"
 }
