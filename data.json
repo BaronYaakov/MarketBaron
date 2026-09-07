@@ -148,10 +148,10 @@
     },
     {
       "ticker": "AVGO",
-      "headline": "AMD Is Now More Expensive Than Nvidia And Broadcom",
+      "headline": "Inside The Magic Box: Earnings Are Strong, Just Not As Strong As They Look",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=468ca414ae5dd759343ad8e84d73fccf387a3544c952fe9adf7ce1e2f49cbd72",
-      "datetime": 1788773400,
+      "url": "https://finnhub.io/api/news?id=3bfb9d95157e0012c38ff2306d43a708fc1c35cbef32fff940127f0b95569249",
+      "datetime": 1788780263,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-07T15:28:16.108928+00:00"
+  "updated_at": "2026-09-07T15:43:16.431374+00:00"
 }
