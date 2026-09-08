@@ -140,6 +140,14 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "Broadcom Inc. (AVGO) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cb79f84a803f9fe11e6c13ed9e2ec56c212ba128d14cee05b601b47ef9cb7fef",
+      "datetime": 1788895530,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Why Broadcom Stock Rallied Tuesday Morning",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1456dbfd7d4bbf92713a586286d1a1659ac9bb2d58dae1518b25e3baf75de046",
@@ -160,14 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=779effb2414fff82793ef134c57425ddd64f922080eb4671c9e0b177ab146673",
       "datetime": 1788893793,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom vs. Marvell: Which Custom AI Chip Stock Is the Better Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2adab0fe459929c68338c9410b47c9f4a1e3433b4a6ff8c3341e74f3929967ba",
-      "datetime": 1788892260,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-08T23:28:17.050035+00:00"
+  "updated_at": "2026-09-08T23:43:16.101311+00:00"
 }
