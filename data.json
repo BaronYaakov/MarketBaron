@@ -147,20 +147,20 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "5 Stock Picks Last Week From Wall Street's Most Accurate Analysts",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=34807f05a11839bed702639eb164a4681f995f33fc8e756592e78570e1861bc0",
+      "datetime": 1788846622,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Amazon's 39% AWS Operating Margin the Single Best Reason to Buy the Stock in September",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=28d77a543562fd9f6146b87c0b829051f301cc0d522635989b101fe2384de271",
       "datetime": 1788844800,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Many Surprises Ahead; My Last Bearish Call",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=2fb049fc74d6ebbd6de8a457e3de8b215c97e47881d11a5f5902efae9f70510b",
-      "datetime": 1788837320,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "PRMB",
@@ -443,12 +443,12 @@
       "market_cap_musd": 1702714.0697920003,
       "country": "US",
       "currency": "USD",
-      "price": 370.71,
+      "price": 370.5,
       "open": 361.9,
       "day_high": 371.9,
       "day_low": 361.9,
       "prev_close": 357.89,
-      "day_change_pct": 3.58,
+      "day_change_pct": 3.52,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -462,12 +462,12 @@
       "market_cap_musd": 101913.158998,
       "country": "CA",
       "currency": "USD",
-      "price": 44.74,
+      "price": 44.81,
       "open": 44.5,
       "day_high": 44.9,
       "day_low": 44.19,
       "prev_close": 44.75,
-      "day_change_pct": -0.02,
+      "day_change_pct": 0.13,
       "week52_high": 74.0,
       "week52_low": 37.89
     },
@@ -481,12 +481,12 @@
       "market_cap_musd": 54536.753006,
       "country": "CA",
       "currency": "USD",
-      "price": 328.01,
+      "price": 328.75,
       "open": 317.34,
-      "day_high": 328.06,
+      "day_high": 328.88,
       "day_low": 317.31,
       "prev_close": 312.35,
-      "day_change_pct": 5.01,
+      "day_change_pct": 5.25,
       "week52_high": 655.5,
       "week52_low": 315.41
     },
@@ -500,12 +500,12 @@
       "market_cap_musd": 63154.257205,
       "country": "US",
       "currency": "USD",
-      "price": 326.55,
+      "price": 325.21,
       "open": 326.94,
       "day_high": 330.0,
       "day_low": 324.01,
       "prev_close": 330.95,
-      "day_change_pct": -1.33,
+      "day_change_pct": -1.73,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -519,12 +519,12 @@
       "market_cap_musd": 71099.565574,
       "country": "US",
       "currency": "USD",
-      "price": 86.22,
+      "price": 86.02,
       "open": 87.05,
       "day_high": 87.31,
-      "day_low": 86.02,
+      "day_low": 85.93,
       "prev_close": 87.89,
-      "day_change_pct": -1.9,
+      "day_change_pct": -2.13,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -538,12 +538,12 @@
       "market_cap_musd": 7962.761962999999,
       "country": "US",
       "currency": "USD",
-      "price": 21.86,
+      "price": 21.88,
       "open": 21.86,
       "day_high": 22.2,
       "day_low": 21.74,
       "prev_close": 22.0,
-      "day_change_pct": -0.64,
+      "day_change_pct": -0.55,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -557,12 +557,12 @@
       "market_cap_musd": 33077.616065,
       "country": "US",
       "currency": "USD",
-      "price": 100.34,
+      "price": 100.97,
       "open": 101.38,
       "day_high": 102.32,
       "day_low": 97.66,
       "prev_close": 99.51,
-      "day_change_pct": 0.83,
+      "day_change_pct": 1.47,
       "week52_high": 119.1,
       "week52_low": 56.78
     },
@@ -576,12 +576,12 @@
       "market_cap_musd": 2788370.2546120007,
       "country": "US",
       "currency": "USD",
-      "price": 256.79,
+      "price": 256.93,
       "open": 257.04,
       "day_high": 257.69,
       "day_low": 254.75,
       "prev_close": 258.51,
-      "day_change_pct": -0.67,
+      "day_change_pct": -0.61,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-08T14:58:16.927992+00:00"
+  "updated_at": "2026-09-08T15:13:16.788234+00:00"
 }
