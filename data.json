@@ -107,6 +107,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "P",
+      "headline": "Everpure to Join the S&P 500",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=02c735c2e423412c22f3b0aa39c862f5d1581bb6a13c6cdd99932e06f91f82eb",
+      "datetime": 1788894000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Jim Cramer Names 2 Stocks Set to Win From ChatGPT-6 Astra Boom",
       "source": "Yahoo",
@@ -129,6 +137,14 @@
       "url": "https://finnhub.io/api/news?id=2adab0fe459929c68338c9410b47c9f4a1e3433b4a6ff8c3341e74f3929967ba",
       "datetime": 1788892260,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "3 Market-Beating Stocks Worth Your Attention",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=341fef10e876fdd8b2d4060e1af00d3cf8949944c8481ce7e6dab576241783a9",
+      "datetime": 1788891798,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "AVGO",
@@ -227,14 +243,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "P",
-      "headline": "Illumina and Everpure to Join S&P 500 in September Rebalancing: What it Means for Investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=26c2e9065bc4636a815c90430db761cfaf6281b1cb5fb8c2399f67fe1644d582",
-      "datetime": 1788808523,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "Jabil Rises 36.2% Year to Date: Should You Buy the Stock?",
       "source": "Yahoo",
@@ -249,14 +257,6 @@
       "url": "https://finnhub.io/api/news?id=3eb8f5fb477309e95b3bebdeea1419c395ec815cda58767064f17783f0666c41",
       "datetime": 1788786154,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Everpure (P) Unveils Energy Efficient Storage And Tougher ESG Reporting",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4623065736d47cb2e455e6272693fe4cb8f33761ac7f929c3bd67b74a419e994",
-      "datetime": 1788639023,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "COR",
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-08T20:13:18.947168+00:00"
+  "updated_at": "2026-09-08T20:28:18.087608+00:00"
 }
