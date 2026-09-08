@@ -60,27 +60,75 @@
   "news": [
     {
       "ticker": "AMZN",
-      "headline": "Top Midday Stories: GE Aerospace to Acquire Consolidated Precision Products; Qualcomm Issues Share Warrant to Amazon",
+      "headline": "Sector Update: Tech Stocks Gain Tuesday Afternoon",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2ae8a832851f7b2f5438b8a6af3fee6b2b8bd035b6bc97e978a449770023779d",
-      "datetime": 1788882330,
+      "url": "https://finnhub.io/api/news?id=36fcd8baf08f803b3dfd780713c80799ffe2fc5d5abc3464db5d761d1a0c9975",
+      "datetime": 1788889306,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Cloud Capex to Cash: AWS Wins This Way, Alphabet Wins Another Way",
+      "headline": "Sector Update: Consumer Stocks Decline in Afternoon Trading",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c588f34a8e9f80e88f5cae6e0e74a4bb8c20c640cbe9bdb650c8a2924df9469b",
-      "datetime": 1788881640,
+      "url": "https://finnhub.io/api/news?id=c648ec10819e8496d10ba91d4a241689a3d8decc35398cc956fa296935f71232",
+      "datetime": 1788889232,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Update: Market Chatter: Amazon Prime Air Cargo Plane Crashes at Miami Airport, Killing at Least 5",
+      "headline": "Qualcomm Stock Soars -- Amazon Strikes Major AI Chip Partnership",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cca74a37489e474de7e347b23e14a7011bf73d3c631c596a40ec5e1c33fee27b",
-      "datetime": 1788881591,
+      "url": "https://finnhub.io/api/news?id=16b2f3f6aea6b463a60eb8e65bffc1c8ee54422bdac9d88303f0d2d486f5d59d",
+      "datetime": 1788888648,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon's AI Buildout Is Starting to Show Up in Its Debt",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b242676873c9725814b1bbb1d482068a45ee0288aba0d08e69abc0cb02220871",
+      "datetime": 1788888231,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Jim Cramer picks Nvidia and Broadcom as OpenAI GPT-6 Astra winners",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a258fb0ecda1f0840b671c27b7dc5752eb762de96be049a9078992e2e1cb9ae4",
+      "datetime": 1788887883,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "T, AMZN Stocks In Focus \u2014 AT&T, Amazon Leo Partner To Expand Satellite Broadband For Businesses",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d6fc5e09f0abc2e9a89105bf9a273cf915a182bb2146a3e24e640c1485f1b38c",
+      "datetime": 1788887012,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "TSMC, IBD Stock Of The Day, Rises Above Early Buy Point As Chip Stocks Rally",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4fb9351ff83ec74cef60c4d0d78b9bdf7b160384a183100f7de3e3c68dae94f7",
+      "datetime": 1788886870,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Qualcomm and Amazon ink deal for custom data center chips",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9fd5e4e9fc139bb54e10af0d361566e09041813ac5afe8c7ce82f9aa3d63eb90",
+      "datetime": 1788886848,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Intel Could Be Set to Raise Prices, Again. The Stock Is Soaring",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8174041e58ed17f1f2a83df4c0f790234b2b9ae903a7c1c5a8476e7e71aa5338",
+      "datetime": 1788882684,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -89,30 +137,6 @@
       "url": "https://finnhub.io/api/news?id=7ac227a2d658da94d5d1fdd8ec1724d84addff91060ec4be7edc2c6be259a5e2",
       "datetime": 1788881584,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Prediction: This Megacap Stock Could Crush the S&P 500 Through 2030",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5ed7a9e4691afa3f20cb414bee41ac1070e94dd96319a22caaaf09ff5222f0a8",
-      "datetime": 1788881403,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "What investors 'really' need to see from Oracle earnings this week",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=34db42e3448575350d25d2202986ae48a28d403696ffcb85925d7e845adfdb2d",
-      "datetime": 1788880030,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Antioch Raises $32M to Bring Software Speed to Physical AI Development",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=65f95fc69942befd3d08c74cf63d52982a9901feb58557948d97e1dfa02fc515",
-      "datetime": 1788879600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -136,30 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=12c83b3fdeae8de8fbc5a036c07e1b3af89932deea72bd067355c44a5f7e5028",
       "datetime": 1788878049,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "The Zacks Analyst Blog Highlights Apple, Broadcom, Shell and KVH Industries",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6ab18dfffbbfd5bda0384b06a3c735f00ad287bfb3712af01146d46e5ad0ecbe",
-      "datetime": 1788877740,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Qualcomm Rises 5% on Multi-Generation Amazon AI Silicon Deal; Broadcom Ticks Up, Amazon Holds Flat",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=65eb1aa56be457032e93b7e401babcef0586e7deac32cb826c1db78707470133",
-      "datetime": 1788877343,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Forget AMD: This AI Hardware Stock Is the Smarter Bet Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5c695394444ac6d24786a9c740df5b6ac66f915ba8d7e690981312b7b3c1bbc1",
-      "datetime": 1788876300,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -443,12 +443,12 @@
       "market_cap_musd": 1702714.0697920003,
       "country": "US",
       "currency": "USD",
-      "price": 368.09,
+      "price": 369.12,
       "open": 361.9,
       "day_high": 372.7,
       "day_low": 361.9,
       "prev_close": 357.89,
-      "day_change_pct": 2.85,
+      "day_change_pct": 3.14,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -462,12 +462,12 @@
       "market_cap_musd": 101913.158998,
       "country": "CA",
       "currency": "USD",
-      "price": 44.38,
+      "price": 44.31,
       "open": 44.5,
       "day_high": 44.9,
       "day_low": 44.19,
       "prev_close": 44.75,
-      "day_change_pct": -0.83,
+      "day_change_pct": -0.98,
       "week52_high": 74.0,
       "week52_low": 37.89
     },
@@ -481,12 +481,12 @@
       "market_cap_musd": 54536.753006,
       "country": "CA",
       "currency": "USD",
-      "price": 334.29,
+      "price": 335.52,
       "open": 317.34,
-      "day_high": 335.07,
+      "day_high": 336.57,
       "day_low": 317.31,
       "prev_close": 312.35,
-      "day_change_pct": 7.02,
+      "day_change_pct": 7.42,
       "week52_high": 655.5,
       "week52_low": 315.41
     },
@@ -500,12 +500,12 @@
       "market_cap_musd": 63154.257205,
       "country": "US",
       "currency": "USD",
-      "price": 328.37,
+      "price": 328.1,
       "open": 326.94,
       "day_high": 330.0,
       "day_low": 323.05,
       "prev_close": 330.95,
-      "day_change_pct": -0.78,
+      "day_change_pct": -0.86,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -519,12 +519,12 @@
       "market_cap_musd": 71099.565574,
       "country": "US",
       "currency": "USD",
-      "price": 85.98,
+      "price": 85.99,
       "open": 87.05,
       "day_high": 87.31,
       "day_low": 85.55,
       "prev_close": 87.89,
-      "day_change_pct": -2.17,
+      "day_change_pct": -2.16,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -538,12 +538,12 @@
       "market_cap_musd": 7962.761962999999,
       "country": "US",
       "currency": "USD",
-      "price": 21.94,
+      "price": 21.9,
       "open": 21.86,
       "day_high": 22.2,
       "day_low": 21.71,
       "prev_close": 22.0,
-      "day_change_pct": -0.27,
+      "day_change_pct": -0.45,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -557,12 +557,12 @@
       "market_cap_musd": 33077.616065,
       "country": "US",
       "currency": "USD",
-      "price": 101.12,
+      "price": 101.34,
       "open": 101.38,
       "day_high": 102.32,
       "day_low": 97.66,
       "prev_close": 99.51,
-      "day_change_pct": 1.62,
+      "day_change_pct": 1.84,
       "week52_high": 119.1,
       "week52_low": 56.78
     },
@@ -576,12 +576,12 @@
       "market_cap_musd": 2788370.2546120007,
       "country": "US",
       "currency": "USD",
-      "price": 257.04,
+      "price": 257.13,
       "open": 257.04,
       "day_high": 257.99,
       "day_low": 254.75,
       "prev_close": 258.51,
-      "day_change_pct": -0.57,
+      "day_change_pct": -0.53,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-08T17:58:24.193386+00:00"
+  "updated_at": "2026-09-08T18:13:25.879858+00:00"
 }
