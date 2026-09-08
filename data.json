@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "PRMB",
+      "headline": "Primo Brands: Strong Q2 Confirms Bullish Thesis",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ba88691470a1bffa157660b9de42170d94aee816ef4f1ea1512dee5e076572db",
+      "datetime": 1788822216,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Scene of Fatal Amazon Plane Crash in Miami Is \u2018Devastating\u2019",
       "source": "Yahoo",
@@ -600,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-08T03:13:15.074025+00:00"
+  "updated_at": "2026-09-08T03:58:17.002167+00:00"
 }
