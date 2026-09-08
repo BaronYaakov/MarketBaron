@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "P",
+      "headline": "S&P 500 Adds 3 Surging Stocks in Major Shake-Up",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0aa83e6697e6f812b007abd4eb7ef0e865527d0bb8f9205804f4882904624367",
+      "datetime": 1788817536,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Illumina and Everpure to Join S&P 500 in September Rebalancing: What it Means for Investors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=26c2e9065bc4636a815c90430db761cfaf6281b1cb5fb8c2399f67fe1644d582",
+      "datetime": 1788808523,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Jabil Rises 36.2% Year to Date: Should You Buy the Stock?",
       "source": "Yahoo",
@@ -123,6 +139,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "ORLY",
+      "headline": "How Is O'Reilly Automotive's Stock Performance Compared to Other Consumer Cyclical Stocks?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3eb8f5fb477309e95b3bebdeea1419c395ec815cda58767064f17783f0666c41",
+      "datetime": 1788786154,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom Inc. (AVGO) Is a Trending Stock: Facts to Know Before Betting on It",
       "source": "Yahoo",
@@ -184,22 +208,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=9cd48a5bec0ba5b8c330acaf6324b67a1597b5caac77b86baeac115e764b8c52",
       "datetime": 1788565146,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Bloom Energy, Illumina, and Everpure set to join S&P 500 in quarterly rebalance",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4733fbc4cf9f5032ac5582146394cd9602665db2e1b75dfcd6a4b4d5d63b3cb4",
-      "datetime": 1788563348,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Bloom Energy and These 2 Stocks Are Joining the S&P 500",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=409560d84f09750012b296f2150733ade3491cf5333794bab8f10d8ef449e0fa",
-      "datetime": 1788560160,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
@@ -592,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-08T00:13:16.254637+00:00"
+  "updated_at": "2026-09-08T00:28:16.297273+00:00"
 }
