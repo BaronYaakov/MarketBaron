@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Broadcom: Recent Earnings Confirm Why It's The AI Stock I Trust The Least",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d912c2264f2a145e9e1ed97bbaf3ee0df9cd5a1d268ef8a14b6eab04e4674957",
+      "datetime": 1788836516,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "PRMB",
       "headline": "Primo Brands: Strong Q2 Confirms Bullish Thesis",
       "source": "SeekingAlpha",
@@ -168,14 +176,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b47f4345a1532218546d58f41d29a5f8a4db384e1bff22250b6094bbe7e6bfc7",
       "datetime": 1788799970,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia Is No Longer Just a Chip Company. It\u2019s the Infrastructure Platform for All of AI",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eaa5c51960ebe59ecc4e565df68f93bd6df94e9ddca360aea4292c63210cc210",
-      "datetime": 1788799814,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-08T07:13:16.511925+00:00"
+  "updated_at": "2026-09-08T07:28:15.311032+00:00"
 }
