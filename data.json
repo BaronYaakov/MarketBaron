@@ -59,6 +59,30 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Nvidia Braces For AI Bubble Burst - Hugging Face Is The Bridge It Needs To Survive",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cdd42ce8f29ed0a1e06abdc3a3c6ea85ccf31fd4ee553efda116030f96416f70",
+      "datetime": 1788849000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Nvidia Braces For AI Bubble Burst - Hugging Face Is The Bridge It Needs To Survive",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cdd42ce8f29ed0a1e06abdc3a3c6ea85ccf31fd4ee553efda116030f96416f70",
+      "datetime": 1788849000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon: The Conglomerate Of The AI Industry",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=166efa3d55187ff04e5a06cda7cdeb03a339adce7f4e5daf2cdb0c6360e6f0cc",
+      "datetime": 1788848984,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Amazon's 39% AWS Operating Margin the Single Best Reason to Buy the Stock in September",
       "source": "Yahoo",
@@ -107,28 +131,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Peter Thiel's Fund's Single Biggest Reported Position Is Amazon. $10,000 Invested in Amazon 10 Years Ago Is Worth About $66,000 Today.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=921bd963771d9c7aa2714825079323daba809eac55ed70aed48f52818fbb79f7",
-      "datetime": 1788836041,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "PRMB",
       "headline": "Primo Brands: Strong Q2 Confirms Bullish Thesis",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=ba88691470a1bffa157660b9de42170d94aee816ef4f1ea1512dee5e076572db",
       "datetime": 1788822216,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Scene of Fatal Amazon Plane Crash in Miami Is \u2018Devastating\u2019",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3eb88868c86ad52266f41a67da56778d0512b392399d6f75a05187ce87e2cc73",
-      "datetime": 1788820260,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -168,14 +176,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=88c95b2609eea58b44dad89b1dbc9441a45651859093052dba1c44d200b2e587",
       "datetime": 1788805097,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Should You Buy Marvell Technology Stock Before Oct. 6?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3ea9224d2db1cec32d022aa830f5964a98aef4d7711afa9dad2071c33dbe6f70",
-      "datetime": 1788804861,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-08T10:43:15.217112+00:00"
+  "updated_at": "2026-09-08T10:58:15.137450+00:00"
 }
