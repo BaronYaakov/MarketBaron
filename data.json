@@ -385,22 +385,6 @@
       "url": "https://finnhub.io/api/news?id=3515f6cab8ec7e38289a44bc15d715e63f34fe32f26c7091ecdee5dcc75dc6ec",
       "datetime": 1788308555,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "The Half Of Phinia's Outlook That Actually Buys Back Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fd5ee68a34606d8f56438cd6c7182483380497c6c1cf288e4c453182bf0a8f0a",
-      "datetime": 1788214511,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "From Decline to Momentum: Primo Brands\u2019 (PRMB) Impressive Q2 Comeback",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9b868740d5d44b741e85dafc2db40916dc37a518201ceb5572c22f6903dc5ee0",
-      "datetime": 1788187764,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     }
   ],
   "recent_posts": [],
@@ -608,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-08T04:58:14.823596+00:00"
+  "updated_at": "2026-09-08T05:13:14.915074+00:00"
 }
