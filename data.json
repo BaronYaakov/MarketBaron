@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "You're Telling Me That Circular Financing Can Reduce The Risk Of A Bubble?",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=447a7c57d6676d7639d07b87d03a49ca7c6e8f69f79bb0584d383acbde0a2f73",
+      "datetime": 1788842150,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Many Surprises Ahead; My Last Bearish Call",
       "source": "SeekingAlpha",
@@ -144,14 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4f71a0bbbbdf56d42af34e90b044c15c7a522d5df6406e999f4ba9b58ffe6d50",
       "datetime": 1788815100,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Nvidia, Microsoft at Center of $7 Trillion AI Boom",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7578c01e5da9c31eff3455e301bdf6e7889d9632266e7b4e01c264aa71c10c03",
-      "datetime": 1788809212,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-08T08:43:14.980542+00:00"
+  "updated_at": "2026-09-08T08:58:15.062275+00:00"
 }
