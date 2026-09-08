@@ -60,10 +60,34 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Amazon's 39% AWS Operating Margin the Single Best Reason to Buy the Stock in September",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=28d77a543562fd9f6146b87c0b829051f301cc0d522635989b101fe2384de271",
+      "datetime": 1788844800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Local Data Center Fights Are Reshaping the Midterms\u2014Here\u2019s How",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1b1c80f7023d444030e48226f4bef51e44165fbadfe511c40f3248badcec60de",
+      "datetime": 1788843600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "You're Telling Me That Circular Financing Can Reduce The Risk Of A Bubble?",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=447a7c57d6676d7639d07b87d03a49ca7c6e8f69f79bb0584d383acbde0a2f73",
       "datetime": 1788842150,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Comcast Technology Solutions Selected by A+E Global Media\u2122 for Premium Content Distribution",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=08afcb3565c8c33352192cc15d501f436be72460e483b93d42497901d8756d73",
+      "datetime": 1788840060,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -83,6 +107,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "Peter Thiel's Fund's Single Biggest Reported Position Is Amazon. $10,000 Invested in Amazon 10 Years Ago Is Worth About $66,000 Today.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=921bd963771d9c7aa2714825079323daba809eac55ed70aed48f52818fbb79f7",
+      "datetime": 1788836041,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "PRMB",
       "headline": "Primo Brands: Strong Q2 Confirms Bullish Thesis",
       "source": "SeekingAlpha",
@@ -96,22 +128,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3eb88868c86ad52266f41a67da56778d0512b392399d6f75a05187ce87e2cc73",
       "datetime": 1788820260,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon's 250-Flight Air Network Faces a Fatal Miami Investigation",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cbe636292b848bcc91df4ac0b6d43fab2fef6052c2bfab704374c33c1e108bb5",
-      "datetime": 1788818055,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "SoftBank Explodes 11.2% as AI Mania Roars Back Across Asia",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ffafbe14a577a5ba02d9ac4952a3bed278368780a775c037a75ca3a52f8c778b",
-      "datetime": 1788817561,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -131,28 +147,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "How a 64-Year-Old\u2019s $1.2 Million in VOO Turned Into a $456,000 Bet on a Single Sector",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bf0151f40257f0de10c85ce76e33ed207bb2c153bfcfbf3fe22c8f6beff57c9f",
-      "datetime": 1788816321,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Broadcom\u2019s AI Forecast Suggests Hyperscalers Want More Than Just Nvidia GPUs",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=91e29a08de15b30c95cb66ac4ac1152f23832359ca39dadd7f759d9f28a5c310",
       "datetime": 1788815462,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Is Amazon Stock at $255 a Share an Obvious Buy Right Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4f71a0bbbbdf56d42af34e90b044c15c7a522d5df6406e999f4ba9b58ffe6d50",
-      "datetime": 1788815100,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-08T08:58:15.062275+00:00"
+  "updated_at": "2026-09-08T09:13:15.041608+00:00"
 }
