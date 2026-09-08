@@ -59,6 +59,30 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Tesla: My Thesis Could Make Or Break In October (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=33bf07481e4c645c431e8cd8b1ba7f1dbf2b1190a2fd4ee92f50924ae9ed3954",
+      "datetime": 1788858052,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica: 2027 Inflection Is Getting Bigger, AI Growth Still Underestimated",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c60b357d5cf3558c44e9d148a52cb2300e840239f92f47693c258b532d4f3a41",
+      "datetime": 1788858012,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Ride The Bull Before The Market Comes To Its Senses",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=72035caca0246098310e5716ec070c77b0f4156beec0e808277e82d80b170238",
+      "datetime": 1788858000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Dividend Harvesting Portfolio Week 288: $28,800 Allocated, $3,289.51 In Projected Dividends",
       "source": "SeekingAlpha",
@@ -123,14 +147,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Comcast Technology Solutions Selected by A+E Global Media\u2122 for Premium Content Distribution",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=08afcb3565c8c33352192cc15d501f436be72460e483b93d42497901d8756d73",
-      "datetime": 1788840060,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Many Surprises Ahead; My Last Bearish Call",
       "source": "SeekingAlpha",
@@ -161,14 +177,6 @@
       "url": "https://finnhub.io/api/news?id=0aa83e6697e6f812b007abd4eb7ef0e865527d0bb8f9205804f4882904624367",
       "datetime": 1788817536,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "How a 64-Year-Old\u2019s $1.2 Million in VOO Turned Into a $456,000 Bet on a Single Sector",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bf0151f40257f0de10c85ce76e33ed207bb2c153bfcfbf3fe22c8f6beff57c9f",
-      "datetime": 1788816321,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -377,14 +385,6 @@
       "url": "https://finnhub.io/api/news?id=a87a58539911b2f7b1a8340946bb4bfa506bdbeb5077dd575f6d64de6d3531e1",
       "datetime": 1788356183,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "3 AI Stocks With At Least 18% Earnings Growth",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3515f6cab8ec7e38289a44bc15d715e63f34fe32f26c7091ecdee5dcc75dc6ec",
-      "datetime": 1788308555,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     }
   ],
   "recent_posts": [],
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-08T13:13:15.435334+00:00"
+  "updated_at": "2026-09-08T13:28:15.797782+00:00"
 }
