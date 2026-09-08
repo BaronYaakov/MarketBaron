@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Dividend Harvesting Portfolio Week 288: $28,800 Allocated, $3,289.51 In Projected Dividends",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d3d1a380b95492109fe7307d02168b156b4c4a80de9fc5a262c0b1e539182525",
+      "datetime": 1788856238,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Semiconductor ETFs: The Good, The Bad, And The Ugly",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=a303f880b87da2d533ae2b1983cdce7210e78c86385ee2bb8ef6e281c218849e",
@@ -160,14 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=bf0151f40257f0de10c85ce76e33ed207bb2c153bfcfbf3fe22c8f6beff57c9f",
       "datetime": 1788816321,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom\u2019s AI Forecast Suggests Hyperscalers Want More Than Just Nvidia GPUs",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=91e29a08de15b30c95cb66ac4ac1152f23832359ca39dadd7f759d9f28a5c310",
-      "datetime": 1788815462,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-08T12:43:16.603645+00:00"
+  "updated_at": "2026-09-08T12:58:15.662864+00:00"
 }
