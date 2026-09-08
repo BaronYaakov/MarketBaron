@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Many Surprises Ahead; My Last Bearish Call",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2fb049fc74d6ebbd6de8a457e3de8b215c97e47881d11a5f5902efae9f70510b",
+      "datetime": 1788837320,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Broadcom: Recent Earnings Confirm Why It's The AI Stock I Trust The Least",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=d912c2264f2a145e9e1ed97bbaf3ee0df9cd5a1d268ef8a14b6eab04e4674957",
@@ -168,14 +176,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3ea9224d2db1cec32d022aa830f5964a98aef4d7711afa9dad2071c33dbe6f70",
       "datetime": 1788804861,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "AI Is Moving Into Everyday Business \u2014 These 5 Stocks Sit Squarely in the Path of the Surge",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b47f4345a1532218546d58f41d29a5f8a4db384e1bff22250b6094bbe7e6bfc7",
-      "datetime": 1788799970,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-08T07:43:14.888160+00:00"
+  "updated_at": "2026-09-08T07:58:14.944793+00:00"
 }
