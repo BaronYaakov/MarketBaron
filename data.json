@@ -60,27 +60,83 @@
   "news": [
     {
       "ticker": "AMZN",
-      "headline": "Sector Update: Tech Stocks Rise Late Afternoon",
+      "headline": "DAL Stock Drops: Jefferies Sees Possible Snag To In-Cabin Experience Owing To SPCX-VSAT Spectrum Fight",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2d497d3dd33abc83c11ee636ae98c94220ee63fa1e1879442691e4e523db3eff",
-      "datetime": 1788897072,
+      "url": "https://finnhub.io/api/news?id=e6e05d5d48d3fe46afa54165afa2df7236acae8d195dd57bdb72fa0ce1797fef",
+      "datetime": 1788903510,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Google Cloud Boss Makes Bold Claim About AI Chip Business",
+      "headline": "The Trade Desk makes major reset after brutal 70% decline",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2f37a657654100ecfda7d8c506a3d76ffe1d4522e3bba0ce8983d49e4274f483",
-      "datetime": 1788895827,
+      "url": "https://finnhub.io/api/news?id=76424a0b30bb6fe8755e3b116ca9ea17f44d498b40c931b058cf033b5d6694b9",
+      "datetime": 1788903180,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Will Direct TPU Sales Re-Rate Google Stock?",
+      "headline": "Goldman's New AI Office Adds Just 1% to Its Engineering Army",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7bf7784ad8617d4e31f63060f58d78c9f9e32103074410916897c7df2cd07846",
-      "datetime": 1788894928,
+      "url": "https://finnhub.io/api/news?id=5f4b857c06aa34567c670088748977234a60a823e28216c42c2452d2ba9dba09",
+      "datetime": 1788903179,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "AMD Jumps 6.7% While Amazon Opens a $60 Billion AI-Chip Door",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a67e56ce33fef825837e5ce75df4e069f9d041d0f0e1317bf3980d5c0a64f1d2",
+      "datetime": 1788901994,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Nvidia vs. Broadcom: Comparing Recent Quarterly Revenue Trajectories",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc40c139926b5ff2051be84ab554f3af3871e90861ea3a2942e216cc5dac9983",
+      "datetime": 1788901937,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom CEO Sees AI Value Flowing to Frontier Models and Custom Chips",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7fff043b579798030768e1c5e453791e812be970d54e6fcf21b4aad8c3e576bf",
+      "datetime": 1788901324,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Spotting Winners: Amazon (NASDAQ:AMZN) And Online Retail Stocks In Q2",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bee55944c180f3cb16a1ed5e33023fc0daffd48c91264194af7269d7027ab541",
+      "datetime": 1788900918,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Stock Market Today: Dow Dives, Oil Spikes After Saudi Attacks; Amgen Swoons On These Results (Live Coverage)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=79f4e4a6e1e49d6fa07701f2e318d30279a7be23f16a2b861adc10771daf385c",
+      "datetime": 1788900713,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Intel Leads Chip Stocks Rally as Qualcomm, AMD and Broadcom Stocks Jump",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d739d186225075e9056a68cc4ae547229f640d03a5923e585c062ac070f8f2e0",
+      "datetime": 1788900585,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Q2 Earnings Outperformers: Cencora (NYSE:COR) And The Rest Of The Health Insurance Providers Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8eee7a83d373bc4efbfdc3a9256a021d3d5a7c3e26336b19d562516b608353a1",
+      "datetime": 1788898998,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "AVGO",
@@ -89,22 +145,6 @@
       "url": "https://finnhub.io/api/news?id=1456dbfd7d4bbf92713a586286d1a1659ac9bb2d58dae1518b25e3baf75de046",
       "datetime": 1788894897,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Boeing Trails Airbus in August Deliveries, Orders",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f273e1c8a0da7ccf9e33dc9452b6c12f95a8c004d3bc69b88e9680a3e940ae82",
-      "datetime": 1788894724,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Stay informed with the top movers within the dow jones index on Tuesday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=c0bbe00c3de9e1f537c499d1785bfb81b11a11392b437598f038f326339af575",
-      "datetime": 1788894604,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -123,14 +163,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Qualcomm Stock Rises 6% on Multi-Generation Amazon Silicon Deal",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=69bbc588039b26cd957a7bdda3f15d14b7fed1edb63ee180bd77f89f4dba8ee6",
-      "datetime": 1788893342,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Broadcom vs. Marvell: Which Custom AI Chip Stock Is the Better Buy?",
       "source": "Yahoo",
@@ -145,30 +177,6 @@
       "url": "https://finnhub.io/api/news?id=341fef10e876fdd8b2d4060e1af00d3cf8949944c8481ce7e6dab576241783a9",
       "datetime": 1788891798,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Jim Cramer picks Nvidia and Broadcom as OpenAI GPT-6 Astra winners",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a258fb0ecda1f0840b671c27b7dc5752eb762de96be049a9078992e2e1cb9ae4",
-      "datetime": 1788887883,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "TSMC, IBD Stock Of The Day, Rises Above Early Buy Point As Chip Stocks Rally",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4fb9351ff83ec74cef60c4d0d78b9bdf7b160384a183100f7de3e3c68dae94f7",
-      "datetime": 1788886870,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Intel Could Be Set to Raise Prices, Again. The Stock Is Soaring",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8174041e58ed17f1f2a83df4c0f790234b2b9ae903a7c1c5a8476e7e71aa5338",
-      "datetime": 1788882684,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -297,14 +305,6 @@
       "url": "https://finnhub.io/api/news?id=139155051ae58c025212ad065b958c5d883ec357da1d4c6af381a411359d3bef",
       "datetime": 1788535817,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Cencora Launches Cell and Gene Therapy Enablement for Health Systems",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=082f1e05ae3af0a526e2c1843b2f6cab5ec7e14a8c1cb1c2413f010a199696d9",
-      "datetime": 1788532620,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "B",
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-08T21:58:16.615339+00:00"
+  "updated_at": "2026-09-08T22:13:15.484996+00:00"
 }
