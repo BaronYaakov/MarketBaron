@@ -156,18 +156,18 @@
     },
     {
       "ticker": "AVGO",
-      "headline": "Cathie Wood Just Went Bargain Hunting. Here Are the 3 AI Stocks She Bought.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=afddb8c9f41339057b1faaf490c10c63d6486062283d86f3c53bf336b57a235c",
-      "datetime": 1788879120,
+      "headline": "Nvidia And Broadcom: Why The AI Mania Will Continue",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=75577b1bf5f58e80d2402faf4452aa6d99c61a6eb347bc5a5618a1fdf5593041",
+      "datetime": 1788879230,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
-      "headline": "Queen of Capital Gains: Pelosi Bets $3 Million on Bloom Energy \u2014 Then It Got Added to the S&P 500",
+      "headline": "Cathie Wood Just Went Bargain Hunting. Here Are the 3 AI Stocks She Bought.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=12c83b3fdeae8de8fbc5a036c07e1b3af89932deea72bd067355c44a5f7e5028",
-      "datetime": 1788878049,
+      "url": "https://finnhub.io/api/news?id=afddb8c9f41339057b1faaf490c10c63d6486062283d86f3c53bf336b57a235c",
+      "datetime": 1788879120,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -443,12 +443,12 @@
       "market_cap_musd": 1702714.0697920003,
       "country": "US",
       "currency": "USD",
-      "price": 368.97,
+      "price": 368.85,
       "open": 361.9,
       "day_high": 372.7,
       "day_low": 361.9,
       "prev_close": 357.89,
-      "day_change_pct": 3.09,
+      "day_change_pct": 3.06,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -481,12 +481,12 @@
       "market_cap_musd": 54536.753006,
       "country": "CA",
       "currency": "USD",
-      "price": 333.0,
+      "price": 333.44,
       "open": 317.34,
       "day_high": 336.57,
       "day_low": 317.31,
       "prev_close": 312.35,
-      "day_change_pct": 6.61,
+      "day_change_pct": 6.75,
       "week52_high": 655.5,
       "week52_low": 315.41
     },
@@ -500,12 +500,12 @@
       "market_cap_musd": 63154.257205,
       "country": "US",
       "currency": "USD",
-      "price": 327.07,
+      "price": 326.98,
       "open": 326.94,
       "day_high": 330.0,
       "day_low": 323.05,
       "prev_close": 330.95,
-      "day_change_pct": -1.17,
+      "day_change_pct": -1.2,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -519,12 +519,12 @@
       "market_cap_musd": 71099.565574,
       "country": "US",
       "currency": "USD",
-      "price": 85.89,
+      "price": 85.95,
       "open": 87.05,
       "day_high": 87.31,
       "day_low": 85.55,
       "prev_close": 87.89,
-      "day_change_pct": -2.28,
+      "day_change_pct": -2.21,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -538,12 +538,12 @@
       "market_cap_musd": 7962.761962999999,
       "country": "US",
       "currency": "USD",
-      "price": 22.1,
+      "price": 22.04,
       "open": 21.86,
       "day_high": 22.2,
       "day_low": 21.71,
       "prev_close": 22.0,
-      "day_change_pct": 0.45,
+      "day_change_pct": 0.18,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -557,12 +557,12 @@
       "market_cap_musd": 33077.616065,
       "country": "US",
       "currency": "USD",
-      "price": 101.6,
+      "price": 101.74,
       "open": 101.38,
       "day_high": 102.32,
       "day_low": 97.66,
       "prev_close": 99.51,
-      "day_change_pct": 2.1,
+      "day_change_pct": 2.24,
       "week52_high": 119.1,
       "week52_low": 56.78
     },
@@ -576,12 +576,12 @@
       "market_cap_musd": 2788370.2546120007,
       "country": "US",
       "currency": "USD",
-      "price": 256.98,
+      "price": 257.16,
       "open": 257.04,
       "day_high": 257.99,
       "day_low": 254.75,
       "prev_close": 258.51,
-      "day_change_pct": -0.59,
+      "day_change_pct": -0.52,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-08T18:58:20.251949+00:00"
+  "updated_at": "2026-09-08T19:13:26.899906+00:00"
 }
