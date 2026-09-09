@@ -155,6 +155,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Celestica to Host 2026 Investor and Analyst Day on October 27, 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c4bf864926c8efe203b508fd7dd1c58a4052235d1805cae20b7227698f9abc7a",
+      "datetime": 1788898500,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom Inc. (AVGO) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript",
       "source": "SeekingAlpha",
@@ -371,14 +379,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "Should Investors Buy CLS Stock as Earnings Estimates Improve?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3a7861f46081e0c85778790a9150ee5927016303f6043cfb8eb02f55abbc91d6",
-      "datetime": 1788361440,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "Q2 Earnings Highlights: O'Reilly (NASDAQ:ORLY) Vs The Rest Of The Auto Parts Retailer Stocks",
       "source": "Yahoo",
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-09T02:13:18.532158+00:00"
+  "updated_at": "2026-09-09T02:28:23.427417+00:00"
 }
