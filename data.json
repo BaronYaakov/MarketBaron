@@ -60,6 +60,38 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Jim Cramer Says Amazon and Alphabet Are Cheap. Their Cash Flows Complicate the Case",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d3c44e35067c13af7cdf79dffc2a06f9496b616809fdaa616737a9e2f5786b53",
+      "datetime": 1788909012,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "S&P 500, Dow End Lower As Middle East Tensions Spur Oil Rally Ahead Of Key Inflation Data \u2014 META, QCOM, BE, AMZN, AVGO In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a315f6709959f09b7975b57023eb1f1e42c8aa9255c8cb764863fc87b4c164c5",
+      "datetime": 1788907599,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "S&P 500, Dow End Lower As Middle East Tensions Spur Oil Rally Ahead Of Key Inflation Data \u2014 META, QCOM, BE, AMZN, AVGO In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a315f6709959f09b7975b57023eb1f1e42c8aa9255c8cb764863fc87b4c164c5",
+      "datetime": 1788907599,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Marvell Is Growing Faster And Its Margin Guide Is Standing Still",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f40d4a35a446667d8f084ca40e2197e439f8563387629f30ace47e12a71d6d34",
+      "datetime": 1788905328,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "DAL Stock Drops: Jefferies Sees Possible Snag To In-Cabin Experience Owing To SPCX-VSAT Spectrum Fight",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e6e05d5d48d3fe46afa54165afa2df7236acae8d195dd57bdb72fa0ce1797fef",
@@ -84,10 +116,10 @@
     },
     {
       "ticker": "AMZN",
-      "headline": "AMD Jumps 6.7% While Amazon Opens a $60 Billion AI-Chip Door",
+      "headline": "Holtec Launches One of the Largest Nuclear IPOs Yet",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a67e56ce33fef825837e5ce75df4e069f9d041d0f0e1317bf3980d5c0a64f1d2",
-      "datetime": 1788901994,
+      "url": "https://finnhub.io/api/news?id=c7e7703620fade404cd5da696b14f9c3a8e03464e49bc75a641583a48807e9b6",
+      "datetime": 1788902220,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -105,22 +137,6 @@
       "url": "https://finnhub.io/api/news?id=7fff043b579798030768e1c5e453791e812be970d54e6fcf21b4aad8c3e576bf",
       "datetime": 1788901324,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Spotting Winners: Amazon (NASDAQ:AMZN) And Online Retail Stocks In Q2",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bee55944c180f3cb16a1ed5e33023fc0daffd48c91264194af7269d7027ab541",
-      "datetime": 1788900918,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Stock Market Today: Dow Dives, Oil Spikes After Saudi Attacks; Amgen Swoons On These Results (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=79f4e4a6e1e49d6fa07701f2e318d30279a7be23f16a2b861adc10771daf385c",
-      "datetime": 1788900713,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -147,28 +163,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Why Broadcom Stock Rallied Tuesday Morning",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1456dbfd7d4bbf92713a586286d1a1659ac9bb2d58dae1518b25e3baf75de046",
-      "datetime": 1788894897,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "P",
       "headline": "Everpure to Join the S&P 500",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=02c735c2e423412c22f3b0aa39c862f5d1581bb6a13c6cdd99932e06f91f82eb",
       "datetime": 1788894000,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Jim Cramer Names 2 Stocks Set to Win From ChatGPT-6 Astra Boom",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=779effb2414fff82793ef134c57425ddd64f922080eb4671c9e0b177ab146673",
-      "datetime": 1788893793,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -440,7 +440,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1702714.0697920003,
+      "market_cap_musd": 1753453.6597676403,
       "country": "US",
       "currency": "USD",
       "price": 368.56,
@@ -497,7 +497,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 63154.257205,
+      "market_cap_musd": 61959.679020672156,
       "country": "US",
       "currency": "USD",
       "price": 324.69,
@@ -516,7 +516,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 71099.565574,
+      "market_cap_musd": 69481.64395438456,
       "country": "US",
       "currency": "USD",
       "price": 85.89,
@@ -535,7 +535,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 7962.761962999999,
+      "market_cap_musd": 7922.948153185,
       "country": "US",
       "currency": "USD",
       "price": 21.89,
@@ -554,7 +554,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 33077.616065,
+      "market_cap_musd": 33702.60624564385,
       "country": "US",
       "currency": "USD",
       "price": 101.14,
@@ -573,7 +573,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2788370.2546120007,
+      "market_cap_musd": 2771759.329726687,
       "country": "US",
       "currency": "USD",
       "price": 256.97,
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-08T23:58:16.290024+00:00"
+  "updated_at": "2026-09-09T00:13:16.908845+00:00"
 }
