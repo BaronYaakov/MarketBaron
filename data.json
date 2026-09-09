@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Brent Breaks $100 as the US\u2013Iran Fight Reignites, but a Chip Rally Keeps the Nasdaq From Snapping",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=e7101d72779f973b2d5bd37ef78915126c660222653d082cbafc2fc78d94da75",
+      "datetime": 1788948357,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "P",
       "headline": "This Little-Known AI Storage Stock Will Join the S&P 500 (Not Micron or Sandisk). History Says This Will Happen Next.",
       "source": "Yahoo",
@@ -120,14 +128,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8118bcc9942e673c9a18b59b8d19226a7edf1d28a8b3bbb3b6d85600c50f3176",
       "datetime": 1788926319,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "QCOM Stock Extends Gains Overnight: Analyst Says Amazon AI Deal 'Changes Calculus For Qualcomm'",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3041b1c4bda12a438d0c620773885af635e1fc6f2d0a9574ac77211ba844c534",
-      "datetime": 1788920477,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-09T11:28:15.986088+00:00"
+  "updated_at": "2026-09-09T11:43:15.683889+00:00"
 }
