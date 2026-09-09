@@ -59,12 +59,60 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "This AI Chipmaker Looks Like a Bargain With AI Revenue Set to Double Again Next Year",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d2de0b23b5471efa004318a81d75c6fa70d555a86a0bc8b876889a8c27947a5d",
+      "datetime": 1788953700,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Amazon CEO Andy Jassy Explained Why Semiconductor Sales Could Keep Climbing for Years to Come. Here's My Favorite AI Chipmaker Right Now.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=798a173f183835bf6dd0acdb0f231d003cdcbe5d0c82e6262115e46d4b126f93",
+      "datetime": 1788951240,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon CEO Andy Jassy Explained Why Semiconductor Sales Could Keep Climbing for Years to Come. Here's My Favorite AI Chipmaker Right Now.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=798a173f183835bf6dd0acdb0f231d003cdcbe5d0c82e6262115e46d4b126f93",
+      "datetime": 1788951240,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Qualcomm, Corning, Casey\u2019s, Braze, and More Stocks That Explain Today\u2019s Market",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=641e4305ab672398031813690ca9967d511450c9c9cc85f1adeb220e355f1f18",
+      "datetime": 1788949860,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Google Has a Cool $15 Billion Fix to the AI Energy Problem",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9eae671206d61f604157a5f0684f18cbe4f1fc5e5457e81e47bf49f9207bde38",
+      "datetime": 1788949680,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Brent Breaks $100 as the US\u2013Iran Fight Reignites, but a Chip Rally Keeps the Nasdaq From Snapping",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=e7101d72779f973b2d5bd37ef78915126c660222653d082cbafc2fc78d94da75",
       "datetime": 1788948357,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "OpenAI Used Its Own AI Models to Design the Jalapeno Chip \u2013 The Compute Landlord Thesis Just Went Recursive",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a77e84ee718a679a55025ad97c2b9b3aca4bd442abbb173f46d4c0bb72f80f77",
+      "datetime": 1788947814,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -115,60 +163,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "The U.S.-China Worry List: Here\u2019s What Could Rattle the Fragile Detente",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f02c6123e86921a3f4ff08182c9253f370c7838ff9978a124cc912ea8cec4486",
-      "datetime": 1788932700,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "AI Is Splitting the Magnificent Seven Into Winners and Laggards, Says Lo Toney",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=295d1ca04b1994d29202edb1db6ace19d7653a6722d3e4c8c6e3ade3c63b8dad",
-      "datetime": 1788929090,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "MRVL Stock Keeps Climbing As CEO Shrugs Off Qualcomm-Amazon Threat: 'We Are The Switzerland Of This Entire Market'",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8118bcc9942e673c9a18b59b8d19226a7edf1d28a8b3bbb3b6d85600c50f3176",
-      "datetime": 1788926319,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom's $230 Billion AI Bet Gets Real",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=da14b8db1d35ac51598ece4512c2c3e61af41d763d7ddb78a3383312b647cab4",
-      "datetime": 1788917798,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Applied Materials, AMD, Broadcom, Lam Research, and Marvell Technology Shares Skyrocket, What You Need To Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7faead45d0862b2bb97857274399d1789bc228c0e1d23f9985b3f2002a11ca1e",
-      "datetime": 1788917238,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "P",
       "headline": "3 Stocks Soon Joining the S&P 500",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4052373a30a8498487c32117f76f0b2e46c5c46be55c2d618f3860364e9718a9",
       "datetime": 1788914280,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "S&P 500, Dow End Lower As Middle East Tensions Spur Oil Rally Ahead Of Key Inflation Data \u2014 META, QCOM, BE, AMZN, AVGO In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a315f6709959f09b7975b57023eb1f1e42c8aa9255c8cb764863fc87b4c164c5",
-      "datetime": 1788907599,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "COR",
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-09T11:58:15.704992+00:00"
+  "updated_at": "2026-09-09T12:13:15.835387+00:00"
 }
