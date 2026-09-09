@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "P",
+      "headline": "This Little-Known AI Storage Stock Will Join the S&P 500 (Not Micron or Sandisk). History Says This Will Happen Next.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=78be41fc9b9ee297a59eff236ac960a5797d7a492f5465ade90d78f0299796d8",
+      "datetime": 1788944881,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "QCOM Stock Rises Premarket: CFO Touts \u2018Well-Priced\u2019 Shares After Amazon Deal And  \u2018Port Once\u2019 AI Stack For Rival Chips",
       "source": "Yahoo",
@@ -80,6 +88,14 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=9db272ccd72a57fdd862933cd39e47c14a9fe5fddafdd1cbc9f5eb8c61662647",
       "datetime": 1788941100,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "\u200bFrom Apple To NVIDIA: Big Tech's Volatility Calendar Is Loaded",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=429b3910a46dd695606c08bf888e2f879b8232dd402f6d438aeee0ec1d96c48b",
+      "datetime": 1788933900,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -155,14 +171,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Nvidia vs. Broadcom: Comparing Recent Quarterly Revenue Trajectories",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dc40c139926b5ff2051be84ab554f3af3871e90861ea3a2942e216cc5dac9983",
-      "datetime": 1788901937,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Q2 Earnings Outperformers: Cencora (NYSE:COR) And The Rest Of The Health Insurance Providers Stocks",
       "source": "Yahoo",
@@ -233,14 +241,6 @@
       "url": "https://finnhub.io/api/news?id=a15207b062d7a38e717016c610bb084ba63457cebababa71c11616bdbf4616a4",
       "datetime": 1788870300,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Bloom Energy Joins the S&P 500 as The Trade Desk Leaves",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=25cc34e0d2e8874ee9e893a7503d9f8419ce06b41dbcb9a05ac9d9490a45ae11",
-      "datetime": 1788869764,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "B",
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-09T10:13:15.714239+00:00"
+  "updated_at": "2026-09-09T10:28:15.909083+00:00"
 }
