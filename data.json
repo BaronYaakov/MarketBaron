@@ -60,6 +60,30 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "QCOM Stock Rises Premarket: CFO Touts \u2018Well-Priced\u2019 Shares After Amazon Deal And  \u2018Port Once\u2019 AI Stack For Rival Chips",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc1cd377227cdea618c051db5e789dd48535292273257ad1e37f74494a37d8d5",
+      "datetime": 1788941402,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Is Selling Its First Sterling Bonds in Four-Part Deal",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c4348841cac8c1e584e1e7218ab6e4c42d1496b32e901612c1ed1eec71744ac0",
+      "datetime": 1788941155,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9db272ccd72a57fdd862933cd39e47c14a9fe5fddafdd1cbc9f5eb8c61662647",
+      "datetime": 1788941100,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "The U.S.-China Worry List: Here\u2019s What Could Rattle the Fragile Detente",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f02c6123e86921a3f4ff08182c9253f370c7838ff9978a124cc912ea8cec4486",
@@ -115,22 +139,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Jeff Bezos Remains Amazon's Largest Individual Shareholder With Roughly 900 Million Shares. Here's Why That Stake Still Anchors the Stock.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9d3478d05e0df28fa049f428db1d5a10096fe21b38abf87e794af9aab642212a",
-      "datetime": 1788913500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Jim Cramer Says Amazon and Alphabet Are Cheap. Their Cash Flows Complicate the Case",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d3c44e35067c13af7cdf79dffc2a06f9496b616809fdaa616737a9e2f5786b53",
-      "datetime": 1788909012,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "S&P 500, Dow End Lower As Middle East Tensions Spur Oil Rally Ahead Of Key Inflation Data \u2014 META, QCOM, BE, AMZN, AVGO In Focus",
       "source": "Yahoo",
@@ -152,14 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=dc40c139926b5ff2051be84ab554f3af3871e90861ea3a2942e216cc5dac9983",
       "datetime": 1788901937,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom CEO Sees AI Value Flowing to Frontier Models and Custom Chips",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7fff043b579798030768e1c5e453791e812be970d54e6fcf21b4aad8c3e576bf",
-      "datetime": 1788901324,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-09T09:58:15.942002+00:00"
+  "updated_at": "2026-09-09T10:13:15.714239+00:00"
 }
