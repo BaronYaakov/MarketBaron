@@ -100,6 +100,14 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "TSMC's Arizona Bet Was My Biggest Worry In July - Now It's My Best Argument",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9d4c737cf66e2c905f48f52eb3155d4b3b33e716abe36a43ab08f7c8d5fbdf93",
+      "datetime": 1788939017,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "\u200bFrom Apple To NVIDIA: Big Tech's Volatility Calendar Is Loaded",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=429b3910a46dd695606c08bf888e2f879b8232dd402f6d438aeee0ec1d96c48b",
@@ -160,14 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a315f6709959f09b7975b57023eb1f1e42c8aa9255c8cb764863fc87b4c164c5",
       "datetime": 1788907599,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Marvell Is Growing Faster And Its Margin Guide Is Standing Still",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f40d4a35a446667d8f084ca40e2197e439f8563387629f30ace47e12a71d6d34",
-      "datetime": 1788905328,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-09T11:43:15.683889+00:00"
+  "updated_at": "2026-09-09T11:58:15.704992+00:00"
 }
