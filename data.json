@@ -83,6 +83,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "P",
+      "headline": "A Look Back at Hardware & Infrastructure Stocks\u2019 Q2 Earnings: Everpure (NYSE:P) Vs The Rest Of The Pack",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8238dd3557695bf05357285378b8a37a532db0a619daab9b5d53695af0d13521",
+      "datetime": 1788987038,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "The Overlooked Chip Stock Poised to Outperform Nvidia, AMD, and Broadcom in the AI Semiconductor Boom",
       "source": "Yahoo",
@@ -164,6 +172,22 @@
     },
     {
       "ticker": "P",
+      "headline": "Dear Illumina Stock Fans, Mark Your Calendars for September 21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2bd481a1f9d326ecfcd64b2f2d77125e373e4d4c5eead1d8a9d707190d7d7eee",
+      "datetime": 1788964336,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Dear Everpure Stock Fans, Mark Your Calendars for September 21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f08fe6edcdad21554425c366487363bdfc110cc47493f2135ecd8008738be9e",
+      "datetime": 1788963043,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "P",
       "headline": "Here\u2019s Why Artisan Reduced Its Stake in Everpure (P)",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=bc1f0bf7aa67b0919b969ae1130bf38b0e6653090e140e193255888d3cbcd6e3",
@@ -209,30 +233,6 @@
       "url": "https://finnhub.io/api/news?id=c4bf864926c8efe203b508fd7dd1c58a4052235d1805cae20b7227698f9abc7a",
       "datetime": 1788898500,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Everpure to Join the S&P 500",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=02c735c2e423412c22f3b0aa39c862f5d1581bb6a13c6cdd99932e06f91f82eb",
-      "datetime": 1788894000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "3 Market-Beating Stocks Worth Your Attention",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=341fef10e876fdd8b2d4060e1af00d3cf8949944c8481ce7e6dab576241783a9",
-      "datetime": 1788891798,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Bloom Energy Stock Rallies on News of S&P 500 Addition",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=52711d16de7fe605f7896a68b89ff19477cddb23ba6556f45b2edf4b6688de0f",
-      "datetime": 1788882490,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "B",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-09T22:13:17.479580+00:00"
+  "updated_at": "2026-09-09T22:28:17.554759+00:00"
 }
