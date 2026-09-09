@@ -195,12 +195,28 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
+      "ticker": "B",
+      "headline": "Kinross Gold Stock Up 13% in a Month: What Should Investors Do Now?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2f1f9e626ac96ecb9812e6592de0321dc2ad09c7b525a6b457b5a5fed43f3c57",
+      "datetime": 1788870600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "COR",
       "headline": "Cencora, Inc. (COR) Presents at Wells Fargo 21st Annual Healthcare Conference Transcript",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=a375fbe02b4405ef0067332de8bf694ce053df54419ec167f9bdcd29649615cb",
       "datetime": 1788870332,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "B",
+      "headline": "Can NEM Maintain Earnings Momentum Amid Production Challenges?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a15207b062d7a38e717016c610bb084ba63457cebababa71c11616bdbf4616a4",
+      "datetime": 1788870300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "P",
@@ -225,6 +241,14 @@
       "url": "https://finnhub.io/api/news?id=4e7b1a2aeb0c009cfa4b796256f852bfd5d492e932be21782b3689b931c10da5",
       "datetime": 1788863860,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "B",
+      "headline": "Stardust Metal Now Trading on the TSX Venture Exchange Under the Symbol ZIGY",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8fcbc01197212910d54cc5f0dc2c5d4eeb2e12dee85d455d81b418861d6f25af",
+      "datetime": 1788861600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "CLS",
@@ -345,30 +369,6 @@
       "url": "https://finnhub.io/api/news?id=d7461d918c3110feab23f7c309dfb1fef02ba914e1b981793022c4a3ce941c8d",
       "datetime": 1788440398,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Barrick Mining Trading at a Discount: Should You Buy the Stock Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5697814d29fa50608743744efdf69d6e7722dd2cf2ad79afe9e07f13e01e0e71",
-      "datetime": 1788440040,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Citigroup Reinstates Neutral on Barrick Mining, Announces $45 Price Target",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=2a982e801186888851dc606fffafd44a3f8554f777a4b2601e6fe315e86b6854",
-      "datetime": 1788438830,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Barrick: Buy For Copper Growth And Valuation Discount",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ba581a5399744445da3d7b10859e634c29b24ead8dcecb468f20e45e4b2a658c",
-      "datetime": 1788423135,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "CLS",
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-09T00:28:17.388830+00:00"
+  "updated_at": "2026-09-09T00:43:16.364351+00:00"
 }
