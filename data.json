@@ -60,6 +60,22 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "AI Is Splitting the Magnificent Seven Into Winners and Laggards, Says Lo Toney",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=295d1ca04b1994d29202edb1db6ace19d7653a6722d3e4c8c6e3ade3c63b8dad",
+      "datetime": 1788929090,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "MRVL Stock Keeps Climbing As CEO Shrugs Off Qualcomm-Amazon Threat: 'We Are The Switzerland Of This Entire Market'",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8118bcc9942e673c9a18b59b8d19226a7edf1d28a8b3bbb3b6d85600c50f3176",
+      "datetime": 1788926319,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "QCOM Stock Extends Gains Overnight: Analyst Says Amazon AI Deal 'Changes Calculus For Qualcomm'",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3041b1c4bda12a438d0c620773885af635e1fc6f2d0a9574ac77211ba844c534",
@@ -129,22 +145,6 @@
       "url": "https://finnhub.io/api/news?id=f40d4a35a446667d8f084ca40e2197e439f8563387629f30ace47e12a71d6d34",
       "datetime": 1788905328,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "DAL Stock Drops: Jefferies Sees Possible Snag To In-Cabin Experience Owing To SPCX-VSAT Spectrum Fight",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e6e05d5d48d3fe46afa54165afa2df7236acae8d195dd57bdb72fa0ce1797fef",
-      "datetime": 1788903510,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The Trade Desk makes major reset after brutal 70% decline",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=76424a0b30bb6fe8755e3b116ca9ea17f44d498b40c931b058cf033b5d6694b9",
-      "datetime": 1788903180,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-09T05:58:16.888136+00:00"
+  "updated_at": "2026-09-09T06:13:16.355911+00:00"
 }
