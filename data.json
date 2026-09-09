@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "The U.S.-China Worry List: Here\u2019s What Could Rattle the Fragile Detente",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f02c6123e86921a3f4ff08182c9253f370c7838ff9978a124cc912ea8cec4486",
+      "datetime": 1788932700,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "AI Is Splitting the Magnificent Seven Into Winners and Laggards, Says Lo Toney",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=295d1ca04b1994d29202edb1db6ace19d7653a6722d3e4c8c6e3ade3c63b8dad",
@@ -129,14 +137,6 @@
       "url": "https://finnhub.io/api/news?id=a315f6709959f09b7975b57023eb1f1e42c8aa9255c8cb764863fc87b4c164c5",
       "datetime": 1788907599,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "S&P 500, Dow End Lower As Middle East Tensions Spur Oil Rally Ahead Of Key Inflation Data \u2014 META, QCOM, BE, AMZN, AVGO In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a315f6709959f09b7975b57023eb1f1e42c8aa9255c8cb764863fc87b4c164c5",
-      "datetime": 1788907599,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-09T07:58:15.586673+00:00"
+  "updated_at": "2026-09-09T08:13:15.896608+00:00"
 }
