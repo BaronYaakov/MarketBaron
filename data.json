@@ -59,6 +59,62 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "AMZN, META, GOOGL Might Lose Billions As Ohio State Reconsiders Data Center Tax Breaks, Says Report",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4844d095a2ba9ad4c216955ed49fa3250cf37fb47466d25dd03a5fc1631fe4a7",
+      "datetime": 1788989362,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom (AVGO) Q3 2026 Earnings Call Transcript",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e4c965012211efea973ebf641a6455cd2ad126ab4b9bcb2f0ee3b240068b9edd",
+      "datetime": 1788989323,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "This billionaire is now worth more than Jeff Bezos",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=14ff168478ab1fd26d9dc15f1ae845710b97c720dc4794d24c9121aa30f1c828",
+      "datetime": 1788987695,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "The Overlooked Chip Stock Poised to Outperform Nvidia, AMD, and Broadcom in the AI Semiconductor Boom",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=835f3b1f585ccb6ae04d006003d09a06bad19dbccf12a972791656216f94634e",
+      "datetime": 1788986580,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Should You Buy Alphabet Stock For The Chips It Now Sells?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0ec54131f1e34310a248bfc07ce8c00ead88cfdba1a3367338c72b3a020562b9",
+      "datetime": 1788984559,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Navan Acquires Leading AI-Powered Events Platform BoomPop, Expanding Offerings for Meetings and Events",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4c2aa2c30f466f46a95654f3557c36bcd62160a9e8f7e69afa2d286e083b748d",
+      "datetime": 1788984360,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Can Microsoft Stock Keep Earning Like This?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1936d438ad55a94bd69e7342245ccb247cbbe85dd91eee960172a47c6bd063a4",
+      "datetime": 1788983679,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "What Investors Need To Understand About Broadcom, Credo and Snowflake Earnings",
       "source": "Yahoo",
@@ -75,52 +131,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "5 Takeaways From Today's Apple Event",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=650a85d692ef8014cd6be701834c6a8ace57a02b5e8780b6d183e30505835243",
-      "datetime": 1788982408,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "\u2018Somebody\u2019s Going to Sue Your Butt\u2019: Ramsey to Woman Renting Her Pool by the Hour",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=58b07001bdee7a30c50bc1e29d12e7bab2c294edfb4a94ccc191a7c6e5c3cfe7",
-      "datetime": 1788981668,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Shein rival confirms plans for major U.S. store expansion",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f0676d17040a2ceb6e39c55ff69763843a9e241b0bc03c21d62e7ba4b9ae870a",
-      "datetime": 1788981540,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Stay informed with the top movers within the dow jones index on Wednesday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=3f9396fd378945ab289f1fef5df0f06f15cd8f5cea04f043344d77ae53f1a0a4",
-      "datetime": 1788981004,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Bank of America Spots a Major Semiconductor. Micron and AMD Are Big Winners",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=bc3582d9b5997fcafc6c07b6b238658784f1c0c4441222238d1f2a588b7fd9c0",
       "datetime": 1788980784,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Veteran Bank Revamps Qualcomm Price Target After Amazon AI Chip Deal",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ec770f25056b64e2749463de0cbe84e1e246c675dbcb190c28b649c610282732",
-      "datetime": 1788979804,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -136,22 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b94377df89c68a1e3a7bb247571bb1c5d983621cca8477460b570623b114817c",
       "datetime": 1788976216,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Cramer Says Qualcomm\u2019s Amazon Collaboration Gives Stalled Stock \u201cSomething Special\u201d to Point At",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e16e1ac7659c6bd4d3c4abc36224bb9a8ff6a108cf38ce8550cdfad5cefbe499",
-      "datetime": 1788974739,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Did You Already Pay For NVIDIA's Bigger Guide?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7124aac3bdf3dfb23ac553368f760918555cf839d0a627c8244157d8b158c6a9",
-      "datetime": 1788974190,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-09T21:58:17.745765+00:00"
+  "updated_at": "2026-09-09T22:13:17.479580+00:00"
 }
