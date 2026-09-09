@@ -155,6 +155,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "PRMB",
+      "headline": "Primo Brands Corporation (PRMB) Presents at Barclays 19th Annual Global Consumer Staples Conference Transcript",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=770fe05389979e5a9f3bd4cbdc04af32adc57ad30f6fac53539e36e6243b3fed",
+      "datetime": 1788973624,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+    },
+    {
       "ticker": "P",
       "headline": "Here\u2019s Why Artisan Reduced Its Stake in Everpure (P)",
       "source": "Yahoo",
@@ -592,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-09T21:28:18.067694+00:00"
+  "updated_at": "2026-09-09T21:43:17.721330+00:00"
 }
