@@ -203,6 +203,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
+      "ticker": "B",
+      "headline": "Bernstein Maintains Outperform on Barrick Mining, Lowers Price Target to $56.5",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=cd7d235d9b14b171b6bb73e11b47160452780a21136104ecb4dd251f5cba12ab",
+      "datetime": 1788948484,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "P",
       "headline": "This Little-Known AI Storage Stock Will Join the S&P 500 (Not Micron or Sandisk). History Says This Will Happen Next.",
       "source": "Yahoo",
@@ -369,14 +377,6 @@
       "url": "https://finnhub.io/api/news?id=aec30453c0b0f27f3518447afe35bee57f5c16744134b4742bdc042b49feb235",
       "datetime": 1788456198,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "After-Hours Losers Aug. 8, 2016: TUBE Down 24.2%, MODN 16.4%, NPTN 15.6%, MXL 15.5%, TWER 14%, MTW 12%, ROG 9%, IAG 7.9%, KNDI 5.7%",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=28d231380c51a7ad4c38461c601e1c8a16372da488abc71fce9a61ab4ecdf74a",
-      "datetime": 1788449373,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "CLS",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-09T23:28:18.272458+00:00"
+  "updated_at": "2026-09-09T23:43:18.236852+00:00"
 }
