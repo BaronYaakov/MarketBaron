@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "MercadoLibre: How A Formidable Moat Is Born",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=aaafb48dd597e616c6666bd2b2594c0709b672a78ccce488c866f266faaa35db",
+      "datetime": 1788997933,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Marvell Or NVIDIA: Which One Costs Less Per Dollar Of Profit?",
       "source": "Yahoo",
@@ -129,14 +137,6 @@
       "url": "https://finnhub.io/api/news?id=e4c965012211efea973ebf641a6455cd2ad126ab4b9bcb2f0ee3b240068b9edd",
       "datetime": 1788989323,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "This billionaire is now worth more than Jeff Bezos",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=14ff168478ab1fd26d9dc15f1ae845710b97c720dc4794d24c9121aa30f1c828",
-      "datetime": 1788987695,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-10T03:58:18.772770+00:00"
+  "updated_at": "2026-09-10T04:13:17.096814+00:00"
 }
