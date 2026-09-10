@@ -60,35 +60,99 @@
   "news": [
     {
       "ticker": "AMZN",
-      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=3c6dd7e37edbe2d02b33bc261a6730d798fa99bd613b91d01d5e24dda6b86b3d",
-      "datetime": 1789058407,
+      "headline": "Google Is Buying Half a Nuclear Plant\u2019s Output Through 2049. Cheap Power Just Became the Real AI Moat.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3a9604e87009b109a4093758319b74e6973ffb0b0b76b2b0c9d507478f176b55",
+      "datetime": 1789062464,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "The Portfolio You Need to Generate $500 a Month in Dividend Income",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad29399e84b41bc1339b127b911b623aa95a44e467ef9e53072ffcdee0c255de",
+      "datetime": 1789062427,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "AbbVie vs. Novo Nordisk: Which Healthcare Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad181144a7d06182ba609e0908d03dc6ded85f4ed97764dbd7f7ce1ac0017980",
+      "datetime": 1789062373,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "2 S&P 500 Stocks with Exciting Potential and 1 We Question",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f57f6954e66790078ae5cddb82a24d663ad81113c4bbf68161a7e0e774309d17",
+      "datetime": 1789062304,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Sector Update: Tech Stocks Decline Thursday Afternoon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b1cc1a27f909b889f6cc0c64e0888d4c12abd2e1d77fee0cb3e54997851f8309",
+      "datetime": 1789061744,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Amazon Just Made Its Biggest ChatGPT Bet Yet",
+      "headline": "Should You Buy Meta Stock For Cash Flow It Plans To Spend?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dda1fa348447fdff18d54146a4f73f657200713d036fdbda99c6edaa46d822cf",
-      "datetime": 1789055758,
+      "url": "https://finnhub.io/api/news?id=90591b88066e21ffa21ae683a8dfb3d3ac603a8323fda952241b93119d2c2801",
+      "datetime": 1789060696,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Traders Are Paying More to Bet on Oracle Than to Protect Against It. Here\u2019s Why That Is Backwards",
+      "headline": "Polymarket names Warren Jenson as its first CFO",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6be2870c778869772d3d4ddaffba63d65ec9d8659737e26e64ddafd52490bb6e",
-      "datetime": 1789055436,
+      "url": "https://finnhub.io/api/news?id=2cb2a5921a13b2a8ac3616cb555a8127b93159a7d007eca7e230c15faf76f229",
+      "datetime": 1789060426,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Top Midday Stories: Macy's Shares Fall Despite Strong Earnings; Amazon Reportedly Collaborates With OpenAI on ChatGPT Advertising",
+      "headline": "Why Wall Street Is Buying Navan\u2019s Post-Earnings Selloff",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9eb6838b8d45ba358fc71c72b976b1b187d057a99181e53329d9e4d71b330e26",
-      "datetime": 1789054894,
+      "url": "https://finnhub.io/api/news?id=d6e231007d66f5b64931105d3f5b4831adb626365e4babcee91cc94878d053d4",
+      "datetime": 1789060140,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "The Case for Broadcom Over Nvidia Strengthens in September",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f88e0286a270d9ffb2c1a59b448d41edd096f7e11b00ea5bd17125cc44082de4",
+      "datetime": 1789059499,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Is Microsoft Stock Overvalued At 28x Earnings?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cbe2dd1b61e65f6225b23b9613329430d5f754b5ebd6492b6f0b5d285d272499",
+      "datetime": 1789059136,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "OpenAI Picked Broadcom for Its First Custom AI Chip. The Race for Number Two Just Got Dangerous.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dba9f1685dd3f618dac3a9553a821d467f515bb2563f9a64aeaea07eac89a1db",
+      "datetime": 1789058439,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Amgen vs. Moderna: Which Healthcare Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=048a492322933b269d7e80caf13a16d0fcc27cc8948d27855f206759fbc84081",
+      "datetime": 1789057284,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "P",
@@ -107,12 +171,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Nvidia Will Pay Its Next Cash Dividend on Oct. 1. Here's How Many Shares of Nvidia (NVDA) Stock You'd Need for $10,000 in Yearly Dividends.",
+      "ticker": "AVGO",
+      "headline": "OpenAI Deepens Samsung Partnership to Build Next-Gen AI Chips \u2014 \u2018One of the Areas Where We\u2019ve Made the Most Progress\u2019",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=daa3209cb64e04e070beb2715ccc5e37aa9832d42758d496016d45d4044b0b79",
-      "datetime": 1789054200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "url": "https://finnhub.io/api/news?id=44d1bcb7199b7fa7a5c783c2ff0cbebc9c65ab61249313eb701d2fb35c3d859c",
+      "datetime": 1789054210,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -120,46 +184,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=88b73fab902610b71f5ef220a66e95fc2521de6d355d308da836fb5d24aeeb9f",
       "datetime": 1789052100,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Coca-Cola Is Outperforming Broadcom and Every \"Magnificent Seven\" Stock in 2026. Is It Still a Top Dividend Stock to Buy in September?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5df5e2bd169a17df475fe927054b0799b420338b283c98540c53d1341ab7ea7b",
-      "datetime": 1789051800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "MRVL Stock Rises 8.6% Since Q2 Results: Time to Hold or Fold?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=91472b7cba54c848c8bc1a9fa3003ec3bb338a7bf8107e2a9bd39568bace7f54",
-      "datetime": 1789050540,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Cramer Thinks the US Debt Market Is Saturated. Amazon Just Went to London to Borrow",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f26968ff9951c30a3b8dc8c401e973a29b2c041600a1e2b1e6fc1654f2c1aefd",
-      "datetime": 1789050032,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "One AI Stock is The Clear WInner as Yields Approach 5%",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=57f9aa0ae0d470684e6995949770d93e23bef4cd1caa30fb9d868ef9370d6288",
-      "datetime": 1789049441,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Jim Cramer has strong message for Nvidia, Broadcom investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eec1c55023f9c278938a9e75270c25aab154b45c375475029043d02e04104e44",
-      "datetime": 1789049220,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -323,14 +347,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "COR",
-      "headline": "RBC Capital Reiterates Sector Perform on Cencora, Maintains $330 Price Target",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=4e7b1a2aeb0c009cfa4b796256f852bfd5d492e932be21782b3689b931c10da5",
-      "datetime": 1788863860,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "Celestica: 2027 Inflection Is Getting Bigger, AI Growth Still Underestimated",
       "source": "SeekingAlpha",
@@ -353,22 +369,6 @@
       "url": "https://finnhub.io/api/news?id=3eb8f5fb477309e95b3bebdeea1419c395ec815cda58767064f17783f0666c41",
       "datetime": 1788786154,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Here's Why You Should Retain Cencora Stock in Your Portfolio for Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4521da65387b1edfe02b09e78249415553f3c231a03dbadecd6f07e26011f0f1",
-      "datetime": 1788550740,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "AbbVie vs. Pfizer: Which Healthcare Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=882e78db4092ee8e4a4f8c9153c570608198427b13f54f3413147816ac706bb2",
-      "datetime": 1788547801,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "PRMB",
@@ -443,12 +443,12 @@
       "market_cap_musd": 1733567.0173841652,
       "country": "US",
       "currency": "USD",
-      "price": 362.8,
+      "price": 362.51,
       "open": 360.04,
       "day_high": 365.27,
       "day_low": 357.75,
       "prev_close": 364.38,
-      "day_change_pct": -0.43,
+      "day_change_pct": -0.51,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -462,12 +462,12 @@
       "market_cap_musd": 100135.607111,
       "country": "CA",
       "currency": "USD",
-      "price": 43.64,
+      "price": 43.43,
       "open": 43.2,
       "day_high": 43.96,
       "day_low": 43.07,
       "prev_close": 44.59,
-      "day_change_pct": -2.13,
+      "day_change_pct": -2.6,
       "week52_high": 74.0,
       "week52_low": 39.05
     },
@@ -481,12 +481,12 @@
       "market_cap_musd": 57330.113422,
       "country": "CA",
       "currency": "USD",
-      "price": 325.57,
+      "price": 325.34,
       "open": 324.93,
       "day_high": 335.9,
       "day_low": 322.07,
       "prev_close": 333.6,
-      "day_change_pct": -2.41,
+      "day_change_pct": -2.48,
       "week52_high": 655.5,
       "week52_low": 315.41
     },
@@ -500,12 +500,12 @@
       "market_cap_musd": 61698.24396386497,
       "country": "US",
       "currency": "USD",
-      "price": 322.35,
+      "price": 322.6,
       "open": 326.35,
       "day_high": 327.9,
       "day_low": 322.06,
       "prev_close": 323.32,
-      "day_change_pct": -0.3,
+      "day_change_pct": -0.22,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -538,12 +538,12 @@
       "market_cap_musd": 7546.526467894016,
       "country": "US",
       "currency": "USD",
-      "price": 20.69,
+      "price": 20.64,
       "open": 20.84,
       "day_high": 21.0,
       "day_low": 20.58,
       "prev_close": 20.85,
-      "day_change_pct": -0.77,
+      "day_change_pct": -1.01,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -557,12 +557,12 @@
       "market_cap_musd": 32343.03808745383,
       "country": "US",
       "currency": "USD",
-      "price": 94.86,
+      "price": 94.72,
       "open": 96.55,
       "day_high": 97.12,
       "day_low": 94.44,
       "prev_close": 97.06,
-      "day_change_pct": -2.27,
+      "day_change_pct": -2.41,
       "week52_high": 119.1,
       "week52_low": 56.78
     },
@@ -576,12 +576,12 @@
       "market_cap_musd": 2722465.7809010637,
       "country": "US",
       "currency": "USD",
-      "price": 252.27,
+      "price": 252.18,
       "open": 250.12,
       "day_high": 253.15,
       "day_low": 249.58,
       "prev_close": 252.4,
-      "day_change_pct": -0.05,
+      "day_change_pct": -0.09,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-10T17:58:18.034736+00:00"
+  "updated_at": "2026-09-10T18:13:18.137229+00:00"
 }
