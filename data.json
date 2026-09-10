@@ -75,6 +75,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "How Far Can Fabrinet Stock Fall While Its Business Accelerates?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6a3c9958021262bd6a3afda0bae72e1e6621d33140955d089fce7dadcaf543af",
+      "datetime": 1788994350,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom Forecasts $230 Billion in AI Semiconductor Revenue in 2028. The Stock Could Reach $900 Per Share as a Result.",
       "source": "Yahoo",
@@ -171,6 +179,22 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Sanmina's Cash Flow Gains Momentum: Can the Trend Continue?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0eb75b150998d37288f406eafcb2970f0437439b641637940fef1854efeb797b",
+      "datetime": 1788969240,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "B",
+      "headline": "Why Is Barrick Mining (B) Up 9.9% Since Last Earnings Report?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ebf51a47c4bf4fa4f167eb21fcf3b0d10ce4f22116dd9a46c254793fb56bf6cd",
+      "datetime": 1788967804,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "P",
       "headline": "Dear Illumina Stock Fans, Mark Your Calendars for September 21",
       "source": "Yahoo",
@@ -201,6 +225,22 @@
       "url": "https://finnhub.io/api/news?id=e63b6ec956820a26fe485ffe6e8aea85d06e12f3cc889695166a5af347783058",
       "datetime": 1788956348,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "B",
+      "headline": "Guanajuato Silver Appoints Chief Operating Officer",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ade06bdb20883d2629b1906a676f78c37cdfb3f5babd20b3238698216b163447",
+      "datetime": 1788953400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Toronto Stock Exchange Announces the 2026 TSX30, Recognizing the Companies Scaling into Global Leaders",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6f6867b550351a745077515990d5e80a21be710e921fa64ed66f0d02dbd32641",
+      "datetime": 1788951780,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "B",
@@ -268,10 +308,10 @@
     },
     {
       "ticker": "B",
-      "headline": "Why Barrick Mining Can Rise Despite Risks To Gold Prices",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=dde43a7f0db345db33674b89d55933d40199c69ccee0db01473dd805f4b418da",
-      "datetime": 1788866251,
+      "headline": "Bond Yields Are Pressuring Gold, But Miners May Tell a Different Story",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=802170d17728c0c56038cc661af04546ef54714b5e6580916de79130011a460b",
+      "datetime": 1788866700,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
@@ -281,14 +321,6 @@
       "url": "https://finnhub.io/api/news?id=4e7b1a2aeb0c009cfa4b796256f852bfd5d492e932be21782b3689b931c10da5",
       "datetime": 1788863860,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Stardust Metal Now Trading on the TSX Venture Exchange Under the Symbol ZIGY",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8fcbc01197212910d54cc5f0dc2c5d4eeb2e12dee85d455d81b418861d6f25af",
-      "datetime": 1788861600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "CLS",
@@ -339,14 +371,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "Lundin Gold Heads These 3 Top Canadian Quality Stocks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0adbde8d30092eae3565801426e9311010635a90b7bf2e322b05515a5cbb13b0",
-      "datetime": 1788538604,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "PRMB",
       "headline": "Primo Brands (PRMB) Down 8.4% Since Last Earnings Report: Can It Rebound?",
       "source": "Yahoo",
@@ -355,36 +379,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     },
     {
-      "ticker": "B",
-      "headline": "Gold miners and bitcoin stocks fall on strong jobs data",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=888568c3413c102c6b1a946b289488c5602dc955089eddc582df97af583a8455",
-      "datetime": 1788529279,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "CLS Stock Jumps 12% As Broadcom AI Call Sparks Switch Rally",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a2e0cb97662bef257ad3a6e6f56c60dc0c59416567f2f425a208eed3f6bb1e34",
-      "datetime": 1788466950,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "3 Reasons We Love O'Reilly (ORLY)",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=aec30453c0b0f27f3518447afe35bee57f5c16744134b4742bdc042b49feb235",
       "datetime": 1788456198,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Broadcom Q3: Hardware Could Be The Missing Piece In An AI Portfolio",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d7461d918c3110feab23f7c309dfb1fef02ba914e1b981793022c4a3ce941c8d",
-      "datetime": 1788440398,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "ORLY",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-10T00:28:18.258003+00:00"
+  "updated_at": "2026-09-10T00:43:18.098654+00:00"
 }
