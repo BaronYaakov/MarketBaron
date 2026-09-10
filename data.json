@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "OpenAI\u2019s Samsung Pivot: The Reality of Manufacturing Diversification",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=997b2f710b18faeda19b5a495e873294f9d546f68418a20d6af9784e6ce873c1",
+      "datetime": 1789025536,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Marvell Technology Targets $18B as AI Networking and Optics Fuel Growth",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=26e5220dbbd76d905e5111814e353710c92da60b2ee37d9571e8ba16c8486f8a",
+      "datetime": 1789020126,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Baron Opportunity Fund Q2 2026 Top Contributors And Detractors",
       "source": "SeekingAlpha",
@@ -153,22 +169,6 @@
       "url": "https://finnhub.io/api/news?id=8238dd3557695bf05357285378b8a37a532db0a619daab9b5d53695af0d13521",
       "datetime": 1788987038,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "The Overlooked Chip Stock Poised to Outperform Nvidia, AMD, and Broadcom in the AI Semiconductor Boom",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=835f3b1f585ccb6ae04d006003d09a06bad19dbccf12a972791656216f94634e",
-      "datetime": 1788986580,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "What Investors Need To Understand About Broadcom, Credo and Snowflake Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=912501ca45ee607e98ca43c28d2f40981beaaf970d7e8ed94bc68d399339ff41",
-      "datetime": 1788983411,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "PRMB",
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-10T07:58:15.781283+00:00"
+  "updated_at": "2026-09-10T08:13:16.540258+00:00"
 }
