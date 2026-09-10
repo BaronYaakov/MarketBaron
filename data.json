@@ -163,6 +163,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Nvidia Stock Sits in 82% of Portfolios, But Hedge Funds Are Making Other AI Bets",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ea3d3b6c346271a98217cd2d20122e06a28de884221ae6ea15c4aa08b224599d",
+      "datetime": 1789057764,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "COR",
       "headline": "Amgen vs. Moderna: Which Healthcare Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
@@ -177,14 +185,6 @@
       "url": "https://finnhub.io/api/news?id=9717a7fc535e5a103926981e9ddda2dbee0e9b5eef5400ff3d9f5a3c17a6bdf7",
       "datetime": 1789054802,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Prediction: Broadcom Could Become One of the World\u2019s Most Valuable Tech Companies",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7ecbca565a76fcf53738335c361d756ffa9f8feb459e7ec373cd7e0404d75cdf",
-      "datetime": 1789054232,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-10T21:13:15.501432+00:00"
+  "updated_at": "2026-09-10T21:28:15.326701+00:00"
 }
