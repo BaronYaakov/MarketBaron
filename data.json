@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "CLS",
+      "headline": "Celestica (NYSE:CLS) Combines High-Growth Leadership With Momentum Signals",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=9ef1b6ef8d10c0719eb797d07c6b610fc88af68a7515d5dc39b7b010dffca87e",
+      "datetime": 1789035666,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Market Chatter: Anthropic Grants EU Cybersecurity Agency Access to Mythos Model",
       "source": "Yahoo",
@@ -339,14 +347,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "Jabil Rises 36.2% Year to Date: Should You Buy the Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=44dddb55bb0d7ed25552d7253c8bf8e890e65c33b8405b205c6779707d7fd853",
-      "datetime": 1788794400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "How Is O'Reilly Automotive's Stock Performance Compared to Other Consumer Cyclical Stocks?",
       "source": "Yahoo",
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-10T10:28:15.920127+00:00"
+  "updated_at": "2026-09-10T10:43:15.719593+00:00"
 }
