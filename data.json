@@ -75,6 +75,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "AI And Robotics In 2026: 16 Recent Developments For Investors",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=52562ddf2a6c2687841344a20584b7dbbff017f24bdf5eb5c9ae273fdb14f613",
+      "datetime": 1789012200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Baron Opportunity Fund Q2 2026 Top Contributors And Detractors",
       "source": "SeekingAlpha",
@@ -153,14 +161,6 @@
       "url": "https://finnhub.io/api/news?id=ff951a80c9793bdca05d94c4fe4ff878b33f0975aae72c736f349c009566553d",
       "datetime": 1788992400,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom (AVGO) Q3 2026 Earnings Call Transcript",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e4c965012211efea973ebf641a6455cd2ad126ab4b9bcb2f0ee3b240068b9edd",
-      "datetime": 1788989323,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-10T08:13:16.540258+00:00"
+  "updated_at": "2026-09-10T08:28:15.866379+00:00"
 }
