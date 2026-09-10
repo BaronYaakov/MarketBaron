@@ -59,6 +59,54 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Market Chatter: Anthropic Grants EU Cybersecurity Agency Access to Mythos Model",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=72b86e8ee42584485a240bc45e6211ab5d6edb54e89e184c54854fd7b42be6a6",
+      "datetime": 1789032267,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "\u2018Conventional Wisdom Isn\u2019t Wise\u2019: Ramsey Tells Retirees to Dump Bonds, The Numbers Back Him Up",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a10b1e66395b49d16e2b4cdbe77bc563b2ae53953238ba5ac6ecb0b6644117cf",
+      "datetime": 1789032094,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Wall Street Is Wrong About These 2 Chip Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c334bc5e78d4e633b3612f81d926b2e47c99c2fdb2ab7458307093de5627a661",
+      "datetime": 1789031100,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Not Nvidia. Not Broadcom. But This Semiconductor Stock Is Set to Grow Faster Than Any Other Major AI Chipmaker Through the End of the Decade.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b7d429b4e11a2c61494d8eda52080e14b16466380cda734b3a4ee2c4fd7b9e23",
+      "datetime": 1789030200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "A University\u2019s Distaste for Hedge Funds Created This New ETF. It\u2019s Still Risky.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aaa75b8cd25d018b232e286568decaf6d4170da9a96aab6426cb202299e6f35e",
+      "datetime": 1789027200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "A University\u2019s Distaste for Hedge Funds Created This New ETF. It\u2019s Still Risky.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aaa75b8cd25d018b232e286568decaf6d4170da9a96aab6426cb202299e6f35e",
+      "datetime": 1789027200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "OpenAI\u2019s Samsung Pivot: The Reality of Manufacturing Diversification",
       "source": "Yahoo",
@@ -107,60 +155,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Broadcom Is 26% Below Its High. What $10,000 Bought a Decade Ago, and When the Gains Landed.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8839f035ab18478884ca57c7797b70ff802721e74e4d22c0f5f400d6a1778514",
-      "datetime": 1789008841,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Qualcomm\u2019s $60 billion deal reveals what comes after smartphones",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1288fafcac4f00523f553e146b67ae89eb285135d12ff0116e6920aedadd6c85",
-      "datetime": 1789004220,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "MercadoLibre: How A Formidable Moat Is Born",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=aaafb48dd597e616c6666bd2b2594c0709b672a78ccce488c866f266faaa35db",
-      "datetime": 1788997933,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Marvell Or NVIDIA: Which One Costs Less Per Dollar Of Profit?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c4fe7030b5ff3d9fc13b612c854759c02fd9127736442ff58ab699f613224b83",
-      "datetime": 1788994932,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "HIVE joins Google, Microsoft, and Amazon in new Canada data center pledge",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=34f11eaf89e2a676db850950a1967980551c18a67bd73bde0e46e2adf21a9398",
-      "datetime": 1788994424,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "How Far Can Fabrinet Stock Fall While Its Business Accelerates?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6a3c9958021262bd6a3afda0bae72e1e6621d33140955d089fce7dadcaf543af",
       "datetime": 1788994350,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Forecasts $230 Billion in AI Semiconductor Revenue in 2028. The Stock Could Reach $900 Per Share as a Result.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=20719dec6ddf2d07e95ae0e5d3e23ff0b5f47efee43fa1193a62a42e804926ff",
-      "datetime": 1788993660,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-10T09:58:15.859182+00:00"
+  "updated_at": "2026-09-10T10:13:15.891922+00:00"
 }
