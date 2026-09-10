@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Baron Opportunity Fund Q2 2026 Top Contributors And Detractors",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=63edc7ea50b61efcc4abc730e9a742c2db46c3146c9761df0643d7cd51b46f95",
+      "datetime": 1789010700,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "The AI Buildout Continues To Exceed Expectations",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=570fd4e82b05e0ded3e3a527df4b34b1d610ad8516ad93316235471f50190c0b",
@@ -128,14 +136,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ff951a80c9793bdca05d94c4fe4ff878b33f0975aae72c736f349c009566553d",
       "datetime": 1788992400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "S&P 500, Dow, Nasdaq End Lower As Oil Crosses $101, Yields Pop Following Bessent\u2019s Expanded Buyback Plan \u2014 AAPL, META, AMZN, CRM In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c3337d011ae7dd402563733535a14ca9a5cc988f69539437d6ff2872117c48d2",
-      "datetime": 1788991309,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-10T07:28:15.763010+00:00"
+  "updated_at": "2026-09-10T07:43:15.754610+00:00"
 }
