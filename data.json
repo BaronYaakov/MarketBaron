@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Anthropic Discloses Fourth Unauthorized System Hack During Cybersecurity Tests",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1655cae0fcfd470fd5255ed903f0c4e6cd008c25008518e46c5e3d64244d5d62",
+      "datetime": 1789037202,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "CLS",
       "headline": "Celestica (NYSE:CLS) Combines High-Growth Leadership With Momentum Signals",
       "source": "ChartMill",
@@ -152,14 +160,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=63edc7ea50b61efcc4abc730e9a742c2db46c3146c9761df0643d7cd51b46f95",
       "datetime": 1789010700,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The AI Buildout Continues To Exceed Expectations",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=570fd4e82b05e0ded3e3a527df4b34b1d610ad8516ad93316235471f50190c0b",
-      "datetime": 1789009500,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-10T11:13:16.373162+00:00"
+  "updated_at": "2026-09-10T11:28:15.983231+00:00"
 }
