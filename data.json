@@ -60,6 +60,46 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Oracle earnings: Do concentration risks fall on Oracle or the big AI firms?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6b000404723b86e53d7b40ab3da4806b3023a605c5ae20a0fa1b99b75e02d760",
+      "datetime": 1789072671,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Not Amazon, Not Shopify. No Other Company Has Done What MercadoLibre Just Did",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a76e2e815100422e02e54cf484bfb5f19c6c8d348126329d956fd11bf06b3f4c",
+      "datetime": 1789072501,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "SpaceX Trades at 98 Times Sales. Here's What Amazon's Multiple Looked Like at the Same Stage.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=69c5041d018e3c0067962a48b0957d9458689002065ae4d7a4a1b887cb8ab9f9",
+      "datetime": 1789071900,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Qualcomm Stock Looks Cheap, But Is The Discount Deserved?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=231b0f68f8ca7e6ead89d702d975cf56ae17c57ad0d556699b96f5b5468f4e2c",
+      "datetime": 1789070253,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8fe1d130d471b19f6c33b3aa2bc853ec69e2c8b4885a87cee3e5281e310df16d",
+      "datetime": 1789070145,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Anthropic Drops Stark AI Forecast for U.S. Economy",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e18218a63dd9f9377690c39bd531491d7973e88ae624fbf05f931093a5b7d227",
@@ -72,38 +112,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d5d0338a831b5b1caa33b0ad45d45d82c1e8a492ec5ef0bb68bdba4d5b611608",
       "datetime": 1789068565,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "AMZN Is Betting Bigger On Whole Foods With $230M Investment \u2014 But Amazon\u2019s Physical Stores Are Losing Steam",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ce60885893e1428e238dc0ba35bfaec010118efa1e0bd9e42b8465e6b3714a52",
-      "datetime": 1789067866,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Which dow jones stocks are moving on Thursday?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=adf9fabb65fa1bdc0746c8cf7941b566bd25d62715d8b6fa00e9d6a2953470bc",
-      "datetime": 1789067407,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Hyperscalers Bet on AI & Quantum: Watch GOOGL, AMZN, IBM in September",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=05bf89e2ad40453f7813c704283cc3ff58cf9a2ba8587c32e0dbcf3ce6d14029",
-      "datetime": 1789066800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Barclays Hikes S&P 500 Target to 7,950 on Strong Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fde5b84f63a1e8dfca5eaf778d20ef7e2618aa2c3edc51cbde013b1414ec7cd4",
-      "datetime": 1789065891,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -160,14 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=dba9f1685dd3f618dac3a9553a821d467f515bb2563f9a64aeaea07eac89a1db",
       "datetime": 1789058439,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia Stock Sits in 82% of Portfolios, But Hedge Funds Are Making Other AI Bets",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=ea3d3b6c346271a98217cd2d20122e06a28de884221ae6ea15c4aa08b224599d",
-      "datetime": 1789057764,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-10T21:58:14.929730+00:00"
+  "updated_at": "2026-09-10T22:13:14.699731+00:00"
 }
