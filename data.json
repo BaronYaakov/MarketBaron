@@ -75,6 +75,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "Baron Opportunity Fund Q2 2026 Adds And Trims",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0862263c55b42d5a71af84f605119feccc3fd2c485769cf8a9acb69bfc40283c",
+      "datetime": 1789014000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "AI And Robotics In 2026: 16 Recent Developments For Investors",
       "source": "SeekingAlpha",
@@ -153,14 +161,6 @@
       "url": "https://finnhub.io/api/news?id=20719dec6ddf2d07e95ae0e5d3e23ff0b5f47efee43fa1193a62a42e804926ff",
       "datetime": 1788993660,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Do Amazon and Alphabet's Combined $420 Billion in Capital Expenditures Make Sense?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ff951a80c9793bdca05d94c4fe4ff878b33f0975aae72c736f349c009566553d",
-      "datetime": 1788992400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-10T08:28:15.866379+00:00"
+  "updated_at": "2026-09-10T08:43:15.658826+00:00"
 }
