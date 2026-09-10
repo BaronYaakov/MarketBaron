@@ -59,12 +59,28 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Marvell Or NVIDIA: Which One Costs Less Per Dollar Of Profit?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c4fe7030b5ff3d9fc13b612c854759c02fd9127736442ff58ab699f613224b83",
+      "datetime": 1788994932,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "HIVE joins Google, Microsoft, and Amazon in new Canada data center pledge",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=34f11eaf89e2a676db850950a1967980551c18a67bd73bde0e46e2adf21a9398",
       "datetime": 1788994424,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom Forecasts $230 Billion in AI Semiconductor Revenue in 2028. The Stock Could Reach $900 Per Share as a Result.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=20719dec6ddf2d07e95ae0e5d3e23ff0b5f47efee43fa1193a62a42e804926ff",
+      "datetime": 1788993660,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -144,22 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=bc3582d9b5997fcafc6c07b6b238658784f1c0c4441222238d1f2a588b7fd9c0",
       "datetime": 1788980784,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom (AVGO) Faces Google Chip Risks, But Macquarie Sees a $40 Billion Anthropic Opportunity",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=402df5ed534fcb4e08d74153de1b8fc4d2e50eddc02b4a4e1aaabb0d5d4d43ca",
-      "datetime": 1788979566,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "What Qualcomm Has Stopped Leading With",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b94377df89c68a1e3a7bb247571bb1c5d983621cca8477460b570623b114817c",
-      "datetime": 1788976216,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-10T00:13:18.591626+00:00"
+  "updated_at": "2026-09-10T00:28:18.258003+00:00"
 }
