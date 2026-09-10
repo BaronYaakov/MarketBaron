@@ -60,6 +60,38 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "HIVE joins Google, Microsoft, and Amazon in new Canada data center pledge",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=34f11eaf89e2a676db850950a1967980551c18a67bd73bde0e46e2adf21a9398",
+      "datetime": 1788994424,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Do Amazon and Alphabet's Combined $420 Billion in Capital Expenditures Make Sense?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ff951a80c9793bdca05d94c4fe4ff878b33f0975aae72c736f349c009566553d",
+      "datetime": 1788992400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "S&P 500, Dow, Nasdaq End Lower As Oil Crosses $101, Yields Pop Following Bessent\u2019s Expanded Buyback Plan \u2014 AAPL, META, AMZN, CRM In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c3337d011ae7dd402563733535a14ca9a5cc988f69539437d6ff2872117c48d2",
+      "datetime": 1788991309,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon (AMZN) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f7f65b217391371e1a205c14476f7178295a61a04bf6471aae65d2b1881cd4e9",
+      "datetime": 1788990304,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "AMZN, META, GOOGL Might Lose Billions As Ohio State Reconsiders Data Center Tax Breaks, Says Report",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4844d095a2ba9ad4c216955ed49fa3250cf37fb47466d25dd03a5fc1631fe4a7",
@@ -99,44 +131,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Should You Buy Alphabet Stock For The Chips It Now Sells?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0ec54131f1e34310a248bfc07ce8c00ead88cfdba1a3367338c72b3a020562b9",
-      "datetime": 1788984559,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Navan Acquires Leading AI-Powered Events Platform BoomPop, Expanding Offerings for Meetings and Events",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4c2aa2c30f466f46a95654f3557c36bcd62160a9e8f7e69afa2d286e083b748d",
-      "datetime": 1788984360,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Can Microsoft Stock Keep Earning Like This?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1936d438ad55a94bd69e7342245ccb247cbbe85dd91eee960172a47c6bd063a4",
-      "datetime": 1788983679,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "What Investors Need To Understand About Broadcom, Credo and Snowflake Earnings",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=912501ca45ee607e98ca43c28d2f40981beaaf970d7e8ed94bc68d399339ff41",
       "datetime": 1788983411,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Optivels Launches New Integration Tools Connecting Shopify, Amazon, and Walmart Stores",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d00d5a7e823d5acd006a9829816c0024dbb21e83513b9146081b5abb9d3139e7",
-      "datetime": 1788982980,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -448,7 +448,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1753453.6597676403,
+      "market_cap_musd": 1733567.0173841652,
       "country": "US",
       "currency": "USD",
       "price": 364.38,
@@ -467,7 +467,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.barrick.com/",
       "ipo_date": "1983-05-02",
-      "market_cap_musd": 101913.158998,
+      "market_cap_musd": 100135.607111,
       "country": "CA",
       "currency": "USD",
       "price": 44.59,
@@ -477,7 +477,7 @@
       "prev_close": 44.1,
       "day_change_pct": 1.11,
       "week52_high": 74.0,
-      "week52_low": 37.89
+      "week52_low": 39.05
     },
     "CLS": {
       "name": "Celestica Inc",
@@ -486,7 +486,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.celestica.com/",
       "ipo_date": "1998-07-01",
-      "market_cap_musd": 54536.753006,
+      "market_cap_musd": 57330.113422,
       "country": "CA",
       "currency": "USD",
       "price": 333.6,
@@ -505,7 +505,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 61959.679020672156,
+      "market_cap_musd": 61698.24396386497,
       "country": "US",
       "currency": "USD",
       "price": 323.32,
@@ -524,7 +524,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 69481.64395438456,
+      "market_cap_musd": 69635.34649784048,
       "country": "US",
       "currency": "USD",
       "price": 86.08,
@@ -543,7 +543,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 7922.948153185,
+      "market_cap_musd": 7546.526467894016,
       "country": "US",
       "currency": "USD",
       "price": 20.85,
@@ -562,7 +562,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 33702.60624564385,
+      "market_cap_musd": 32343.03808745383,
       "country": "US",
       "currency": "USD",
       "price": 97.06,
@@ -581,7 +581,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2771759.329726687,
+      "market_cap_musd": 2722465.7809010637,
       "country": "US",
       "currency": "USD",
       "price": 252.4,
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-09T23:58:18.017750+00:00"
+  "updated_at": "2026-09-10T00:13:18.591626+00:00"
 }
