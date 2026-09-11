@@ -60,6 +60,30 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Popular women's clothing chain closes 177 stores",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0adb6f6d150b42dc2cda3182284650f907425ed2f4078a9bb2b6c1aec56d0498",
+      "datetime": 1789082220,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Remain Bullish on AI Beneficiaries Like Bloom Energy",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e77646d988191f399a243007262e34a444154cab5fa0a27b0581500c55d3fa37",
+      "datetime": 1789080600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=baf2dc1dbc009c98875f96eaf6bdf8f315cf71826e0a78cbf5a3ca9918f3024d",
+      "datetime": 1789077119,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Oracle earnings: Do concentration risks fall on Oracle or the big AI firms?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6b000404723b86e53d7b40ab3da4806b3023a605c5ae20a0fa1b99b75e02d760",
@@ -89,30 +113,6 @@
       "url": "https://finnhub.io/api/news?id=231b0f68f8ca7e6ead89d702d975cf56ae17c57ad0d556699b96f5b5468f4e2c",
       "datetime": 1789070253,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8fe1d130d471b19f6c33b3aa2bc853ec69e2c8b4885a87cee3e5281e310df16d",
-      "datetime": 1789070145,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Anthropic Drops Stark AI Forecast for U.S. Economy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e18218a63dd9f9377690c39bd531491d7973e88ae624fbf05f931093a5b7d227",
-      "datetime": 1789069424,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "What Happens To Home Depot Stock If Shoppers Keep Visiting Less?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d5d0338a831b5b1caa33b0ad45d45d82c1e8a492ec5ef0bb68bdba4d5b611608",
-      "datetime": 1789068565,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -440,7 +440,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1733567.0173841652,
+      "market_cap_musd": 1716677.6425943282,
       "country": "US",
       "currency": "USD",
       "price": 360.83,
@@ -459,7 +459,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.barrick.com/",
       "ipo_date": "1983-05-02",
-      "market_cap_musd": 100135.607111,
+      "market_cap_musd": 101320.645888,
       "country": "CA",
       "currency": "USD",
       "price": 43.46,
@@ -478,7 +478,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.celestica.com/",
       "ipo_date": "1998-07-01",
-      "market_cap_musd": 57330.113422,
+      "market_cap_musd": 58033.811748,
       "country": "CA",
       "currency": "USD",
       "price": 325.22,
@@ -497,7 +497,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 61698.24396386497,
+      "market_cap_musd": 61245.98447263439,
       "country": "US",
       "currency": "USD",
       "price": 320.95,
@@ -516,7 +516,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 69635.34649784048,
+      "market_cap_musd": 69174.24079839952,
       "country": "US",
       "currency": "USD",
       "price": 85.51,
@@ -535,7 +535,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 7546.526467894016,
+      "market_cap_musd": 7441.563134653236,
       "country": "US",
       "currency": "USD",
       "price": 20.56,
@@ -554,7 +554,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 32343.03808745383,
+      "market_cap_musd": 31356.68479215948,
       "country": "US",
       "currency": "USD",
       "price": 94.1,
@@ -573,7 +573,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2722465.7809010637,
+      "market_cap_musd": 2716964.681895932,
       "country": "US",
       "currency": "USD",
       "price": 251.89,
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-10T23:58:14.427207+00:00"
+  "updated_at": "2026-09-11T00:13:16.927127+00:00"
 }
