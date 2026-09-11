@@ -60,6 +60,46 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "These 2 Hardware Leaders Will Cash In on the Next Data Center Memory Crunch",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=08f81dca96bfc4bd9701f8ae80951abb63658830359bf2f85b43cbc290881db5",
+      "datetime": 1789120200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The Zacks Analyst Blog Highlights D-Wave Quantum, Rigetti, IBM, Alphabet and Amazon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b1fca47a052b25bf93fc97c618af0b0bf10b19dbdbca0e341cf989c5c91936be",
+      "datetime": 1789117320,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon \u2018on precipice\u2019 of expanding drone deliveries after limited UK launch",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8e61e4376d9ec3dedf44f72f29fd360ccd351a9140f1829023c8732613e0f3f5",
+      "datetime": 1789117203,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Andy Jassy Just Made a Move That Should Excite Micron and Broadcom Investors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=068df1e7dae22bbc3a21d7901108c8b19c7811d42c957801818ae2c38ff8cf8d",
+      "datetime": 1789114980,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Andy Jassy Just Made a Move That Should Excite Micron and Broadcom Investors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=068df1e7dae22bbc3a21d7901108c8b19c7811d42c957801818ae2c38ff8cf8d",
+      "datetime": 1789114980,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon Triples Its NVIDIA GPU Orders to 3 Million Chips as AI Demand Surges",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=94e5676a81cad9dd9b8ed3d3cd20dc6d78953a5635adbc58339a87c0f888f9ad",
@@ -91,44 +131,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Second Quarter Earnings: A Rising AI Tide Lifts Many Sectors",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=f55cb0ffee0b789afadea6d663e4e72c30cb75467c30cdff4e7bb8367754f789",
-      "datetime": 1789098300,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Prediction: This Unstoppable Stock Will Rejoin the $2 Trillion Club by 2027",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7fd0fb8b95ad32f2c4c860638b7f2ffe9b1ebe7196ba0840e30fd350a367bb53",
       "datetime": 1789093200,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon\u2019s Aviation Network Faces a Sobering Test after the Miami Crash",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=81c29e869208eec9899c1af4622273b80bdf49d0a00e4b86f8c2f970b6f0ae28",
-      "datetime": 1789088889,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The Robotaxi Race is Spreading, Can Amazon and Alphabet Turn More Cities into Revenue?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5a5b9a3f75fa2a51d01c8ca0137d43e5c57ffe3c74081335e0ed4ea16f5bbc28",
-      "datetime": 1789088260,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Pinterest Stock Halved In A Rising Market, So How Low Could A Crash Take It?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0fbc0db9d96315e7ac379056ff0593634d0fa64893b440a5fe3f75974604bf2e",
-      "datetime": 1789087545,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -152,14 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e649459a66cef5d880c0b73b5ad92c514ef9f9e70d703bf837e45fa0f343c3f5",
       "datetime": 1789064227,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "The Portfolio You Need to Generate $500 a Month in Dividend Income",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ad29399e84b41bc1339b127b911b623aa95a44e467ef9e53072ffcdee0c255de",
-      "datetime": 1789062427,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -584,5 +584,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-11T09:58:16.713137+00:00"
+  "updated_at": "2026-09-11T10:13:16.794675+00:00"
 }
