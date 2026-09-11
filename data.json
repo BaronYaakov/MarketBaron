@@ -60,6 +60,38 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Qualcomm Sold Server Chips Once Before and Quit Within a Year. History Says What Has to Be Different This Time.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ebfb0d910272768517ee686f1c21470f0df9d39622c0f17af025cef3dd5a2f4c",
+      "datetime": 1789126441,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Dropped Last Month: A Wall Street Pro Says It\u2019s Going to Provide 60% Returns",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aae2330f3d8d14eda5d24a5667661338a4337e9e37f5b2a7fe3df1d35df25f67",
+      "datetime": 1789125787,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Prediction: Broadcom and Nvidia Will Be 2027's Best Performing AI Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fa9149e4bd7a62694d78374a4da704e98b074b9595221b7918f6bf27620fada3",
+      "datetime": 1789123800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon drone delivery set for expansion ahead of UK rollout",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3d705e0bdf7581e2299e3790c0bada657446a78b94bfc6373e6aaae91b1b7fbd",
+      "datetime": 1789120578,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "These 2 Hardware Leaders Will Cash In on the Next Data Center Memory Crunch",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=08f81dca96bfc4bd9701f8ae80951abb63658830359bf2f85b43cbc290881db5",
@@ -91,12 +123,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Andy Jassy Just Made a Move That Should Excite Micron and Broadcom Investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=068df1e7dae22bbc3a21d7901108c8b19c7811d42c957801818ae2c38ff8cf8d",
-      "datetime": 1789114980,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "ticker": "AVGO",
+      "headline": "Broadcom: A $230 Billion AI Juggernaut In The Making",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ea08963ae5aabdb9bdb6fac7cb23aacb20c968ff8cd04f64b8d90ad228df28ae",
+      "datetime": 1789112467,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -105,22 +137,6 @@
       "url": "https://finnhub.io/api/news?id=718144c50fcc5137472cb49a6ea3b9c785135460c1e00e8bd1dc75dc32c7a1cb",
       "datetime": 1789111801,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon: Anthropic's IPO Can Be A Game Changer",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=1e2563dc3219845ead3b54d191c1772de4e2739b375af1d8807191a7df550246",
-      "datetime": 1789108679,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Triples Its NVIDIA GPU Orders to 3 Million Chips as AI Demand Surges",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=94e5676a81cad9dd9b8ed3d3cd20dc6d78953a5635adbc58339a87c0f888f9ad",
-      "datetime": 1789103259,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -144,22 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7fd0fb8b95ad32f2c4c860638b7f2ffe9b1ebe7196ba0840e30fd350a367bb53",
       "datetime": 1789093200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "3 Growth Stocks to Add to Your Roster",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1c7689f449679d7c852ab76c267898f03661acadb0172f04644d5c6027b8b930",
-      "datetime": 1789085344,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Qualcomm Stock Looks Cheap, But Is The Discount Deserved?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=231b0f68f8ca7e6ead89d702d975cf56ae17c57ad0d556699b96f5b5468f4e2c",
-      "datetime": 1789070253,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -584,5 +584,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-11T11:58:16.702831+00:00"
+  "updated_at": "2026-09-11T12:13:16.959222+00:00"
 }
