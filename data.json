@@ -67,6 +67,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "Second Quarter Earnings: A Rising AI Tide Lifts Many Sectors",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f55cb0ffee0b789afadea6d663e4e72c30cb75467c30cdff4e7bb8367754f789",
+      "datetime": 1789098300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Prediction: This Unstoppable Stock Will Rejoin the $2 Trillion Club by 2027",
       "source": "Yahoo",
@@ -112,14 +120,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0adb6f6d150b42dc2cda3182284650f907425ed2f4078a9bb2b6c1aec56d0498",
       "datetime": 1789082220,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Remain Bullish on AI Beneficiaries Like Bloom Energy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e77646d988191f399a243007262e34a444154cab5fa0a27b0581500c55d3fa37",
-      "datetime": 1789080600,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -584,5 +584,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-11T07:58:16.529420+00:00"
+  "updated_at": "2026-09-11T08:13:16.576286+00:00"
 }
