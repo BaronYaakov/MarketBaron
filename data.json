@@ -67,6 +67,22 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Buy Hardware, Sell Software: Pricing Power Picks The Winner",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e636e77ebc19ee7a7bc8de927eabbb77e6e289622f360fff0197a07c93ad99ab",
+      "datetime": 1789101969,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Buy Hardware, Sell Software: Pricing Power Picks The Winner",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e636e77ebc19ee7a7bc8de927eabbb77e6e289622f360fff0197a07c93ad99ab",
+      "datetime": 1789101969,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Second Quarter Earnings: A Rising AI Tide Lifts Many Sectors",
       "source": "SeekingAlpha",
@@ -161,14 +177,6 @@
       "url": "https://finnhub.io/api/news?id=f57f6954e66790078ae5cddb82a24d663ad81113c4bbf68161a7e0e774309d17",
       "datetime": 1789062304,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Can Marvell Stock Make You Money Before Its Hyperscaler Deal Pays Off?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f3cf943b625a26c82b30c95218f1f9daead72b084e46bbab03fa17beb78de046",
-      "datetime": 1789061575,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "COR",
@@ -297,14 +305,6 @@
       "url": "https://finnhub.io/api/news?id=ade06bdb20883d2629b1906a676f78c37cdfb3f5babd20b3238698216b163447",
       "datetime": 1788953400,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Toronto Stock Exchange Announces the 2026 TSX30, Recognizing the Companies Scaling into Global Leaders",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6f6867b550351a745077515990d5e80a21be710e921fa64ed66f0d02dbd32641",
-      "datetime": 1788951780,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "B",
@@ -584,5 +584,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-11T08:58:16.609968+00:00"
+  "updated_at": "2026-09-11T09:13:16.985082+00:00"
 }
