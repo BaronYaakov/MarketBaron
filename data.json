@@ -187,6 +187,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
+      "ticker": "B",
+      "headline": "AEM Trading at a Premium Valuation: Here's How to Play the Stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1973240160dde7e9eb8422a3c1ee8266ba45243c17a3aa42f3809a82297bf5c0",
+      "datetime": 1789042500,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "CLS",
       "headline": "Celestica (NYSE:CLS) Combines High-Growth Leadership With Momentum Signals",
       "source": "ChartMill",
@@ -336,14 +344,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a15207b062d7a38e717016c610bb084ba63457cebababa71c11616bdbf4616a4",
       "datetime": 1788870300,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Bond Yields Are Pressuring Gold, But Miners May Tell a Different Story",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=802170d17728c0c56038cc661af04546ef54714b5e6580916de79130011a460b",
-      "datetime": 1788866700,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
@@ -584,5 +584,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-11T05:43:16.691817+00:00"
+  "updated_at": "2026-09-11T05:58:17.938138+00:00"
 }
