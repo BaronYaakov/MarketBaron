@@ -59,6 +59,46 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Prediction: This Unstoppable Stock Will Rejoin the $2 Trillion Club by 2027",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7fd0fb8b95ad32f2c4c860638b7f2ffe9b1ebe7196ba0840e30fd350a367bb53",
+      "datetime": 1789093200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon\u2019s Aviation Network Faces a Sobering Test after the Miami Crash",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=81c29e869208eec9899c1af4622273b80bdf49d0a00e4b86f8c2f970b6f0ae28",
+      "datetime": 1789088889,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The Robotaxi Race is Spreading, Can Amazon and Alphabet Turn More Cities into Revenue?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5a5b9a3f75fa2a51d01c8ca0137d43e5c57ffe3c74081335e0ed4ea16f5bbc28",
+      "datetime": 1789088260,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Pinterest Stock Halved In A Rising Market, So How Low Could A Crash Take It?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0fbc0db9d96315e7ac379056ff0593634d0fa64893b440a5fe3f75974604bf2e",
+      "datetime": 1789087545,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "3 Growth Stocks to Add to Your Roster",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1c7689f449679d7c852ab76c267898f03661acadb0172f04644d5c6027b8b930",
+      "datetime": 1789085344,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Popular women's clothing chain closes 177 stores",
       "source": "Yahoo",
@@ -80,30 +120,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=baf2dc1dbc009c98875f96eaf6bdf8f315cf71826e0a78cbf5a3ca9918f3024d",
       "datetime": 1789077119,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "A Client Put $30K Into a Managed Amazon Storefront She Hardly Logged Into. It Now Clears 6 Figures a Month.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=34c4b6b04d86bda88387f3fe8bae6f716cec4d9597d977cb2ba9ba30194c1d8a",
-      "datetime": 1789074000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Tracking Dan Loeb's Third Point Portfolio - Q2 2026 Update",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=4b5cfa3a17d5c7ca5796ad812ea083253e3ac401cd45a8f94e14414a7426fc81",
-      "datetime": 1789072767,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Oracle earnings: Do concentration risks fall on Oracle or the big AI firms?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6b000404723b86e53d7b40ab3da4806b3023a605c5ae20a0fa1b99b75e02d760",
-      "datetime": 1789072671,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -152,22 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f3cf943b625a26c82b30c95218f1f9daead72b084e46bbab03fa17beb78de046",
       "datetime": 1789061575,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "The Case for Broadcom Over Nvidia Strengthens in September",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f88e0286a270d9ffb2c1a59b448d41edd096f7e11b00ea5bd17125cc44082de4",
-      "datetime": 1789059499,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "OpenAI Picked Broadcom for Its First Custom AI Chip. The Race for Number Two Just Got Dangerous.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dba9f1685dd3f618dac3a9553a821d467f515bb2563f9a64aeaea07eac89a1db",
-      "datetime": 1789058439,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -377,14 +377,6 @@
       "url": "https://finnhub.io/api/news?id=139155051ae58c025212ad065b958c5d883ec357da1d4c6af381a411359d3bef",
       "datetime": 1788535817,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "3 Reasons We Love O'Reilly (ORLY)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aec30453c0b0f27f3518447afe35bee57f5c16744134b4742bdc042b49feb235",
-      "datetime": 1788456198,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     }
   ],
   "recent_posts": [],
@@ -592,5 +584,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-11T04:58:17.453049+00:00"
+  "updated_at": "2026-09-11T05:13:17.896236+00:00"
 }
