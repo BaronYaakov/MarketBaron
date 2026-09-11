@@ -123,6 +123,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Celestica Announces New Leadership Structure to Support Unprecedented Growth",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=73219593ecb4c114112c2ab0f9ef8398f419494d62852b6b55571aeb172aefd9",
+      "datetime": 1789129800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Qualcomm Chip Deal With Samsung Hits a Major Pricing Snag",
       "source": "Yahoo",
@@ -249,14 +257,6 @@
       "url": "https://finnhub.io/api/news?id=770fe05389979e5a9f3bd4cbdc04af32adc57ad30f6fac53539e36e6243b3fed",
       "datetime": 1788973624,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Sanmina's Cash Flow Gains Momentum: Can the Trend Continue?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0eb75b150998d37288f406eafcb2970f0437439b641637940fef1854efeb797b",
-      "datetime": 1788969240,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "B",
@@ -435,12 +435,12 @@
       "market_cap_musd": 1716677.6425943282,
       "country": "US",
       "currency": "USD",
-      "price": 362.9,
+      "price": 366.22,
       "open": 364.86,
       "day_high": 366.78,
       "day_low": 362.29,
       "prev_close": 360.83,
-      "day_change_pct": 0.57,
+      "day_change_pct": 1.49,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -454,12 +454,12 @@
       "market_cap_musd": 101320.645888,
       "country": "CA",
       "currency": "USD",
-      "price": 44.04,
+      "price": 44.0,
       "open": 44.07,
       "day_high": 44.5,
       "day_low": 43.84,
       "prev_close": 43.46,
-      "day_change_pct": 1.33,
+      "day_change_pct": 1.24,
       "week52_high": 74.0,
       "week52_low": 39.05
     },
@@ -473,12 +473,12 @@
       "market_cap_musd": 58033.811748,
       "country": "CA",
       "currency": "USD",
-      "price": 336.12,
+      "price": 345.33,
       "open": 329.06,
-      "day_high": 339.9,
+      "day_high": 345.53,
       "day_low": 324.1,
       "prev_close": 325.22,
-      "day_change_pct": 3.35,
+      "day_change_pct": 6.18,
       "week52_high": 655.5,
       "week52_low": 315.41
     },
@@ -492,12 +492,12 @@
       "market_cap_musd": 61245.98447263439,
       "country": "US",
       "currency": "USD",
-      "price": 319.5,
+      "price": 319.36,
       "open": 324.0,
       "day_high": 325.12,
       "day_low": 319.04,
       "prev_close": 320.95,
-      "day_change_pct": -0.45,
+      "day_change_pct": -0.5,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -511,12 +511,12 @@
       "market_cap_musd": 69174.24079839952,
       "country": "US",
       "currency": "USD",
-      "price": 85.74,
+      "price": 86.04,
       "open": 86.14,
       "day_high": 86.33,
       "day_low": 85.44,
       "prev_close": 85.51,
-      "day_change_pct": 0.27,
+      "day_change_pct": 0.62,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -549,12 +549,12 @@
       "market_cap_musd": 31356.68479215948,
       "country": "US",
       "currency": "USD",
-      "price": 97.74,
+      "price": 97.54,
       "open": 95.8,
       "day_high": 97.84,
       "day_low": 95.28,
       "prev_close": 94.1,
-      "day_change_pct": 3.87,
+      "day_change_pct": 3.66,
       "week52_high": 119.1,
       "week52_low": 56.78
     },
@@ -568,12 +568,12 @@
       "market_cap_musd": 2716964.681895932,
       "country": "US",
       "currency": "USD",
-      "price": 256.38,
+      "price": 255.77,
       "open": 254.1,
-      "day_high": 256.75,
+      "day_high": 256.91,
       "day_low": 253.14,
       "prev_close": 251.89,
-      "day_change_pct": 1.78,
+      "day_change_pct": 1.54,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -584,5 +584,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-11T14:13:17.069044+00:00"
+  "updated_at": "2026-09-11T14:28:17.403676+00:00"
 }
