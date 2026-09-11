@@ -84,6 +84,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "A Client Put $30K Into a Managed Amazon Storefront She Hardly Logged Into. It Now Clears 6 Figures a Month.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=34c4b6b04d86bda88387f3fe8bae6f716cec4d9597d977cb2ba9ba30194c1d8a",
+      "datetime": 1789074000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Tracking Dan Loeb's Third Point Portfolio - Q2 2026 Update",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=4b5cfa3a17d5c7ca5796ad812ea083253e3ac401cd45a8f94e14414a7426fc81",
@@ -96,14 +104,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6b000404723b86e53d7b40ab3da4806b3023a605c5ae20a0fa1b99b75e02d760",
       "datetime": 1789072671,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Not Amazon, Not Shopify. No Other Company Has Done What MercadoLibre Just Did",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a76e2e815100422e02e54cf484bfb5f19c6c8d348126329d956fd11bf06b3f4c",
-      "datetime": 1789072501,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-11T01:58:14.761451+00:00"
+  "updated_at": "2026-09-11T02:13:14.848437+00:00"
 }
