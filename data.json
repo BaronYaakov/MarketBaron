@@ -84,6 +84,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "Tracking Dan Loeb's Third Point Portfolio - Q2 2026 Update",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4b5cfa3a17d5c7ca5796ad812ea083253e3ac401cd45a8f94e14414a7426fc81",
+      "datetime": 1789072767,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Oracle earnings: Do concentration risks fall on Oracle or the big AI firms?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6b000404723b86e53d7b40ab3da4806b3023a605c5ae20a0fa1b99b75e02d760",
@@ -96,14 +104,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a76e2e815100422e02e54cf484bfb5f19c6c8d348126329d956fd11bf06b3f4c",
       "datetime": 1789072501,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "SpaceX Trades at 98 Times Sales. Here's What Amazon's Multiple Looked Like at the Same Stage.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=69c5041d018e3c0067962a48b0957d9458689002065ae4d7a4a1b887cb8ab9f9",
-      "datetime": 1789071900,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-11T00:58:15.777912+00:00"
+  "updated_at": "2026-09-11T01:13:15.252509+00:00"
 }
