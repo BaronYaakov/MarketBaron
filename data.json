@@ -100,18 +100,18 @@
     },
     {
       "ticker": "AMZN",
-      "headline": "Amazon Triples Its NVIDIA GPU Orders to 3 Million Chips as AI Demand Surges",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=94e5676a81cad9dd9b8ed3d3cd20dc6d78953a5635adbc58339a87c0f888f9ad",
-      "datetime": 1789103259,
+      "headline": "Amazon: Anthropic's IPO Can Be A Game Changer",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1e2563dc3219845ead3b54d191c1772de4e2739b375af1d8807191a7df550246",
+      "datetime": 1789108679,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "I Own 9 Of The Top 10 Stocks For H2 2026: Why I'm Staying The Course",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=5d91ec0686dd550a6b5e94c5416cfa918c145c42bb555c5bb3734ead4cc7e9d8",
-      "datetime": 1789102800,
+      "headline": "Amazon Triples Its NVIDIA GPU Orders to 3 Million Chips as AI Demand Surges",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=94e5676a81cad9dd9b8ed3d3cd20dc6d78953a5635adbc58339a87c0f888f9ad",
+      "datetime": 1789103259,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -584,5 +584,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-11T10:58:16.598895+00:00"
+  "updated_at": "2026-09-11T11:13:16.624570+00:00"
 }
