@@ -179,12 +179,28 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Celestica vs. Corning: Which AI Infrastructure Stock is a Better Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bc243de975b1de31fb0c5bb9fcb82c9c7f769266df129924baba6c31cce90eaf",
+      "datetime": 1789054980,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "P",
       "headline": "SCSC or P: Which Is the Better Value Stock Right Now?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=9717a7fc535e5a103926981e9ddda2dbee0e9b5eef5400ff3d9f5a3c17a6bdf7",
       "datetime": 1789054802,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Can Jabil's Supply Chain Strength Sustain Its Growth Momentum?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=db6b0cbfe3124bdacce3e66ef257ebd7ff518291bc2b60b4fceb8799cc1b37ad",
+      "datetime": 1789054440,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "B",
@@ -315,14 +331,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "Celestica to Host 2026 Investor and Analyst Day on October 27, 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c4bf864926c8efe203b508fd7dd1c58a4052235d1805cae20b7227698f9abc7a",
-      "datetime": 1788898500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "B",
       "headline": "Kinross Gold Stock Up 13% in a Month: What Should Investors Do Now?",
       "source": "Yahoo",
@@ -345,14 +353,6 @@
       "url": "https://finnhub.io/api/news?id=a15207b062d7a38e717016c610bb084ba63457cebababa71c11616bdbf4616a4",
       "datetime": 1788870300,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica: 2027 Inflection Is Getting Bigger, AI Growth Still Underestimated",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c60b357d5cf3558c44e9d148a52cb2300e840239f92f47693c258b532d4f3a41",
-      "datetime": 1788858012,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "PRMB",
@@ -584,5 +584,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-11T07:28:16.686079+00:00"
+  "updated_at": "2026-09-11T07:43:17.040225+00:00"
 }
