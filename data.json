@@ -67,6 +67,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "I Own 9 Of The Top 10 Stocks For H2 2026: Why I'm Staying The Course",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5d91ec0686dd550a6b5e94c5416cfa918c145c42bb555c5bb3734ead4cc7e9d8",
+      "datetime": 1789102800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Buy Hardware, Sell Software: Pricing Power Picks The Winner",
       "source": "SeekingAlpha",
@@ -129,14 +137,6 @@
       "url": "https://finnhub.io/api/news?id=1c7689f449679d7c852ab76c267898f03661acadb0172f04644d5c6027b8b930",
       "datetime": 1789085344,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Popular women's clothing chain closes 177 stores",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0adb6f6d150b42dc2cda3182284650f907425ed2f4078a9bb2b6c1aec56d0498",
-      "datetime": 1789082220,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -584,5 +584,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-11T09:13:16.985082+00:00"
+  "updated_at": "2026-09-11T09:28:17.037368+00:00"
 }
