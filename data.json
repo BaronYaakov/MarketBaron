@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Amazon and 2 Other AI Stocks to Buy With $5,000",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0e847eacb7767c1f8b61116e237bb15488e2418bf0638be3345bc59f1cad05bd",
+      "datetime": 1789346761,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "KQQQ: Why I'd Own This Over QQQI Right Now",
       "source": "SeekingAlpha",
@@ -145,14 +153,6 @@
       "url": "https://finnhub.io/api/news?id=884fefe5f365171d25ba6a7054198c8c02e5a31986449f1f9774937dfc1b4d51",
       "datetime": 1789312500,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "UPS Cut Amazon Volumes on Purpose. The Margin Data Says It Worked.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c479412e96f2f7979afd2fab870dcf7d1d459d81a236322496a04fe20e15e783",
-      "datetime": 1789311780,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "COR",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-14T04:58:14.477692+00:00"
+  "updated_at": "2026-09-14T05:13:13.567178+00:00"
 }
