@@ -60,51 +60,83 @@
   "news": [
     {
       "ticker": "AMZN",
-      "headline": "Top dow jones movers in Monday's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=a582f12a39d548a360c2fd563324d739fe0187dbabf02574fc36af5ad1f665b3",
-      "datetime": 1789413005,
+      "headline": "FREEHILL Expands Amazon Winter Apparel Collection With Three Heated Products",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2c504ee0396e80caefaccd9e6e0d0192708d8ca0ba1deca172646b6665c7e45e",
+      "datetime": 1789422900,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Sector Update: Consumer Stocks Advance Monday Afternoon",
+      "headline": "Big Tech Issued About $220 Billion of Bonds. Alphabet and Meta Show How AI Is Warping the Credit Market",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=edeef2b993df23a327f3d62afd3209879774805a0d66a6c6f74ceb40a6314283",
-      "datetime": 1789408198,
+      "url": "https://finnhub.io/api/news?id=90ec7de50bce06e131bad79726bd4df850afa47acc3da8ba426d9ece1d110b45",
+      "datetime": 1789421386,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Netflix Climbs 4%, Alphabet Ticks Up, Amazon Barely Budges as New Streaming Policy Alliance Launches",
+      "headline": "Amazon Faces Tough Questions After Major Crash",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fade9e0faef0b0639f6398ea9e50dfffd2e862e25a6145ef9901dd9a9e1071a9",
-      "datetime": 1789407952,
+      "url": "https://finnhub.io/api/news?id=218d9438df4791c6794564ea39759eea65f41bbc9d58a147a1a3d8f5b82ed407",
+      "datetime": 1789421085,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Sector Update: Tech Stocks Fall Monday Afternoon",
+      "headline": "Amazon and Microsoft Can Buy GPUs. But U.S. Construction Is Short 439,000 Workers",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=94f478efb64f9000925f16c934de2d4d10f02010f14841bccc509a0b03a3eb3a",
-      "datetime": 1789407235,
+      "url": "https://finnhub.io/api/news?id=e1a9cad793b9000966fe6c2627ec7b79a6f5b777a34af27ae74af74f3e28d89e",
+      "datetime": 1789420875,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom Drops Over 4% as $21.7 Billion AI Forecast Meets Slowdown Fears",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d142438bc7bfb55c2895ae8b57e5eb7e10d0929e372682f8f83b0fa663a85a26",
+      "datetime": 1789419615,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Is META Stock\u2019s $130B AI Buildout Your Ticket to an 8.7% Yield?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=181d3bdaad0da5cb78503b1b147d750e0d64df3bfac3297b5c746da9efcf0dd0",
+      "datetime": 1789417293,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Netflix, Amazon, YouTube form streaming lobbying coalition",
+      "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a1fad44027e9bed7e3109b649f1a49d1509ee8c19b1673c76e52c79af90735d2",
-      "datetime": 1789406506,
+      "url": "https://finnhub.io/api/news?id=a89dc48153bf3d7397889d1aa6f5650681303e6d7868593716391c174b87bf5c",
+      "datetime": 1789416007,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Netflix, Amazon And YouTube Reportedly Form Coalition As Washington Scrutinizes Sports Broadcasting",
+      "ticker": "AVGO",
+      "headline": "Broadcom buys its Irvine office building",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=06054e8b3b2d30574507ce066130f9ba3e47a637bd3db9b0bf8f0ecb12ae676e",
-      "datetime": 1789405802,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "url": "https://finnhub.io/api/news?id=e8d17eafa3c4f7b71e934089bbfb7f2993c2843bdb509dc6517dd41f0a0a557e",
+      "datetime": 1789415385,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "AI Warning Sends Nvidia, AMD, Micron and Intel Shares Tumbling",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=23082b3c996d80263fb2bc3abbf79f918117ebbd852c86fb0edda9edb8ab8b5b",
+      "datetime": 1789412949,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Is Broadcom Stock in Trouble?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=49cfc15cf262f8f26b456bf7567dfd7e2162602b91689ea8107ba1bca3e8c3bf",
+      "datetime": 1789409101,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -120,38 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=51ce192cc0d5fc4b15eefddfa0f619e62d07e62550aaa14561671637ceb98230",
       "datetime": 1789404210,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia, Broadcom Tumble In AI Rotation; These U.K.-Based Names Gain",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5b6576e524ddad1b926bcdbee3f5e2bd1fac38c6c862d96ffde5810587092352",
-      "datetime": 1789403927,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Forget the Magnificent 7. This Duo Says Broadcom, Not Nvidia, Wins the Next Leg of AI.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1860686573830edc55e328c0cc8d45b2a43b5f130057ad6b815de60aaeb4621e",
-      "datetime": 1789402519,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia and other chipmakers suffer as AI warnings raise spending concerns",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4e9e1965bf78dc745af2526c25a6ca2b89e43c944c6d886c34b3547e768e6133",
-      "datetime": 1789402320,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Memory Falls Hardest as AI Chiefs Ask the Industry to Slow Down",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ef9a0f1fd8e93a769ee68713a5482c2241115d640c7edc1881932039b73234c0",
-      "datetime": 1789401936,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-14T21:58:18.254009+00:00"
+  "updated_at": "2026-09-14T22:13:17.649795+00:00"
 }
