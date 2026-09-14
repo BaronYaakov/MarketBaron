@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0b1d111c70928ee16f3f64b47e2961a0b0f958735b22d4b22c842eb804a74d10",
+      "datetime": 1789378597,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "COR",
       "headline": "Cencora (NYSE:COR): A Quality Stock With Strong EBIT Growth and Cash Conversion",
       "source": "ChartMill",
@@ -153,14 +161,6 @@
       "url": "https://finnhub.io/api/news?id=2eaa5dbc845c565644de45665b35b3a95161a7587828070179c17f4b8f0403f5",
       "datetime": 1789318200,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Five Dividend Stocks Crushing Inflation With Consistent Dividend Payout Growth",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5fe2e567a19ae28f78e3c41199be697e0b46c06b60262fa9680f7c0b49b25ff3",
-      "datetime": 1789313195,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "COR",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-14T09:58:13.740388+00:00"
+  "updated_at": "2026-09-14T10:13:13.552383+00:00"
 }
