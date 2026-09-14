@@ -155,6 +155,46 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "COR",
+      "headline": "CAH Gains More Than 29% in 4 Months: Will the Uptrend Continue?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2b34a2a5a93661fb44b03a5ae23beb9474b495656e1ceef30023166f3e89facb",
+      "datetime": 1789150860,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "$1000 Invested In Cencora 10 Years Ago Would Be Worth This Much Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=4f3cdc3f142d1235585f184a983f85a7ded779d5b5924bf434d536908a078f6d",
+      "datetime": 1789149638,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "3 Market-Beating Stocks with Promising Prospects",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bc54e6fea72e758da96155120186d8763678ff0c89c81312f70ba4a0df85ce62",
+      "datetime": 1789147385,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Amgen vs. Revolution Medicines: Which Healthcare Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d6d0c72b86d9e618670b0425256ff71064320995e71838714d702775481e1376",
+      "datetime": 1789141777,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Amgen vs. CRISPR Therapeutics: Which Healthcare Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=76d994f26a70f0f9c15f617bc2f51be0a2aaee74fdcd41e930440fc7f064cf70",
+      "datetime": 1789140567,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
       "ticker": "PRMB",
       "headline": "Can PRMB Sustain Growth After Raising Its 2026 Sales Outlook?",
       "source": "Yahoo",
@@ -171,12 +211,84 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     },
     {
+      "ticker": "ORLY",
+      "headline": "Here\u2019s How Much You Would Have Made Owning O'Reilly Automotive Stock In The Last 20 Years",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=4aad19be2286e39eef80e32149150004b6ec7990b2764565fe185b0cb4de2819",
+      "datetime": 1789130728,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica Announces New Leadership Structure to Support Unprecedented Growth",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=73219593ecb4c114112c2ab0f9ef8398f419494d62852b6b55571aeb172aefd9",
+      "datetime": 1789129800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Frequency Electronics, ACV Auctions, HP And Other Big Stocks Moving Higher On Friday",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=3c32426f315e24a6bab7654c2f83dce2c1098a01113fd03b0ef50975df2904da",
+      "datetime": 1789123395,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica Appoints Todd Ankenmann CFO, Effective Oct. 1, Succeeding Mandeep Chawla",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=4e2e4e8c4894e91ddc2a2316d7ae4c8585b951063f97f113b04e6e318ac774fe",
+      "datetime": 1789115588,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Buy Hardware, Sell Software: Pricing Power Picks The Winner",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e636e77ebc19ee7a7bc8de927eabbb77e6e289622f360fff0197a07c93ad99ab",
+      "datetime": 1789101969,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "AbbVie vs. Novo Nordisk: Which Healthcare Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad181144a7d06182ba609e0908d03dc6ded85f4ed97764dbd7f7ce1ac0017980",
+      "datetime": 1789062373,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "2 S&P 500 Stocks with Exciting Potential and 1 We Question",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f57f6954e66790078ae5cddb82a24d663ad81113c4bbf68161a7e0e774309d17",
+      "datetime": 1789062304,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica vs. Corning: Which AI Infrastructure Stock is a Better Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bc243de975b1de31fb0c5bb9fcb82c9c7f769266df129924baba6c31cce90eaf",
+      "datetime": 1789054980,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "P",
       "headline": "SCSC or P: Which Is the Better Value Stock Right Now?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=9717a7fc535e5a103926981e9ddda2dbee0e9b5eef5400ff3d9f5a3c17a6bdf7",
       "datetime": 1789054802,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Can Jabil's Supply Chain Strength Sustain Its Growth Momentum?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=db6b0cbfe3124bdacce3e66ef257ebd7ff518291bc2b60b4fceb8799cc1b37ad",
+      "datetime": 1789054440,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "B",
@@ -281,6 +393,14 @@
       "url": "https://finnhub.io/api/news?id=ba88691470a1bffa157660b9de42170d94aee816ef4f1ea1512dee5e076572db",
       "datetime": 1788822216,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "How Is O'Reilly Automotive's Stock Performance Compared to Other Consumer Cyclical Stocks?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3eb8f5fb477309e95b3bebdeea1419c395ec815cda58767064f17783f0666c41",
+      "datetime": 1788786154,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     }
   ],
   "recent_posts": [],
@@ -488,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-14T06:58:14.009135+00:00"
+  "updated_at": "2026-09-14T07:13:13.605800+00:00"
 }
