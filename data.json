@@ -163,6 +163,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Arista Networks Vs. Celestica: The White Box Wins",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e98111ffbcac8496f3b9ff0c2f3ae69331c178b6124d7b604f5ffced914b8579",
+      "datetime": 1789376673,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "COR",
       "headline": "Cencora (NYSE:COR): A Quality Stock With Strong EBIT Growth and Cash Conversion",
       "source": "ChartMill",
@@ -281,14 +289,6 @@
       "url": "https://finnhub.io/api/news?id=9717a7fc535e5a103926981e9ddda2dbee0e9b5eef5400ff3d9f5a3c17a6bdf7",
       "datetime": 1789054802,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Can Jabil's Supply Chain Strength Sustain Its Growth Momentum?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=db6b0cbfe3124bdacce3e66ef257ebd7ff518291bc2b60b4fceb8799cc1b37ad",
-      "datetime": 1789054440,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "B",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-14T13:13:15.276687+00:00"
+  "updated_at": "2026-09-14T13:28:16.192199+00:00"
 }
