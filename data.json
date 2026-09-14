@@ -60,6 +60,102 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Nvidia, chip stocks fall as AI CEOs call for slowdown",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6c55b29b078e56f8bb63e0604f88f1a947550eefd34ef57deb01f213ebc88160",
+      "datetime": 1789386394,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "CrowdStrike vs. UiPath: Which Technology Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=57b45fdab1c209406f3a9d37a953b8511e18b4e9327fb228dca65112db0f6ddc",
+      "datetime": 1789385650,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "AI stocks fall after Amodei, Altman, and Musk back AI slowdown",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6dcac5a1e85706d2d3f6d8bf1978810a43c6177c6ae16bcd692b056a7f76b920",
+      "datetime": 1789385012,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom Just Named Its Next Customer to Pass Google: Anthropic. Here's Why That Matters More Than the Earnings Beat.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0d940d6174dac7c26cb6d0bfb9ac96958683758cd934c291f04ca9a16931f48f",
+      "datetime": 1789384800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Data Centers At The Ballot Box: Why Google Holds The Edge In The Power War Against Amazon And Meta",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=72c04bc8fb2c57e49316e093e75cb0024326d8f9394702626a2389273c93a9c0",
+      "datetime": 1789384704,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom Shares Fall 3.2% as AI Development Debate Weighs on Semiconductor Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6a6b9380ca8fed6935c4aabd26d86fa1e1bb478f6b4b9bb952521184cdcec253",
+      "datetime": 1789384378,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Bank of Korea Says the AI Chip Trade Is Now a Financial Stability Problem",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7838d256fb1275657a543725bb0a59b38c52d996ac47020759647fda606c8db2",
+      "datetime": 1789383918,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Amgen vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da1e88d3e7f35b8059dfd20fd97ed62f63419a669479637d7a9f61c48ee2f6bc",
+      "datetime": 1789383825,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "C3.ai vs. CrowdStrike: Which Technology Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=37617211123daf691b0a682b4b4c585fcba317cbf16573acbb2e0e0347f9689f",
+      "datetime": 1789382923,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom vs. Nvidia: 3 Key Metrics Point to the Stronger AI Chipmaker to Buy After Earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=edc9565e67daf8d16c921f5c86c87b34a61eca8426022c21b152b3c482ccfa17",
+      "datetime": 1789381200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Anthropic CEO Urges AI Industry to Slow Development Pace; Chip Stocks Slide",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d2fbdb7d5f2ef73143ffb388b4fe12f5714f0bd454f053f70ea1e067e124edbf",
+      "datetime": 1789380837,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Why Nvidia Stock Could Be the Best Chip Bet in an AI Slowdown",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4a4d4007b4ff1c6a725e6ce89fbbb0eec411b92b4e3e0c01bf9a39c0adb83a97",
+      "datetime": 1789380000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0b1d111c70928ee16f3f64b47e2961a0b0f958735b22d4b22c842eb804a74d10",
@@ -73,94 +169,6 @@
       "url": "https://finnhub.io/api/news?id=61290999a6a25626631ed778e2196923d31c2a4fa838d94564f8ae7ff970ab8b",
       "datetime": 1789373469,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Zacks Market Edge Highlights:  Broadcom, Bloom Energy, and Sandisk",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=48950077d2f7c35330c5d0796630531656ecd168244caf564c34422fa0caca66",
-      "datetime": 1789371600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "US manufacturers raise concerns about AI shopping chatbots",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aaf74ab9a96068de10f21cc4954a51e4743c14c7c35bc3ee3686ea42aeaea628",
-      "datetime": 1789370379,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "2 Dividend Growth Stocks I'm Adding To My Portfolio If We See A Market Correction",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=5805d3c2a04c8b1215118ab67bc5ab0bcebec62baaf286bd80d78e25598aaa80",
-      "datetime": 1789369200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Anthropic Picks Nasdaq for Its $2 Trillion IPO, Tells Investors It Expects a Second Consecutive Profitable Quarter: Reports",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6cae8b8e7cf863a5f33d6395d19c77a3efde0bc1ae88d5c8999a597a45899abd",
-      "datetime": 1789361025,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon and 2 Other AI Stocks to Buy With $5,000",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0e847eacb7767c1f8b61116e237bb15488e2418bf0638be3345bc59f1cad05bd",
-      "datetime": 1789346761,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "KQQQ: Why I'd Own This Over QQQI Right Now",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=433491423161ad3151d4f991d1ecc6cff5e1a10f3fe5e6e63881b52a00f7e1b9",
-      "datetime": 1789335178,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Jeff Bezos Built Amazon Into a $1.8 Trillion Company. Here's How Andy Jassy Is Making It Worth Even More.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7e92251399084f9ee155293eda917252f7dcf6de6f0a4bfe77fe867c0dcc6aca",
-      "datetime": 1789331280,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon, Alphabet, and Microsoft: Which 2 to Buy and Which 1 to Avoid",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ccd1786374d01e879d60000dc1403e60a94d84586b8b3a56b404d44bb3b967e8",
-      "datetime": 1789331280,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Goldman Sachs Says AI Is Driving Half of S&P 500 Earnings Growth. That Number Cuts Both Ways.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=af678d9eee32dcdeb85c86c3dae9cc235cfa295730d0d1cc1612180b9a5a41db",
-      "datetime": 1789322424,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia vs. Broadcom: Which Trillion-Dollar AI Chip Stock Has More Upside After Their Latest Earnings?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=99a0a7d560641299354330c6b8697f0729b8a0eb4fbdd064f27eeff597908e7c",
-      "datetime": 1789320420,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Billionaire Bill Ackman Trimmed This Big Tech Position to Back These 2 AI Contenders",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2eaa5dbc845c565644de45665b35b3a95161a7587828070179c17f4b8f0403f5",
-      "datetime": 1789318200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "COR",
@@ -257,14 +265,6 @@
       "url": "https://finnhub.io/api/news?id=e636e77ebc19ee7a7bc8de927eabbb77e6e289622f360fff0197a07c93ad99ab",
       "datetime": 1789101969,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "AbbVie vs. Novo Nordisk: Which Healthcare Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ad181144a7d06182ba609e0908d03dc6ded85f4ed97764dbd7f7ce1ac0017980",
-      "datetime": 1789062373,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "CLS",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-14T11:58:14.303929+00:00"
+  "updated_at": "2026-09-14T12:13:18.964415+00:00"
 }
