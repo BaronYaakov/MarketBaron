@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "KQQQ: Why I'd Own This Over QQQI Right Now",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=433491423161ad3151d4f991d1ecc6cff5e1a10f3fe5e6e63881b52a00f7e1b9",
+      "datetime": 1789335178,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Jeff Bezos Built Amazon Into a $1.8 Trillion Company. Here's How Andy Jassy Is Making It Worth Even More.",
       "source": "Yahoo",
@@ -145,14 +153,6 @@
       "url": "https://finnhub.io/api/news?id=c479412e96f2f7979afd2fab870dcf7d1d459d81a236322496a04fe20e15e783",
       "datetime": 1789311780,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Beyond Nvidia: Finding Opportunity In The AI Buildout",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=43dd2e87fc78e1c2c00d864bcafad7355f31721e5953f44cd8683a05fe6db3af",
-      "datetime": 1789311600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "COR",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-14T01:43:14.236285+00:00"
+  "updated_at": "2026-09-14T01:58:13.673059+00:00"
 }
