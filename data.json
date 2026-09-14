@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Zacks Market Edge Highlights:  Broadcom, Bloom Energy, and Sandisk",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=48950077d2f7c35330c5d0796630531656ecd168244caf564c34422fa0caca66",
+      "datetime": 1789371600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "US manufacturers raise concerns about AI shopping chatbots",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aaf74ab9a96068de10f21cc4954a51e4743c14c7c35bc3ee3686ea42aeaea628",
+      "datetime": 1789370379,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Anthropic Picks Nasdaq for Its $2 Trillion IPO, Tells Investors It Expects a Second Consecutive Profitable Quarter: Reports",
       "source": "Yahoo",
@@ -131,27 +147,11 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Anthropic Locks Down $517 Billion in Compute Ahead of IPO \u2014 and It\u2019s Still Not Enough",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=26ebbb3d0826ee8d4122ec51c0cb942fd44407a09ce9117eedde57e2ab6bf3a8",
-      "datetime": 1789313769,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Five Dividend Stocks Crushing Inflation With Consistent Dividend Payout Growth",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5fe2e567a19ae28f78e3c41199be697e0b46c06b60262fa9680f7c0b49b25ff3",
       "datetime": 1789313195,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Prediction: 2 AI Semiconductor Stocks That Will Join Micron and Broadcom in the $1 Trillion Club by 2028",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=884fefe5f365171d25ba6a7054198c8c02e5a31986449f1f9774937dfc1b4d51",
-      "datetime": 1789312500,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-14T07:58:14.361892+00:00"
+  "updated_at": "2026-09-14T08:13:13.440708+00:00"
 }
