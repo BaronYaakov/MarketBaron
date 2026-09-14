@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "COR",
+      "headline": "Cencora (NYSE:COR): A Quality Stock With Strong EBIT Growth and Cash Conversion",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=61290999a6a25626631ed778e2196923d31c2a4fa838d94564f8ae7ff970ab8b",
+      "datetime": 1789373469,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Zacks Market Edge Highlights:  Broadcom, Bloom Energy, and Sandisk",
       "source": "Yahoo",
@@ -256,14 +264,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ad181144a7d06182ba609e0908d03dc6ded85f4ed97764dbd7f7ce1ac0017980",
       "datetime": 1789062373,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "2 S&P 500 Stocks with Exciting Potential and 1 We Question",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f57f6954e66790078ae5cddb82a24d663ad81113c4bbf68161a7e0e774309d17",
-      "datetime": 1789062304,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-14T08:28:13.416391+00:00"
+  "updated_at": "2026-09-14T08:43:13.546714+00:00"
 }
