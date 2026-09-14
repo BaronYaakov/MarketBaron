@@ -91,6 +91,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "2 Dividend Growth Stocks I'm Adding To My Portfolio If We See A Market Correction",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5805d3c2a04c8b1215118ab67bc5ab0bcebec62baaf286bd80d78e25598aaa80",
+      "datetime": 1789369200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Anthropic Picks Nasdaq for Its $2 Trillion IPO, Tells Investors It Expects a Second Consecutive Profitable Quarter: Reports",
       "source": "Yahoo",
@@ -144,14 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=99a0a7d560641299354330c6b8697f0729b8a0eb4fbdd064f27eeff597908e7c",
       "datetime": 1789320420,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Dreamforce Will Pitch Unified Agent Trust. The Market Is Still Stitching Together Three Separate Layers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=df52652abe5cc06d944b0dfa7a102757eea24764ee239a085e645e8300dc8e60",
-      "datetime": 1789320241,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-14T11:13:13.955629+00:00"
+  "updated_at": "2026-09-14T11:28:14.043382+00:00"
 }
