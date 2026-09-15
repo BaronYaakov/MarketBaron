@@ -59,6 +59,30 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Prime Big Deal Days is Back October 6-7, Kicking Off the Season with Two Days of Exclusive Savings for Prime Members",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2144e744b1d1d535bca6ab08496fb382d95185017b138701e56e12037acc2daa",
+      "datetime": 1789448520,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Could Buy Up to $60 Billion From Qualcomm Just as Apple Brings Modems In-House. Is the AI Pivot Real?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=be33aa8fe457fc100c608f4ac16fd2c35d3d2f29e18b273aa99468e0ec75182a",
+      "datetime": 1789445485,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "AI Books Are Flooding Amazon \u2014 63% of Religious Titles Flagged as AI, While Human Authors Face a Revenue Squeeze: Report",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5ccff269ff80c53706e5c3b25ac66b0fce4124126e8dc8ee94a42c57f1279c3b",
+      "datetime": 1789443007,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "AI Slowdown Debate Splits Tech CEOs: Nvidia, Broadcom Dismiss Any Threat While Elon Musk Calls For Peer Review System",
       "source": "Yahoo",
@@ -91,36 +115,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Finding Value Opportunities Among Highly Rated Stocks",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=265f2051e062e7edaf4f0fe9ba5f0ed39af4a7efd11b0a552f57b04aee659c15",
-      "datetime": 1789429800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "3 Stocks That Offer AI Exposure and Dividends",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a14937d6bfa0bbf4f95cc937def4edad68785ed3cb8ad2ae2cfbd1f52f13534f",
       "datetime": 1789428420,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Why QUALCOMM (QCOM) Is Up 6.8% After New Amazon AI Chip Deal And What's Next",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4057a1f4d72fec2556a61fdb3a9253d77903d42d6655e0f136950db69b7c4b55",
-      "datetime": 1789427968,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "AMAZON TEAMSTERS RALLY FOR DELIVERY PROTECTION ACT",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=13aaf5b7386824be631c2edbd2b0f9539db0be28d97d1d08a0493e821500da32",
-      "datetime": 1789427100,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-15T06:28:13.307590+00:00"
+  "updated_at": "2026-09-15T06:43:13.440183+00:00"
 }
