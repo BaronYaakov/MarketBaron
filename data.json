@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "3 Stocks That Offer AI Exposure and Dividends",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a14937d6bfa0bbf4f95cc937def4edad68785ed3cb8ad2ae2cfbd1f52f13534f",
+      "datetime": 1789428420,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "FREEHILL Expands Amazon Winter Apparel Collection With Three Heated Products",
       "source": "Yahoo",
@@ -147,14 +155,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Marvell Falls 7% as AI Pacing Debate Collides With Fed Week; Broadcom Drops 4%, NVIDIA Pulls Back",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=51ce192cc0d5fc4b15eefddfa0f619e62d07e62550aaa14561671637ceb98230",
-      "datetime": 1789404210,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "Can Celestica's Next-Generation HealthTech Portfolio Lift Its Shares?",
       "source": "Yahoo",
@@ -177,6 +177,14 @@
       "url": "https://finnhub.io/api/news?id=b5abd7161204468ca6b4b5d9aea784815ed678a951caf7db52db72d58e5aff1f",
       "datetime": 1789390800,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "B",
+      "headline": "Should You Buy Newmont Stock After a 60% Rally in a Year?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b85996cc5bc4abd4f7a4140000f21561e59df540e39fd865caa3d1567fc94dc4",
+      "datetime": 1789390440,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "CLS",
@@ -376,14 +384,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2f1f9e626ac96ecb9812e6592de0321dc2ad09c7b525a6b457b5a5fed43f3c57",
       "datetime": 1788870600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Can NEM Maintain Earnings Momentum Amid Production Challenges?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a15207b062d7a38e717016c610bb084ba63457cebababa71c11616bdbf4616a4",
-      "datetime": 1788870300,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-15T01:13:18.372034+00:00"
+  "updated_at": "2026-09-15T01:28:17.164406+00:00"
 }
