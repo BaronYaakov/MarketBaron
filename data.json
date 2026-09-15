@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Chip Stocks Sink on AI Slowdown Calls, But Analysts Doubt a Crash Is Near",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1999c6d2e7819f1c247a993f05d54b4ed4af5fb474e01fbb7a5e2e06968ee586",
+      "datetime": 1789452300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Prime Big Deal Days is Back October 6-7, Kicking Off the Season with Two Days of Exclusive Savings for Prime Members",
       "source": "Yahoo",
@@ -144,14 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e8d17eafa3c4f7b71e934089bbfb7f2993c2843bdb509dc6517dd41f0a0a557e",
       "datetime": 1789415385,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "AI Warning Sends Nvidia, AMD, Micron and Intel Shares Tumbling",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=23082b3c996d80263fb2bc3abbf79f918117ebbd852c86fb0edda9edb8ab8b5b",
-      "datetime": 1789412949,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-15T07:58:13.350164+00:00"
+  "updated_at": "2026-09-15T08:13:13.568091+00:00"
 }
