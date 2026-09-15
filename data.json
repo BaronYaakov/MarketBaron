@@ -155,6 +155,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Can Celestica's Next-Generation HealthTech Portfolio Lift Its Shares?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fd03027bd26b862fc5ac3ef826cef99238d3927bca678e68c4903a3a8c66b526",
+      "datetime": 1789399020,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "COR",
       "headline": "AbbVie vs. CRISPR Therapeutics: Which Healthcare Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
@@ -169,6 +177,14 @@
       "url": "https://finnhub.io/api/news?id=b5abd7161204468ca6b4b5d9aea784815ed678a951caf7db52db72d58e5aff1f",
       "datetime": 1789390800,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Arista's Cash Flow Momentum Builds: How Sustainable is it?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9d2ce02b7884145ff21adac32df89cb3e76930d4d19ee18d0534852aef9a79f4",
+      "datetime": 1789389600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "COR",
@@ -264,22 +280,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=4e2e4e8c4894e91ddc2a2316d7ae4c8585b951063f97f113b04e6e318ac774fe",
       "datetime": 1789115588,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Buy Hardware, Sell Software: Pricing Power Picks The Winner",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=e636e77ebc19ee7a7bc8de927eabbb77e6e289622f360fff0197a07c93ad99ab",
-      "datetime": 1789101969,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica vs. Corning: Which AI Infrastructure Stock is a Better Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bc243de975b1de31fb0c5bb9fcb82c9c7f769266df129924baba6c31cce90eaf",
-      "datetime": 1789054980,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-15T00:28:18.343148+00:00"
+  "updated_at": "2026-09-15T00:43:17.704564+00:00"
 }
