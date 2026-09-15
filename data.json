@@ -59,12 +59,28 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Finding Value Opportunities Among Highly Rated Stocks",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=265f2051e062e7edaf4f0fe9ba5f0ed39af4a7efd11b0a552f57b04aee659c15",
+      "datetime": 1789429800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "3 Stocks That Offer AI Exposure and Dividends",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a14937d6bfa0bbf4f95cc937def4edad68785ed3cb8ad2ae2cfbd1f52f13534f",
       "datetime": 1789428420,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Why QUALCOMM (QCOM) Is Up 6.8% After New Amazon AI Chip Deal And What's Next",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4057a1f4d72fec2556a61fdb3a9253d77903d42d6655e0f136950db69b7c4b55",
+      "datetime": 1789427968,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
@@ -99,28 +115,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Amazon and Microsoft Can Buy GPUs. But U.S. Construction Is Short 439,000 Workers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e1a9cad793b9000966fe6c2627ec7b79a6f5b777a34af27ae74af74f3e28d89e",
-      "datetime": 1789420875,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Broadcom Drops Over 4% as $21.7 Billion AI Forecast Meets Slowdown Fears",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d142438bc7bfb55c2895ae8b57e5eb7e10d0929e372682f8f83b0fa663a85a26",
       "datetime": 1789419615,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Is META Stock\u2019s $130B AI Buildout Your Ticket to an 8.7% Yield?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=181d3bdaad0da5cb78503b1b147d750e0d64df3bfac3297b5c746da9efcf0dd0",
-      "datetime": 1789417293,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-15T03:58:13.855742+00:00"
+  "updated_at": "2026-09-15T04:13:13.826042+00:00"
 }
