@@ -59,6 +59,38 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "AI Slowdown Debate Splits Tech CEOs: Nvidia, Broadcom Dismiss Any Threat While Elon Musk Calls For Peer Review System",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5dc798dae84bbd2108d61a5dfd47e5f1a36f4a00d6c30ff78882f0c74976b86e",
+      "datetime": 1789442191,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Qualcomm (QCOM) Expands AI Data Center Push With New Compute Fabric Partnership",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ca2623d00d563488bd540cfae4b5c93c518021e25542996274c70e031dc43c26",
+      "datetime": 1789438156,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Partners with Wiwynn to Expand U.S. AI Infrastructure Capacity",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9d6f938474dcced437940a650150120826e2569d92b9e30d51edea96f8f199f9",
+      "datetime": 1789435343,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon.com (AMZN) Joins New Streaming Access Alliance",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=637efeafab37cdfe219409aa78f195e571e6b01fb8556b697fbbfc27e6942055",
+      "datetime": 1789434947,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Finding Value Opportunities Among Highly Rated Stocks",
       "source": "SeekingAlpha",
@@ -91,30 +123,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "FREEHILL Expands Amazon Winter Apparel Collection With Three Heated Products",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2c504ee0396e80caefaccd9e6e0d0192708d8ca0ba1deca172646b6665c7e45e",
-      "datetime": 1789422900,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Big Tech Issued About $220 Billion of Bonds. Alphabet and Meta Show How AI Is Warping the Credit Market",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=90ec7de50bce06e131bad79726bd4df850afa47acc3da8ba426d9ece1d110b45",
-      "datetime": 1789421386,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Faces Tough Questions After Major Crash",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=218d9438df4791c6794564ea39759eea65f41bbc9d58a147a1a3d8f5b82ed407",
-      "datetime": 1789421085,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Broadcom Drops Over 4% as $21.7 Billion AI Forecast Meets Slowdown Fears",
       "source": "Yahoo",
@@ -144,14 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=49cfc15cf262f8f26b456bf7567dfd7e2162602b91689ea8107ba1bca3e8c3bf",
       "datetime": 1789409101,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Vertiv vs. Broadcom: Which AI Infrastructure Stock Has More Upside?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4884c92aa2a6bec95c3ed8333166e11febb5730a577a4c2c7c8da773d9950a5b",
-      "datetime": 1789404420,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -385,22 +385,6 @@
       "url": "https://finnhub.io/api/news?id=2f1f9e626ac96ecb9812e6592de0321dc2ad09c7b525a6b457b5a5fed43f3c57",
       "datetime": 1788870600,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Primo Brands: Strong Q2 Confirms Bullish Thesis",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ba88691470a1bffa157660b9de42170d94aee816ef4f1ea1512dee5e076572db",
-      "datetime": 1788822216,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "How Is O'Reilly Automotive's Stock Performance Compared to Other Consumer Cyclical Stocks?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3eb8f5fb477309e95b3bebdeea1419c395ec815cda58767064f17783f0666c41",
-      "datetime": 1788786154,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     }
   ],
   "recent_posts": [],
@@ -608,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-15T04:58:13.210315+00:00"
+  "updated_at": "2026-09-15T05:13:13.607632+00:00"
 }
