@@ -91,27 +91,35 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Marvell Technology: Qualcomm Just Entered Its AWS Territory, But The Buy Case Still Holds",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=431f78bb1c4a14b424439430603bce9ee26342cb5a0fe89e52811447f36ec15a",
+      "datetime": 1789440986,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Marvell Technology: Qualcomm Just Entered Its AWS Territory, But The Buy Case Still Holds",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=431f78bb1c4a14b424439430603bce9ee26342cb5a0fe89e52811447f36ec15a",
+      "datetime": 1789440986,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Let The AI Craze Pay You Monthly Income",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=527ea36474d0048c7135e37597144c6cdc31c2f949facb3eb5fda733d4358ab2",
+      "datetime": 1789440249,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Qualcomm (QCOM) Expands AI Data Center Push With New Compute Fabric Partnership",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ca2623d00d563488bd540cfae4b5c93c518021e25542996274c70e031dc43c26",
       "datetime": 1789438156,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Partners with Wiwynn to Expand U.S. AI Infrastructure Capacity",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9d6f938474dcced437940a650150120826e2569d92b9e30d51edea96f8f199f9",
-      "datetime": 1789435343,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon.com (AMZN) Joins New Streaming Access Alliance",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=637efeafab37cdfe219409aa78f195e571e6b01fb8556b697fbbfc27e6942055",
-      "datetime": 1789434947,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -144,14 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=23082b3c996d80263fb2bc3abbf79f918117ebbd852c86fb0edda9edb8ab8b5b",
       "datetime": 1789412949,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Is Broadcom Stock in Trouble?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=49cfc15cf262f8f26b456bf7567dfd7e2162602b91689ea8107ba1bca3e8c3bf",
-      "datetime": 1789409101,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-15T06:58:14.202507+00:00"
+  "updated_at": "2026-09-15T07:13:13.521038+00:00"
 }
