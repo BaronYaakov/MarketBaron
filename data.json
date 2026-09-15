@@ -68,6 +68,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "AMAZON TEAMSTERS RALLY FOR DELIVERY PROTECTION ACT",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=13aaf5b7386824be631c2edbd2b0f9539db0be28d97d1d08a0493e821500da32",
+      "datetime": 1789427100,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "FREEHILL Expands Amazon Winter Apparel Collection With Three Heated Products",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2c504ee0396e80caefaccd9e6e0d0192708d8ca0ba1deca172646b6665c7e45e",
@@ -112,14 +120,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=181d3bdaad0da5cb78503b1b147d750e0d64df3bfac3297b5c746da9efcf0dd0",
       "datetime": 1789417293,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a89dc48153bf3d7397889d1aa6f5650681303e6d7868593716391c174b87bf5c",
-      "datetime": 1789416007,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-15T01:58:17.431993+00:00"
+  "updated_at": "2026-09-15T02:13:17.160250+00:00"
 }
