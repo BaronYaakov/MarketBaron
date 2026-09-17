@@ -60,42 +60,50 @@
   "news": [
     {
       "ticker": "AMZN",
-      "headline": "Wall Street Breakfast Podcast: Amazon Supercharges Generac",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=bdfd3aa2e25ddac4f71a31ca8989077809ef301e6d3841be6917dda9fc93ad8a",
-      "datetime": 1789626600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Baron Technology ETF Q2 2026 Portfolio Activity",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=2060f1dc5634fc9da72bf9ffeb4876ff7a3069d6c509e72a00c7cd9c52e5fa85",
-      "datetime": 1789625880,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "TTD Stock In Focus: Morningstar Sees Market Share Shrinking As Amazon, Google And Meta Ramp Up Ad Competition",
+      "headline": "Oracle\u2019s 2026 Cratering: This Pro Is Sure It Will Nearly Triple in the Next 12 Months",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8e812c392ac95c90354d6b7c2cf3eddec456dfa0f4bc38ab635006fcd619c4af",
-      "datetime": 1789625353,
+      "url": "https://finnhub.io/api/news?id=dc2c9634a3fbc2361efb918f0b73df9baa621d16810dd0b656b6962b52f05918",
+      "datetime": 1789644650,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "The World Isn\u2019t Ready for an Anthropic IPO",
+      "headline": "Generac Gets $100 Target Hike From Canaccord \u2014 Amazon Deal Could Unlock Up To $8B In Orders, Says Analyst",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cdfa06d3f9cf6a1ba224d0809ff5d8e930029bfc60529c1404934f7a1b11f917",
-      "datetime": 1789621260,
+      "url": "https://finnhub.io/api/news?id=ea0eee0beb2a3c2f8ce81ea63019c3b744fd098b413cccef55caff0591e1bace",
+      "datetime": 1789644385,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "AppLovin Corporation: Great Business, But External Headwinds Keep Me On The Sidelines",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=fe6aad803a2e0b4782da038f135b9517582ea36c70fcb235644f15cc4042ba1b",
-      "datetime": 1789613671,
+      "headline": "22.4% of Billionaire Bill Ackman\u2019s Pershing Square Capital Management Is Invested in These 2 Artificial Intelligence (AI) Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6ed92433bdbd002888e13442151331b71c65ef947c8c5c9ac960f5f188a0efb5",
+      "datetime": 1789644001,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Generac Stock Surges 35% on Amazon Data Center Deal. Why It\u2019s a Game-Changer.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=84897bf1bae338c87456a9ecff87679c12046ca66a5e7248ecbd5e894716a234",
+      "datetime": 1789643760,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Why Is Snap Stock Trading Higher on Thursday?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a41403a36f9d3c2b8b1d1c79e23429e580ce283652f29fcb801d753ff8d3ece6",
+      "datetime": 1789641924,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "AMD, Intel, Amazon, Generac, Lennar, and More Stocks That Explain Today\u2019s Market",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=721cef13b31d6fcbac4472fc08df8bef7fa5a58431a8eb120a9f25c459b69353",
+      "datetime": 1789641480,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -113,14 +121,6 @@
       "url": "https://finnhub.io/api/news?id=4d9803c94235584d05f0c60dcdd16e39330b8fc8cda9e4abd5d7e9348ef75d8f",
       "datetime": 1789606318,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "What Has Home Depot Stopped Telling You About Where Its Goods Come From?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7db065353067f2401e1567db112c19c1b4a833b3f158bbe1fe04c1d8a4fe5b3c",
-      "datetime": 1789602771,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -576,5 +576,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-17T11:58:16.272034+00:00"
+  "updated_at": "2026-09-17T12:13:16.119172+00:00"
 }
