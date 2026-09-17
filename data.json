@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Is It Too Early To Buy Marvell Stock After Its Three-Month Fall?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4d9803c94235584d05f0c60dcdd16e39330b8fc8cda9e4abd5d7e9348ef75d8f",
+      "datetime": 1789606318,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Is Ciena's Pricing Power Real, Or Just A Parts Shortage?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f2190363206ce2f9e3a436746dd3500a3286c5960ec4a4150c38331c3f6f80a0",
+      "datetime": 1789601921,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "The Next Short? Economist Compares Hyperscaler AI Debt Stress to 2008 Housing Collapse",
       "source": "Yahoo",
@@ -108,10 +124,34 @@
     },
     {
       "ticker": "AVGO",
-      "headline": "Hock Tan Just Guided Broadcom's AI Revenue to Reach $230 Billion by 2028. Should You Believe Him?",
+      "headline": "Investors Don\u2019t Have 9 Lives, So Stop Chasing Dead-Count Bounces in Hot Stocks Like Broadcom",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7479728aeecc51178bfe5c1288f857aa3fd5cbf8cf29b6e9ded4d4a967134e72",
-      "datetime": 1789578300,
+      "url": "https://finnhub.io/api/news?id=fcd0a357dde47cfc8c7c0524a179357940bb92db62760c5d8de45182ad4b72b5",
+      "datetime": 1789588696,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Jim Cramer Says the AI Slowdown Is Fake. Dell Is His Evidence.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b13cf22f9203a1ab79bd7dd8d3e67ec986a9c01151482e2576fc7c37ed0585aa",
+      "datetime": 1789587923,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f54532bebb33888faea695f5f1644e7fdbe0900efe56f6f1d2121c336b4c834c",
+      "datetime": 1789587004,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "How Far Can NVIDIA Stock Fall In A Demand Scare?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8a09f616da9178794c71fb91fc67ecada8c8b89dbcd39aadc84cfb58606a03a7",
+      "datetime": 1789582517,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -121,46 +161,6 @@
       "url": "https://finnhub.io/api/news?id=0f3e5f8c1fcdbbb5654e0a5fd86a0950456994d2df40a8880afefdfdc37db25a",
       "datetime": 1789574132,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "OpenAI\u2019s CFO Just Explained Why Nvidia Is No Longer the Only Option",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=386503685a06dad2bb67e4e89421edacc8c9b64c954cb942e26815b28501e35e",
-      "datetime": 1789571499,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom (AVGO) Shares Fell As Slower AI Development Raised Demand Concerns",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=149b9189706ec6a32d50aa8aa233c80d8b58ff6fbb72702378fef67dc5d497f4",
-      "datetime": 1789571471,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom CEO delivers blunt verdict on AI\u2019s biggest debate right now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ad798bcbb9b9cbd61f709ab50a0295d22dd59b022dfe978d27cf5d55ac44316f",
-      "datetime": 1789571220,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "This AI Stock Could Be Worth Far More Than Investors Think",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cb3a2d8f86dbf377efe06c5d0ee8caccd378740882cd101148e1ae45bc2f1d07",
-      "datetime": 1789570834,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Ray Dalio\u2019s Fund Was Buying These 2 AI Stocks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=722370364270cc00261fb26ced06fce38cfd6cf1d109aef2aeafd46ca399769c",
-      "datetime": 1789567527,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -568,5 +568,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-17T05:28:17.897196+00:00"
+  "updated_at": "2026-09-17T05:43:18.742960+00:00"
 }
