@@ -67,6 +67,22 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Wall Street Breakfast With Steven Cress (Generac, Amazon, Powell, Kroger)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3c31abe1f83ec660d5bd379baca449bf1ab93f6234e714b3027b0eb34d80871b",
+      "datetime": 1789667400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Wall Street Breakfast With Steven Cress (Generac, Amazon, Powell, Kroger)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3c31abe1f83ec660d5bd379baca449bf1ab93f6234e714b3027b0eb34d80871b",
+      "datetime": 1789667400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "These dow jones stocks are moving in today's session",
       "source": "ChartMill",
@@ -136,14 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=dc2c9634a3fbc2361efb918f0b73df9baa621d16810dd0b656b6962b52f05918",
       "datetime": 1789644650,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Generac Gets $100 Target Hike From Canaccord \u2014 Amazon Deal Could Unlock Up To $8B In Orders, Says Analyst",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ea0eee0beb2a3c2f8ce81ea63019c3b744fd098b413cccef55caff0591e1bace",
-      "datetime": 1789644385,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -297,14 +305,6 @@
       "url": "https://finnhub.io/api/news?id=a43ba967b6b6d35e6a692d2e8dd262e34a64a03daac25cfce69dcf2f186535aa",
       "datetime": 1789479300,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Investors Heavily Search Celestica, Inc. (CLS): Here is What You Need to Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c1ac512f17b9974fb072d08eb4c0b901ca7bf23d38bb9c6b350086a438f45108",
-      "datetime": 1789477202,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "COR",
@@ -584,5 +584,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-17T21:58:17.651325+00:00"
+  "updated_at": "2026-09-17T22:13:15.643021+00:00"
 }
