@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Relief Rally: Wall Street Decides a Hawkish Fed It Understands Beats a Fed It Doesn't",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=ba02b2fc907acb035fced53dacc1e5cef6255a6e9bb64f62e530af3ea559ceb8",
+      "datetime": 1789719201,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Traders Wary Of Rising AI Risks: Market Snapshot",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=61c0ce8f7c906a8491d23582bc62e03f8eadb0e42ea0ad967f3c13c8b3936a18",
@@ -96,14 +104,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1d84384e01b2b8eaadbfd8875d0ee646ec5e32dbce1d8e5689771736e2e192b2",
       "datetime": 1789688435,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "S&P 500, Nasdaq, Dow End Higher As Drop In Oil Prices Allays Inflationary Concerns \u2014 NVDA, MCD, CRWV, LMT, AMZN In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=76076175e83a2373313f71db8c15ee9d311417efb3e1c58d94a9c15a669ec161",
-      "datetime": 1789683734,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-18T08:28:15.709814+00:00"
+  "updated_at": "2026-09-18T08:43:15.587455+00:00"
 }
