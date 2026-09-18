@@ -60,6 +60,22 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Broadcom Inc. (AVGO) is Attracting Investor Attention: Here is What You Should Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=521fb26343f2810f86ed6e7b5682b55cd237349f53e0105ae24dbbe4b776b100",
+      "datetime": 1789736405,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Here\u2019s When Nividia\u2019s Dominance Fades, Opening Broadcom\u2019s Era of Dominance",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=20247d906545b87ad0ff00906d5d206158c21068a623438c5e3701d9f556ee42",
+      "datetime": 1789733951,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "AI Chips Update - BrainChip Expands Edge AI Capabilities With New Development Card",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f814dbddfddf2d2d25e38b07ccd46ac49c1f2c9eac310fa273678ff00fe79bc9",
@@ -144,22 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4d001bd56a663ef6f41f17d0dae47577b64ed8839a0cca46822058b94d3c9e36",
       "datetime": 1789718700,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Salesforce CEO warns AI companies not to repeat this costly mistake",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0589620161dba732f7d848df27285ae41b168d525600f1feef35a2dd97d23998",
-      "datetime": 1789683420,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "$500,000 Split Between VOO and QQQ Owns the Same Seven Stocks Twice, and Nobody Adds Up the Overlap",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0b898181b02e65154129436a08b5bb0389fde70af88bb2ffb900070c12263f51",
-      "datetime": 1789683309,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -451,12 +451,12 @@
       "market_cap_musd": 1657881.7059877363,
       "country": "US",
       "currency": "USD",
-      "price": 360.29,
+      "price": 360.85,
       "open": 351.56,
-      "day_high": 361.36,
+      "day_high": 363.28,
       "day_low": 351.33,
       "prev_close": 347.3,
-      "day_change_pct": 3.74,
+      "day_change_pct": 3.9,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -470,12 +470,12 @@
       "market_cap_musd": 97880.747242,
       "country": "CA",
       "currency": "USD",
-      "price": 43.22,
+      "price": 43.11,
       "open": 44.12,
       "day_high": 44.12,
-      "day_low": 43.11,
+      "day_low": 43.1,
       "prev_close": 43.69,
-      "day_change_pct": -1.08,
+      "day_change_pct": -1.33,
       "week52_high": 74.0,
       "week52_low": 39.05
     },
@@ -489,12 +489,12 @@
       "market_cap_musd": 57051.408937,
       "country": "CA",
       "currency": "USD",
-      "price": 338.12,
+      "price": 336.43,
       "open": 333.53,
-      "day_high": 339.88,
+      "day_high": 339.9,
       "day_low": 332.06,
       "prev_close": 329.94,
-      "day_change_pct": 2.48,
+      "day_change_pct": 1.97,
       "week52_high": 655.5,
       "week52_low": 315.41
     },
@@ -508,12 +508,12 @@
       "market_cap_musd": 59043.83744030384,
       "country": "US",
       "currency": "USD",
-      "price": 305.5,
+      "price": 305.78,
       "open": 307.38,
       "day_high": 308.89,
-      "day_low": 305.12,
+      "day_low": 304.45,
       "prev_close": 309.41,
-      "day_change_pct": -1.26,
+      "day_change_pct": -1.17,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -527,12 +527,12 @@
       "market_cap_musd": 68672.68387223924,
       "country": "US",
       "currency": "USD",
-      "price": 84.4,
+      "price": 84.19,
       "open": 84.6,
       "day_high": 85.01,
-      "day_low": 84.24,
+      "day_low": 83.98,
       "prev_close": 84.89,
-      "day_change_pct": -0.58,
+      "day_change_pct": -0.82,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -565,12 +565,12 @@
       "market_cap_musd": 34652.303442200384,
       "country": "US",
       "currency": "USD",
-      "price": 105.03,
+      "price": 103.89,
       "open": 104.69,
       "day_high": 106.7,
-      "day_low": 104.5,
+      "day_low": 103.56,
       "prev_close": 103.99,
-      "day_change_pct": 1.0,
+      "day_change_pct": -0.1,
       "week52_high": 119.1,
       "week52_low": 56.78
     },
@@ -584,12 +584,12 @@
       "market_cap_musd": 2709414.40143872,
       "country": "US",
       "currency": "USD",
-      "price": 252.87,
+      "price": 252.91,
       "open": 252.66,
       "day_high": 254.49,
       "day_low": 252.01,
       "prev_close": 251.19,
-      "day_change_pct": 0.67,
+      "day_change_pct": 0.68,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-18T13:43:16.660778+00:00"
+  "updated_at": "2026-09-18T13:58:16.326838+00:00"
 }
