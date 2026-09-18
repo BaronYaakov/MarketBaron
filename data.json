@@ -59,12 +59,44 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Salesforce CEO warns AI companies not to repeat this costly mistake",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0589620161dba732f7d848df27285ae41b168d525600f1feef35a2dd97d23998",
+      "datetime": 1789683420,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "$500,000 Split Between VOO and QQQ Owns the Same Seven Stocks Twice, and Nobody Adds Up the Overlap",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0b898181b02e65154129436a08b5bb0389fde70af88bb2ffb900070c12263f51",
+      "datetime": 1789683309,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Jim Cramer on Broadcom (AVGO): \u201cThe Stock May Be Too Cheap to Ignore\u201d",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=130cd01639e18f8e5fdc576c8bbabee679b3ec6cdedcae2915c804a2792a4046",
+      "datetime": 1789681357,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "P",
       "headline": "Everpure to Host 2026 Financial Analyst Meeting",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c05495a46ef5376ebdaea01a15e804026e226264e9a55e6579000bf60bae4295",
       "datetime": 1789675500,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Even With $262,000 in VYM, You Wouldn\u2019t Get a $500 Check Every Month",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=93fbcb15edd0fd79063b3d9fa08ef66e2dc58d1187511d3677207c9d6ad560c4",
+      "datetime": 1789675207,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -75,12 +107,28 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Jim Cramer Presses OpenAI CFO on AI Spending. 6 Stocks Are Riding on What Happens Next",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=18d3bae4a7e7b37c2d5f7c7bfa79311120ac6c5f1d1d3ef67ced12d9da8dacf0",
+      "datetime": 1789672635,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Discover which dow jones stocks are making waves on Thursday.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=dfb76a66e1436e85948b341453048bdf27d660ffca2da6ee1a728671127df0b6",
       "datetime": 1789672206,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Meta\u2019s AI chips and Meta One strengthen Bank of America\u2019s outlook",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=185379ac272b39ada94d75ed37c2dffa4e0daf8c5bf68847148c0ce9469df7fc",
+      "datetime": 1789671000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -139,22 +187,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Investors Want to Know When Broadcom\u2019s Custom Hyperscaler Chips Will Move Share Prices",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a729b9ee706afbcfbb75d7af45b2d3f8ab29cb4b211da9d5f3733bd2ffcd4109",
-      "datetime": 1789649714,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Despite Hype, Broadcom Keeps Edging Sideways and Down: This Wall Street Analyst Says It Will Provide 75% Returns Soon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=618e749b92ba5ebb35884d35db4870ba5fae1d641a26a90fff36a3aa04717064",
-      "datetime": 1789649485,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "B",
       "headline": "Barrick Mining Shares Rise 1.2% Following New Buy Rating and Gold Price Recovery",
       "source": "Yahoo",
@@ -185,38 +217,6 @@
       "url": "https://finnhub.io/api/news?id=dc2c9634a3fbc2361efb918f0b73df9baa621d16810dd0b656b6962b52f05918",
       "datetime": 1789644650,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Marvell Technology Dropped By 25% in 3 Months: This Trusted Analyst Says 75% Returns Are Coming In The Next Year",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=92ef61a28484e39e2b1664bc9dcdbe4fa2ae328dfdea03e51c6eb9aa4a7f7541",
-      "datetime": 1789643764,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Semiconductor Sell-Off: 1 AI Chip Stock to Buy, 1 to Hold, and 1 to Sell After Broadcom's Beat",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e4ffa5425f5c6bd4ba05fadc0605a23749fb8c4d4788597ddfb4d1cb1182102d",
-      "datetime": 1789641360,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Billionaire Stanley Druckenmiller Dumped Broadcom and 11X'd His Fund's Stake in This Trillion-Dollar Dual-Industry Leader",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a814f294faa093e7f4bb9ae2bf6793a47bf4300f78c87340b1a40ccc3b541919",
-      "datetime": 1789640761,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom: In An Expensive Tech Market, Buy",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=64cef6d0ed26dda44643d6a35ee7345eb1d55d837665b8dd4f3887932bd2f060",
-      "datetime": 1789640662,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "B",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-18T00:58:19.166809+00:00"
+  "updated_at": "2026-09-18T01:13:18.924656+00:00"
 }
