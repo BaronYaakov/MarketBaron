@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Prysmian and Rio Tinto Announce First Electrical Cables Made with ELYSIS(R) Technology Aluminum Contracted for Installation at Amazon Data Center",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7202539dbf0c4ab8b8a24e51e97cd98b917c0d25c012a05357b911a1b5205094",
+      "datetime": 1789729200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom (NASDAQ:AVGO): A Compelling Affordable Growth Story With Elite Expansion and Reasonable Forward Valuation",
       "source": "ChartMill",
@@ -73,6 +81,22 @@
       "url": "https://finnhub.io/api/news?id=12a943c49b0c41542e6110b5907bd643716ff95df92c7be7cfdba4c415d5c29d",
       "datetime": 1789721580,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "GNRC Stock Heads For Best Week Since May: Amazon Deal Sparks Fresh Data Center Growth Bets, Analysts Say Generac Is Trading Cheap",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=376d4182c0a36ced64a68ed841a3bb947b0011951d328b5d8068fca7e995f0e3",
+      "datetime": 1789721410,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The \u201cMagnificent Seven\u201d Stocks Have Seen Valuations Tumble. Stocks to Avoid or Once-in-a-Decade Buying Opportunity?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c6e0bb84d12da2d2061a195b3987f21883cab0a4385568c3396148a4175c107e",
+      "datetime": 1789719781,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
@@ -92,42 +116,18 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "Generac Holdings (GNRC) Moves 18.3% Higher: Will This Strength Last?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e7a7ed2ce569c8770e4f4fbdb3e4c6e23b2226252dbfef0901135d0f828fea6f",
+      "datetime": 1789718400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Traders Wary Of Rising AI Risks: Market Snapshot",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=61c0ce8f7c906a8491d23582bc62e03f8eadb0e42ea0ad967f3c13c8b3936a18",
       "datetime": 1789707355,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon makes $1.5 billion move for U.S. workers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ca6364c272086a98914ecc73fe67be57559e22b6f7b3abf765ccc653be030691",
-      "datetime": 1789698780,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "What Amazon.com (AMZN)'s US$8 Billion Backup Power Deal With Generac Means For Shareholders",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bf6a78a0935728b14112f935cc8d7ec1c1b14d9b8d0387f8ef71b0feec1fdcaf",
-      "datetime": 1789697553,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Why Generac Stock Soared Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=03375cdefa167d9101123c7ca918e689e9c867849f4cc31ac78c3fd2f5b82690",
-      "datetime": 1789688467,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "AI Security Debate \u2014 Amazon Says AI Models To Be Released Only When 'Ready And Safe'",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1d84384e01b2b8eaadbfd8875d0ee646ec5e32dbce1d8e5689771736e2e192b2",
-      "datetime": 1789688435,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-18T11:13:16.190374+00:00"
+  "updated_at": "2026-09-18T11:28:16.190460+00:00"
 }
