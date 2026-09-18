@@ -59,12 +59,28 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Nvidia vs. Broadcom: Whose AI Revenue Actually Grows Faster From Here?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=12a943c49b0c41542e6110b5907bd643716ff95df92c7be7cfdba4c415d5c29d",
+      "datetime": 1789721580,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Relief Rally: Wall Street Decides a Hawkish Fed It Understands Beats a Fed It Doesn't",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=ba02b2fc907acb035fced53dacc1e5cef6255a6e9bb64f62e530af3ea559ceb8",
       "datetime": 1789719201,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Own Broadcom by Sept. 21 to Qualify for Its Sept. 30 Dividend. Here's How Many Shares You'd Need for $5,000 in Yearly Dividends.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4d001bd56a663ef6f41f17d0dae47577b64ed8839a0cca46822058b94d3c9e36",
+      "datetime": 1789718700,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -153,22 +169,6 @@
       "url": "https://finnhub.io/api/news?id=8953de022a5ec9f4e4c502fbc2bf867e145ccac3d18c59574ae1b96f73cecb82",
       "datetime": 1789674377,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Jim Cramer Presses OpenAI CFO on AI Spending. 6 Stocks Are Riding on What Happens Next",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=18d3bae4a7e7b37c2d5f7c7bfa79311120ac6c5f1d1d3ef67ced12d9da8dacf0",
-      "datetime": 1789672635,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Meta\u2019s AI chips and Meta One strengthen Bank of America\u2019s outlook",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=185379ac272b39ada94d75ed37c2dffa4e0daf8c5bf68847148c0ce9469df7fc",
-      "datetime": 1789671000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-18T08:58:15.994395+00:00"
+  "updated_at": "2026-09-18T09:13:15.571380+00:00"
 }
