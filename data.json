@@ -83,6 +83,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "ORLY",
+      "headline": "O'Reilly Automotive Maps Record Store Growth, Mexico Push at Analyst Day",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf7a9ec5e6e0bc4e5f7d2c84da744bc42728debe8a247c3d3ad69036e483270f",
+      "datetime": 1789758135,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Oracle Falls 3% While Cloud Rivals Hold Their Ground; Microsoft Dips, Amazon Nudges Higher",
       "source": "Yahoo",
@@ -608,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-18T20:13:17.880364+00:00"
+  "updated_at": "2026-09-18T20:28:17.423728+00:00"
 }
