@@ -59,6 +59,30 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Why Generac Stock Soared Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=03375cdefa167d9101123c7ca918e689e9c867849f4cc31ac78c3fd2f5b82690",
+      "datetime": 1789688467,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "AI Security Debate \u2014 Amazon Says AI Models To Be Released Only When 'Ready And Safe'",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1d84384e01b2b8eaadbfd8875d0ee646ec5e32dbce1d8e5689771736e2e192b2",
+      "datetime": 1789688435,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "S&P 500, Nasdaq, Dow End Higher As Drop In Oil Prices Allays Inflationary Concerns \u2014 NVDA, MCD, CRWV, LMT, AMZN In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=76076175e83a2373313f71db8c15ee9d311417efb3e1c58d94a9c15a669ec161",
+      "datetime": 1789683734,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Salesforce CEO warns AI companies not to repeat this costly mistake",
       "source": "Yahoo",
@@ -75,12 +99,36 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "$500,000 Split Between VOO and QQQ Owns the Same Seven Stocks Twice, and Nobody Adds Up the Overlap",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0b898181b02e65154129436a08b5bb0389fde70af88bb2ffb900070c12263f51",
+      "datetime": 1789683309,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Can Absorb the 21 Air Suspension. Replacing Its Fleet Is a Different Story.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e6a941331fc25dc5c42a3adeeb23160473954c4a75fea7d71c956603d6c7af2c",
+      "datetime": 1789681484,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Jim Cramer on Broadcom (AVGO): \u201cThe Stock May Be Too Cheap to Ignore\u201d",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=130cd01639e18f8e5fdc576c8bbabee679b3ec6cdedcae2915c804a2792a4046",
       "datetime": 1789681357,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "AI Power Stocks Rally After Generac's Deal For Amazon Data Centers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=47b8ffbd43b1348fb8a614f37c0b76734d89a30aa3f202ddb2328352dbe1e2c2",
+      "datetime": 1789680064,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -115,14 +163,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Discover which dow jones stocks are making waves on Thursday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=dfb76a66e1436e85948b341453048bdf27d660ffca2da6ee1a728671127df0b6",
-      "datetime": 1789672206,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Meta\u2019s AI chips and Meta One strengthen Bank of America\u2019s outlook",
       "source": "Yahoo",
@@ -139,28 +179,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Wall Street Breakfast With Steven Cress (Generac, Amazon, Powell, Kroger)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=3c31abe1f83ec660d5bd379baca449bf1ab93f6234e714b3027b0eb34d80871b",
-      "datetime": 1789667400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "P",
       "headline": "3 Reasons P Has Explosive Upside Potential",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d65bfb5898056271d32fa467d6cb9332044173ea61f978a9e07866efedec5f28",
       "datetime": 1789664777,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "These dow jones stocks are moving in today's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=19743c4c516fff44e17aef6ad8aee7e45aa5ec507e86f2f5d35e75dfae85174e",
-      "datetime": 1789663206,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -179,14 +203,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Generac: Amazon Just Added 57% Of A Year's Revenue",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b5bc9c40bb806ad44bbed209f95dad87bd62917060f43b1230d85b704745617f",
-      "datetime": 1789650931,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "B",
       "headline": "Barrick Mining Shares Rise 1.2% Following New Buy Rating and Gold Price Recovery",
       "source": "Yahoo",
@@ -195,28 +211,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Lagging The S&P 500? I Don't Care, And Neither Should You",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=38511e139416253ef546439f35b4217c6fbb4d237681ab3a96555c3fa10e6d00",
-      "datetime": 1789647078,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "B",
       "headline": "Gold miners rally as bullion rebounds on softer dollar, easing oil prices",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ec092bb0b8a41788365538ebf8b37fa4d2fd2c52119e2801c62c3daa4768b479",
       "datetime": 1789644749,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Oracle\u2019s 2026 Cratering: This Pro Is Sure It Will Nearly Triple in the Next 12 Months",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dc2c9634a3fbc2361efb918f0b73df9baa621d16810dd0b656b6962b52f05918",
-      "datetime": 1789644650,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "B",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-18T01:58:18.074399+00:00"
+  "updated_at": "2026-09-18T02:13:16.595343+00:00"
 }
