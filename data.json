@@ -59,11 +59,27 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "AI Chips Update - BrainChip Expands Edge AI Capabilities With New Development Card",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f814dbddfddf2d2d25e38b07ccd46ac49c1f2c9eac310fa273678ff00fe79bc9",
+      "datetime": 1789731450,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Prysmian and Rio Tinto Announce First Electrical Cables Made with ELYSIS(R) Technology Aluminum Contracted for Installation at Amazon Data Center",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7202539dbf0c4ab8b8a24e51e97cd98b917c0d25c012a05357b911a1b5205094",
       "datetime": 1789729200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "\u2018Big Short\u2019 Investor Michael Burry Blasts Economic \u2018Bubbles\u2019 Enriching the Few at \u2018Obscene Rates\u2019",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d4bb671d8a603a6881691f4cf6aed2804cd6dc55c11424e9c75811351a589534",
+      "datetime": 1789728313,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -123,14 +139,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Traders Wary Of Rising AI Risks: Market Snapshot",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=61c0ce8f7c906a8491d23582bc62e03f8eadb0e42ea0ad967f3c13c8b3936a18",
-      "datetime": 1789707355,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Salesforce CEO warns AI companies not to repeat this costly mistake",
       "source": "Yahoo",
@@ -144,14 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0b898181b02e65154129436a08b5bb0389fde70af88bb2ffb900070c12263f51",
       "datetime": 1789683309,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Jim Cramer on Broadcom (AVGO): \u201cThe Stock May Be Too Cheap to Ignore\u201d",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=130cd01639e18f8e5fdc576c8bbabee679b3ec6cdedcae2915c804a2792a4046",
-      "datetime": 1789681357,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-18T11:58:15.967042+00:00"
+  "updated_at": "2026-09-18T12:13:16.063940+00:00"
 }
