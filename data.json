@@ -67,6 +67,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "B",
+      "headline": "B vs. KGC: Which Gold Mining Stock Should You Bet on Now?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1e8edffea9901779b05f1ef57f7da45a26daa018667bf4a51a123be8aa9ba50a",
+      "datetime": 1789729980,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Prysmian and Rio Tinto Announce First Electrical Cables Made with ELYSIS(R) Technology Aluminum Contracted for Installation at Amazon Data Center",
       "source": "Yahoo",
@@ -257,14 +265,6 @@
       "url": "https://finnhub.io/api/news?id=55dcd375ad8f39ea5fcbcc3e52e5ac6a03f402dcbb7aa3a622440b2390f1f1c1",
       "datetime": 1789588680,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Newmont's Fourmile Overhang Removed, Market Underappreciates Impact, UBS Says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0f3e5f8c1fcdbbb5654e0a5fd86a0950456994d2df40a8880afefdfdc37db25a",
-      "datetime": 1789574132,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "CLS",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-18T12:43:16.124737+00:00"
+  "updated_at": "2026-09-18T12:58:16.219267+00:00"
 }
