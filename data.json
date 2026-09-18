@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Broadcom (NASDAQ:AVGO): A Compelling Affordable Growth Story With Elite Expansion and Reasonable Forward Valuation",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=add6428a1670d10b32e52aafe7601334cb2dc30332e3dbd7d3e6179a1f064581",
+      "datetime": 1789725072,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Nvidia vs. Broadcom: Whose AI Revenue Actually Grows Faster From Here?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=12a943c49b0c41542e6110b5907bd643716ff95df92c7be7cfdba4c415d5c29d",
@@ -153,14 +161,6 @@
       "url": "https://finnhub.io/api/news?id=c05495a46ef5376ebdaea01a15e804026e226264e9a55e6579000bf60bae4295",
       "datetime": 1789675500,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Even With $262,000 in VYM, You Wouldn\u2019t Get a $500 Check Every Month",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=93fbcb15edd0fd79063b3d9fa08ef66e2dc58d1187511d3677207c9d6ad560c4",
-      "datetime": 1789675207,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-18T09:58:15.441586+00:00"
+  "updated_at": "2026-09-18T10:13:16.462485+00:00"
 }
