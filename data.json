@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "P",
+      "headline": "Everpure to Host 2026 Financial Analyst Meeting",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c05495a46ef5376ebdaea01a15e804026e226264e9a55e6579000bf60bae4295",
+      "datetime": 1789675500,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Why Everpure (P) Stock Is Up Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8953de022a5ec9f4e4c502fbc2bf867e145ccac3d18c59574ae1b96f73cecb82",
+      "datetime": 1789674377,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Discover which dow jones stocks are making waves on Thursday.",
       "source": "ChartMill",
@@ -83,12 +99,28 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "P",
+      "headline": "3 Reasons P Has Explosive Upside Potential",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d65bfb5898056271d32fa467d6cb9332044173ea61f978a9e07866efedec5f28",
+      "datetime": 1789664777,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "These dow jones stocks are moving in today's session",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=19743c4c516fff44e17aef6ad8aee7e45aa5ec507e86f2f5d35e75dfae85174e",
       "datetime": 1789663206,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Everpure Stock Gains 34% in 6 Months: Here's What You Should Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=696a388ce58f5e964995f194566437d01f70b41b95ab468650da94b7ead87ca6",
+      "datetime": 1789656480,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "B",
@@ -315,14 +347,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
-      "ticker": "P",
-      "headline": "Radiant Logistics, Waystar, Forgent Power Solutions And Other Big Stocks Moving Higher On Tuesday",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=569f0249a6299070618ee340204fadca57dd1cd995c2f61e2e8e3c28e9d39a3f",
-      "datetime": 1789466005,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
       "ticker": "COR",
       "headline": "AbbVie vs. CRISPR Therapeutics: Which Healthcare Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
@@ -369,14 +393,6 @@
       "url": "https://finnhub.io/api/news?id=4aad19be2286e39eef80e32149150004b6ec7990b2764565fe185b0cb4de2819",
       "datetime": 1789130728,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "SCSC or P: Which Is the Better Value Stock Right Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9717a7fc535e5a103926981e9ddda2dbee0e9b5eef5400ff3d9f5a3c17a6bdf7",
-      "datetime": 1789054802,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     }
   ],
   "recent_posts": [],
@@ -584,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-18T00:28:16.923230+00:00"
+  "updated_at": "2026-09-18T00:43:16.268982+00:00"
 }
