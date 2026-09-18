@@ -59,30 +59,6 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
-      "ticker": "AMZN",
-      "headline": "Why Generac Stock Soared Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=03375cdefa167d9101123c7ca918e689e9c867849f4cc31ac78c3fd2f5b82690",
-      "datetime": 1789688467,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "AI Security Debate \u2014 Amazon Says AI Models To Be Released Only When 'Ready And Safe'",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1d84384e01b2b8eaadbfd8875d0ee646ec5e32dbce1d8e5689771736e2e192b2",
-      "datetime": 1789688435,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "S&P 500, Nasdaq, Dow End Higher As Drop In Oil Prices Allays Inflationary Concerns \u2014 NVDA, MCD, CRWV, LMT, AMZN In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=76076175e83a2373313f71db8c15ee9d311417efb3e1c58d94a9c15a669ec161",
-      "datetime": 1789683734,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Salesforce CEO warns AI companies not to repeat this costly mistake",
       "source": "Yahoo",
@@ -99,22 +75,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "$500,000 Split Between VOO and QQQ Owns the Same Seven Stocks Twice, and Nobody Adds Up the Overlap",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0b898181b02e65154129436a08b5bb0389fde70af88bb2ffb900070c12263f51",
-      "datetime": 1789683309,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Can Absorb the 21 Air Suspension. Replacing Its Fleet Is a Different Story.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e6a941331fc25dc5c42a3adeeb23160473954c4a75fea7d71c956603d6c7af2c",
-      "datetime": 1789681484,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Jim Cramer on Broadcom (AVGO): \u201cThe Stock May Be Too Cheap to Ignore\u201d",
       "source": "Yahoo",
@@ -123,36 +83,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "AI Power Stocks Rally After Generac's Deal For Amazon Data Centers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=47b8ffbd43b1348fb8a614f37c0b76734d89a30aa3f202ddb2328352dbe1e2c2",
-      "datetime": 1789680064,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Everpure to Host 2026 Financial Analyst Meeting",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c05495a46ef5376ebdaea01a15e804026e226264e9a55e6579000bf60bae4295",
-      "datetime": 1789675500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Even With $262,000 in VYM, You Wouldn\u2019t Get a $500 Check Every Month",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=93fbcb15edd0fd79063b3d9fa08ef66e2dc58d1187511d3677207c9d6ad560c4",
       "datetime": 1789675207,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Why Everpure (P) Stock Is Up Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8953de022a5ec9f4e4c502fbc2bf867e145ccac3d18c59574ae1b96f73cecb82",
-      "datetime": 1789674377,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "AVGO",
@@ -177,22 +113,6 @@
       "url": "https://finnhub.io/api/news?id=3c31abe1f83ec660d5bd379baca449bf1ab93f6234e714b3027b0eb34d80871b",
       "datetime": 1789667400,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "3 Reasons P Has Explosive Upside Potential",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d65bfb5898056271d32fa467d6cb9332044173ea61f978a9e07866efedec5f28",
-      "datetime": 1789664777,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Everpure Stock Gains 34% in 6 Months: Here's What You Should Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=696a388ce58f5e964995f194566437d01f70b41b95ab468650da94b7ead87ca6",
-      "datetime": 1789656480,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "B",
@@ -227,28 +147,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "P",
-      "headline": "Needham Reiterates Buy on Everpure, Maintains $140 Price Target",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=2e2d20f978f12aa04f48f8a5359773fb64daf744775b884dcfc4f6ec2dd87be1",
-      "datetime": 1789628760,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
       "ticker": "B",
       "headline": "Agnico Spurns Barrick IPO, Quietly Diversifies Beyond Gold",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=ae59f6e0bb37975d1f34ef065fa3fd3ad545c0e0de824ea364be5e6ccb280b54",
       "datetime": 1789625205,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Bank of America sees 60% upside in Everpure stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d5bac320ad616f49d53a351529f9e87758d557d7ecd347f9145e3b0ff8a14e28",
-      "datetime": 1789610580,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "COR",
@@ -600,5 +504,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-18T06:43:15.893506+00:00"
+  "updated_at": "2026-09-18T06:58:16.473520+00:00"
 }
