@@ -60,26 +60,50 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "The ARK Trade Watch: Cathie Wood Cuts Crypto Exposure, Then Reverses Course On CoreWeave",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=16d351dd26ced889084d4ef0584e7d0bece3548bebaa64a84fe6b8ff05044c7e",
+      "datetime": 1789767510,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Sir Lynton Crosby, CT Group Executive Chairman, on the Case for Capitalism",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f125c282aaf3fa35b7d503e47811e6597747a32bfdd61cab499b5e92e240e8e5",
+      "datetime": 1789765585,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "How Big A Swing In eBay Stock Are You Actually Holding?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=053da4452cc1e6f496d635d0e0374e69dc1b8d724b324aee1f0d4f377f2e1d29",
+      "datetime": 1789763161,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Breakout Watch: Savvy Investors Get Wired Up For This Nvidia, Amazon Partner",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b47742e95425b7a2ae9ac0477a2272e031f3bce4ed2c2dfd5f4e401613058dc8",
+      "datetime": 1789761658,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Should You Buy NetApp Stock For The Shares It Keeps Retiring?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e715a695b6206d359899cfb3cedf9e970f17c24d4ba177387fb5a8d630a32b96",
+      "datetime": 1789761206,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Goldman Sachs Sends Stark Warning on S&P 500 Earnings",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b2e1130de4a9258488eadedb5e1b1cd99757d7a229b9434160b946aa2ff062d8",
       "datetime": 1789760126,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Where AAPL Stock's $510 Billion Of Shareholder Cash Came From",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d619fe748ffe6a8da06b527c53226697c45a0fcaeed9b1a21108d818d1ebe057",
-      "datetime": 1789759477,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "These dow jones stocks are moving in today's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=19132d3174e5558af2ee7f4aa0e4f2c65ea769710042cfdf42f6819a521901ef",
-      "datetime": 1789758607,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -89,30 +113,6 @@
       "url": "https://finnhub.io/api/news?id=cf7a9ec5e6e0bc4e5f7d2c84da744bc42728debe8a247c3d3ad69036e483270f",
       "datetime": 1789758135,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Oracle Falls 3% While Cloud Rivals Hold Their Ground; Microsoft Dips, Amazon Nudges Higher",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a096c5d06025b5ca49a7b9827f4c34d7e8b736f61fbbd72325babed2d7a6504e",
-      "datetime": 1789754827,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=4ac00e1b4de60d09d4acbd32e9f56adbe79b0efb09edf3ad06a8332151385298",
-      "datetime": 1789754700,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Is Palantir's Lead Over Its Peers Already Priced In?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=57f9a3b6fc72eb72004070beb9320997935226a41fa261a3a9160d4d02974797",
-      "datetime": 1789754441,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-18T21:58:16.097254+00:00"
+  "updated_at": "2026-09-18T22:13:16.486373+00:00"
 }
