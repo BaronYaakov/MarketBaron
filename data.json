@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Applied Materials vs. Broadcom: Comparing Sales Growth Trajectories for These Artificial Intelligence Companies",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=51a8e022fb9fe0e4a0bcaf112c83f055b1ca3af0a54ff42cfdb31661ab1550a1",
+      "datetime": 1789798742,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Amazon (AMZN) Is Reworking Its Air Fleet With 30 A330 Freighters By 2027",
       "source": "Yahoo",
@@ -160,14 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2228853bbeb59258666739eb1c3f0f0b2a70a6b963eb625d9585b7a45b7b1903",
       "datetime": 1789750500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8a8c36f9bb9a15fa5985ba1000f48c3449de536968b4b8807768b2cc89e81869",
-      "datetime": 1789750202,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -584,5 +584,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-19T07:58:15.255040+00:00"
+  "updated_at": "2026-09-19T08:13:15.308752+00:00"
 }
