@@ -115,6 +115,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
+      "ticker": "B",
+      "headline": "Newmont price target raised by UBS on capital returns outlook",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9b3695e7a4b2479efccd102ef24edc055afe42b5864ba65505e3e6fbf92f7410",
+      "datetime": 1789755960,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "This Little-Known Chip Stock Has Doubled. Wall Street Is Getting Bullish.",
       "source": "Yahoo",
@@ -265,14 +273,6 @@
       "url": "https://finnhub.io/api/news?id=2e2d20f978f12aa04f48f8a5359773fb64daf744775b884dcfc4f6ec2dd87be1",
       "datetime": 1789628760,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Agnico Spurns Barrick IPO, Quietly Diversifies Beyond Gold",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=ae59f6e0bb37975d1f34ef065fa3fd3ad545c0e0de824ea364be5e6ccb280b54",
-      "datetime": 1789625205,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "COR",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-19T00:13:15.864193+00:00"
+  "updated_at": "2026-09-19T00:28:16.598082+00:00"
 }
