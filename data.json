@@ -76,6 +76,14 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "Costco, BlackBerry To Headline Earnings In A Muted Week",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c49bde757f11715b696ad23b5e4bc21bc8f7a2ae5edc726eef973401c1f35cde",
+      "datetime": 1789815600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Semiconductor Stocks to Buy and Hold Through 2030",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5feec912090c2af6467eed38678b666cfe0e33c669bf48c80710d7d893dc0e73",
@@ -168,14 +176,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=30a8b1e4bdd7b64d1f60ed9c883a5a74ebb2b0c7066eacda8ab0268bd4d767f7",
       "datetime": 1789753620,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Why XLK\u2019s Next Rebalance Won\u2019t Fix Its Massive Concentration Problem",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4c46bb5bb25a9a305053016c76c3c821e7ee9c57c5f56549ae6ea9248f2eade4",
-      "datetime": 1789752340,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-19T15:13:16.055836+00:00"
+  "updated_at": "2026-09-19T15:28:16.095570+00:00"
 }
