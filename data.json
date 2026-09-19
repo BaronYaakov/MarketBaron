@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Jim Cramer Said This AI Firm Has More Orders Than \u201cAlmost Anybody\u201d Other Than NVIDIA",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad29d60c2dff48278b88758a1a4c02812b6c1b4473cb53bd873a38937c7995b2",
+      "datetime": 1789773714,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "The ARK Trade Watch: Cathie Wood Cuts Crypto Exposure, Then Reverses Course On CoreWeave",
       "source": "Yahoo",
@@ -160,14 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e3f9d1da4b703d11810a0b90167b2fac9108381d9498ffe29942029c49e56384",
       "datetime": 1789749749,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Why Does NVDA Stock Carry The Lowest Clean Multiple In Its Peer Group?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=910aaab2e37c5c865e418bf6ab96878db241210b320b80b96ec35c8568a164c5",
-      "datetime": 1789749636,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-19T01:13:16.395118+00:00"
+  "updated_at": "2026-09-19T01:28:16.341831+00:00"
 }
