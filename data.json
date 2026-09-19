@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Amazon (AMZN) Is Reworking Its Air Fleet With 30 A330 Freighters By 2027",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0894cec5583609566cfab14b6f0f3936112a0fb527575e461063426530a9cb22",
+      "datetime": 1789791483,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Artificial Intelligence and Green City Transition Forum successfully held at GreenCities 2026",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e85b041046c2c1afe8c71092ad962c26ca3f94de916476271ce9765feb70a3c6",
@@ -112,14 +120,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=053da4452cc1e6f496d635d0e0374e69dc1b8d724b324aee1f0d4f377f2e1d29",
       "datetime": 1789763161,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Breakout Watch: Savvy Investors Get Wired Up For This Nvidia, Amazon Partner",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b47742e95425b7a2ae9ac0477a2272e031f3bce4ed2c2dfd5f4e401613058dc8",
-      "datetime": 1789761658,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -584,5 +584,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-19T05:58:14.925731+00:00"
+  "updated_at": "2026-09-19T06:13:15.204584+00:00"
 }
