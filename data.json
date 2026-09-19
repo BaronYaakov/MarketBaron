@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Bank of America resets Amazon stock forecast on delivery plan",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b8525402e6a80c8d0700ace675e7340c4bb47c1d962bd05fa538ec539d396e7c",
+      "datetime": 1789836420,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon cargo delivery company files for Chapter 11 bankruptcy",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a243713494c2380dab8931274f0ce8fbbb846f8ba7d3a1109f150444a83bb73a",
@@ -120,14 +128,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=13f780888e8f80a1dd6391f3566fca74c418354f968b1de73cb4854818c0ee6f",
       "datetime": 1789808400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "How AI concerns moved to the center of the midterm debate",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b61b71e16dcbf5ab4da821588f578ab19b799e9e18873a13a6c3b490795bc20c",
-      "datetime": 1789808202,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-19T17:58:16.001505+00:00"
+  "updated_at": "2026-09-19T18:13:15.928982+00:00"
 }
