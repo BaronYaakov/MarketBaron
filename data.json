@@ -59,6 +59,78 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Amazon (AMZN) Is Reworking Its Air Fleet With 30 A330 Freighters By 2027",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0894cec5583609566cfab14b6f0f3936112a0fb527575e461063426530a9cb22",
+      "datetime": 1789791483,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Artificial Intelligence and Green City Transition Forum successfully held at GreenCities 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e85b041046c2c1afe8c71092ad962c26ca3f94de916476271ce9765feb70a3c6",
+      "datetime": 1789788600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Investors Look Beyond AI As Market Signals Blur",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7c1428615e53491a696b7edf944bae6b1b264a1d8d6772edb1c9a6094324f30a",
+      "datetime": 1789777800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Generac: Investors Back Up The Truck",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4343ba4450e9d2627d0850a0d19422dff110b2a7be5db0ecdec653490ccd427e",
+      "datetime": 1789777668,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Jim Cramer Said This AI Firm Has More Orders Than \u201cAlmost Anybody\u201d Other Than NVIDIA",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad29d60c2dff48278b88758a1a4c02812b6c1b4473cb53bd873a38937c7995b2",
+      "datetime": 1789773714,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The ARK Trade Watch: Cathie Wood Cuts Crypto Exposure, Then Reverses Course On CoreWeave",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=16d351dd26ced889084d4ef0584e7d0bece3548bebaa64a84fe6b8ff05044c7e",
+      "datetime": 1789767510,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Sir Lynton Crosby, CT Group Executive Chairman, on the Case for Capitalism",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f125c282aaf3fa35b7d503e47811e6597747a32bfdd61cab499b5e92e240e8e5",
+      "datetime": 1789765585,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "How Big A Swing In eBay Stock Are You Actually Holding?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=053da4452cc1e6f496d635d0e0374e69dc1b8d724b324aee1f0d4f377f2e1d29",
+      "datetime": 1789763161,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "O'Reilly Automotive Maps Record Store Growth, Mexico Push at Analyst Day",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf7a9ec5e6e0bc4e5f7d2c84da744bc42728debe8a247c3d3ad69036e483270f",
+      "datetime": 1789758135,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "B",
       "headline": "Newmont price target raised by UBS on capital returns outlook",
       "source": "Yahoo",
@@ -67,12 +139,100 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "This Little-Known Chip Stock Has Doubled. Wall Street Is Getting Bullish.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30a8b1e4bdd7b64d1f60ed9c883a5a74ebb2b0c7066eacda8ab0268bd4d767f7",
+      "datetime": 1789753620,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Why XLK\u2019s Next Rebalance Won\u2019t Fix Its Massive Concentration Problem",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4c46bb5bb25a9a305053016c76c3c821e7ee9c57c5f56549ae6ea9248f2eade4",
+      "datetime": 1789752340,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Cisco Drops 8% in 3 Months: Should You Buy the Stock on the Dip?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2228853bbeb59258666739eb1c3f0f0b2a70a6b963eb625d9585b7a45b7b1903",
+      "datetime": 1789750500,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8a8c36f9bb9a15fa5985ba1000f48c3449de536968b4b8807768b2cc89e81869",
+      "datetime": 1789750202,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "B",
       "headline": "B vs. KGC: Which Gold Mining Stock Should You Bet on Now?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1e8edffea9901779b05f1ef57f7da45a26daa018667bf4a51a123be8aa9ba50a",
       "datetime": 1789729980,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Investing In Everpure: Growth Potential You Can't Ignore",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=73ce1b1ff97b35e4eed68d64b1e3f9d01bcb3ed14288656fd097d6251a9b1ad5",
+      "datetime": 1789727333,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Everpure to Host 2026 Financial Analyst Meeting",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c05495a46ef5376ebdaea01a15e804026e226264e9a55e6579000bf60bae4295",
+      "datetime": 1789675500,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Why Everpure (P) Stock Is Up Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8953de022a5ec9f4e4c502fbc2bf867e145ccac3d18c59574ae1b96f73cecb82",
+      "datetime": 1789674377,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Wall Street Breakfast With Steven Cress (Generac, Amazon, Powell, Kroger)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3c31abe1f83ec660d5bd379baca449bf1ab93f6234e714b3027b0eb34d80871b",
+      "datetime": 1789667400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "3 Reasons P Has Explosive Upside Potential",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d65bfb5898056271d32fa467d6cb9332044173ea61f978a9e07866efedec5f28",
+      "datetime": 1789664777,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Everpure Stock Gains 34% in 6 Months: Here's What You Should Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=696a388ce58f5e964995f194566437d01f70b41b95ab468650da94b7ead87ca6",
+      "datetime": 1789656480,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "10 Consumer Discretionary Stocks With Whale Alerts In Today\u2019s Session",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=63b5ee198b77d065d241602b8013f15a51b6bc7489fcc85b22feb88a2f5049e7",
+      "datetime": 1789652124,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "B",
@@ -105,6 +265,118 @@
       "url": "https://finnhub.io/api/news?id=367157e5499301b08235205c8e21b68ebcbf0c8402c314fb68fd9bc3a3f80993",
       "datetime": 1789639278,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Needham Reiterates Buy on Everpure, Maintains $140 Price Target",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=2e2d20f978f12aa04f48f8a5359773fb64daf744775b884dcfc4f6ec2dd87be1",
+      "datetime": 1789628760,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Cencora Tech Chief: AI Is Cutting Some Medical Treatment Decisions in Half",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=55dcd375ad8f39ea5fcbcc3e52e5ac6a03f402dcbb7aa3a622440b2390f1f1c1",
+      "datetime": 1789588680,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica (NYSE:CLS) Stands Out as a Quality Investing Candidate",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=508f70a6b521e85c0e98cc91adff841998e31cf1550bd0ecee8f5bc73d355ad4",
+      "datetime": 1789552259,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica: When Margin Falls It Won't Be Pretty (Rating Downgrade)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3241361663d5ac21fb1aeb1feb04cd74724dd43f281bd29825e457dcf38aee73",
+      "datetime": 1789550791,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica: The Market Just Handed Investors An $11 Billion Gift",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ca4970cf72855aa774be02eeb19669e2fe2d79e293acebc05e647b399a5be1fd",
+      "datetime": 1789550628,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "Zacks Industry Outlook O'Reilly and Advance Auto Parts",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bc594974fc869ac234d839642f2e732e5d358859ba87246e4c61f4e255739566",
+      "datetime": 1789545420,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Cencora, Inc. (COR) Presents at 2026 Global Healthcare Conference Transcript",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b34af31dcda5b814375c7dd7a24aeb1542306abf17d73d352a1296887c2d010c",
+      "datetime": 1789495297,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica (TSX:CLS) Following Its CFO Change, Is The Undervalued View Still Intact?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=85c556062e632636b95eea72b6ad0b119f38c35687cb8482ebf939a5e58bdba6",
+      "datetime": 1789488864,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "The Realities of Managing Enterprise AI",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2f736bb4d1187dcfcddd8311592c68845053d1ae300605a4350bbf0f9ff1ab29",
+      "datetime": 1789482540,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Qorvo downgraded, Ulta Beauty upgraded: Wall Street's top analyst calls",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c854be8b19ebb875ef91eb7098e80a5dafa099788e352d98160ac41aeb045d16",
+      "datetime": 1789479339,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "2 Auto Retail Parts Stocks Worth Watching as Aftermarket Demand Grows",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a43ba967b6b6d35e6a692d2e8dd262e34a64a03daac25cfce69dcf2f186535aa",
+      "datetime": 1789479300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Cencora, Inc. (COR) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a66b11ff690d6b717fc56cc954cbd060c681b8a97b4cc86d4699d13e6d045cf8",
+      "datetime": 1789470099,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "AbbVie vs. CRISPR Therapeutics: Which Healthcare Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8f218e6f7b910d123201ac23fb800ce70f363d4a3dd35a78f17158dcc3292a09",
+      "datetime": 1789398055,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Coultreon Biopharma Appoints Nate Massari as Chief Business Officer",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b5abd7161204468ca6b4b5d9aea784815ed678a951caf7db52db72d58e5aff1f",
+      "datetime": 1789390800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     }
   ],
   "recent_posts": [],
@@ -312,5 +584,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-19T06:58:15.659118+00:00"
+  "updated_at": "2026-09-19T07:13:15.191681+00:00"
 }
