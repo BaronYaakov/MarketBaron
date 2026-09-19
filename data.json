@@ -107,20 +107,20 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "What Moved Markets This Week",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=97da2091fb37a98868cc4df2c623e9c31db2fd3283341dda1e7fd6b0739faf09",
+      "datetime": 1789800247,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Applied Materials vs. Broadcom: Comparing Sales Growth Trajectories for These Artificial Intelligence Companies",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=51a8e022fb9fe0e4a0bcaf112c83f055b1ca3af0a54ff42cfdb31661ab1550a1",
       "datetime": 1789798742,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon (AMZN) Is Reworking Its Air Fleet With 30 A330 Freighters By 2027",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0894cec5583609566cfab14b6f0f3936112a0fb527575e461063426530a9cb22",
-      "datetime": 1789791483,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -584,5 +584,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-19T10:58:17.229879+00:00"
+  "updated_at": "2026-09-19T11:13:16.267258+00:00"
 }
