@@ -60,6 +60,22 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Amazon cargo delivery company files for Chapter 11 bankruptcy",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a243713494c2380dab8931274f0ce8fbbb846f8ba7d3a1109f150444a83bb73a",
+      "datetime": 1789831980,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The Stock Market's Biggest Companies Are Losing Their Grip. Here's the ETF I'd Buy If History Repeats.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4d81a180e6f8e18c98e7f7f44ee77306e9a702930d559d9446b189a7f8237f78",
+      "datetime": 1789830300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Stay Prepared for Canada's Grid Outages with Up to 65% Off Jackery Power Stations During Prime Big Deal Days' Early Access Event",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3f9b96df49d487142689a966f996ac5a44a88d184f5c3338ca832e208d180abd",
@@ -112,22 +128,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b61b71e16dcbf5ab4da821588f578ab19b799e9e18873a13a6c3b490795bc20c",
       "datetime": 1789808202,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "These 15 Words From Amazon\u2019s Andy Jassy May Eliminate Nvidia\u2019s Biggest Risk",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=92d0e668375363762176f8a99d36a6ac5df0cf3d636674c233567598730831e8",
-      "datetime": 1789806481,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Is Affirm Holdings, Inc. (AFRM) Stock a Buy After Goldman Sachs Raised Its Price Target?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d0aca39460c248cd2145389863599416f2c83ba514a6b9456b20e73e970e850f",
-      "datetime": 1789805321,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-19T15:58:15.770146+00:00"
+  "updated_at": "2026-09-19T16:13:16.045536+00:00"
 }
