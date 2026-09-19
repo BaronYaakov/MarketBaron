@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Stay Prepared for Canada's Grid Outages with Up to 65% Off Jackery Power Stations During Prime Big Deal Days' Early Access Event",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f9b96df49d487142689a966f996ac5a44a88d184f5c3338ca832e208d180abd",
+      "datetime": 1789822800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Cencora (COR) Raised Guidance and Bought Back $1B. What\u2019s the Catch?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=43f6da2bdc370d90df2f35e5bc95ec1f7dbb6c62d461277f16c156c2d243919f",
+      "datetime": 1789821517,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Semiconductor Stocks to Buy and Hold Through 2030",
       "source": "Yahoo",
@@ -104,14 +120,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d0aca39460c248cd2145389863599416f2c83ba514a6b9456b20e73e970e850f",
       "datetime": 1789805321,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "What Moved Markets This Week",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=97da2091fb37a98868cc4df2c623e9c31db2fd3283341dda1e7fd6b0739faf09",
-      "datetime": 1789800247,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -369,14 +377,6 @@
       "url": "https://finnhub.io/api/news?id=8f218e6f7b910d123201ac23fb800ce70f363d4a3dd35a78f17158dcc3292a09",
       "datetime": 1789398055,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Coultreon Biopharma Appoints Nate Massari as Chief Business Officer",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b5abd7161204468ca6b4b5d9aea784815ed678a951caf7db52db72d58e5aff1f",
-      "datetime": 1789390800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     }
   ],
   "recent_posts": [],
@@ -584,5 +584,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-19T13:58:15.932867+00:00"
+  "updated_at": "2026-09-19T14:13:15.974917+00:00"
 }
