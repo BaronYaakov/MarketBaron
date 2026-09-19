@@ -60,6 +60,54 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Semiconductor Stocks to Buy and Hold Through 2030",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5feec912090c2af6467eed38678b666cfe0e33c669bf48c80710d7d893dc0e73",
+      "datetime": 1789810621,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Cathie Wood Is Selling 2 Magnificent Seven Stocks, but Piling Into Another",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0acda1fb3dd9590223fe7bd7887f472510e60469c115352e5814e642eb3bc4ca",
+      "datetime": 1789809900,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The S&P 500 Has Returned About 11% Annually Since 1958. Here's the ETF I'd Trust for the Next 30 Years.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=13f780888e8f80a1dd6391f3566fca74c418354f968b1de73cb4854818c0ee6f",
+      "datetime": 1789808400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "How AI concerns moved to the center of the midterm debate",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b61b71e16dcbf5ab4da821588f578ab19b799e9e18873a13a6c3b490795bc20c",
+      "datetime": 1789808202,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "These 15 Words From Amazon\u2019s Andy Jassy May Eliminate Nvidia\u2019s Biggest Risk",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=92d0e668375363762176f8a99d36a6ac5df0cf3d636674c233567598730831e8",
+      "datetime": 1789806481,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Is Affirm Holdings, Inc. (AFRM) Stock a Buy After Goldman Sachs Raised Its Price Target?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d0aca39460c248cd2145389863599416f2c83ba514a6b9456b20e73e970e850f",
+      "datetime": 1789805321,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Applied Materials vs. Broadcom: Comparing Sales Growth Trajectories for These Artificial Intelligence Companies",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=51a8e022fb9fe0e4a0bcaf112c83f055b1ca3af0a54ff42cfdb31661ab1550a1",
@@ -75,14 +123,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Artificial Intelligence and Green City Transition Forum successfully held at GreenCities 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e85b041046c2c1afe8c71092ad962c26ca3f94de916476271ce9765feb70a3c6",
-      "datetime": 1789788600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Investors Look Beyond AI As Market Signals Blur",
       "source": "SeekingAlpha",
@@ -91,44 +131,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Generac: Investors Back Up The Truck",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=4343ba4450e9d2627d0850a0d19422dff110b2a7be5db0ecdec653490ccd427e",
-      "datetime": 1789777668,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Jim Cramer Said This AI Firm Has More Orders Than \u201cAlmost Anybody\u201d Other Than NVIDIA",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ad29d60c2dff48278b88758a1a4c02812b6c1b4473cb53bd873a38937c7995b2",
       "datetime": 1789773714,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The ARK Trade Watch: Cathie Wood Cuts Crypto Exposure, Then Reverses Course On CoreWeave",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=16d351dd26ced889084d4ef0584e7d0bece3548bebaa64a84fe6b8ff05044c7e",
-      "datetime": 1789767510,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Sir Lynton Crosby, CT Group Executive Chairman, on the Case for Capitalism",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f125c282aaf3fa35b7d503e47811e6597747a32bfdd61cab499b5e92e240e8e5",
-      "datetime": 1789765585,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "How Big A Swing In eBay Stock Are You Actually Holding?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=053da4452cc1e6f496d635d0e0374e69dc1b8d724b324aee1f0d4f377f2e1d29",
-      "datetime": 1789763161,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "ORLY",
@@ -160,14 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4c46bb5bb25a9a305053016c76c3c821e7ee9c57c5f56549ae6ea9248f2eade4",
       "datetime": 1789752340,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Cisco Drops 8% in 3 Months: Should You Buy the Stock on the Dip?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2228853bbeb59258666739eb1c3f0f0b2a70a6b963eb625d9585b7a45b7b1903",
-      "datetime": 1789750500,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -584,5 +584,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-19T09:58:15.311061+00:00"
+  "updated_at": "2026-09-19T10:13:15.255962+00:00"
 }
