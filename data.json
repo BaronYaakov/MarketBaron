@@ -59,6 +59,30 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Artificial Intelligence and Green City Transition Forum successfully held at GreenCities 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e85b041046c2c1afe8c71092ad962c26ca3f94de916476271ce9765feb70a3c6",
+      "datetime": 1789788600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Investors Look Beyond AI As Market Signals Blur",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7c1428615e53491a696b7edf944bae6b1b264a1d8d6772edb1c9a6094324f30a",
+      "datetime": 1789777800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Generac: Investors Back Up The Truck",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4343ba4450e9d2627d0850a0d19422dff110b2a7be5db0ecdec653490ccd427e",
+      "datetime": 1789777668,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Jim Cramer Said This AI Firm Has More Orders Than \u201cAlmost Anybody\u201d Other Than NVIDIA",
       "source": "Yahoo",
@@ -96,22 +120,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b47742e95425b7a2ae9ac0477a2272e031f3bce4ed2c2dfd5f4e401613058dc8",
       "datetime": 1789761658,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Should You Buy NetApp Stock For The Shares It Keeps Retiring?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e715a695b6206d359899cfb3cedf9e970f17c24d4ba177387fb5a8d630a32b96",
-      "datetime": 1789761206,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Goldman Sachs Sends Stark Warning on S&P 500 Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b2e1130de4a9258488eadedb5e1b1cd99757d7a229b9434160b946aa2ff062d8",
-      "datetime": 1789760126,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -160,14 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8a8c36f9bb9a15fa5985ba1000f48c3449de536968b4b8807768b2cc89e81869",
       "datetime": 1789750202,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia\u2019s Not Going to Be King for Life, So I Buy This Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e3f9d1da4b703d11810a0b90167b2fac9108381d9498ffe29942029c49e56384",
-      "datetime": 1789749749,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -377,38 +377,6 @@
       "url": "https://finnhub.io/api/news?id=b5abd7161204468ca6b4b5d9aea784815ed678a951caf7db52db72d58e5aff1f",
       "datetime": 1789390800,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "3 Market-Beating Stocks with Promising Prospects",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bc54e6fea72e758da96155120186d8763678ff0c89c81312f70ba4a0df85ce62",
-      "datetime": 1789147385,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Can PRMB Sustain Growth After Raising Its 2026 Sales Outlook?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=350a49a5670619441bd1aa1571822fa39f5474f0a05a4a3ecf3d6b814cb2508f",
-      "datetime": 1789135500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "David Einhorn Bets on Bottled Water, Another Hedge Fund Manager Says \u2018Solid Financial Picture\u2019 For Stock",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=102ddc76f9b3ce39bec3284dc0945e353cc0ba366c353520b71d84cd5a2f3f7b",
-      "datetime": 1789133128,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Here\u2019s How Much You Would Have Made Owning O'Reilly Automotive Stock In The Last 20 Years",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=4aad19be2286e39eef80e32149150004b6ec7990b2764565fe185b0cb4de2819",
-      "datetime": 1789130728,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     }
   ],
   "recent_posts": [],
@@ -616,5 +584,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-19T04:58:16.295479+00:00"
+  "updated_at": "2026-09-19T05:13:16.311424+00:00"
 }
