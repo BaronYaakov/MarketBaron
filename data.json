@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Nvidia Stock And 2 US AI Infrastructure Plays Tied To Federal Defense Spending",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=39bb53931fd7092c3d8fc56e9285c0d91c36e95eccb8b9e6bf5858d1857ff12c",
+      "datetime": 1789870309,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "AI risk debate: Existential threat or dangerous tool?",
       "source": "Yahoo",
@@ -169,14 +177,6 @@
       "url": "https://finnhub.io/api/news?id=9b3695e7a4b2479efccd102ef24edc055afe42b5864ba65505e3e6fbf92f7410",
       "datetime": 1789755960,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "This Little-Known Chip Stock Has Doubled. Wall Street Is Getting Bullish.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=30a8b1e4bdd7b64d1f60ed9c883a5a74ebb2b0c7066eacda8ab0268bd4d767f7",
-      "datetime": 1789753620,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "ORLY",
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-20T04:58:16.491412+00:00"
+  "updated_at": "2026-09-20T05:13:16.872621+00:00"
 }
