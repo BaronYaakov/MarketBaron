@@ -59,6 +59,46 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Amazon (AMZN) Taps the UK Bond Market for the First Time to Help Fund its AI Buildout",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=28a41481c75499589658b6f742f2f78b120e7e352845cc895886c76a9ac2169d",
+      "datetime": 1789939631,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon (AMZN) Sued Again, This Time over How it Treats Pregnant Warehouse Workers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7daba8694b21986bc274937c2a502b8b614ed1292728329a35cf100758cece36",
+      "datetime": 1789939453,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Investigators Dig into Landing Speed and Runway Safety After Amazon (AMZN)\u2019s Fatal Miami Crash",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=012971bcd1e8493de8855e6d1bda583b53885b2f19e637f59b6dd2dc86f21b2b",
+      "datetime": 1789939109,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Streaming\u2019s Biggest Rivals Just Became Allies in Washington",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0efe7b8d0cecb186392221cb1fc9d4e0a91a8a26f4dd72df43b7fd19be4f2a35",
+      "datetime": 1789935674,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon has some good news for its employees on minimum wage",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=506c20dfb2f73061e3d160eda23500f58f7a77ae8fa378476ba51cea8087980c",
+      "datetime": 1789934820,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Jim Cramer shares a strong verdict on Broadcom stock for investors",
       "source": "Yahoo",
@@ -83,36 +123,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Why India's Big Tech Companies Are Betting on Hyderabad",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2dd6c7e1c1d8b3a34ca4f9ff7edc0dbfd2a9fd41500476d5dd7fd27aef7565c5",
-      "datetime": 1789921228,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "OpenAI Just Beat Google, Meta, and Amazon To This Key Milestone. Is It Bullish for AI Stocks.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2135af56a081e5a1aa904bd0f0433fac8503f549c15382bf1fd95e5556188d0f",
-      "datetime": 1789915201,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Cencora (COR) Lifts EPS Outlook And Buyback, Is The Stock Still Below Fair Value?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a46dc376ff20cc5020fa2758951534772ec27b451a1e7b71bbe3cfb6e7252a2a",
       "datetime": 1789913304,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The AI Boom Has A New Problem: The Cost Of Capital",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=fb7a8df50ed1e4718e83343cfa071364fd1ca69d459004f31f22fc1a24e51616",
-      "datetime": 1789910708,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -129,22 +145,6 @@
       "url": "https://finnhub.io/api/news?id=e2972381010a8ed6329d7047e94f453e8c0e4121e4497cf8ad3a417c76f42666",
       "datetime": 1789909500,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Billionaire David Tepper Has 40% of His Fund in Just 3 AI Stocks. Are They Still Buys?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=45ef144ad4453ff673a80a712dcdf71f76575d05190c1e1d0ba08e0b42b1287c",
-      "datetime": 1789909320,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "FedEx Lease Rollover Raises Industrial CMBS Refi Risk",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=350f983d0009d7c70d36af45d2cafa7d274cb5f3463e2378cf61999a5e1fd8ef",
-      "datetime": 1789904761,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-20T21:58:16.189100+00:00"
+  "updated_at": "2026-09-20T22:13:16.854518+00:00"
 }
