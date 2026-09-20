@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Prediction: Anthropic's IPO Will Be a Big Winner for Alphabet and Amazon Investors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1a5bdfb63a77adcad68dfd172e7790e18de33d671b9d5a1930ad5f60b63efcd2",
+      "datetime": 1789896900,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "3 Stocks Bound to Ignore The September Effect",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f61594c26c246cdb16b626c0e3de08688856f38ef0ede6bed6cb9bcf3fa6d22",
+      "datetime": 1789892400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Nvidia Stock And 2 US AI Infrastructure Plays Tied To Federal Defense Spending",
       "source": "Yahoo",
@@ -107,14 +123,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Stay Prepared for Canada's Grid Outages with Up to 65% Off Jackery Power Stations During Prime Big Deal Days' Early Access Event",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3f9b96df49d487142689a966f996ac5a44a88d184f5c3338ca832e208d180abd",
-      "datetime": 1789822800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Cencora (COR) Raised Guidance and Bought Back $1B. What\u2019s the Catch?",
       "source": "Yahoo",
@@ -152,14 +160,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=7c1428615e53491a696b7edf944bae6b1b264a1d8d6772edb1c9a6094324f30a",
       "datetime": 1789777800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Jim Cramer Said This AI Firm Has More Orders Than \u201cAlmost Anybody\u201d Other Than NVIDIA",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ad29d60c2dff48278b88758a1a4c02812b6c1b4473cb53bd873a38937c7995b2",
-      "datetime": 1789773714,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-20T09:58:17.082899+00:00"
+  "updated_at": "2026-09-20T10:13:16.173032+00:00"
 }
