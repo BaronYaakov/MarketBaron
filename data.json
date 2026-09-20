@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "OpenAI Just Beat Google, Meta, and Amazon To This Key Milestone. Is It Bullish for AI Stocks.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2135af56a081e5a1aa904bd0f0433fac8503f549c15382bf1fd95e5556188d0f",
+      "datetime": 1789915201,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Cencora (COR) Lifts EPS Outlook And Buyback, Is The Stock Still Below Fair Value?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a46dc376ff20cc5020fa2758951534772ec27b451a1e7b71bbe3cfb6e7252a2a",
+      "datetime": 1789913304,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
       "ticker": "P",
       "headline": "Everpure (P) Dropped From Key Small Cap Indices As Fund Exposure Shifts",
       "source": "Yahoo",
@@ -113,14 +129,6 @@
       "url": "https://finnhub.io/api/news?id=e5f2ea56408c6c3b9318e1143e1d66c8a4e1547f4f50cadb3945ab5cad1bf104",
       "datetime": 1789894800,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Semis: Market Has Completely Misunderstood The Potential AI Slowdown",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=e5f2ea56408c6c3b9318e1143e1d66c8a4e1547f4f50cadb3945ab5cad1bf104",
-      "datetime": 1789894800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -377,14 +385,6 @@
       "url": "https://finnhub.io/api/news?id=a66b11ff690d6b717fc56cc954cbd060c681b8a97b4cc86d4699d13e6d045cf8",
       "datetime": 1789470099,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "AbbVie vs. CRISPR Therapeutics: Which Healthcare Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8f218e6f7b910d123201ac23fb800ce70f363d4a3dd35a78f17158dcc3292a09",
-      "datetime": 1789398055,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     }
   ],
   "recent_posts": [],
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-20T15:58:15.591601+00:00"
+  "updated_at": "2026-09-20T16:13:15.788314+00:00"
 }
