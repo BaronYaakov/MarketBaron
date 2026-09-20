@@ -83,6 +83,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Wall Street Brunch: U.S.-China Summit In Spotlight",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e2972381010a8ed6329d7047e94f453e8c0e4121e4497cf8ad3a417c76f42666",
+      "datetime": 1789909500,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Billionaire David Tepper Has 40% of His Fund in Just 3 AI Stocks. Are They Still Buys?",
       "source": "Yahoo",
@@ -183,14 +191,6 @@
       "headline": "MarketBeat Week in Review \u2013 09/14 - 09/18",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=904750d2e043356ea12a4afb85fdf82a865d94b0a3b19739cc572b4f999707a8",
-      "datetime": 1789815600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Costco, BlackBerry To Headline Earnings In A Muted Week",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c49bde757f11715b696ad23b5e4bc21bc8f7a2ae5edc726eef973401c1f35cde",
       "datetime": 1789815600,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-20T17:13:18.619348+00:00"
+  "updated_at": "2026-09-20T17:28:17.866430+00:00"
 }
