@@ -67,6 +67,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "ORLY",
+      "headline": "O'Reilly Automotive (ORLY) Could Be 23% Undervalued After 232 Store Expansion Plan",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6e8f6ba8f5abec178ecd2c6a2039e8ab439a806739a89dbc277928b908fe5ddc",
+      "datetime": 1789924254,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "President Trump to Create an \u201cAI Force,\u201d Appoint an AI Czar as AI Fears Grow",
       "source": "Yahoo",
@@ -592,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-20T18:13:16.174345+00:00"
+  "updated_at": "2026-09-20T18:28:16.188986+00:00"
 }
