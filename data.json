@@ -75,6 +75,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "The AI Boom Has A New Problem: The Cost Of Capital",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fb7a8df50ed1e4718e83343cfa071364fd1ca69d459004f31f22fc1a24e51616",
+      "datetime": 1789910708,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "P",
       "headline": "Everpure (P) Dropped From Key Small Cap Indices As Fund Exposure Shifts",
       "source": "Yahoo",
@@ -120,14 +128,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1a5bdfb63a77adcad68dfd172e7790e18de33d671b9d5a1930ad5f60b63efcd2",
       "datetime": 1789896900,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "How To Build The Ultimate $1,000,000 Income Portfolio",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=0ab653550f8bc3c22913e81deba024194620f31574397c132eb6d0ea41aec58e",
-      "datetime": 1789896600,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-20T17:28:17.866430+00:00"
+  "updated_at": "2026-09-20T17:43:16.041645+00:00"
 }
