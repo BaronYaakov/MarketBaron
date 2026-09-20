@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "AI risk debate: Existential threat or dangerous tool?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1df6b2682d2c7a0c4ccc2ee48309f59c455ee67ccc2b1e0e65779f21dd1ea392",
+      "datetime": 1789860638,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Forget Buying All Seven: The \"Magnificent Seven\" Stock Most Likely to Double by 2028",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e7c88893e45fbbc500a296482ce0c87e9709b092bc2dcd956c578f26ddcad785",
@@ -121,14 +129,6 @@
       "url": "https://finnhub.io/api/news?id=5feec912090c2af6467eed38678b666cfe0e33c669bf48c80710d7d893dc0e73",
       "datetime": 1789810621,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Cathie Wood Is Selling 2 Magnificent Seven Stocks, but Piling Into Another",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0acda1fb3dd9590223fe7bd7887f472510e60469c115352e5814e642eb3bc4ca",
-      "datetime": 1789809900,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -469,7 +469,7 @@
       "prev_close": 43.69,
       "day_change_pct": -0.82,
       "week52_high": 74.0,
-      "week52_low": 39.05
+      "week52_low": 40.17
     },
     "CLS": {
       "name": "Celestica Inc",
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-19T23:58:15.913001+00:00"
+  "updated_at": "2026-09-20T00:13:16.215549+00:00"
 }
