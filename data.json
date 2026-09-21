@@ -60,6 +60,38 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Michael Burry Warns Hyperscalers Are Hiding $3 Trillion In AI Liabilities \u2014 And Wall Street Isn\u2019t Looking: \u2018When The Music\u2019s Over\u2026\u2019",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8d7c4a1cd9f4e21d9a5466b42840f5f4bb61c8a26df7a089476b5de79314066d",
+      "datetime": 1789958777,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Nvidia's Jensen Huang Beats Zuckerberg, Bezos for Trump's AI Favor as Stock Climbs",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7903c5087d29f9570e21fd76103d045e52492df20ce7d3b75a70dc999ce93072",
+      "datetime": 1789956446,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Neocloud Boom: Comparing Nebius, CoreWeave, & IREN",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8a64cf78447f54f77d93473dd3ba81422a54e2970cb107a4a8c68279e2d7399",
+      "datetime": 1789956180,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "BofA cuts to the chase on AI data center demand",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef216bc246daeab3d61359d8076032c5155eb8b99d20532e762695b71ab4d34c",
+      "datetime": 1789954620,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon (AMZN)\u2019s Debut Sterling Bond Sale Prices Bigger, But Demand Cools from Alphabet\u2019s",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=df66e96ceb20a99997e2ce53163a146f6523f502d586c45e6cdf43aa00d4bf7d",
@@ -72,38 +104,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=28a41481c75499589658b6f742f2f78b120e7e352845cc895886c76a9ac2169d",
       "datetime": 1789939631,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon (AMZN) Sued Again, This Time over How it Treats Pregnant Warehouse Workers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7daba8694b21986bc274937c2a502b8b614ed1292728329a35cf100758cece36",
-      "datetime": 1789939453,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Investigators Dig into Landing Speed and Runway Safety After Amazon (AMZN)\u2019s Fatal Miami Crash",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=012971bcd1e8493de8855e6d1bda583b53885b2f19e637f59b6dd2dc86f21b2b",
-      "datetime": 1789939109,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Streaming\u2019s Biggest Rivals Just Became Allies in Washington",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0efe7b8d0cecb186392221cb1fc9d4e0a91a8a26f4dd72df43b7fd19be4f2a35",
-      "datetime": 1789935674,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon has some good news for its employees on minimum wage",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=506c20dfb2f73061e3d160eda23500f58f7a77ae8fa378476ba51cea8087980c",
-      "datetime": 1789934820,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-21T04:58:14.600175+00:00"
+  "updated_at": "2026-09-21T05:13:14.355864+00:00"
 }
