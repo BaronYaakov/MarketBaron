@@ -60,11 +60,91 @@
   "news": [
     {
       "ticker": "AMZN",
-      "headline": "Tech stocks haven't been this cheap since OpenAI launched ChatGPT",
+      "headline": "Amazon Locks Meta's Muse Out of Its Store",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=243aa4ff6556dfc5ad9f5a35f4890ea975525528708716fd1b1cb200b05b7900",
-      "datetime": 1789997280,
+      "url": "https://finnhub.io/api/news?id=da763dd620b05aebe169ce2d60f58867ae13eb3e21a288af02e90c376b15b216",
+      "datetime": 1790005942,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Meta Jumps Nearly 7% as Amazon Blocks Muse From Shopping on Its Marketplace",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed9cda2b09ac1252ba219b2ad3eb25117f9e31bc658a87b34628ee4ef4698c06",
+      "datetime": 1790005731,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom\u2019s AI Opportunity Is Bigger Than Its Stock Price Suggests",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=76ea112b0d419b8d6d2a967ffa78a4d37102101479f968d10b093072057f9353",
+      "datetime": 1790004616,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Is CRDO Stock Worth Buying as Growth Outruns Its Premium Valuation?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2aa88827da34156a22825a8c8f3240a03419b519e5994a94c469249d998e68c0",
+      "datetime": 1790004300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Should You Bet on IDCC After Dividend Hike Amid Macro Uncertainty?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f8d7731977ccd006429048777edaed71932f57daf07d761faaa0e5d4ef51d18d",
+      "datetime": 1790004000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom Stock Jumps. Anthropic Could Become Its Biggest Custom Chip Customer",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d9cc1e20ab765474da7ccc4bf8010ef6315b91eeae6e657d6da38de2817ae20c",
+      "datetime": 1790003939,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Rallies While Drawing Its Own AI Safety Line",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d51cf7e6266af6581aade202cf5beedcfddc07f85ca3d5d63b2afefe6eb7909e",
+      "datetime": 1790003916,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Is It Too Late To Buy Microsoft Stock After Its Summer Run?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f88b41920000aabbc8aef7fc0bc35aee3463668db9e9b741fac79363b735c601",
+      "datetime": 1790003628,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "AMD Stock\u2019s Relentless Rally Pushes It Into The Trillion-Dollar Club, Albeit Briefly \u2013 Chip Stocks Light Up Wall Street",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a5f8b0b7b5223521cb24e0a45dfd70e181324a8682b677018c3228a1840b3bcd",
+      "datetime": 1790002887,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Can CoreWeave Stock Handle The Cost Of Its Own Growth?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b88d58ca1c4d9e9c97427d618b22ea2d567769c5f56b25fb93e5c14cc7a54745",
+      "datetime": 1790002488,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Nvidia, Meta Have $300 Billion AI Problem",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7976de5ff06c8aaedef2dd9e7a85a5c674b519a287e880792a6c746a89037f99",
+      "datetime": 1790002324,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -72,86 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=acab62d51dacde8bd9cd46c0c96f1b672fdcb1adb10c4f7839bed7e55c594ecd",
       "datetime": 1789997040,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Could You Have Seen Warner Bros Discovery Stock's Run Coming?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5a1bc94a7b149b3b1da86a8a69d8fc7af243293f11454671c9b97509214f4d31",
-      "datetime": 1789996720,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Kuehne+Nagel signs long-term logistics deal with Amazon, AWS",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=701ce15fc53e02932e838c2cf811ff750727ed7ce3871bec61557ea5bdc3adb3",
-      "datetime": 1789996553,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Invests Another $1.9 Billion in the Delivery Service Partner Program with New Safety Initiatives and AI-Powered Technology",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ab3af0827d2e410d88aedf4f04fe5693b65d22c80c0dd25f59199737f916dd31",
-      "datetime": 1789996500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Oracle\u2019s Co-CEOs Deliver Explosive Growth, but Stock Plunges 50% in Their First Year",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7ecc93998bf2e1bd3485cd13cf132846a217410826a98692f8dfe3636074673f",
-      "datetime": 1789995935,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "We\u2019re More Bullish on Amazon Than Wall Street Is. Here\u2019s the Math.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0231cb4108b939f8e3ca39036f5e1a3ca16e115f5232b15cee8b2b5b0e726e5f",
-      "datetime": 1789995633,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Marvell Technology Fell Hard Over 3 Months: It Has Momentum and a Wall Street Pro\u2019s Confidence That 78% Gains are Coming",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=03c831d8847e72f4bc25a81e16d19145739e22f2c739a0cfd316272f1387dec1",
-      "datetime": 1789995228,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Can Cars And Data Centers Carry Qualcomm Stock Past Apple?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=690caf187426834f6d93fb3ba10bc383e86182cadc8a271beeaa56f3cc5eb743",
-      "datetime": 1789994585,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "AMD vs. Broadcom: The AI Chip Race Is Big Enough for Both. Here's the Better Buy.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=81d664ec48dd51d80394b6a7804dbdc136094b32689a13a0b33663b8d411c06f",
-      "datetime": 1789993200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "I Keep Buying Nvidia Over and Over Despite China Concerns, Despite The Tech Selloff",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e1aaab0c94baf0326de8bd0f1d1d1b4e6ab5a325defd96eb6bdbd01f2cf4dcaa",
-      "datetime": 1789993195,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Big Tech's $300B AI Bet Hides a Risk Investors Can't Ignore",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=40b56083c1c28192e91c4b316426fa0f00fe260cfde9a9b517d43617712d63a2",
-      "datetime": 1789992954,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -451,12 +451,12 @@
       "market_cap_musd": 1707097.722390932,
       "country": "US",
       "currency": "USD",
-      "price": 358.09,
+      "price": 359.99,
       "open": 359.91,
-      "day_high": 359.96,
+      "day_high": 360.05,
       "day_low": 353.5,
       "prev_close": 357.61,
-      "day_change_pct": 0.13,
+      "day_change_pct": 0.67,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -489,12 +489,12 @@
       "market_cap_musd": 58248.202182,
       "country": "CA",
       "currency": "USD",
-      "price": 343.05,
+      "price": 345.04,
       "open": 339.88,
       "day_high": 348.0,
       "day_low": 333.1,
       "prev_close": 332.63,
-      "day_change_pct": 3.13,
+      "day_change_pct": 3.73,
       "week52_high": 655.5,
       "week52_low": 315.41
     },
@@ -508,12 +508,12 @@
       "market_cap_musd": 58923.61701483604,
       "country": "US",
       "currency": "USD",
-      "price": 312.68,
+      "price": 312.93,
       "open": 309.95,
       "day_high": 313.07,
       "day_low": 308.51,
       "prev_close": 308.78,
-      "day_change_pct": 1.26,
+      "day_change_pct": 1.34,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -527,12 +527,12 @@
       "market_cap_musd": 68527.07018226976,
       "country": "US",
       "currency": "USD",
-      "price": 83.64,
+      "price": 83.8,
       "open": 84.39,
       "day_high": 84.9,
       "day_low": 83.05,
       "prev_close": 84.71,
-      "day_change_pct": -1.26,
+      "day_change_pct": -1.07,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -565,12 +565,12 @@
       "market_cap_musd": 34702.28660263449,
       "country": "US",
       "currency": "USD",
-      "price": 112.87,
+      "price": 113.2,
       "open": 105.17,
-      "day_high": 112.93,
+      "day_high": 113.67,
       "day_low": 104.4,
       "prev_close": 104.14,
-      "day_change_pct": 8.38,
+      "day_change_pct": 8.7,
       "week52_high": 119.1,
       "week52_low": 56.78
     },
@@ -584,12 +584,12 @@
       "market_cap_musd": 2736595.8665000596,
       "country": "US",
       "currency": "USD",
-      "price": 256.09,
+      "price": 256.54,
       "open": 256.19,
-      "day_high": 257.12,
+      "day_high": 257.14,
       "day_low": 253.6,
       "prev_close": 253.71,
-      "day_change_pct": 0.94,
+      "day_change_pct": 1.12,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-21T15:58:17.249766+00:00"
+  "updated_at": "2026-09-21T16:13:16.078915+00:00"
 }
