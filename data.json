@@ -60,6 +60,46 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Amazon (AMZN) Laps the Stock Market: Here's Why",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef7ead11de1754f42c2888e3111157cdd6da2660e9da0df17598ff203e39752c",
+      "datetime": 1790027105,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon kicks out Meta's Muse in split over AI shopping",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=74d01eb8a1a5d9a83df97648cecc5ff4d77a2ac97ce6fbb31359e564fb04ac98",
+      "datetime": 1790026417,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Has The Price For Amazon Stock Already Peaked?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0b1cde0fbcbbf7ca083b7daa16bac0cb30fa37c710ef68d48ce8a3519ca3d759",
+      "datetime": 1790023419,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "UPS Among Today\u2019s Worst Stocks in the S&P 500 After Slowed Amazon Shipments",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=efbc47745a41c2bbadc70fffb0e0266c47537e75ca02e35232cbd6363f66d1b7",
+      "datetime": 1790023020,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "NVIDIA Or Micron: Which Gets Paid More Safely For The AI Shortage?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef3bfcf8c1c19773033f33386d60055f91601912d3a8bd7d6b25e6f17fac7f7a",
+      "datetime": 1790022682,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon Takes Wearable AI Deeper Into Logistics",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7633711957cd837842b97055fe33fb52d75d215a3cfd0218260ce4aa8a32d08d",
@@ -68,26 +108,10 @@
     },
     {
       "ticker": "AMZN",
-      "headline": "Meta stock jumps as Wells Fargo raises price target",
+      "headline": "Sector Update: Tech Stocks Gain Late Afternoon",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=163ac05cb9893a0c19875072e3c4899ec8fcb4ea040753916e0106836fbce8ac",
-      "datetime": 1790020320,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "META Stock Set For Best Day In 13 Months On Muse Popularity As Amazon Moves to Block It",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=93a725f617c9537bffcf1f08dc38a61ce776208f7421d1a2bc4c4d0d2f6cc0de",
-      "datetime": 1790019932,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Stock Market Today: Nasdaq Roars As Micron Tests Entry; AMD In Buy Zone As It Eyes New High (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b53529fb4b4e50f832281391ee6152c1bd95ce2d1b0a9963b6ed300a46036f95",
-      "datetime": 1790019499,
+      "url": "https://finnhub.io/api/news?id=2b8c350db434341233dfd9001292038d711a191b7f62cacf8d741e97970dc838",
+      "datetime": 1790020326,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -105,22 +129,6 @@
       "url": "https://finnhub.io/api/news?id=01a31ed77f910d06c6288b19ecfe240b997bc7e7ca18b7e4b70889e915cdb7b7",
       "datetime": 1790018801,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Just Blocked Meta's AI Agent and It's Not Alone",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=264d7f108af7e371b63667f55209f191da6516546c04816020d7bf09ce25a18e",
-      "datetime": 1790018737,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Is MercadoLibre Stock As Cheap As Its Cash Says?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fe9d2737f36451f1997023dd8a75789f632be69267cf7b4bce5aeaed3bbeadc0",
-      "datetime": 1790018421,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -144,14 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d1b19bc3cb398fcade0fd2c0c62a6b392213b93a2957608f25d031e2777ca182",
       "datetime": 1790016492,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom vs. Intel: Which Semiconductor Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9e3941c220cd1e05e8f3128e72dba98fa530770d6372dc7f4a0e10e0b65a93e2",
-      "datetime": 1790011568,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-21T21:58:14.244013+00:00"
+  "updated_at": "2026-09-21T22:13:13.939061+00:00"
 }
