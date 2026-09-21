@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Cloud Infrastructure Earnings Put AI Spending and Premium Valuations to the Test",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=b2f6ee996e61d5f544545063e2cf9b4d1305b4147238a250fe920678cba847e1",
+      "datetime": 1789994154,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Credo Technology Crashed for 3 Months: This Wall Street Pro Says It\u2019s About to Double",
       "source": "Yahoo",
@@ -136,14 +144,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5c2f076d59f8bbecfef724b638a66011c8ea02f1ff242f5d932efa6f31ffa9ab",
       "datetime": 1789980240,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Here\u2019s Why Amazon's $220 Billion in Capital Spending Shouldn\u2019t Worry Investors.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=293f8ed036c78c4723a5167b1cac08d837f24bc17992a2d3e217ea5a8efec8f7",
-      "datetime": 1789979101,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-21T12:43:14.574589+00:00"
+  "updated_at": "2026-09-21T12:58:14.566614+00:00"
 }
