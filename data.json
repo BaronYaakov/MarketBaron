@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "B",
+      "headline": "Barrick Mining (NYSE:B): A GARP Candidate With Durable Growth and Reasonable Valuation",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=7be69e3be6927c09b81e7bb8ac365013b0be2614d7828b5c8f56b17d8065681c",
+      "datetime": 1789986644,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "COR",
       "headline": "Cencora Highlights Specialty Growth, MSO Expansion and Walgreens Ties at Conference",
       "source": "Yahoo",
@@ -320,14 +328,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5fb26e84e3eb8409aecb6d710d5bdfeb5555d7b93c8c6e74f16e63e7ba353dbf",
       "datetime": 1789647786,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Gold miners rally as bullion rebounds on softer dollar, easing oil prices",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ec092bb0b8a41788365538ebf8b37fa4d2fd2c52119e2801c62c3daa4768b479",
-      "datetime": 1789644749,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-21T10:43:14.271364+00:00"
+  "updated_at": "2026-09-21T10:58:14.352461+00:00"
 }
