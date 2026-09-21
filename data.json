@@ -59,6 +59,46 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Credo Technology Crashed for 3 Months: This Wall Street Pro Says It\u2019s About to Double",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aa0241fb0d9063a137cf7d29215db7a7d22c088b64fff17b59b37da0c2cf6fb6",
+      "datetime": 1789991495,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "AI Chips Today - Einride NVIDIA Team Up for Autonomous Truck Expansion",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1b6e423a194ef5bef51d94edf4a9a15295074cfa1e77c5d7187bcfd6e11ca2a6",
+      "datetime": 1789990637,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Water-AI Nexus\u2122 Center of Excellence Marks One Year Anniversary at Climate Week NYC With Advisory Council Expansion, Workforce Development Initiatives, and Foundational Insight Reports",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=74ca01fd650bd433294a157119f40c105a54951a97df70d430e70f6e660b11b1",
+      "datetime": 1789990620,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "\u201cOur Targets Haven\u2019t Changed\u201d: Broadcom\u2019s CEO Pushes Back on the AI Slowdown Scare",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=91d0dff52b8ac206bff53409dc88dfb65c9ab59adb6c8015090eb61ed8e49b26",
+      "datetime": 1789989907,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Here\u2019s What to Expect From AI\u2019s Two Biggest 2026 Spenders in 2027",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d4cd92013a3f7dbd95b27a30af3a8338a2a8c84504c69a71a94717a4db402dd5",
+      "datetime": 1789988788,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "B",
       "headline": "Barrick Mining (NYSE:B): A GARP Candidate With Durable Growth and Reasonable Valuation",
       "source": "ChartMill",
@@ -67,12 +107,28 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "2 Unstoppable Growth Stocks to Buy and Hold for the Next Decade",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=15d374c815b7d6bde7d598f5c7c293707f6d7169e49bfaf640c99c7a02f28cc7",
+      "datetime": 1789985100,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "COR",
       "headline": "Cencora Highlights Specialty Growth, MSO Expansion and Walgreens Ties at Conference",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3bb5b5a455323b2d2625a5ec535d1f0028338bbb38d12411de24647de5bcea27",
       "datetime": 1789984924,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Jeff Bezos's parents sank $245,573 of their retirement savings into Amazon after he told them they'd probably lose it",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8d77c4692719a1d76e31656d9ed64cb6b7b647d2339d023d6d91c5df15675f63",
+      "datetime": 1789984800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
@@ -97,38 +153,6 @@
       "url": "https://finnhub.io/api/news?id=bdd0fdc8cb4409413c6cfaa6ee75461cddd8d2c460f32ee491ee6a0e6b45f5eb",
       "datetime": 1789977882,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon.com vs. Uber Technologies: Analyzing Recent Quarterly Revenue Trends Between Two Consumer Companies",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7493e8516572bd2f3948a0f8684f2a9b8dec52535f84aeafb4630348b7583f7e",
-      "datetime": 1789969158,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Michael Burry Warns Hyperscalers Are Hiding $3 Trillion In AI Liabilities \u2014 And Wall Street Isn\u2019t Looking: \u2018When The Music\u2019s Over\u2026\u2019",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8d7c4a1cd9f4e21d9a5466b42840f5f4bb61c8a26df7a089476b5de79314066d",
-      "datetime": 1789958777,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Nvidia's Jensen Huang Beats Zuckerberg, Bezos for Trump's AI Favor as Stock Climbs",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7903c5087d29f9570e21fd76103d045e52492df20ce7d3b75a70dc999ce93072",
-      "datetime": 1789956446,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Neocloud Boom: Comparing Nebius, CoreWeave, & IREN",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c8a64cf78447f54f77d93473dd3ba81422a54e2970cb107a4a8c68279e2d7399",
-      "datetime": 1789956180,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -176,30 +200,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=e2972381010a8ed6329d7047e94f453e8c0e4121e4497cf8ad3a417c76f42666",
       "datetime": 1789909500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Semis: Market Has Completely Misunderstood The Potential AI Slowdown",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=e5f2ea56408c6c3b9318e1143e1d66c8a4e1547f4f50cadb3945ab5cad1bf104",
-      "datetime": 1789894800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom: 5 Reasons To Buy This Dip",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=e626abd251e326fcb3191f5308cdd521d8161410b30c4b9c2d9de411fc7c1e5f",
-      "datetime": 1789894392,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "3 Stocks Bound to Ignore The September Effect",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3f61594c26c246cdb16b626c0e3de08688856f38ef0ede6bed6cb9bcf3fa6d22",
-      "datetime": 1789892400,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-21T11:58:14.715397+00:00"
+  "updated_at": "2026-09-21T12:13:14.590309+00:00"
 }
