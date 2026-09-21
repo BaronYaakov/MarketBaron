@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Triple Witching Whipsaws Wall Street While Crypto Stocks Steal the Show",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=bdd0fdc8cb4409413c6cfaa6ee75461cddd8d2c460f32ee491ee6a0e6b45f5eb",
+      "datetime": 1789977882,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Amazon.com vs. Uber Technologies: Analyzing Recent Quarterly Revenue Trends Between Two Consumer Companies",
       "source": "Yahoo",
@@ -185,14 +193,6 @@
       "url": "https://finnhub.io/api/news?id=f25983554412db5df8f5baa96f39df8f23253991407b3771ad0894334e8a382b",
       "datetime": 1789878001,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia Stock And 2 US AI Infrastructure Plays Tied To Federal Defense Spending",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=39bb53931fd7092c3d8fc56e9285c0d91c36e95eccb8b9e6bf5858d1857ff12c",
-      "datetime": 1789870309,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "B",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-21T08:58:14.159654+00:00"
+  "updated_at": "2026-09-21T09:13:14.500399+00:00"
 }
