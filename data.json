@@ -60,10 +60,90 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Oracle\u2019s Co-CEOs Deliver Explosive Growth, but Stock Plunges 50% in Their First Year",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7ecc93998bf2e1bd3485cd13cf132846a217410826a98692f8dfe3636074673f",
+      "datetime": 1789995935,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "We\u2019re More Bullish on Amazon Than Wall Street Is. Here\u2019s the Math.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0231cb4108b939f8e3ca39036f5e1a3ca16e115f5232b15cee8b2b5b0e726e5f",
+      "datetime": 1789995633,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The Zacks Analyst Blog Highlights Microsoft, Amazon, Oracle and Alphabet",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9b5eb99c38c5394c123809c54d58f0ee204c8b2e7dc1b5898b949c4c43f04e02",
+      "datetime": 1789995600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Marvell Technology Fell Hard Over 3 Months: It Has Momentum and a Wall Street Pro\u2019s Confidence That 78% Gains are Coming",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=03c831d8847e72f4bc25a81e16d19145739e22f2c739a0cfd316272f1387dec1",
+      "datetime": 1789995228,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Can Cars And Data Centers Carry Qualcomm Stock Past Apple?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=690caf187426834f6d93fb3ba10bc383e86182cadc8a271beeaa56f3cc5eb743",
+      "datetime": 1789994585,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Cloud Infrastructure Earnings Put AI Spending and Premium Valuations to the Test",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=b2f6ee996e61d5f544545063e2cf9b4d1305b4147238a250fe920678cba847e1",
       "datetime": 1789994154,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "AMD vs. Broadcom: The AI Chip Race Is Big Enough for Both. Here's the Better Buy.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=81d664ec48dd51d80394b6a7804dbdc136094b32689a13a0b33663b8d411c06f",
+      "datetime": 1789993200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "I Keep Buying Nvidia Over and Over Despite China Concerns, Despite The Tech Selloff",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e1aaab0c94baf0326de8bd0f1d1d1b4e6ab5a325defd96eb6bdbd01f2cf4dcaa",
+      "datetime": 1789993195,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Big Tech's $300B AI Bet Hides a Risk Investors Can't Ignore",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=40b56083c1c28192e91c4b316426fa0f00fe260cfde9a9b517d43617712d63a2",
+      "datetime": 1789992954,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Worried About Hugging Face? Microsoft and Amazon Got Exposed Most Among Hyperscalers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=69a3a9e1cda05ed883b6723f717510193b122d30dc89f37a359877dbf687d9ee",
+      "datetime": 1789992742,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Best Health & Fitness Stocks to Buy as Wellness Demand Grows",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d1481a7341df202c47b304b5a781b76d149e91d05d7fff84909ba95d92cd23d1",
+      "datetime": 1789991940,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -75,38 +155,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "AI Chips Today - Einride NVIDIA Team Up for Autonomous Truck Expansion",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1b6e423a194ef5bef51d94edf4a9a15295074cfa1e77c5d7187bcfd6e11ca2a6",
-      "datetime": 1789990637,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Water-AI Nexus\u2122 Center of Excellence Marks One Year Anniversary at Climate Week NYC With Advisory Council Expansion, Workforce Development Initiatives, and Foundational Insight Reports",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=74ca01fd650bd433294a157119f40c105a54951a97df70d430e70f6e660b11b1",
-      "datetime": 1789990620,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "\u201cOur Targets Haven\u2019t Changed\u201d: Broadcom\u2019s CEO Pushes Back on the AI Slowdown Scare",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=91d0dff52b8ac206bff53409dc88dfb65c9ab59adb6c8015090eb61ed8e49b26",
-      "datetime": 1789989907,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Here\u2019s What to Expect From AI\u2019s Two Biggest 2026 Spenders in 2027",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d4cd92013a3f7dbd95b27a30af3a8338a2a8c84504c69a71a94717a4db402dd5",
-      "datetime": 1789988788,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "B",
       "headline": "Barrick Mining (NYSE:B): A GARP Candidate With Durable Growth and Reasonable Valuation",
       "source": "ChartMill",
@@ -115,52 +163,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "2 Unstoppable Growth Stocks to Buy and Hold for the Next Decade",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=15d374c815b7d6bde7d598f5c7c293707f6d7169e49bfaf640c99c7a02f28cc7",
-      "datetime": 1789985100,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Cencora Highlights Specialty Growth, MSO Expansion and Walgreens Ties at Conference",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3bb5b5a455323b2d2625a5ec535d1f0028338bbb38d12411de24647de5bcea27",
       "datetime": 1789984924,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Jeff Bezos's parents sank $245,573 of their retirement savings into Amazon after he told them they'd probably lose it",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8d77c4692719a1d76e31656d9ed64cb6b7b647d2339d023d6d91c5df15675f63",
-      "datetime": 1789984800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "If I Were in My 20s, I'd Buy These 2 Trillion-Dollar Stocks and Hold Them Forever",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5c2f076d59f8bbecfef724b638a66011c8ea02f1ff242f5d932efa6f31ffa9ab",
-      "datetime": 1789980240,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Triple Witching Whipsaws Wall Street While Crypto Stocks Steal the Show",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=bdd0fdc8cb4409413c6cfaa6ee75461cddd8d2c460f32ee491ee6a0e6b45f5eb",
-      "datetime": 1789977882,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Jim Cramer shares a strong verdict on Broadcom stock for investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e96d74cb7dc6af96be08af57e4d036b3adb38d8c7f7127e31b87796e6857e1aa",
-      "datetime": 1789926420,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "ORLY",
@@ -193,14 +201,6 @@
       "url": "https://finnhub.io/api/news?id=db19c34b574d7e0da48c44f39f61627418c056724c6c51aa66866994531424b8",
       "datetime": 1789909766,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Wall Street Brunch: U.S.-China Summit In Spotlight",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=e2972381010a8ed6329d7047e94f453e8c0e4121e4497cf8ad3a417c76f42666",
-      "datetime": 1789909500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-21T13:13:15.462425+00:00"
+  "updated_at": "2026-09-21T13:28:15.425347+00:00"
 }
