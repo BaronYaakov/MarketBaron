@@ -59,6 +59,30 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "COR",
+      "headline": "Cencora Highlights Specialty Growth, MSO Expansion and Walgreens Ties at Conference",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3bb5b5a455323b2d2625a5ec535d1f0028338bbb38d12411de24647de5bcea27",
+      "datetime": 1789984924,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "If I Were in My 20s, I'd Buy These 2 Trillion-Dollar Stocks and Hold Them Forever",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5c2f076d59f8bbecfef724b638a66011c8ea02f1ff242f5d932efa6f31ffa9ab",
+      "datetime": 1789980240,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Here\u2019s Why Amazon's $220 Billion in Capital Spending Shouldn\u2019t Worry Investors.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=293f8ed036c78c4723a5167b1cac08d837f24bc17992a2d3e217ea5a8efec8f7",
+      "datetime": 1789979101,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Triple Witching Whipsaws Wall Street While Crypto Stocks Steal the Show",
       "source": "ChartMill",
@@ -96,22 +120,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c8a64cf78447f54f77d93473dd3ba81422a54e2970cb107a4a8c68279e2d7399",
       "datetime": 1789956180,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "BofA cuts to the chase on AI data center demand",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ef216bc246daeab3d61359d8076032c5155eb8b99d20532e762695b71ab4d34c",
-      "datetime": 1789954620,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon (AMZN)\u2019s Debut Sterling Bond Sale Prices Bigger, But Demand Cools from Alphabet\u2019s",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=df66e96ceb20a99997e2ce53163a146f6523f502d586c45e6cdf43aa00d4bf7d",
-      "datetime": 1789941071,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -385,14 +393,6 @@
       "url": "https://finnhub.io/api/news?id=a43ba967b6b6d35e6a692d2e8dd262e34a64a03daac25cfce69dcf2f186535aa",
       "datetime": 1789479300,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Cencora, Inc. (COR) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=a66b11ff690d6b717fc56cc954cbd060c681b8a97b4cc86d4699d13e6d045cf8",
-      "datetime": 1789470099,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     }
   ],
   "recent_posts": [],
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-21T09:58:14.304669+00:00"
+  "updated_at": "2026-09-21T10:13:14.555696+00:00"
 }
