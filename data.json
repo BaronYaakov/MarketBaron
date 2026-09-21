@@ -123,6 +123,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "3 Canadian Stocks Trading At Least 38% Below Fair Value",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8d7cdca2d0f2dce544f672a557f41fbeff24adc4e061389c7cc866eb64111eae",
+      "datetime": 1789913385,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "COR",
       "headline": "Cencora (COR) Lifts EPS Outlook And Buyback, Is The Stock Still Below Fair Value?",
       "source": "Yahoo",
@@ -363,14 +371,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "Celestica (TSX:CLS) Following Its CFO Change, Is The Undervalued View Still Intact?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=85c556062e632636b95eea72b6ad0b119f38c35687cb8482ebf939a5e58bdba6",
-      "datetime": 1789488864,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "COR",
       "headline": "The Realities of Managing Enterprise AI",
       "source": "Yahoo",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-21T01:58:14.435265+00:00"
+  "updated_at": "2026-09-21T02:13:14.740521+00:00"
 }
