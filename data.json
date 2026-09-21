@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Amazon (AMZN)\u2019s Debut Sterling Bond Sale Prices Bigger, But Demand Cools from Alphabet\u2019s",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=df66e96ceb20a99997e2ce53163a146f6523f502d586c45e6cdf43aa00d4bf7d",
+      "datetime": 1789941071,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon (AMZN) Taps the UK Bond Market for the First Time to Help Fund its AI Buildout",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=28a41481c75499589658b6f742f2f78b120e7e352845cc895886c76a9ac2169d",
@@ -113,14 +121,6 @@
       "url": "https://finnhub.io/api/news?id=6e8f6ba8f5abec178ecd2c6a2039e8ab439a806739a89dbc277928b908fe5ddc",
       "datetime": 1789924254,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "President Trump to Create an \u201cAI Force,\u201d Appoint an AI Czar as AI Fears Grow",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f4577ce5a26da99804853b4c3f238d383759e0ae666cb209be8a30e95a739f7c",
-      "datetime": 1789923793,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "COR",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-20T23:58:15.471498+00:00"
+  "updated_at": "2026-09-21T00:13:14.405285+00:00"
 }
