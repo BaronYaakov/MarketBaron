@@ -60,11 +60,27 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Anthropic vs. OpenAI: Competition heats up with release of new AI models",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0a2cece8fdae5d20d6736791e3af641129137b6d85c190acc18164c72a9dd732",
+      "datetime": 1790105577,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Tuesday's session: top gainers and losers in the dow jones index",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=d1a0fa717a3205c82feb1b910304a2237ef6e5907fe442d635e0bf4fae4efbd3",
       "datetime": 1790104206,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "AMD Stock Just Sent a Huge AI Signal",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0a8e4d9f85eb3886d87d720ed8c87f443770bada2ce1f8dd2ccd85b5c0af282b",
+      "datetime": 1790104075,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "ORLY",
@@ -76,11 +92,43 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "Shopify Just Gave Meta's AI Agent a Major Boost",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cc66634cdd565499df67673ef19a51422ad98a5320cd658e10428cf79054ffbe",
+      "datetime": 1790103383,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Apple\u2019s New CEO Is Already Being Pressured to Drop the Chinese Chip Deal Tim Cook Fought to Keep",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bf1a18ea6dcab46d1e9c1c3f888e64bef5e7c4199dd2146e2be063091114492f",
+      "datetime": 1790102929,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Meta Platforms Just Hit an Amazon Roadblock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0b410db21cab94cc2ace7cec9244b31a4ac638fb2bb9f317c8c12c2aed87b7ae",
+      "datetime": 1790100478,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "These S&P500 stocks are the most active in today's session",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=66fab22573f01f63d83a4fcef78772ddf2ae62126dda627f3b9442f59eb1b59d",
       "datetime": 1790100300,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "AMD Stock Just Entered Rarefied Territory",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=70c546de870271bf888ccf8c1b8739d461f06a925a9ede3bf59e52fe4069ed05",
+      "datetime": 1790100256,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -91,36 +139,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Sector Update: Tech Stocks Higher in Afternoon Trading",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d62cd3f3a969ff5a455e195170436d289f5787f78c1864ef840f016fb28e7bc8",
-      "datetime": 1790098752,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Musk: Amazon Won\u2019t Know \u201cWhether the Buyer Is a Human\u201d in Muse Battle",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c0cb14d36ba64bf3f9d4c7fdb50e82c1d5bcc94850a9c931c5140a4550d5280e",
-      "datetime": 1790098327,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Is NVIDIA Funding Its Own Stock Rally?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e4a99446ea864971d11c2af57471b8d412062267e6bf3381c27bfedaba3aa8a9",
       "datetime": 1790098152,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e07509feed6d582176ea1f7022d5ccea2fd1c29852470c7fb6a1daa1f4c136f5",
-      "datetime": 1790098003,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "ORLY",
@@ -160,30 +184,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=aca6c48f552a9639261e81be80a0412603bfc4bf03ae4c09439c566d0035c8ce",
       "datetime": 1790092560,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "AI Fears Are Reaching Fever Pitch But I\u2019m Not Slowing Down My Nvidia Accumulation",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=268e9edb92e5efb4a187a24f06b7d11008678dd44dab0736581ff9f9565126b3",
-      "datetime": 1790091796,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "The More Complicated Chips Become, the More Interesting Synopsys Gets",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fac2b84ad692ed843abc9362048539ab3715ef6332c6b83145474700084fc2ae",
-      "datetime": 1790089258,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Don't Sleep On Analog Semiconductors",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=fe94b613596dc0505d4c5d3cb8b87faddf45b0b0e36ed565f9a8b17a54d8a4e1",
-      "datetime": 1790088900,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -451,12 +451,12 @@
       "market_cap_musd": 1731204.542386733,
       "country": "US",
       "currency": "USD",
-      "price": 364.61,
-      "open": 362.94,
+      "price": 364.54,
+      "open": 363.23,
       "day_high": 366.55,
       "day_low": 359.29,
       "prev_close": 362.66,
-      "day_change_pct": 0.54,
+      "day_change_pct": 0.52,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -470,12 +470,12 @@
       "market_cap_musd": 99148.078983,
       "country": "CA",
       "currency": "USD",
-      "price": 44.0,
-      "open": 42.48,
+      "price": 43.88,
+      "open": 42.68,
       "day_high": 44.18,
-      "day_low": 42.48,
+      "day_low": 42.67,
       "prev_close": 42.69,
-      "day_change_pct": 3.07,
+      "day_change_pct": 2.79,
       "week52_high": 74.0,
       "week52_low": 40.17
     },
@@ -489,12 +489,12 @@
       "market_cap_musd": 58658.063304,
       "country": "CA",
       "currency": "USD",
-      "price": 357.27,
-      "open": 341.81,
+      "price": 356.09,
+      "open": 342.49,
       "day_high": 359.05,
       "day_low": 341.5,
       "prev_close": 344.4,
-      "day_change_pct": 3.74,
+      "day_change_pct": 3.39,
       "week52_high": 655.5,
       "week52_low": 315.41
     },
@@ -508,12 +508,12 @@
       "market_cap_musd": 60394.8936289321,
       "country": "US",
       "currency": "USD",
-      "price": 314.84,
-      "open": 317.07,
+      "price": 314.43,
+      "open": 317.62,
       "day_high": 320.0,
       "day_low": 313.89,
       "prev_close": 316.49,
-      "day_change_pct": -0.52,
+      "day_change_pct": -0.65,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -527,12 +527,12 @@
       "market_cap_musd": 67046.67165777265,
       "country": "US",
       "currency": "USD",
-      "price": 85.8,
-      "open": 83.41,
-      "day_high": 87.03,
-      "day_low": 83.41,
+      "price": 85.82,
+      "open": 83.92,
+      "day_high": 87.02,
+      "day_low": 83.92,
       "prev_close": 82.88,
-      "day_change_pct": 3.52,
+      "day_change_pct": 3.55,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -546,12 +546,12 @@
       "market_cap_musd": 7412.607665653022,
       "country": "US",
       "currency": "USD",
-      "price": 19.74,
-      "open": 20.73,
+      "price": 19.64,
+      "open": 20.74,
       "day_high": 20.91,
       "day_low": 19.42,
       "prev_close": 20.48,
-      "day_change_pct": -3.61,
+      "day_change_pct": -4.1,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -565,12 +565,12 @@
       "market_cap_musd": 37874.61065056577,
       "country": "US",
       "currency": "USD",
-      "price": 110.81,
-      "open": 111.53,
-      "day_high": 111.53,
+      "price": 110.89,
+      "open": 111.39,
+      "day_high": 111.39,
       "day_low": 107.2,
       "prev_close": 113.66,
-      "day_change_pct": -2.51,
+      "day_change_pct": -2.44,
       "week52_high": 119.1,
       "week52_low": 56.78
     },
@@ -584,12 +584,12 @@
       "market_cap_musd": 2787723.0441807727,
       "country": "US",
       "currency": "USD",
-      "price": 255.21,
-      "open": 257.38,
+      "price": 254.98,
+      "open": 255.11,
       "day_high": 259.0,
       "day_low": 253.78,
       "prev_close": 258.45,
-      "day_change_pct": -1.25,
+      "day_change_pct": -1.34,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-22T19:58:18.554735+00:00"
+  "updated_at": "2026-09-22T20:13:17.373678+00:00"
 }
