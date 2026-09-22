@@ -60,6 +60,54 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "United States Integrated Circuits Market to Reach US$330 Billion by 2035 as AI and Domestic Manufacturing Accelerate Growth",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1c3bfcda672a7f44b28dfd3f01a3cc496a0f667768e58ec1fa375d9fa35949f2",
+      "datetime": 1790077740,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Shopify Embraces Meta\u2019s Muse Across All Stores as Amazon Blocks It \u2013 and the Merchant Landscape Splits in Two",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=18ae460167c97c233df81cec95633af14350ec61f1059f2185b0cd5da087dbb8",
+      "datetime": 1790076841,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "AMD Just Joined the $1 Trillion Club. Here's Why Investors Are Betting Big on the Chipmaker.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fe1f6c96dc5e8852556454d2e7c80958f074f2508911e323f79e0c9590fda0e1",
+      "datetime": 1790076301,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon, Alphabet, and Microsoft: 2 Cloud Giants I Am Buying in September and 1 I Am Avoiding",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c7e58167faf64c47a2e8e9eb0bcbe943735b015fc8627e2738179b6a2ae9ef79",
+      "datetime": 1790074200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Nate Neibauer Joins Academy Asset Management as Managing Director, Head of Portfolio Management",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fa4a71d73310fcc0f400e33378d4836ae6b78e068589451a881b307ae86486e8",
+      "datetime": 1790073000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Enjoy Meta\u2019s Bump While It Lasts\u2014But Know That Chip Stocks Are a Safer AI Bet",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d9d3d3e70e463613a41aad3f92283374e82b4afbf9fe153340fc664ef21166d5",
+      "datetime": 1790070060,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Meta's Muse Sends the Nasdaq to a Record and Rekindles the AI Trade",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=243db43307a3884832bb7a9dcdd2c7dbdfabb3920122c6201283cb5cc65b8c33",
@@ -75,11 +123,19 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Custom Chips May Outpace GPUs By 2027",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4282adad981ca31c48794b2fcf6bbaae96f3f960a12cc1a0b20f0fbe5413a976",
+      "datetime": 1790061947,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
-      "headline": "Is Generac Holdings Inc. (GNRC) Stock a Top AI Infrastructure Play After $2.4 Billion Amazon Deal?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5cfb465358825d728987177d43144c4ab1e5f5c0796032792988ff2cd274ea1e",
-      "datetime": 1790059555,
+      "headline": "Custom Chips May Outpace GPUs By 2027",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4282adad981ca31c48794b2fcf6bbaae96f3f960a12cc1a0b20f0fbe5413a976",
+      "datetime": 1790061947,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -89,38 +145,6 @@
       "url": "https://finnhub.io/api/news?id=160d003eed7a36a1b364589bd607551f11706ae4cac1ca83d4c2025f5bbc6d6c",
       "datetime": 1790058900,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Paper Bottles Are Coming to Stores. Why They\u2019re More Than a Novelty.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3c39cc68a617756c06e8fa69d6a81831e51373f2962b5e63c0c1b7e47e5019fc",
-      "datetime": 1790053200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "META Stock Rallies As Muse AI Tops App Charts \u2014 Exec Admits It\u2019s \u2018Heavily Inspired\u2019 By OpenClaw",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b36fa55879fd1f7038d5b488a420d87ff228d8ac91dba1bb31c4e807cf29aa91",
-      "datetime": 1790047293,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon (AMZN) Bets Higher Pay Can Support its Next Phase of Growth",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=19823b5e2bd9a6f8a85f497f2588010825ae4c6b6934c548d9092729cc8ffc3a",
-      "datetime": 1790042406,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "AI Investment Boom Is 'Massive' \u2014 Top Economist Says US Spending Is Moving Away From Homes and Toward Data Centers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a5067221cc3daddcfbebc91a12f6b63bcb5dfa9be9b31ef0ed7229d5afb1d813",
-      "datetime": 1790040613,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -137,30 +161,6 @@
       "url": "https://finnhub.io/api/news?id=3e59c5a142d490e9f2d3d2ec72f8bffda0c3472f6744f8f7756c20aa1a5b6325",
       "datetime": 1790031728,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "NVIDIA Or Micron: Which Gets Paid More Safely For The AI Shortage?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ef3bfcf8c1c19773033f33386d60055f91601912d3a8bd7d6b25e6f17fac7f7a",
-      "datetime": 1790022682,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Prediction: This Data Center Stock Will Be the AI Supercycle's Biggest Winner -- and It's Not a Household Name",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7197bf644545295b190f97995ab479781f70e3f208f85908694563da87558d65",
-      "datetime": 1790019300,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "AMD Storms Into $1 Trillion Club as Chip Stocks Charge Higher",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=01a31ed77f910d06c6288b19ecfe240b997bc7e7ca18b7e4b70889e915cdb7b7",
-      "datetime": 1790018801,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "B",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-22T11:58:14.970699+00:00"
+  "updated_at": "2026-09-22T12:13:15.495797+00:00"
 }
