@@ -59,6 +59,38 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "META Stock Rallies As Muse AI Tops App Charts \u2014 Exec Admits It\u2019s \u2018Heavily Inspired\u2019 By OpenClaw",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b36fa55879fd1f7038d5b488a420d87ff228d8ac91dba1bb31c4e807cf29aa91",
+      "datetime": 1790047293,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon (AMZN) Bets Higher Pay Can Support its Next Phase of Growth",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=19823b5e2bd9a6f8a85f497f2588010825ae4c6b6934c548d9092729cc8ffc3a",
+      "datetime": 1790042406,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "AI Investment Boom Is 'Massive' \u2014 Top Economist Says US Spending Is Moving Away From Homes and Toward Data Centers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a5067221cc3daddcfbebc91a12f6b63bcb5dfa9be9b31ef0ed7229d5afb1d813",
+      "datetime": 1790040613,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Cohesity Introduces Agent Resilience to Protect and Recover AI Agent Infrastructure",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d9ccd4bef38abd8564ff5fffe1a62183b413bddeb6f60761bdd13bc27fb47939",
+      "datetime": 1790038800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "3 Stocks That Pay Dividends and Offer AI Exposure",
       "source": "Yahoo",
@@ -91,44 +123,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Amazon kicks out Meta's Muse in split over AI shopping",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=74d01eb8a1a5d9a83df97648cecc5ff4d77a2ac97ce6fbb31359e564fb04ac98",
-      "datetime": 1790026417,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Has The Price For Amazon Stock Already Peaked?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0b1cde0fbcbbf7ca083b7daa16bac0cb30fa37c710ef68d48ce8a3519ca3d759",
-      "datetime": 1790023419,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "UPS Among Today\u2019s Worst Stocks in the S&P 500 After Slowed Amazon Shipments",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=efbc47745a41c2bbadc70fffb0e0266c47537e75ca02e35232cbd6363f66d1b7",
-      "datetime": 1790023020,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "NVIDIA Or Micron: Which Gets Paid More Safely For The AI Shortage?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ef3bfcf8c1c19773033f33386d60055f91601912d3a8bd7d6b25e6f17fac7f7a",
       "datetime": 1790022682,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Takes Wearable AI Deeper Into Logistics",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7633711957cd837842b97055fe33fb52d75d215a3cfd0218260ce4aa8a32d08d",
-      "datetime": 1790020600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-22T04:43:15.826126+00:00"
+  "updated_at": "2026-09-22T05:13:16.783477+00:00"
 }
