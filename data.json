@@ -124,10 +124,10 @@
     },
     {
       "ticker": "AMZN",
-      "headline": "The 3 Most Dangerous Investing Mistakes I Keep Seeing",
+      "headline": "Nvidia: Trucks, Tokens, And A 28x Multiple",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=64d367167015b117f4aaa9ed5b6145a3d13c44bad8b42e3c97e6fef3f4624240",
-      "datetime": 1790064300,
+      "url": "https://finnhub.io/api/news?id=7288360a91959380c75747781b70c7112fba068bb795f6c731dcbf1b3ca36e25",
+      "datetime": 1790066771,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-22T12:58:14.641509+00:00"
+  "updated_at": "2026-09-22T13:13:16.248657+00:00"
 }
