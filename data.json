@@ -60,18 +60,50 @@
   "news": [
     {
       "ticker": "AMZN",
-      "headline": "Anthropic vs. OpenAI: Competition heats up with release of new AI models",
+      "headline": "Amazon.com (AMZN) Blocks Rival AI Shopping Agent On Its Platform",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0a2cece8fdae5d20d6736791e3af641129137b6d85c190acc18164c72a9dd732",
-      "datetime": 1790105577,
+      "url": "https://finnhub.io/api/news?id=7d96e1f939a7d93111edee3ea421edb3a4bc9f031b1392f9a3a21031cd0ae943",
+      "datetime": 1790111699,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Tuesday's session: top gainers and losers in the dow jones index",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=d1a0fa717a3205c82feb1b910304a2237ef6e5907fe442d635e0bf4fae4efbd3",
-      "datetime": 1790104206,
+      "headline": "How Much Upside Is Left In eBay Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=03325dbe4b893c52a67cdb22b127fcf3172519a39fac67a8fef43b165b6a8922",
+      "datetime": 1790111449,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "GREEN FUEL FORWARD EXPANDS INDUSTRY ALLIANCE TO SUPPORT SUSTAINABLE AVIATION FUEL ADOPTION IN ASIA",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5c93470d3a6fedadd6dcb542d890ba9eae197563c46d8520a158699dba9015fa",
+      "datetime": 1790110800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Micron vs. SanDisk: Comparing Two Red-Hot AI Memory Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0dc3b45bc78fe147c4dbcad938b62700559a26eaa41bd0fc28e272cbaf8caa1e",
+      "datetime": 1790110620,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Got $5,000? 2 Growth Stocks Building the Software Backbone of the AI Revolution",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=893ce9ee977f0b07e0ff21893bea32e8e3a3cb125875b638842f80f5fc6c16d8",
+      "datetime": 1790110200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Can This Number Push IBM Stock Higher?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=55ce57818b00582fff1f9a4829b167687d9013dd6128083227450b0f2a2e9e73",
+      "datetime": 1790110116,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -91,14 +123,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Shopify Just Gave Meta's AI Agent a Major Boost",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cc66634cdd565499df67673ef19a51422ad98a5320cd658e10428cf79054ffbe",
-      "datetime": 1790103383,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Apple\u2019s New CEO Is Already Being Pressured to Drop the Chinese Chip Deal Tim Cook Fought to Keep",
       "source": "Yahoo",
@@ -107,36 +131,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Meta Platforms Just Hit an Amazon Roadblock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0b410db21cab94cc2ace7cec9244b31a4ac638fb2bb9f317c8c12c2aed87b7ae",
-      "datetime": 1790100478,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "These S&P500 stocks are the most active in today's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=66fab22573f01f63d83a4fcef78772ddf2ae62126dda627f3b9442f59eb1b59d",
-      "datetime": 1790100300,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "AMD Stock Just Entered Rarefied Territory",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=70c546de870271bf888ccf8c1b8739d461f06a925a9ede3bf59e52fe4069ed05",
       "datetime": 1790100256,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Gross-Margin Expansion is a Key Driver of SPOT's Profitability",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f5c60fcd304677c21a71043975618f86283ebdb0a78d2920b56c63a38fee5021",
-      "datetime": 1790099100,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-22T21:58:16.474748+00:00"
+  "updated_at": "2026-09-22T22:13:16.397478+00:00"
 }
