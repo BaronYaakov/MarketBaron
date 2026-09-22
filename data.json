@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Meta's Muse Sends the Nasdaq to a Record and Rekindles the AI Trade",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=243db43307a3884832bb7a9dcdd2c7dbdfabb3920122c6201283cb5cc65b8c33",
+      "datetime": 1790069368,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Meta's Muse Sends the Nasdaq to a Record and Rekindles the AI Trade",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=243db43307a3884832bb7a9dcdd2c7dbdfabb3920122c6201283cb5cc65b8c33",
+      "datetime": 1790069368,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Is Generac Holdings Inc. (GNRC) Stock a Top AI Infrastructure Play After $2.4 Billion Amazon Deal?",
       "source": "Yahoo",
@@ -107,14 +123,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Cohesity Introduces Agent Resilience to Protect and Recover AI Agent Infrastructure",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d9ccd4bef38abd8564ff5fffe1a62183b413bddeb6f60761bdd13bc27fb47939",
-      "datetime": 1790038800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "3 Stocks That Pay Dividends and Offer AI Exposure",
       "source": "Yahoo",
@@ -152,14 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=01a31ed77f910d06c6288b19ecfe240b997bc7e7ca18b7e4b70889e915cdb7b7",
       "datetime": 1790018801,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "AMD Hits $1 Trillion Market Cap: 3 Reasons Nvidia Sat Out the AI Rally",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a3e73849c9425e2e84620c409bca2a8cdb11457e694633c39845d070d5407dcd",
-      "datetime": 1790018335,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-22T09:43:15.550023+00:00"
+  "updated_at": "2026-09-22T09:58:14.531542+00:00"
 }
