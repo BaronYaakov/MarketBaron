@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Is Generac Holdings Inc. (GNRC) Stock a Top AI Infrastructure Play After $2.4 Billion Amazon Deal?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5cfb465358825d728987177d43144c4ab1e5f5c0796032792988ff2cd274ea1e",
+      "datetime": 1790059555,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Paper Bottles Are Coming to Stores. Why They\u2019re More Than a Novelty.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3c39cc68a617756c06e8fa69d6a81831e51373f2962b5e63c0c1b7e47e5019fc",
@@ -113,14 +121,6 @@
       "url": "https://finnhub.io/api/news?id=3e59c5a142d490e9f2d3d2ec72f8bffda0c3472f6744f8f7756c20aa1a5b6325",
       "datetime": 1790031728,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Nasdaq Ends Nearly 3% Higher As AI Stocks Pop, AMD Enters $1 Trillion Club \u2014  AMD, ARM, META, AMZN, PSKY In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f590f157a45e9ede0b45e363e2fe2fa232850b082542c852b4d171af05ca41ea",
-      "datetime": 1790028294,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-22T07:28:15.585102+00:00"
+  "updated_at": "2026-09-22T07:43:16.827268+00:00"
 }
