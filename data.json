@@ -164,6 +164,14 @@
     },
     {
       "ticker": "B",
+      "headline": "Can Strong Production at Otjikoto Mine Boost B2Gold's Growth?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f3a249886b579403a252a5606074b4cee9e67b02890204bf0df24269e9911ef5",
+      "datetime": 1790005320,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
+      "ticker": "B",
       "headline": "Barrick Mining (NYSE:B): A GARP Candidate With Durable Growth and Reasonable Valuation",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=7be69e3be6927c09b81e7bb8ac365013b0be2614d7828b5c8f56b17d8065681c",
@@ -328,14 +336,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e3e4ef8ab64cfe9416e5d637197fec327b089e0d0449c980b63cdf6032915933",
       "datetime": 1789651500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Barrick Mining Shares Rise 1.2% Following New Buy Rating and Gold Price Recovery",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5fb26e84e3eb8409aecb6d710d5bdfeb5555d7b93c8c6e74f16e63e7ba353dbf",
-      "datetime": 1789647786,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-22T00:28:13.914634+00:00"
+  "updated_at": "2026-09-22T00:43:14.194418+00:00"
 }
