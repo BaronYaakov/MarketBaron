@@ -123,20 +123,20 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "The 3 Most Dangerous Investing Mistakes I Keep Seeing",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=64d367167015b117f4aaa9ed5b6145a3d13c44bad8b42e3c97e6fef3f4624240",
+      "datetime": 1790064300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Custom Chips May Outpace GPUs By 2027",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=4282adad981ca31c48794b2fcf6bbaae96f3f960a12cc1a0b20f0fbe5413a976",
       "datetime": 1790061947,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Custom Chips May Outpace GPUs By 2027",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=4282adad981ca31c48794b2fcf6bbaae96f3f960a12cc1a0b20f0fbe5413a976",
-      "datetime": 1790061947,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-22T12:28:14.247548+00:00"
+  "updated_at": "2026-09-22T12:43:14.627647+00:00"
 }
