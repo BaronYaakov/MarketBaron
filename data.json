@@ -99,6 +99,22 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "ORLY",
+      "headline": "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O\u2019Reilly Automotive Gains 4%",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b3c630dc0553a685b56e2e663c5cc0478de0aaec9954c0d627d406fbe988fdd9",
+      "datetime": 1790096543,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "Why AutoZone Stock Is Having Its Best Day in More Than 2 Years",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=25f729a66f55ff61f62edc28da98f95c88e04dc53f6e197edd55dd9c84f505b4",
+      "datetime": 1790095740,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Uncover the latest developments among dow jones stocks in today's session.",
       "source": "ChartMill",
@@ -299,14 +315,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "ORLY",
-      "headline": "Here\u2019s How Much You Would Have Made Owning O'Reilly Automotive Stock In The Last 20 Years",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=c4b1e1a8c5c48a5a23f99735bbc0511b6cf5638c4b180bb3ae72efdaf1fa6830",
-      "datetime": 1789733726,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
       "ticker": "B",
       "headline": "B vs. KGC: Which Gold Mining Stock Should You Bet on Now?",
       "source": "Yahoo",
@@ -361,14 +369,6 @@
       "url": "https://finnhub.io/api/news?id=696a388ce58f5e964995f194566437d01f70b41b95ab468650da94b7ead87ca6",
       "datetime": 1789656480,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "10 Consumer Discretionary Stocks With Whale Alerts In Today\u2019s Session",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=63b5ee198b77d065d241602b8013f15a51b6bc7489fcc85b22feb88a2f5049e7",
-      "datetime": 1789652124,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "COR",
@@ -451,12 +451,12 @@
       "market_cap_musd": 1731204.542386733,
       "country": "US",
       "currency": "USD",
-      "price": 364.25,
+      "price": 364.44,
       "open": 362.94,
       "day_high": 364.87,
       "day_low": 359.29,
       "prev_close": 362.66,
-      "day_change_pct": 0.44,
+      "day_change_pct": 0.49,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -470,12 +470,12 @@
       "market_cap_musd": 99148.078983,
       "country": "CA",
       "currency": "USD",
-      "price": 43.95,
+      "price": 43.88,
       "open": 42.48,
       "day_high": 44.02,
       "day_low": 42.48,
       "prev_close": 42.69,
-      "day_change_pct": 2.95,
+      "day_change_pct": 2.79,
       "week52_high": 74.0,
       "week52_low": 40.17
     },
@@ -489,12 +489,12 @@
       "market_cap_musd": 58658.063304,
       "country": "CA",
       "currency": "USD",
-      "price": 356.15,
+      "price": 356.3,
       "open": 341.81,
       "day_high": 356.88,
       "day_low": 341.5,
       "prev_close": 344.4,
-      "day_change_pct": 3.41,
+      "day_change_pct": 3.46,
       "week52_high": 655.5,
       "week52_low": 315.41
     },
@@ -508,12 +508,12 @@
       "market_cap_musd": 60394.8936289321,
       "country": "US",
       "currency": "USD",
-      "price": 315.57,
+      "price": 315.14,
       "open": 317.07,
       "day_high": 320.0,
       "day_low": 313.96,
       "prev_close": 316.49,
-      "day_change_pct": -0.29,
+      "day_change_pct": -0.43,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -527,12 +527,12 @@
       "market_cap_musd": 67046.67165777265,
       "country": "US",
       "currency": "USD",
-      "price": 86.25,
+      "price": 86.41,
       "open": 83.41,
       "day_high": 87.03,
       "day_low": 83.41,
       "prev_close": 82.88,
-      "day_change_pct": 4.07,
+      "day_change_pct": 4.26,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -546,12 +546,12 @@
       "market_cap_musd": 7412.607665653022,
       "country": "US",
       "currency": "USD",
-      "price": 20.57,
+      "price": 20.48,
       "open": 20.73,
       "day_high": 20.91,
-      "day_low": 20.54,
+      "day_low": 20.46,
       "prev_close": 20.48,
-      "day_change_pct": 0.44,
+      "day_change_pct": 0.0,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -565,12 +565,12 @@
       "market_cap_musd": 37874.61065056577,
       "country": "US",
       "currency": "USD",
-      "price": 108.58,
+      "price": 109.14,
       "open": 111.53,
       "day_high": 111.53,
       "day_low": 107.2,
       "prev_close": 113.66,
-      "day_change_pct": -4.47,
+      "day_change_pct": -3.98,
       "week52_high": 119.1,
       "week52_low": 56.78
     },
@@ -584,12 +584,12 @@
       "market_cap_musd": 2787723.0441807727,
       "country": "US",
       "currency": "USD",
-      "price": 255.45,
+      "price": 255.29,
       "open": 257.38,
       "day_high": 259.0,
       "day_low": 253.78,
       "prev_close": 258.45,
-      "day_change_pct": -1.16,
+      "day_change_pct": -1.22,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-22T18:13:19.659039+00:00"
+  "updated_at": "2026-09-22T18:28:18.551551+00:00"
 }
