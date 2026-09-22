@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "3 Stocks That Pay Dividends and Offer AI Exposure",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4decf81b3c2a217cfdef2a361dc181ed864db9e18be85fbf8f944217d1987c6a",
+      "datetime": 1790033880,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Nasdaq Ends Nearly 3% Higher As AI Stocks Pop, AMD Enters $1 Trillion Club \u2014  AMD, ARM, META, AMZN, PSKY In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f590f157a45e9ede0b45e363e2fe2fa232850b082542c852b4d171af05ca41ea",
+      "datetime": 1790028294,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Amazon (AMZN) Laps the Stock Market: Here's Why",
       "source": "Yahoo",
@@ -107,14 +123,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Sector Update: Tech Stocks Gain Late Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2b8c350db434341233dfd9001292038d711a191b7f62cacf8d741e97970dc838",
-      "datetime": 1790020326,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Prediction: This Data Center Stock Will Be the AI Supercycle's Biggest Winner -- and It's Not a Household Name",
       "source": "Yahoo",
@@ -144,14 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e1e9ab01e95482e261745e127e839b928b6d01eedaef77a0c64dcc2c2798915b",
       "datetime": 1790017200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Edges Higher as AI Chips Target $21.7 Billion",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d1b19bc3cb398fcade0fd2c0c62a6b392213b93a2957608f25d031e2777ca182",
-      "datetime": 1790016492,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -448,7 +448,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1718289.009904845,
+      "market_cap_musd": 1731204.542386733,
       "country": "US",
       "currency": "USD",
       "price": 362.66,
@@ -505,7 +505,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 60120.102492322214,
+      "market_cap_musd": 60394.8936289321,
       "country": "US",
       "currency": "USD",
       "price": 316.49,
@@ -524,7 +524,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 67519.9137296814,
+      "market_cap_musd": 67046.67165777265,
       "country": "US",
       "currency": "USD",
       "price": 82.88,
@@ -543,7 +543,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 7445.182601683723,
+      "market_cap_musd": 7412.607665653022,
       "country": "US",
       "currency": "USD",
       "price": 20.48,
@@ -562,7 +562,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 37364.77293901056,
+      "market_cap_musd": 37874.61065056577,
       "country": "US",
       "currency": "USD",
       "price": 113.66,
@@ -581,7 +581,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2793439.79099221,
+      "market_cap_musd": 2787723.0441807727,
       "country": "US",
       "currency": "USD",
       "price": 258.45,
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-21T23:58:13.903392+00:00"
+  "updated_at": "2026-09-22T00:13:14.362645+00:00"
 }
