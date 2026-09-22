@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Paper Bottles Are Coming to Stores. Why They\u2019re More Than a Novelty.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3c39cc68a617756c06e8fa69d6a81831e51373f2962b5e63c0c1b7e47e5019fc",
+      "datetime": 1790053200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "META Stock Rallies As Muse AI Tops App Charts \u2014 Exec Admits It\u2019s \u2018Heavily Inspired\u2019 By OpenClaw",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b36fa55879fd1f7038d5b488a420d87ff228d8ac91dba1bb31c4e807cf29aa91",
@@ -112,14 +120,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f590f157a45e9ede0b45e363e2fe2fa232850b082542c852b4d171af05ca41ea",
       "datetime": 1790028294,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon (AMZN) Laps the Stock Market: Here's Why",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ef7ead11de1754f42c2888e3111157cdd6da2660e9da0df17598ff203e39752c",
-      "datetime": 1790027105,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-22T05:58:15.905006+00:00"
+  "updated_at": "2026-09-22T06:13:15.431835+00:00"
 }
