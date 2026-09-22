@@ -67,6 +67,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "History Says a $1,000 Investment in Broadcom Will Be Worth This Much by 2028",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=160d003eed7a36a1b364589bd607551f11706ae4cac1ca83d4c2025f5bbc6d6c",
+      "datetime": 1790058900,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Paper Bottles Are Coming to Stores. Why They\u2019re More Than a Novelty.",
       "source": "Yahoo",
@@ -152,14 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a3e73849c9425e2e84620c409bca2a8cdb11457e694633c39845d070d5407dcd",
       "datetime": 1790018335,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Beyond NVIDIA: 2 AI Data Center Stocks to Buy for More Upside",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e1e9ab01e95482e261745e127e839b928b6d01eedaef77a0c64dcc2c2798915b",
-      "datetime": 1790017200,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-22T07:58:15.420098+00:00"
+  "updated_at": "2026-09-22T08:13:15.273428+00:00"
 }
