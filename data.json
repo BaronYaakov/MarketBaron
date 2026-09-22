@@ -67,6 +67,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "COR",
+      "headline": "Cencora Sees Specialty Strategy Fueling Growth Into Fiscal 2027",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e59c5a142d490e9f2d3d2ec72f8bffda0c3472f6744f8f7756c20aa1a5b6325",
+      "datetime": 1790031728,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Nasdaq Ends Nearly 3% Higher As AI Stocks Pop, AMD Enters $1 Trillion Club \u2014  AMD, ARM, META, AMZN, PSKY In Focus",
       "source": "Yahoo",
@@ -379,14 +387,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
-      "ticker": "COR",
-      "headline": "The Realities of Managing Enterprise AI",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2f736bb4d1187dcfcddd8311592c68845053d1ae300605a4350bbf0f9ff1ab29",
-      "datetime": 1789482540,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "2 Auto Retail Parts Stocks Worth Watching as Aftermarket Demand Grows",
       "source": "Yahoo",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-22T00:13:14.362645+00:00"
+  "updated_at": "2026-09-22T00:28:13.914634+00:00"
 }
