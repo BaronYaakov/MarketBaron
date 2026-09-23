@@ -59,6 +59,30 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "B",
+      "headline": "Can Newmont's Record Free Cash Flow Momentum Carry Into Q3?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=00a7359cfaf31420b029a709abcc649901546a58514faf2686c1629c7a33cef0",
+      "datetime": 1790165100,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
+      "ticker": "B",
+      "headline": "Can Agnico Eagle Sustain Its Shareholder-Friendly Capital Strategy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=18cd1b2977dc2ee9b598375d824be1cf1672a696d89f2b6c4240952ff5eae857",
+      "datetime": 1790164980,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
+      "ticker": "B",
+      "headline": "Barrick Mining (NYSE:B) High Growth Momentum Meets Breakout Setup",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=f6adbf70f84b1dee3b7b0a19770ab1bded72d6a970143922d1431832d8046b7c",
+      "datetime": 1790164858,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "AI Chips Update - Rising AI Sentiment Drives Industry Shift and Efficiency Gains",
       "source": "Yahoo",
@@ -251,14 +275,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "B",
-      "headline": "Barrick Mining (NYSE:B): A GARP Candidate With Durable Growth and Reasonable Valuation",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=7be69e3be6927c09b81e7bb8ac365013b0be2614d7828b5c8f56b17d8065681c",
-      "datetime": 1789986644,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Cencora Highlights Specialty Growth, MSO Expansion and Walgreens Ties at Conference",
       "source": "Yahoo",
@@ -307,28 +323,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
-      "ticker": "B",
-      "headline": "Prediction: Iamgold Will Start Paying a Dividend Before the End of 2027. Here's Why That Would Change Everything.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7826a9d54568719c62477bf99ba71a3a9d13a765010bd043816537cecc92736a",
-      "datetime": 1789840980,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Cencora (COR) Raised Guidance and Bought Back $1B. What\u2019s the Catch?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=43f6da2bdc370d90df2f35e5bc95ec1f7dbb6c62d461277f16c156c2d243919f",
       "datetime": 1789821517,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Newmont price target raised by UBS on capital returns outlook",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9b3695e7a4b2479efccd102ef24edc055afe42b5864ba65505e3e6fbf92f7410",
-      "datetime": 1789755960,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "P",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-23T12:28:13.963181+00:00"
+  "updated_at": "2026-09-23T12:43:14.116950+00:00"
 }
