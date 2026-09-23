@@ -59,12 +59,44 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "S&P 500, Dow, Nasdaq Drop As Yields Spike Amid Calls For More Rate Hikes \u2014 AMZN, GOOGL, NFLX, SPCX, RKLB In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e0635280d4c1dd83e1a0c7e8985b5372eb0051938459206652a02ef0b524aee",
+      "datetime": 1790198608,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "If Amazon doesn\u2019t know how to eliminate carbon emissions, then who does?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bf6b98a569f1f7f3e4298db72d855d7a62096058fae28a7abf5ef99f4903511c",
+      "datetime": 1790198493,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "P",
       "headline": "Stay updated with the stocks that are on the move in today's after-hours session.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=9c90752bd2ceefebbba85fb651d487699b3a168cc68caf829cd413d611c1632a",
       "datetime": 1790197200,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Alphabet vs. Amazon: Which Anthropic Backer Will Benefit More From the $2 Trillion IPO?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=18fb3e311b66255b40c04782d2b52db624cfc7daa5fe40b910c60fc86c3278df",
+      "datetime": 1790196720,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Debt-Financed AI Investment Boom Risks Equity Market Selloff, IMF Says",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4d4f1e4a18dd9c6b00cde2e9e21b7bd5b8570a454adddf48791a24fbe70084ef",
+      "datetime": 1790195823,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
@@ -83,22 +115,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Amazon blocks Meta's Muse but Shopify opens the door",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1cae72a9d45d48d3f6f9c2c08042e8ed25382c22178574ae0cc46cbaceea1401",
-      "datetime": 1790190780,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Wednesday's session: top gainers and losers in the dow jones index",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=bb4171ba2315271ffac02d3155801d13d6e8d838f8d2b0f43020c3b412215389",
-      "datetime": 1790190609,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Marvell Stock Ran, But Did It Tell You When?",
       "source": "Yahoo",
@@ -107,27 +123,19 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "The AI Triad Releases Business Before AI, a Guide to Turning AI Productivity Into Business Results",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ff512e319328928a5d6b12fd44b7eb133fddbd1d30fbdfb814e13aee0df0b0cf",
-      "datetime": 1790188860,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon (AMZN) Puts Another $1.9 Billion Into its Delivery Network. The Cost of the Last Mile is Rising",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=324b0576daf4973bccd3ca69d993b7dba17310ebb9896c337e3518edb747ded1",
-      "datetime": 1790188006,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Broadcom Just Made a Move That Further Solidifies My Decision to Buy on Repeat",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=623010a7e650b172d6b11e5c67b799cd5097dd09e6271f81c105a41e123ee016",
       "datetime": 1790178348,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "AMD Just Joined the $1 Trillion Club as Chip and AI Stocks Rallied. What This Means for Investors.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2abe1983b5fdf13093add1ebf6acc4b1be98d5e50265affe737bd8662c949d5c",
+      "datetime": 1790177674,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -160,14 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=982ff4e5b9bcdf07b36fc856c95630b6cc0691a4e6b3e3fd58ffa8dbedfd5628",
       "datetime": 1790173814,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia Stock Falls. It Has a Google AI Chip Conundrum.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=927c3af5c81a7b32d6ee4181acb2cbf0c206ea2c619d57d895c1b42bd5106b8c",
-      "datetime": 1790171400,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-23T21:58:14.986840+00:00"
+  "updated_at": "2026-09-23T22:13:14.546145+00:00"
 }
