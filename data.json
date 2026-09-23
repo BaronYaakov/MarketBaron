@@ -60,6 +60,54 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "AI Chips Update - Rising AI Sentiment Drives Industry Shift and Efficiency Gains",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=71caa536b01dd7c84c9061623c87f76c05bb5efc8d1be68b42ed5b0fc9858fd4",
+      "datetime": 1790163452,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Best Buy and Amazon Expand Fire TV Partnership, Opening Fire TV Ad Inventory to Best Buy Ads",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=25a4f1b620745b8b7fe4e543061dd0d53b57d369b6774f6c89f4a4a0de1c6f36",
+      "datetime": 1790161200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The hidden tech trap destroying your portfolio",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=16ddd11251d6fbb1cfd0511e089b24b619a09ff42c574973bee5def8f4e04bd4",
+      "datetime": 1790161200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The AI panic, tech concentration, and Nvidia windfalls",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dfb72e8f7ed7eb8c3af3557981189290287963877ce4dd76a21f6a8e1566d239",
+      "datetime": 1790157600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The future of AI growth rests on Big Tech's cash flow tripling to $2 trillion: Chart of the Day",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=99443912d09826481fa38bd1a9227a8ca988834228dd734bb2097e94ea316bee",
+      "datetime": 1790157600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Snap Has Launched Its High-Powered Glasses. Will There Be Enough Demand?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7ab1892237de8b5b4a9dfc60fec7fd3f5a6100ce8e57f346f2f16c5222655277",
+      "datetime": 1790157120,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "AVGO Stock Falls Premarket: China Reportedly Audits Broadcom\u2019s Grip On State-Backed Data Centers",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5ee3c316a10cc372ebc3bfb0ffda52dabbc51ac459593d1762858611d8ec7063",
@@ -91,22 +139,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Why Costco has the luxury of sitting out the delivery arms race",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=42d2a0982f047cdda2ae2012464c28f15b0c9cecb68a73dca68e1e8b90802a9c",
-      "datetime": 1790146800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Anthropic Is Booming. How to Buy in Before the IPO.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=10fd7c494b4e533d7860661bba2cff102757c6ddcb1dc6255fc066d70807bd53",
-      "datetime": 1790146800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "Celestica: A Cheaper Ticket To The AI Infrastructure Boom",
       "source": "SeekingAlpha",
@@ -129,38 +161,6 @@
       "url": "https://finnhub.io/api/news?id=ae7e84c822d4e2c31209d6d89f00a17d5ec611e980aac5ad719c6be8d4392e29",
       "datetime": 1790133668,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Rocket Lab CEO Puts Iridium Deal Alongside SpaceX And Amazon\u2019s Spectrum Bets: \u2018You Can\u2019t Just Magic Up Spectrum\u2019",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=16dc459eeb2d7d33b12671b94607b1492f983a81c7cac00222339b030b0b97c3",
-      "datetime": 1790130502,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom (AVGO) Is Up 7.4% After Massive Buybacks And AI Chip Deals With Hyperscalers - Has The Bull Case Changed?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=21cf86d3b4c676d8bc67a33fb58a45d76475d07acdb8d178f7584826dfb6d592",
-      "datetime": 1790129623,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "If You Buy Monster Beverage With $10,000 Today, Could You Become a Millionaire in 25 Years?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6a8a655f93169fef7933ad0f27f3a12ac817cd0a74b8a51ad81a2a9a79c36e6e",
-      "datetime": 1790124600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "VGT Holders Bought \u2018Tech\u2019 and Own No Google, Meta, or Amazon: The Sector Rule That Decides What\u2019s Inside",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5689ddb9b57259262486fbc4b3848e155e2ba4172ad5fcb0556ec7c43f2d295c",
-      "datetime": 1790115304,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "B",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-23T11:58:13.856858+00:00"
+  "updated_at": "2026-09-23T12:13:14.007543+00:00"
 }
