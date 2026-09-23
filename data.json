@@ -60,6 +60,30 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3aa2d05dbfb9cccf295039bfda103476f6d1d985eb2b75caef6ed55770b1f407",
+      "datetime": 1790192592,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "AMZN Stock In Focus \u2014 Amazon Reportedly Taps Former Employees And Laid-Off Staff In Accelerated Push For AI Talent",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=196f924979804e276de84457bebd7237a094f763d82cb5905216e16fff10f6c4",
+      "datetime": 1790191708,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon blocks Meta's Muse but Shopify opens the door",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1cae72a9d45d48d3f6f9c2c08042e8ed25382c22178574ae0cc46cbaceea1401",
+      "datetime": 1790190780,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Wednesday's session: top gainers and losers in the dow jones index",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=bb4171ba2315271ffac02d3155801d13d6e8d838f8d2b0f43020c3b412215389",
@@ -67,43 +91,27 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Marvell Stock Ran, But Did It Tell You When?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2f7279522895398583ce232d85a3df7ffd88b1b184c3613735df6f4de2d36bfc",
+      "datetime": 1790190316,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
-      "headline": "Which S&P500 stocks are the most active on Wednesday?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=77d40aed57071508e8157760e057cc6b6eaca73aff3c0b8aafb307643d38ccc0",
-      "datetime": 1790186702,
+      "headline": "The AI Triad Releases Business Before AI, a Guide to Turning AI Productivity Into Business Results",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ff512e319328928a5d6b12fd44b7eb133fddbd1d30fbdfb814e13aee0df0b0cf",
+      "datetime": 1790188860,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Meta's Muse is an impressively capable AI agent, despite some hiccups",
+      "headline": "Amazon (AMZN) Puts Another $1.9 Billion Into its Delivery Network. The Cost of the Last Mile is Rising",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0152fcda25ae205d1465e43e0703d89b4d64159fbf0f3dc2b9c9694228dc9d88",
-      "datetime": 1790184790,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon's AWS Backlog Climbed to $496 Billion as Its Cloud Margin Reached 39%. The Stock Is Primed to Skyrocket as a Result.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4e507b054c7f424154278555bfb30567c635f469900ee3012f01ec290d10bfbd",
-      "datetime": 1790184780,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "SPCX, RKLB, LUNR, ASTS In Focus \u2014 Space Economy Investment Surges To $23B In Year Ending June, A Near 140% Jump",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1919ec2dbf061fc499fcdaf857b657024135fea30542837726f75f805753c38a",
-      "datetime": 1790184428,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Meta\u2019s Muse Just Put Instacart\u2019s Grocery Empire on Notice",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=23c75f4bc96f355ec991851df03c969a5c08b4ee09e1fc17dbaad8f2a0011c58",
-      "datetime": 1790183280,
+      "url": "https://finnhub.io/api/news?id=324b0576daf4973bccd3ca69d993b7dba17310ebb9896c337e3518edb747ded1",
+      "datetime": 1790188006,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -152,14 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=927c3af5c81a7b32d6ee4181acb2cbf0c206ea2c619d57d895c1b42bd5106b8c",
       "datetime": 1790171400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Want to Play Anthropic Before Its IPO? There Is an ETF for That.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=835430df72c30163ddfb9716b0914eeea4cae00ce9402505f5a1a67d72c3ab2b",
-      "datetime": 1790169480,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -451,12 +451,12 @@
       "market_cap_musd": 1740179.0550523084,
       "country": "US",
       "currency": "USD",
-      "price": 354.47,
-      "open": 363.37,
-      "day_high": 363.37,
+      "price": 354.99,
+      "open": 362.2,
+      "day_high": 362.9,
       "day_low": 354.01,
       "prev_close": 364.54,
-      "day_change_pct": -2.76,
+      "day_change_pct": -2.62,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -470,12 +470,12 @@
       "market_cap_musd": 98670.771001,
       "country": "CA",
       "currency": "USD",
-      "price": 42.44,
-      "open": 42.91,
+      "price": 42.49,
+      "open": 43.0,
       "day_high": 43.0,
       "day_low": 42.13,
       "prev_close": 43.88,
-      "day_change_pct": -3.28,
+      "day_change_pct": -3.17,
       "week52_high": 74.0,
       "week52_low": 41.89
     },
@@ -489,12 +489,12 @@
       "market_cap_musd": 60923.017843,
       "country": "CA",
       "currency": "USD",
-      "price": 362.8,
-      "open": 355.3,
+      "price": 361.84,
+      "open": 356.02,
       "day_high": 367.9,
       "day_low": 354.37,
       "prev_close": 356.09,
-      "day_change_pct": 1.88,
+      "day_change_pct": 1.61,
       "week52_high": 655.5,
       "week52_low": 315.41
     },
@@ -508,12 +508,12 @@
       "market_cap_musd": 60001.78802748181,
       "country": "US",
       "currency": "USD",
-      "price": 311.46,
-      "open": 315.79,
+      "price": 312.28,
+      "open": 315.51,
       "day_high": 320.24,
       "day_low": 310.7,
       "prev_close": 314.43,
-      "day_change_pct": -0.94,
+      "day_change_pct": -0.68,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -527,12 +527,12 @@
       "market_cap_musd": 69425.014879549,
       "country": "US",
       "currency": "USD",
-      "price": 85.83,
-      "open": 85.25,
-      "day_high": 86.44,
+      "price": 85.9,
+      "open": 85.22,
+      "day_high": 86.43,
       "day_low": 84.71,
       "prev_close": 85.82,
-      "day_change_pct": 0.01,
+      "day_change_pct": 0.09,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -546,12 +546,12 @@
       "market_cap_musd": 7108.574611316406,
       "country": "US",
       "currency": "USD",
-      "price": 19.83,
+      "price": 19.75,
       "open": 19.56,
       "day_high": 19.95,
       "day_low": 19.2,
       "prev_close": 19.64,
-      "day_change_pct": 0.97,
+      "day_change_pct": 0.56,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -565,12 +565,12 @@
       "market_cap_musd": 36951.57254084788,
       "country": "US",
       "currency": "USD",
-      "price": 109.47,
-      "open": 110.97,
+      "price": 109.65,
+      "open": 111.14,
       "day_high": 112.0,
       "day_low": 107.1,
       "prev_close": 110.89,
-      "day_change_pct": -1.28,
+      "day_change_pct": -1.12,
       "week52_high": 119.1,
       "week52_low": 56.78
     },
@@ -584,12 +584,12 @@
       "market_cap_musd": 2750294.589158844,
       "country": "US",
       "currency": "USD",
-      "price": 249.45,
-      "open": 254.35,
-      "day_high": 254.35,
+      "price": 249.27,
+      "open": 253.0,
+      "day_high": 253.99,
       "day_low": 247.76,
       "prev_close": 254.98,
-      "day_change_pct": -2.17,
+      "day_change_pct": -2.24,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-23T19:58:16.783164+00:00"
+  "updated_at": "2026-09-23T20:13:16.062433+00:00"
 }
