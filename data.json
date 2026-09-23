@@ -59,12 +59,60 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "AVGO Stock Falls Premarket: China Reportedly Audits Broadcom\u2019s Grip On State-Backed Data Centers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5ee3c316a10cc372ebc3bfb0ffda52dabbc51ac459593d1762858611d8ec7063",
+      "datetime": 1790151829,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Top 3 Grid Stocks To Watch In September 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4aca954cb74c3e4687bfd3cbe77f3a7afc67ea68d1782d6f5ff1015d75f744d8",
+      "datetime": 1790151466,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Market Chatter: Anthropic Eyes Up to 1 GW of Data Center Capacity From Apollo-Backed Stream",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d7df606b910c0dee8bcfd92a027888548672b075dd410b7c3ee7af9d14f7840c",
+      "datetime": 1790151072,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Market Chatter: Anthropic Eyes Up to 1 GW of Data Center Capacity From Apollo-Backed Stream",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d7df606b910c0dee8bcfd92a027888548672b075dd410b7c3ee7af9d14f7840c",
+      "datetime": 1790151072,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Why Costco has the luxury of sitting out the delivery arms race",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=42d2a0982f047cdda2ae2012464c28f15b0c9cecb68a73dca68e1e8b90802a9c",
+      "datetime": 1790146800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Anthropic Is Booming. How to Buy in Before the IPO.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=10fd7c494b4e533d7860661bba2cff102757c6ddcb1dc6255fc066d70807bd53",
       "datetime": 1790146800,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica: A Cheaper Ticket To The AI Infrastructure Boom",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c29f911db11c96162287ef06f4a14e49ff7254b0d6322c19207ff84debe281f6",
+      "datetime": 1790141919,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "AVGO",
@@ -107,35 +155,11 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Broadcom Just Named Its Next AI Customer. It Isn\u2019t Google.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1dd4edd91ec946c9511c08ef8b437bcd093e187040096570895c87ac60730b58",
-      "datetime": 1790115644,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "AMZN",
       "headline": "VGT Holders Bought \u2018Tech\u2019 and Own No Google, Meta, or Amazon: The Sector Rule That Decides What\u2019s Inside",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5689ddb9b57259262486fbc4b3848e155e2ba4172ad5fcb0556ec7c43f2d295c",
       "datetime": 1790115304,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "$223 Billion Back To Shareholders: Inside The MSFT Machine",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=96f91b80e6c926f581c3b91e8f69f73e6d1bfac7969c396c91bb46eb78163a48",
-      "datetime": 1790113884,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon.com (AMZN) Blocks Rival AI Shopping Agent On Its Platform",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7d96e1f939a7d93111edee3ea421edb3a4bc9f031b1392f9a3a21031cd0ae943",
-      "datetime": 1790111699,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -145,22 +169,6 @@
       "url": "https://finnhub.io/api/news?id=f5e4ffb234142e808750ad75cff23c07b72aa2fc7f7c0c59ff2532dfe73f60ce",
       "datetime": 1790106918,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Should You Sell Your Marvell Stock Now That Higher Forecasts Are Not Enough?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=983c5512147a8b976761c6574b7ee667d74e730cc4b7e0ec4c098f356b4282e4",
-      "datetime": 1790106252,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "AMD Stock Just Sent a Huge AI Signal",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0a8e4d9f85eb3886d87d720ed8c87f443770bada2ce1f8dd2ccd85b5c0af282b",
-      "datetime": 1790104075,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "ORLY",
@@ -385,14 +393,6 @@
       "url": "https://finnhub.io/api/news?id=508f70a6b521e85c0e98cc91adff841998e31cf1550bd0ecee8f5bc73d355ad4",
       "datetime": 1789552259,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica: When Margin Falls It Won't Be Pretty (Rating Downgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=3241361663d5ac21fb1aeb1feb04cd74724dd43f281bd29825e457dcf38aee73",
-      "datetime": 1789550791,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     }
   ],
   "recent_posts": [],
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-23T09:58:14.123285+00:00"
+  "updated_at": "2026-09-23T10:13:14.066890+00:00"
 }
