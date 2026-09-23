@@ -116,6 +116,14 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "Should You Sell Your Marvell Stock Now That Higher Forecasts Are Not Enough?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=983c5512147a8b976761c6574b7ee667d74e730cc4b7e0ec4c098f356b4282e4",
+      "datetime": 1790106252,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "AMD Stock Just Sent a Huge AI Signal",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0a8e4d9f85eb3886d87d720ed8c87f443770bada2ce1f8dd2ccd85b5c0af282b",
@@ -184,14 +192,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=46d13ba28453b81e2c99243356f28897e53f99a887dca5147aa26f720fea978b",
       "datetime": 1790094128,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Price Prediction: Marvell, AMD & Broadcom- Our Bold Price Predictions for 2027",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8fa27144427a71dcee3f5d423079abba35fbbcf5d4381cd4bf5f4c6ab4a6467a",
-      "datetime": 1790092809,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-23T03:58:16.889993+00:00"
+  "updated_at": "2026-09-23T04:13:14.974036+00:00"
 }
