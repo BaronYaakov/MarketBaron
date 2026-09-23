@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "P",
+      "headline": "Stay updated with the stocks that are on the move in today's after-hours session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=9c90752bd2ceefebbba85fb651d487699b3a168cc68caf829cd413d611c1632a",
+      "datetime": 1790197200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
       "source": "Yahoo",
@@ -379,14 +387,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
-      "ticker": "P",
-      "headline": "3 Reasons P Has Explosive Upside Potential",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d65bfb5898056271d32fa467d6cb9332044173ea61f978a9e07866efedec5f28",
-      "datetime": 1789664777,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Cencora Tech Chief: AI Is Cutting Some Medical Treatment Decisions in Half",
       "source": "Yahoo",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-23T21:28:15.153852+00:00"
+  "updated_at": "2026-09-23T21:43:15.093191+00:00"
 }
