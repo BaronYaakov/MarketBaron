@@ -60,6 +60,22 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "VGT Holders Bought \u2018Tech\u2019 and Own No Google, Meta, or Amazon: The Sector Rule That Decides What\u2019s Inside",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5689ddb9b57259262486fbc4b3848e155e2ba4172ad5fcb0556ec7c43f2d295c",
+      "datetime": 1790115304,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "$223 Billion Back To Shareholders: Inside The MSFT Machine",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=96f91b80e6c926f581c3b91e8f69f73e6d1bfac7969c396c91bb46eb78163a48",
+      "datetime": 1790113884,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon.com (AMZN) Blocks Rival AI Shopping Agent On Its Platform",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7d96e1f939a7d93111edee3ea421edb3a4bc9f031b1392f9a3a21031cd0ae943",
@@ -91,20 +107,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Got $5,000? 2 Growth Stocks Building the Software Backbone of the AI Revolution",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=893ce9ee977f0b07e0ff21893bea32e8e3a3cb125875b638842f80f5fc6c16d8",
-      "datetime": 1790110200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Can This Number Push IBM Stock Higher?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=55ce57818b00582fff1f9a4829b167687d9013dd6128083227450b0f2a2e9e73",
-      "datetime": 1790110116,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "ticker": "B",
+      "headline": "Tracking John Paulson's Paulson & Company Portfolio: Q2 2026 Update",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f5e4ffb234142e808750ad75cff23c07b72aa2fc7f7c0c59ff2532dfe73f60ce",
+      "datetime": 1790106918,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "AVGO",
@@ -312,14 +320,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=9b3695e7a4b2479efccd102ef24edc055afe42b5864ba65505e3e6fbf92f7410",
       "datetime": 1789755960,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "B vs. KGC: Which Gold Mining Stock Should You Bet on Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1e8edffea9901779b05f1ef57f7da45a26daa018667bf4a51a123be8aa9ba50a",
-      "datetime": 1789729980,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-23T00:13:15.376387+00:00"
+  "updated_at": "2026-09-23T00:28:15.084629+00:00"
 }
