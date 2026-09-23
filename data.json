@@ -67,6 +67,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Broadcom: Hard To Ignore The Numbers, Buy Before The Market Catches Up",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ae7e84c822d4e2c31209d6d89f00a17d5ec611e980aac5ad719c6be8d4392e29",
+      "datetime": 1790133668,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Rocket Lab CEO Puts Iridium Deal Alongside SpaceX And Amazon\u2019s Spectrum Bets: \u2018You Can\u2019t Just Magic Up Spectrum\u2019",
       "source": "Yahoo",
@@ -161,14 +169,6 @@
       "url": "https://finnhub.io/api/news?id=9bb87e258e62e7a642da3a0ac5578e1ec65d5eed0ac4c6bb6207cc2886cc981a",
       "datetime": 1790103901,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Apple\u2019s New CEO Is Already Being Pressured to Drop the Chinese Chip Deal Tim Cook Fought to Keep",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bf1a18ea6dcab46d1e9c1c3f888e64bef5e7c4199dd2146e2be063091114492f",
-      "datetime": 1790102929,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "ORLY",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-23T07:28:13.963224+00:00"
+  "updated_at": "2026-09-23T07:43:13.767249+00:00"
 }
