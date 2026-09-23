@@ -60,10 +60,50 @@
   "news": [
     {
       "ticker": "AMZN",
-      "headline": "Stay informed with the top movers within the dow jones index on Wednesday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=f9224ce266c05c94437da6790449ec52563bfa7bdaa99cc8a7fdaacf38f9a8a1",
-      "datetime": 1790181609,
+      "headline": "Meta's Muse is an impressively capable AI agent, despite some hiccups",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0152fcda25ae205d1465e43e0703d89b4d64159fbf0f3dc2b9c9694228dc9d88",
+      "datetime": 1790184790,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon's AWS Backlog Climbed to $496 Billion as Its Cloud Margin Reached 39%. The Stock Is Primed to Skyrocket as a Result.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4e507b054c7f424154278555bfb30567c635f469900ee3012f01ec290d10bfbd",
+      "datetime": 1790184780,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "SPCX, RKLB, LUNR, ASTS In Focus \u2014 Space Economy Investment Surges To $23B In Year Ending June, A Near 140% Jump",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1919ec2dbf061fc499fcdaf857b657024135fea30542837726f75f805753c38a",
+      "datetime": 1790184428,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Meta\u2019s Muse Just Put Instacart\u2019s Grocery Empire on Notice",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=23c75f4bc96f355ec991851df03c969a5c08b4ee09e1fc17dbaad8f2a0011c58",
+      "datetime": 1790183280,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Just Gave Sellers a New AI Superpower",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=df73a3bd85daae9568eb634033ca26acdcfc917f7e952dfc8d875acb9d797186",
+      "datetime": 1790182807,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Shopify Price Prediction: Wall Street Sees More Upside Than We Do",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed2509bdd5bb117bab0a7791bf833ee8543881df66415c7a72085179055ee8c3",
+      "datetime": 1790182802,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -75,44 +115,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Update: Market Chatter: Anthropic, OpenEvidence Team Up to Expand Medical AI Globally",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c94fb7eb12434c735710d8661f2d10fe8febdbf984a270d948f2e58efe75f4f6",
-      "datetime": 1790178327,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Sierra Space Appoints Warren Jenson to Board of Directors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0493aeba5348be029d1fef888564affb58dc24a175245e2fc3f855db6252be31",
-      "datetime": 1790177400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "WBD Stock Is Running. Is There Fuel Left?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=86640ea3005a06594c09cb28a573365f7299b4fbdcffed963059ab3b31efc3c2",
-      "datetime": 1790176707,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "P",
       "headline": "Everpure Recognized as A Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Infrastructure Platform Consumption Services",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b7e17461421b302a41e98cc8d0f8f78291934ca523809fe9f263e01bc7592cc6",
       "datetime": 1790176080,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Shopify Sinks 5%, Meta Ticks Up as Muse Deal Rally Unwinds; Amazon Slips",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e61c2b877a19bd3eef02a9fb9f1f00a75d22994e5da89a9469e0245be949e254",
-      "datetime": 1790175976,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -129,14 +137,6 @@
       "url": "https://finnhub.io/api/news?id=d2818f19696afdb3ca822f350b8ca08543f80b25148c4bb745bda6da8715baf0",
       "datetime": 1790175609,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Is Snowflake Buying Its Growth With Its Margin?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ff01db78b374de5a84e565e39f1c3b409ef7df8900c1a5b946f1ee3ae9c97057",
-      "datetime": 1790175005,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -451,12 +451,12 @@
       "market_cap_musd": 1740179.0550523084,
       "country": "US",
       "currency": "USD",
-      "price": 355.24,
+      "price": 354.77,
       "open": 363.37,
       "day_high": 363.37,
       "day_low": 354.01,
       "prev_close": 364.54,
-      "day_change_pct": -2.55,
+      "day_change_pct": -2.68,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -470,12 +470,12 @@
       "market_cap_musd": 98670.771001,
       "country": "CA",
       "currency": "USD",
-      "price": 42.75,
+      "price": 42.78,
       "open": 42.91,
       "day_high": 43.0,
       "day_low": 42.13,
       "prev_close": 43.88,
-      "day_change_pct": -2.58,
+      "day_change_pct": -2.51,
       "week52_high": 74.0,
       "week52_low": 41.89
     },
@@ -489,12 +489,12 @@
       "market_cap_musd": 60923.017843,
       "country": "CA",
       "currency": "USD",
-      "price": 363.27,
+      "price": 362.69,
       "open": 355.3,
       "day_high": 367.9,
       "day_low": 354.37,
       "prev_close": 356.09,
-      "day_change_pct": 2.02,
+      "day_change_pct": 1.85,
       "week52_high": 655.5,
       "week52_low": 315.41
     },
@@ -508,12 +508,12 @@
       "market_cap_musd": 60001.78802748181,
       "country": "US",
       "currency": "USD",
-      "price": 314.66,
+      "price": 313.01,
       "open": 315.79,
       "day_high": 320.24,
-      "day_low": 314.03,
+      "day_low": 312.52,
       "prev_close": 314.43,
-      "day_change_pct": 0.07,
+      "day_change_pct": -0.45,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -527,12 +527,12 @@
       "market_cap_musd": 69425.014879549,
       "country": "US",
       "currency": "USD",
-      "price": 86.33,
+      "price": 86.26,
       "open": 85.25,
-      "day_high": 86.34,
+      "day_high": 86.43,
       "day_low": 84.71,
       "prev_close": 85.82,
-      "day_change_pct": 0.59,
+      "day_change_pct": 0.51,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -546,12 +546,12 @@
       "market_cap_musd": 7108.574611316406,
       "country": "US",
       "currency": "USD",
-      "price": 19.64,
+      "price": 19.67,
       "open": 19.56,
       "day_high": 19.95,
       "day_low": 19.2,
       "prev_close": 19.64,
-      "day_change_pct": 0.0,
+      "day_change_pct": 0.15,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -565,12 +565,12 @@
       "market_cap_musd": 36951.57254084788,
       "country": "US",
       "currency": "USD",
-      "price": 108.9,
+      "price": 108.65,
       "open": 110.97,
       "day_high": 112.0,
       "day_low": 107.1,
       "prev_close": 110.89,
-      "day_change_pct": -1.79,
+      "day_change_pct": -2.02,
       "week52_high": 119.1,
       "week52_low": 56.78
     },
@@ -584,12 +584,12 @@
       "market_cap_musd": 2750294.589158844,
       "country": "US",
       "currency": "USD",
-      "price": 248.92,
+      "price": 249.76,
       "open": 254.35,
       "day_high": 254.35,
       "day_low": 247.76,
       "prev_close": 254.98,
-      "day_change_pct": -2.38,
+      "day_change_pct": -2.05,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-23T17:58:17.766898+00:00"
+  "updated_at": "2026-09-23T18:13:18.189992+00:00"
 }
