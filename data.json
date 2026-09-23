@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Beloved travel brand closing after 22 years, final sale swamped",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=11db22679699cc17019cef18807f03a191719f85fb07926b660b71100b1688de",
+      "datetime": 1790201991,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Why UPS Slashed Its Amazon Business by 50%",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7a2da571b7dd274a31f4bd5325140e9c96c48a8f880d26444df08eec218126b0",
+      "datetime": 1790200620,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "P",
       "headline": "Everpure's Expanding Business Model Fuels New Long-Term Outlook",
       "source": "Yahoo",
@@ -104,22 +120,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4d4f1e4a18dd9c6b00cde2e9e21b7bd5b8570a454adddf48791a24fbe70084ef",
       "datetime": 1790195823,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3aa2d05dbfb9cccf295039bfda103476f6d1d985eb2b75caef6ed55770b1f407",
-      "datetime": 1790192592,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "AMZN Stock In Focus \u2014 Amazon Reportedly Taps Former Employees And Laid-Off Staff In Accelerated Push For AI Talent",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=196f924979804e276de84457bebd7237a094f763d82cb5905216e16fff10f6c4",
-      "datetime": 1790191708,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-23T23:43:14.380078+00:00"
+  "updated_at": "2026-09-23T23:58:14.411418+00:00"
 }
