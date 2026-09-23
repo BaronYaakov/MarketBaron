@@ -83,6 +83,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "5 Top-Ranked High-Efficiency Stocks With Strong Profit Potential",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=769a5f0aa18fdfaaa1741fe0419f464d3987dba78bc692ca68962a84128cf57e",
+      "datetime": 1790164800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "AI Chips Update - Rising AI Sentiment Drives Industry Shift and Efficiency Gains",
       "source": "Yahoo",
@@ -385,14 +393,6 @@
       "url": "https://finnhub.io/api/news?id=55dcd375ad8f39ea5fcbcc3e52e5ac6a03f402dcbb7aa3a622440b2390f1f1c1",
       "datetime": 1789588680,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica (NYSE:CLS) Stands Out as a Quality Investing Candidate",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=508f70a6b521e85c0e98cc91adff841998e31cf1550bd0ecee8f5bc73d355ad4",
-      "datetime": 1789552259,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     }
   ],
   "recent_posts": [],
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-23T13:13:14.901111+00:00"
+  "updated_at": "2026-09-23T13:28:17.070821+00:00"
 }
