@@ -59,6 +59,54 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Here are the stocks taking a hit amid the Muse hype",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf5735c16b8739a261042b743125b16ed41524635a9cf2e78b0bc881e509e583",
+      "datetime": 1790169637,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Morgan Stanley Just Put a $54 Target on This AI-Pivoting Bitcoin Miner. Amazon Is Already a Customer",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=990e93d9a7ef2aa189a6e64f74e2663bde37358b0f5224e28682f0452806a784",
+      "datetime": 1790168979,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Meta Platforms' National TV Ad Shows a Major Shift in the Business Model",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=781ab304f6790b8083e94fa5c6e5569ef7f845aa45231dacf24373143cd20c6a",
+      "datetime": 1790168640,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The Climate Pledge Fashion Coalition Launches with Amazon, Stella McCartney, World Economic Forum, and Canopy, Bringing Together More Than 60 Industry Leaders to Accelerate Climate Innovation Across Fashion",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=59c8417133803db4fb703ec75598f4d026ccbdeac044b20ea08f31a7a37298f0",
+      "datetime": 1790168400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Customer Paradigm Launches AI-Powered Safeguard for Amazon SES Email Systems",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e48d682dca872d0dd9e9376db899d9a7fcf9c7de314a1f104c79d571cfbb860",
+      "datetime": 1790167500,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "ValueAct\u2019s 2 Stock Picks You Shouldn\u2019t Miss",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cb6359a4fda295e8a86da2f427a1d38794e3fdbf5bb090de44f5ec4f0f3a750b",
+      "datetime": 1790166784,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "B",
       "headline": "Can Newmont's Record Free Cash Flow Momentum Carry Into Q3?",
       "source": "Yahoo",
@@ -99,46 +147,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Best Buy and Amazon Expand Fire TV Partnership, Opening Fire TV Ad Inventory to Best Buy Ads",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=25a4f1b620745b8b7fe4e543061dd0d53b57d369b6774f6c89f4a4a0de1c6f36",
-      "datetime": 1790161200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The hidden tech trap destroying your portfolio",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=16ddd11251d6fbb1cfd0511e089b24b619a09ff42c574973bee5def8f4e04bd4",
-      "datetime": 1790161200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The AI panic, tech concentration, and Nvidia windfalls",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dfb72e8f7ed7eb8c3af3557981189290287963877ce4dd76a21f6a8e1566d239",
-      "datetime": 1790157600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The future of AI growth rests on Big Tech's cash flow tripling to $2 trillion: Chart of the Day",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=99443912d09826481fa38bd1a9227a8ca988834228dd734bb2097e94ea316bee",
-      "datetime": 1790157600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Snap Has Launched Its High-Powered Glasses. Will There Be Enough Demand?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7ab1892237de8b5b4a9dfc60fec7fd3f5a6100ce8e57f346f2f16c5222655277",
-      "datetime": 1790157120,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "AVGO Stock Falls Premarket: China Reportedly Audits Broadcom\u2019s Grip On State-Backed Data Centers",
       "source": "Yahoo",
@@ -161,14 +169,6 @@
       "url": "https://finnhub.io/api/news?id=d7df606b910c0dee8bcfd92a027888548672b075dd410b7c3ee7af9d14f7840c",
       "datetime": 1790151072,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Market Chatter: Anthropic Eyes Up to 1 GW of Data Center Capacity From Apollo-Backed Stream",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d7df606b910c0dee8bcfd92a027888548672b075dd410b7c3ee7af9d14f7840c",
-      "datetime": 1790151072,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "CLS",
@@ -451,12 +451,12 @@
       "market_cap_musd": 1740179.0550523084,
       "country": "US",
       "currency": "USD",
-      "price": 364.54,
-      "open": 363.23,
-      "day_high": 366.55,
-      "day_low": 359.29,
-      "prev_close": 362.66,
-      "day_change_pct": 0.52,
+      "price": 357.38,
+      "open": 363.37,
+      "day_high": 363.37,
+      "day_low": 356.95,
+      "prev_close": 364.54,
+      "day_change_pct": -1.96,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -470,12 +470,12 @@
       "market_cap_musd": 98670.771001,
       "country": "CA",
       "currency": "USD",
-      "price": 43.88,
-      "open": 42.68,
-      "day_high": 44.18,
-      "day_low": 42.67,
-      "prev_close": 42.69,
-      "day_change_pct": 2.79,
+      "price": 42.48,
+      "open": 42.91,
+      "day_high": 43.0,
+      "day_low": 42.37,
+      "prev_close": 43.88,
+      "day_change_pct": -3.19,
       "week52_high": 74.0,
       "week52_low": 41.89
     },
@@ -489,12 +489,12 @@
       "market_cap_musd": 60923.017843,
       "country": "CA",
       "currency": "USD",
-      "price": 356.09,
-      "open": 342.49,
-      "day_high": 359.05,
-      "day_low": 341.5,
-      "prev_close": 344.4,
-      "day_change_pct": 3.39,
+      "price": 356.49,
+      "open": 355.3,
+      "day_high": 362.0,
+      "day_low": 355.3,
+      "prev_close": 356.09,
+      "day_change_pct": 0.11,
       "week52_high": 655.5,
       "week52_low": 315.41
     },
@@ -508,12 +508,12 @@
       "market_cap_musd": 60001.78802748181,
       "country": "US",
       "currency": "USD",
-      "price": 314.43,
-      "open": 317.62,
-      "day_high": 320.0,
-      "day_low": 313.89,
-      "prev_close": 316.49,
-      "day_change_pct": -0.65,
+      "price": 315.8,
+      "open": 315.79,
+      "day_high": 316.6,
+      "day_low": 315.44,
+      "prev_close": 314.43,
+      "day_change_pct": 0.44,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -527,12 +527,12 @@
       "market_cap_musd": 69425.014879549,
       "country": "US",
       "currency": "USD",
-      "price": 85.82,
-      "open": 83.92,
-      "day_high": 87.02,
-      "day_low": 83.92,
-      "prev_close": 82.88,
-      "day_change_pct": 3.55,
+      "price": 85.26,
+      "open": 85.25,
+      "day_high": 86.21,
+      "day_low": 85.01,
+      "prev_close": 85.82,
+      "day_change_pct": -0.65,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -546,12 +546,12 @@
       "market_cap_musd": 7108.574611316406,
       "country": "US",
       "currency": "USD",
-      "price": 19.64,
-      "open": 20.74,
-      "day_high": 20.91,
-      "day_low": 19.42,
-      "prev_close": 20.48,
-      "day_change_pct": -4.1,
+      "price": 19.45,
+      "open": 19.56,
+      "day_high": 19.79,
+      "day_low": 19.43,
+      "prev_close": 19.64,
+      "day_change_pct": -0.97,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -565,12 +565,12 @@
       "market_cap_musd": 36951.57254084788,
       "country": "US",
       "currency": "USD",
-      "price": 110.89,
-      "open": 111.39,
-      "day_high": 111.39,
-      "day_low": 107.2,
-      "prev_close": 113.66,
-      "day_change_pct": -2.44,
+      "price": 109.26,
+      "open": 110.97,
+      "day_high": 112.0,
+      "day_low": 109.02,
+      "prev_close": 110.89,
+      "day_change_pct": -1.47,
       "week52_high": 119.1,
       "week52_low": 56.78
     },
@@ -584,12 +584,12 @@
       "market_cap_musd": 2750294.589158844,
       "country": "US",
       "currency": "USD",
-      "price": 254.98,
-      "open": 255.11,
-      "day_high": 259.0,
-      "day_low": 253.78,
-      "prev_close": 258.45,
-      "day_change_pct": -1.34,
+      "price": 251.81,
+      "open": 254.35,
+      "day_high": 254.35,
+      "day_low": 251.24,
+      "prev_close": 254.98,
+      "day_change_pct": -1.24,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-23T13:28:17.070821+00:00"
+  "updated_at": "2026-09-23T13:43:14.488882+00:00"
 }
