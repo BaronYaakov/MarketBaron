@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "P",
+      "headline": "Everpure's Expanding Business Model Fuels New Long-Term Outlook",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=62d665e9bfb347cc24b50e145dae565354cad9df72e9b3a745d8fdba8e1fcdd6",
+      "datetime": 1790199000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "S&P 500, Dow, Nasdaq Drop As Yields Spike Amid Calls For More Rate Hikes \u2014 AMZN, GOOGL, NFLX, SPCX, RKLB In Focus",
       "source": "Yahoo",
@@ -371,14 +379,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "P",
-      "headline": "Why Everpure (P) Stock Is Up Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8953de022a5ec9f4e4c502fbc2bf867e145ccac3d18c59574ae1b96f73cecb82",
-      "datetime": 1789674377,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "Wall Street Breakfast With Steven Cress (Generac, Amazon, Powell, Kroger)",
       "source": "SeekingAlpha",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-23T22:13:14.546145+00:00"
+  "updated_at": "2026-09-23T22:28:14.646310+00:00"
 }
