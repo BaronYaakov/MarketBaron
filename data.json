@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "3 Companies With a Strong History of Dividend Growth",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b4cdc5df201ba0248989163a965998cd5a2812824decc8f5b138b82506ac74ad",
+      "datetime": 1790205300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Beloved travel brand closing after 22 years, final sale swamped",
       "source": "Yahoo",
@@ -168,14 +176,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d2818f19696afdb3ca822f350b8ca08543f80b25148c4bb745bda6da8715baf0",
       "datetime": 1790175609,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Two Chip Giants, Two Very Different Dividends. Which One Pays You Better?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=982ff4e5b9bcdf07b36fc856c95630b6cc0691a4e6b3e3fd58ffa8dbedfd5628",
-      "datetime": 1790173814,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -448,7 +448,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1740179.0550523084,
+      "market_cap_musd": 1694590.9118215344,
       "country": "US",
       "currency": "USD",
       "price": 354.99,
@@ -467,7 +467,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.barrick.com/",
       "ipo_date": "1983-05-02",
-      "market_cap_musd": 98670.771001,
+      "market_cap_musd": 101732.116988,
       "country": "CA",
       "currency": "USD",
       "price": 42.49,
@@ -477,7 +477,7 @@
       "prev_close": 43.88,
       "day_change_pct": -3.17,
       "week52_high": 74.0,
-      "week52_low": 41.89
+      "week52_low": 42.62
     },
     "CLS": {
       "name": "Celestica Inc",
@@ -486,7 +486,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.celestica.com/",
       "ipo_date": "1998-07-01",
-      "market_cap_musd": 60923.017843,
+      "market_cap_musd": 63272.468522,
       "country": "CA",
       "currency": "USD",
       "price": 361.84,
@@ -505,7 +505,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 60001.78802748181,
+      "market_cap_musd": 59591.51005580472,
       "country": "US",
       "currency": "USD",
       "price": 312.28,
@@ -524,7 +524,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 69425.014879549,
+      "market_cap_musd": 69489.73379800399,
       "country": "US",
       "currency": "USD",
       "price": 85.9,
@@ -543,7 +543,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 7108.574611316406,
+      "market_cap_musd": 7148.388358579429,
       "country": "US",
       "currency": "USD",
       "price": 19.75,
@@ -562,7 +562,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 36951.57254084788,
+      "market_cap_musd": 36538.369340417536,
       "country": "US",
       "currency": "USD",
       "price": 109.65,
@@ -581,7 +581,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2750294.589158844,
+      "market_cap_musd": 2688704.558678654,
       "country": "US",
       "currency": "USD",
       "price": 249.27,
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-23T23:58:14.411418+00:00"
+  "updated_at": "2026-09-24T00:13:14.628469+00:00"
 }
