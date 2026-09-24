@@ -91,6 +91,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
+      "ticker": "P",
+      "headline": "Everpure, Inc. (P) Shareholder/Analyst Call - Slideshow",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f4b0569672ab34ede98e84fbc162573f25dac069880e81efd1e0b7a0b8a101ab",
+      "datetime": 1790211735,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Semiconductor Whiplash",
       "source": "SeekingAlpha",
@@ -185,14 +193,6 @@
       "url": "https://finnhub.io/api/news?id=2abe1983b5fdf13093add1ebf6acc4b1be98d5e50265affe737bd8662c949d5c",
       "datetime": 1790177674,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Everpure Recognized as A Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Infrastructure Platform Consumption Services",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b7e17461421b302a41e98cc8d0f8f78291934ca523809fe9f263e01bc7592cc6",
-      "datetime": 1790176080,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "AVGO",
@@ -592,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-24T05:13:15.276875+00:00"
+  "updated_at": "2026-09-24T05:28:14.631357+00:00"
 }
