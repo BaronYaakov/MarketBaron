@@ -59,6 +59,54 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "MIT Explains What Happens When the Trillion-Dollar AI Bubble Bursts",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e3bce86caafa2ffdafedc92b3ebcb86bf6e2fd6ce8fdf806a894b440909faa3e",
+      "datetime": 1790218271,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Blocked Meta's AI Shopping Agent. Shopify Welcomed It -- and Gets Paid on Every Checkout.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1947d0048e2f89fbe015c6975001e5c12ad772d34c9cc839dedcb6d00bb9443c",
+      "datetime": 1790215081,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Meta Puts Apple Firmly in Its Sights With New VR Glasses",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=01e7a44142919cc0b7acd15e66795b3241304f38339ae57ccec79833c8fa63a7",
+      "datetime": 1790214840,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Everpure Unveils Data-First AI Strategy, Targets $21B Intelligence Market",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=512f62e26d53303cfe9bc9714e6bb842403853095304515787ee77a29ffd8947",
+      "datetime": 1790211739,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Semiconductor Whiplash",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b680b2b9d35897c677efb4d42feeeac989dfa312b9a9b0a16f5c0d3d9c4f8b82",
+      "datetime": 1790211300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Everpure Maps AI, Hyperscale Push as It Targets $7B in Fiscal 2028 Revenue",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fda31f951f8212ffddeb285b0e49e977c2e1317c9bcd3d7034093c3dad0759b6",
+      "datetime": 1790208121,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "3 Companies With a Strong History of Dividend Growth",
       "source": "Yahoo",
@@ -99,14 +147,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "If Amazon doesn\u2019t know how to eliminate carbon emissions, then who does?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bf6b98a569f1f7f3e4298db72d855d7a62096058fae28a7abf5ef99f4903511c",
-      "datetime": 1790198493,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "P",
       "headline": "Stay updated with the stocks that are on the move in today's after-hours session.",
       "source": "ChartMill",
@@ -121,22 +161,6 @@
       "url": "https://finnhub.io/api/news?id=eb399367ac92637e29ba0e9c6e40041919338e4d599d46e68c0ce656b464c881",
       "datetime": 1790197169,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Alphabet vs. Amazon: Which Anthropic Backer Will Benefit More From the $2 Trillion IPO?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=18fb3e311b66255b40c04782d2b52db624cfc7daa5fe40b910c60fc86c3278df",
-      "datetime": 1790196720,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Debt-Financed AI Investment Boom Risks Equity Market Selloff, IMF Says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4d4f1e4a18dd9c6b00cde2e9e21b7bd5b8570a454adddf48791a24fbe70084ef",
-      "datetime": 1790195823,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -176,14 +200,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a60be5a8fc971825ee0b45d3febf4b74c44861e002b00ca57bd63b80c08b71a8",
       "datetime": 1790175642,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "This Magnificent Seven Stock Could Turn $10,000 Into $20,000 by 2027",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d2818f19696afdb3ca822f350b8ca08543f80b25148c4bb745bda6da8715baf0",
-      "datetime": 1790175609,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -347,14 +363,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
-      "ticker": "P",
-      "headline": "Everpure (P) Dropped From Key Small Cap Indices As Fund Exposure Shifts",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=db19c34b574d7e0da48c44f39f61627418c056724c6c51aa66866994531424b8",
-      "datetime": 1789909766,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "TSMC Stock And 2 Manufacturers Building Around Tariff Shifts",
       "source": "Yahoo",
@@ -371,28 +379,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
-      "ticker": "P",
-      "headline": "Investing In Everpure: Growth Potential You Can't Ignore",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=73ce1b1ff97b35e4eed68d64b1e3f9d01bcb3ed14288656fd097d6251a9b1ad5",
-      "datetime": 1789727333,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "Wall Street Breakfast With Steven Cress (Generac, Amazon, Powell, Kroger)",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=3c31abe1f83ec660d5bd379baca449bf1ab93f6234e714b3027b0eb34d80871b",
       "datetime": 1789667400,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Cencora Tech Chief: AI Is Cutting Some Medical Treatment Decisions in Half",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=55dcd375ad8f39ea5fcbcc3e52e5ac6a03f402dcbb7aa3a622440b2390f1f1c1",
-      "datetime": 1789588680,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     }
   ],
   "recent_posts": [],
@@ -600,5 +592,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-24T04:58:14.286564+00:00"
+  "updated_at": "2026-09-24T05:13:15.276875+00:00"
 }
