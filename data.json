@@ -115,6 +115,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
+      "ticker": "P",
+      "headline": "Everpure, Inc. (P) Shareholder/Analyst Call Transcript",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=eb399367ac92637e29ba0e9c6e40041919338e4d599d46e68c0ce656b464c881",
+      "datetime": 1790197169,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Alphabet vs. Amazon: Which Anthropic Backer Will Benefit More From the $2 Trillion IPO?",
       "source": "Yahoo",
@@ -371,14 +379,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "P",
-      "headline": "Everpure to Host 2026 Financial Analyst Meeting",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c05495a46ef5376ebdaea01a15e804026e226264e9a55e6579000bf60bae4295",
-      "datetime": 1789675500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "Wall Street Breakfast With Steven Cress (Generac, Amazon, Powell, Kroger)",
       "source": "SeekingAlpha",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-24T01:13:14.325165+00:00"
+  "updated_at": "2026-09-24T01:28:14.979234+00:00"
 }
