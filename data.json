@@ -59,6 +59,46 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "COR",
+      "headline": "AbbVie vs. Pfizer: Which Healthcare Stock Makes Your Portfolio Healthier in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3c443fa180b195a06f52ced8a8b5d4a24a692b809dd175762819f3d8ae4b1d19",
+      "datetime": 1790371321,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "How Much Track Is Left For MRVL Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f54b4a0d405d614c703cfc759f3ab919e5e5058abeb7e0aa836e2e5ddbb1eca9",
+      "datetime": 1790368473,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Is Home Depot's Next Big Thing Already In Its Stores?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0acf0bb94933efc0fd270859fd5429b0c2ec64ab96b0ec19f2b97d83dd70c53a",
+      "datetime": 1790367464,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "UiPath And 2 Other Undervalued Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=412ae0144185db5df420faa2d1f4c0f826d039dc7679b32f9a069ef4272cbc6a",
+      "datetime": 1790367112,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "How to make sense of 7% mortgage rates and Oracle's AI data center disruption",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a38dfcb62e8a8ad7dbe3bc63163d3c1a7811965b87005e755bb0893daf77f75e",
+      "datetime": 1790362991,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "P",
       "headline": "These Tech Stocks Trade Near Buy Points. One Sees 80% To 100% Core Income Growth.",
       "source": "Yahoo",
@@ -123,14 +163,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "What Musk\u2019s Tesla and SpaceX Stocks Are Doing After That White House State Dinner",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4c2081f7d7a04e6a6f37df54734db2a99b93b9a75bc10ca7cce863cf0a88f84d",
-      "datetime": 1790355840,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "How to fix overvalued AI companies and a McDonald's market play",
       "source": "Yahoo",
@@ -155,22 +187,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "What Is The Case For Waiting On Intel Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cf67ab74aa9cc03ffc57a20b2967a85d036254062fc4c07ea4e97967c7b41ab0",
-      "datetime": 1790341321,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "189%: The Year to Date Number That Pushed AMD Into the Trillion Dollar Club",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=04746a0cc8014e08efc135c0f69bee56134df8843a519917710bba9611e359e2",
-      "datetime": 1790341227,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Cencora Elects Robert E. Sanchez to Its Board of Directors",
       "source": "Yahoo",
@@ -185,14 +201,6 @@
       "url": "https://finnhub.io/api/news?id=24ee99cacf6450bc4588a67a6b0f3cdd1856b24cc2c800cfd2cda37107ae5a94",
       "datetime": 1790337386,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "This Week In AI Chips - Secure AI Integration Advances with VAST DataEnclave Launch",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e861c10df1c97c626f169a1d92a2ba36b5862ba8b6bf1773d2f4536ba4e1dfde",
-      "datetime": 1790336237,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "ORLY",
@@ -384,14 +392,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3e59c5a142d490e9f2d3d2ec72f8bffda0c3472f6744f8f7756c20aa1a5b6325",
       "datetime": 1790031728,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Cencora Highlights Specialty Growth, MSO Expansion and Walgreens Ties at Conference",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3bb5b5a455323b2d2625a5ec535d1f0028338bbb38d12411de24647de5bcea27",
-      "datetime": 1789984924,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     }
   ],
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-25T21:58:16.259074+00:00"
+  "updated_at": "2026-09-25T22:13:15.277989+00:00"
 }
