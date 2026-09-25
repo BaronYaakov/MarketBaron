@@ -60,34 +60,50 @@
   "news": [
     {
       "ticker": "AMZN",
-      "headline": "Michael Burry Drops Stark Message For AI Stock Investors",
+      "headline": "Amazon, US Steel, Pirelli and others make facility investments, while layoffs progress",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0f40091b2968862e71e52b39492fefd53651e89f0de7c78031d365f79a8c69f5",
-      "datetime": 1790344491,
+      "url": "https://finnhub.io/api/news?id=978e79606dfaae08de4f57ad2a71a53c66b27ab2f330ccb6f9327540a4290bd2",
+      "datetime": 1790351460,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Anthropic Seeks Palantir-Style Control Ahead of IPO",
+      "headline": "Amazon Stock: Is AI Capex Outrunning the Payback?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a1af311de8b0e7d8cd7109bc5b88f36dc63aff69cd113b18b70f9dafc25788dd",
-      "datetime": 1790343966,
+      "url": "https://finnhub.io/api/news?id=412affd2ab1171c66b0098c8e3996d9315f347635974a43ee8e9fb10eb9ccbe7",
+      "datetime": 1790350822,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "AI-Driven Investment Surge Reshapes the Electronic Chemicals and Materials Industry",
+      "headline": "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8cffa4543084a989daf373e06b2b4b210e12e2c4465c549240178bd2792231c8",
-      "datetime": 1790343840,
+      "url": "https://finnhub.io/api/news?id=ce31199e07cbec079b2eb14db132c99626980e2b06e2d16293134b6a7b39f2c8",
+      "datetime": 1790347748,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Oracle\u2019s Collapse\u2013$200 Billion In Data Center Shut Downs",
+      "headline": "AI financing fears are mounting, sparked by Oracle's force majeure notice",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=20db64b37d2146f17e5335faaa889908ab94052b82281d9837496c871c2c1c7a",
-      "datetime": 1790342167,
+      "url": "https://finnhub.io/api/news?id=dfd0aebf575be38140917c84e91bef46d8e6fc9f438332889e494f64dd455836",
+      "datetime": 1790346851,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Carrier diversity key to holiday success in a high cost environment",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dae468790d85e5119ff2f2c2014e377e7222cab2b2841453cac71fba5ff61516",
+      "datetime": 1790346169,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The \"Magnificent Seven\" Stocks: Here's the 1 I'm Buying Hand Over Fist Right Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd464a04d71a8232c71c2f8ced510af2b9d2d4cec53e66a1be586745bca88dbb",
+      "datetime": 1790346000,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -100,27 +116,19 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "What Is The Case For Waiting On Intel Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf67ab74aa9cc03ffc57a20b2967a85d036254062fc4c07ea4e97967c7b41ab0",
+      "datetime": 1790341321,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "189%: The Year to Date Number That Pushed AMD Into the Trillion Dollar Club",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=04746a0cc8014e08efc135c0f69bee56134df8843a519917710bba9611e359e2",
       "datetime": 1790341227,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Goldman Sachs Warns on Big Tech AI Debt Flood",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=878060636308efc8dd76e1d21f6c242c6386fc633354bf52ff69964f1a8e0ce7",
-      "datetime": 1790341106,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Vs. Meta: What\u2019s Actually Behind The Decision to Block Muse",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c59ccca6e320ce7c1b2de4984da804df03dac89a7b0508d0d7d2c6dad47f9471",
-      "datetime": 1790340565,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "COR",
@@ -192,14 +200,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=90c0a5ead4378e17b3f0ed4a8764813b8ddd4f02f63d8912f18d47ba2f8f16a0",
       "datetime": 1790316607,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom vs. Marvell: Which Custom AI Chip Stock Has the Better Risk-Reward?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8a9a303cb9389e0d1ba51a37a3535a3d1c6b4a3e193d865c2b37b5e0b2895bfa",
-      "datetime": 1790310402,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -451,12 +451,12 @@
       "market_cap_musd": 1672488.9197325937,
       "country": "US",
       "currency": "USD",
-      "price": 351.75,
+      "price": 353.42,
       "open": 353.31,
       "day_high": 354.43,
       "day_low": 349.43,
       "prev_close": 350.36,
-      "day_change_pct": 0.4,
+      "day_change_pct": 0.87,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -470,12 +470,12 @@
       "market_cap_musd": 98506.178794,
       "country": "CA",
       "currency": "USD",
-      "price": 42.43,
+      "price": 42.71,
       "open": 42.59,
-      "day_high": 42.59,
+      "day_high": 42.78,
       "day_low": 42.06,
       "prev_close": 42.32,
-      "day_change_pct": 0.26,
+      "day_change_pct": 0.92,
       "week52_high": 74.0,
       "week52_low": 42.62
     },
@@ -489,12 +489,12 @@
       "market_cap_musd": 64413.772569,
       "country": "CA",
       "currency": "USD",
-      "price": 369.39,
+      "price": 371.11,
       "open": 380.25,
       "day_high": 381.3,
       "day_low": 367.73,
       "prev_close": 373.56,
-      "day_change_pct": -1.12,
+      "day_change_pct": -0.66,
       "week52_high": 655.5,
       "week52_low": 315.41
     },
@@ -508,12 +508,12 @@
       "market_cap_musd": 59131.61771151714,
       "country": "US",
       "currency": "USD",
-      "price": 305.22,
+      "price": 306.26,
       "open": 308.36,
       "day_high": 310.89,
       "day_low": 304.75,
       "prev_close": 309.87,
-      "day_change_pct": -1.5,
+      "day_change_pct": -1.17,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -527,12 +527,12 @@
       "market_cap_musd": 69764.78196213269,
       "country": "US",
       "currency": "USD",
-      "price": 85.89,
+      "price": 86.34,
       "open": 86.1,
       "day_high": 86.81,
       "day_low": 85.56,
       "prev_close": 86.24,
-      "day_change_pct": -0.41,
+      "day_change_pct": 0.12,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -546,12 +546,12 @@
       "market_cap_musd": 6996.372215260759,
       "country": "US",
       "currency": "USD",
-      "price": 19.26,
+      "price": 19.4,
       "open": 19.33,
       "day_high": 19.56,
       "day_low": 19.18,
       "prev_close": 19.33,
-      "day_change_pct": -0.36,
+      "day_change_pct": 0.36,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -565,12 +565,12 @@
       "market_cap_musd": 40613.73955033287,
       "country": "US",
       "currency": "USD",
-      "price": 124.99,
+      "price": 126.92,
       "open": 123.94,
       "day_high": 127.45,
       "day_low": 122.3,
       "prev_close": 121.88,
-      "day_change_pct": 2.55,
+      "day_change_pct": 4.14,
       "week52_high": 119.1,
       "week52_low": 56.78
     },
@@ -584,12 +584,12 @@
       "market_cap_musd": 2689891.1444251803,
       "country": "US",
       "currency": "USD",
-      "price": 249.25,
+      "price": 250.43,
       "open": 249.5,
-      "day_high": 250.16,
+      "day_high": 250.49,
       "day_low": 247.18,
       "prev_close": 249.38,
-      "day_change_pct": -0.05,
+      "day_change_pct": 0.42,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-25T15:58:15.829149+00:00"
+  "updated_at": "2026-09-25T16:13:16.457923+00:00"
 }
