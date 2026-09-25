@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "P",
+      "headline": "These Tech Stocks Trade Near Buy Points. One Sees 80% To 100% Core Income Growth.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a2ed7ccbbc01b03656b4cabc1ec21fb89ed095aabe6c17866a15706c2a453256",
+      "datetime": 1790361545,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Is AMD Stock Priced Right Against Its Chip Peers?",
       "source": "Yahoo",
@@ -216,14 +224,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=03970817b0e966993c1f17026a1d4240949e80c93e1b93b4e011c7b379b9f13e",
       "datetime": 1790294654,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Review & Preview: It\u2019s All About the Yields",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fa5391cfc61e3edc1064d22825781f686d1b8ef80c0e8d2cbac0d30d3146ff2d",
-      "datetime": 1790294100,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-25T20:13:17.701043+00:00"
+  "updated_at": "2026-09-25T20:28:17.845221+00:00"
 }
