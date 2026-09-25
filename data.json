@@ -179,6 +179,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
+      "ticker": "P",
+      "headline": "Everpure Stock Just Hit a New All-Time High. What Comes Next.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9af600b4edcbf6b91a31238c030f55b4ba128af66751dd78dbed6380e4b64e97",
+      "datetime": 1790346261,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "ORLY",
       "headline": "This Perennial Winner Is Down 20% From Its All-Time High. History Says It Can Double in the Next 5 Years.",
       "source": "Yahoo",
@@ -224,14 +232,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=819bbe3dbe48e20bf27b5921fe79e972f64f4beab1a4a443f0505b1922340720",
       "datetime": 1790323792,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "What Are Everpure Stock Bulls Not Worried About?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=03970817b0e966993c1f17026a1d4240949e80c93e1b93b4e011c7b379b9f13e",
-      "datetime": 1790294654,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-25T22:13:15.277989+00:00"
+  "updated_at": "2026-09-25T22:28:14.963435+00:00"
 }
