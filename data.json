@@ -67,6 +67,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "ORLY",
+      "headline": "America\u2019s Cars Keep Getting Older. These 4 Auto Parts Stocks Get Paid",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=87b03b76fd1ff03c71cfe638b71c6e1756d2274efb6ddb10ea9ecece59aedfe4",
+      "datetime": 1790431838,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Amazon.com (AMZN) Confirmed Iranian Drone Strikes Hit AWS Data Centers",
       "source": "Yahoo",
@@ -371,14 +379,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "ORLY",
-      "headline": "Discover which S&P500 stocks are making waves on Tuesday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=9bb87e258e62e7a642da3a0ac5578e1ec65d5eed0ac4c6bb6207cc2886cc981a",
-      "datetime": 1790103901,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Can CAH's MSO Expansion Unlock Growth in Specialty Care Delivery?",
       "source": "Yahoo",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-26T16:13:14.969996+00:00"
+  "updated_at": "2026-09-26T16:28:15.138780+00:00"
 }
