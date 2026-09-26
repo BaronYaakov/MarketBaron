@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "NVIDIA (NVDA) vs. Broadcom (AVGO): Which AI Chip Stock Has the Stronger Moat?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=59fb5ee40cadd499d2557266fbec626123c350c97af49ee2eb226eecf03fa537",
+      "datetime": 1790398261,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Nvidia Would Have to Add Almost a Whole Broadcom to Reach $7 Trillion",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4c4c114117f5c7acb7be91f7324a441243a63a96f45648fcea675aa10394aa57",
@@ -145,14 +153,6 @@
       "url": "https://finnhub.io/api/news?id=a2ed7ccbbc01b03656b4cabc1ec21fb89ed095aabe6c17866a15706c2a453256",
       "datetime": 1790361545,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Is AMD Stock Priced Right Against Its Chip Peers?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5c6b800e68aa5b0b9ee1b4ce254fb0debe91d47ebbea96ef2d9c3cc12006edeb",
-      "datetime": 1790361270,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-26T05:58:15.549212+00:00"
+  "updated_at": "2026-09-26T06:13:14.364066+00:00"
 }
