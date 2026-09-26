@@ -59,6 +59,30 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Amazon Has No Dividend. Here's Why Long-Term Investors Should Own It Anyway.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bd4ce2fcc220d3dbe76b33c6419492500c151bd403ed38d7ff2394939292dc62",
+      "datetime": 1790411700,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Nvidia vs. Broadcom: Whose AI Bull Case is Better?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=030fdadd39d106b9a582bbe574e8c0db6fc0bbc8de01eb6b505a0f35b6e1c462",
+      "datetime": 1790410920,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "3 Stocks to Load Up on Before 2026 Is Over",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7a1c5168f62af67f4e1fbe933488e74fa80f567914b85126a9c31ab8180dd394",
+      "datetime": 1790409900,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "NVIDIA (NVDA) vs. Broadcom (AVGO): Which AI Chip Stock Has the Stronger Moat?",
       "source": "Yahoo",
@@ -131,22 +155,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "UiPath And 2 Other Undervalued Stocks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=412ae0144185db5df420faa2d1f4c0f826d039dc7679b32f9a069ef4272cbc6a",
-      "datetime": 1790367112,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "How to make sense of 7% mortgage rates and Oracle's AI data center disruption",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a38dfcb62e8a8ad7dbe3bc63163d3c1a7811965b87005e755bb0893daf77f75e",
-      "datetime": 1790362991,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "P",
       "headline": "These Tech Stocks Trade Near Buy Points. One Sees 80% To 100% Core Income Growth.",
       "source": "Yahoo",
@@ -168,14 +176,6 @@
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=05bab3b9b2fcb41175871378adc80d9d2b6f43067350ad7207724a3c97045a4b",
       "datetime": 1790359502,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Quantum Is a $850 Billion Dream. Microsoft and Amazon Are Betting Big on It.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aca2b2c724f93957fd3158140b34a280985b39d71bbc2d7204ba1a09ea8678a6",
-      "datetime": 1790359320,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-26T09:58:14.489346+00:00"
+  "updated_at": "2026-09-26T10:13:14.685140+00:00"
 }
