@@ -60,6 +60,30 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Amazon Turned $1,000 Into $5,239 Over Ten Years but Recent Buyers Face a Rougher Reality",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b42df6e5adc416c213772c833a473fc2f851191e9fecdd555a8846ba985c0820",
+      "datetime": 1790423118,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Big Tech's AI build-out ran to the Middle East. Then the Iran war hit.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8535ac7ca25b6b220a760ca1f8d5345397a8d7287a31c97a627adec65559eba5",
+      "datetime": 1790422862,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Adobe Stock And 2 Other AI Stocks To Own",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c3221417410781475c123d7706ce0b3e1f675ba6fc0bba1f73654511dddc6536",
+      "datetime": 1790421176,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon Has No Dividend. Here's Why Long-Term Investors Should Own It Anyway.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=bd4ce2fcc220d3dbe76b33c6419492500c151bd403ed38d7ff2394939292dc62",
@@ -139,14 +163,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "How Much Track Is Left For MRVL Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f54b4a0d405d614c703cfc759f3ab919e5e5058abeb7e0aa836e2e5ddbb1eca9",
-      "datetime": 1790368473,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "AMZN",
       "headline": "Is Home Depot's Next Big Thing Already In Its Stores?",
       "source": "Yahoo",
@@ -161,22 +177,6 @@
       "url": "https://finnhub.io/api/news?id=a2ed7ccbbc01b03656b4cabc1ec21fb89ed095aabe6c17866a15706c2a453256",
       "datetime": 1790361545,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Stocks Move Lower as Anthropic Commits $11.6 Billion Elsewhere",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=082e743010acf82d7984c545e135a59cf1b8536211c4f56d84991c43692b476f",
-      "datetime": 1790360134,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Most active S&P500 stocks in Friday's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=05bab3b9b2fcb41175871378adc80d9d2b6f43067350ad7207724a3c97045a4b",
-      "datetime": 1790359502,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-26T11:58:14.237620+00:00"
+  "updated_at": "2026-09-26T12:13:14.382425+00:00"
 }
