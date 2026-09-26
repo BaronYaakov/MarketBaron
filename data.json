@@ -91,6 +91,22 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "P",
+      "headline": "What Moved Markets This Week",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8db58902f8a901e02142333e7092ccad903b8ead626c0ca0d7858ec1a754c93b",
+      "datetime": 1790411148,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "What Moved Markets This Week",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8db58902f8a901e02142333e7092ccad903b8ead626c0ca0d7858ec1a754c93b",
+      "datetime": 1790411148,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Nvidia vs. Broadcom: Whose AI Bull Case is Better?",
       "source": "Yahoo",
@@ -163,14 +179,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Is Home Depot's Next Big Thing Already In Its Stores?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0acf0bb94933efc0fd270859fd5429b0c2ec64ab96b0ec19f2b97d83dd70c53a",
-      "datetime": 1790367464,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "P",
       "headline": "These Tech Stocks Trade Near Buy Points. One Sees 80% To 100% Core Income Growth.",
       "source": "Yahoo",
@@ -240,14 +248,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=e05ac2d24d4a85f7aaa64e1564da7ebcfb86c48bc257f2f97e57715cd6f5feec",
       "datetime": 1790325309,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "US Stock Market Today: S&P 500 Futures Slip As Hot Growth Keeps Rate Fears High",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=819bbe3dbe48e20bf27b5921fe79e972f64f4beab1a4a443f0505b1922340720",
-      "datetime": 1790323792,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-26T12:28:14.263498+00:00"
+  "updated_at": "2026-09-26T12:43:14.342146+00:00"
 }
