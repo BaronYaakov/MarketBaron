@@ -75,6 +75,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Dividend Champion, Contender, And Challenger Highlights: Week September 27",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=403589f5a28b768b40e6b9e54ab5a5d2aa8836e772aecee6e6c1fa8830560d81",
+      "datetime": 1790377479,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Interrupted authority and written vetting rules at center of New Mexico crash lawsuit",
       "source": "Yahoo",
@@ -169,14 +177,6 @@
       "url": "https://finnhub.io/api/news?id=aca2b2c724f93957fd3158140b34a280985b39d71bbc2d7204ba1a09ea8678a6",
       "datetime": 1790359320,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Marvell\u2019s 203% YTD Surge Sets High Bar but We See More Runway Ahead",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d85e8e0969bd6e4f4c09395e170f78ee2f48aa2405fa5512bd17578458bb5cc6",
-      "datetime": 1790357412,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-26T03:13:15.425580+00:00"
+  "updated_at": "2026-09-26T03:28:15.849292+00:00"
 }
