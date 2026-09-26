@@ -59,6 +59,30 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Nvidia Would Have to Add Almost a Whole Broadcom to Reach $7 Trillion",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4c4c114117f5c7acb7be91f7324a441243a63a96f45648fcea675aa10394aa57",
+      "datetime": 1790379841,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Let\u2019s Take a Closer Look at Amazon\u2019s (AMZN) Debt-Fueled AI Buildout",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b9dcea6c86759db10cdc5031906ce1b96eb29ec6dbbde4f5219dbd99e0f9890d",
+      "datetime": 1790378434,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Interrupted authority and written vetting rules at center of New Mexico crash lawsuit",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f4b6fd22ddc5372739461902942d3b54e0dedaf568fde5abee54c0ed3eae7d5",
+      "datetime": 1790373975,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "COR",
       "headline": "AbbVie vs. Pfizer: Which Healthcare Stock Makes Your Portfolio Healthier in 2026?",
       "source": "Yahoo",
@@ -139,35 +163,11 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Quantum Selloff: Should Investors Consider These 3 Hyperscalers?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=97778d849e09f902e1ab152f75180c4023a14470f6a356f2c8b376bc1f427a82",
-      "datetime": 1790359200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a96166b07efe4619d5673e2f54c99a871d330f7c2e51d5b4039f5308e7cc9120",
-      "datetime": 1790358109,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Marvell\u2019s 203% YTD Surge Sets High Bar but We See More Runway Ahead",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d85e8e0969bd6e4f4c09395e170f78ee2f48aa2405fa5512bd17578458bb5cc6",
       "datetime": 1790357412,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "How to fix overvalued AI companies and a McDonald's market play",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=49fea019b16dc160de6929beb18c0e28fa698c8ba6793055f4818ac8b4adf549",
-      "datetime": 1790355475,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -448,7 +448,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1672488.9197325937,
+      "market_cap_musd": 1684184.2885399102,
       "country": "US",
       "currency": "USD",
       "price": 352.81,
@@ -467,7 +467,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.barrick.com/",
       "ipo_date": "1983-05-02",
-      "market_cap_musd": 98506.178794,
+      "market_cap_musd": 98440.348189,
       "country": "CA",
       "currency": "USD",
       "price": 42.88,
@@ -486,7 +486,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.celestica.com/",
       "ipo_date": "1998-07-01",
-      "market_cap_musd": 64413.772569,
+      "market_cap_musd": 66579.102098,
       "country": "CA",
       "currency": "USD",
       "price": 365.44,
@@ -505,7 +505,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 59131.61771151714,
+      "market_cap_musd": 58568.67684195347,
       "country": "US",
       "currency": "USD",
       "price": 306.92,
@@ -524,7 +524,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 69764.78196213269,
+      "market_cap_musd": 69663.65889557543,
       "country": "US",
       "currency": "USD",
       "price": 86.11,
@@ -543,7 +543,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 6996.372215260759,
+      "market_cap_musd": 7057.902621107089,
       "country": "US",
       "currency": "USD",
       "price": 19.5,
@@ -562,7 +562,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 40613.73955033287,
+      "market_cap_musd": 41986.63436839515,
       "country": "US",
       "currency": "USD",
       "price": 126.0,
@@ -571,7 +571,7 @@
       "day_low": 122.3,
       "prev_close": 121.88,
       "day_change_pct": 3.38,
-      "week52_high": 119.1,
+      "week52_high": 131.41,
       "week52_low": 56.78
     },
     "AMZN": {
@@ -581,7 +581,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2689891.1444251803,
+      "market_cap_musd": 2693019.1822406524,
       "country": "US",
       "currency": "USD",
       "price": 249.67,
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-25T23:58:16.905664+00:00"
+  "updated_at": "2026-09-26T00:13:16.078588+00:00"
 }
