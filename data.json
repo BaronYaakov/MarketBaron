@@ -60,6 +60,22 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Intuit vs. Oracle: Which Technology Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5cd135f9d84fb4ec9a0e1e48e0bb5cddb69504c96e4abfaebcfa96535f35ffdd",
+      "datetime": 1790436774,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon.com (AMZN) Confirmed Iranian Drone Strikes Hit AWS Data Centers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4a1e72e5916d0ec5a28c7e50f0879a0bbd33f157706a1858fbc0b0caefbb120d",
+      "datetime": 1790431813,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Best Buy\u2019s 4.2% Yield Looks Attractive. Can the Dividend Survive a Bad Year?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f1e3b49f12800c4e4aad17f05c113db34e056f5724f67d7f7fac6414e2d37905",
@@ -91,14 +107,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Big Tech's AI build-out ran to the Middle East. Then the Iran war hit.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8535ac7ca25b6b220a760ca1f8d5345397a8d7287a31c97a627adec65559eba5",
-      "datetime": 1790422862,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Adobe Stock And 2 Other AI Stocks To Own",
       "source": "Yahoo",
@@ -113,14 +121,6 @@
       "url": "https://finnhub.io/api/news?id=01816fc4ab9318669e391835bc282880a019cc329cb99b11e678ce1c85c76b10",
       "datetime": 1790419847,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Has No Dividend. Here's Why Long-Term Investors Should Own It Anyway.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bd4ce2fcc220d3dbe76b33c6419492500c151bd403ed38d7ff2394939292dc62",
-      "datetime": 1790411700,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-26T15:58:14.566740+00:00"
+  "updated_at": "2026-09-26T16:13:14.969996+00:00"
 }
