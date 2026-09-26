@@ -227,6 +227,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Zacks Investment Ideas feature highlights: Celestica, Advanced Energy Industries and EMCOR",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f24c540e9e4f4434d19d2ada1e713840676d785eeea4d6eb73f4b4aa74734a11",
+      "datetime": 1790325900,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "P",
       "headline": "Barclays Maintains Equal-Weight on Everpure, Raises Price Target to $132",
       "source": "Benzinga",
@@ -361,14 +369,6 @@
       "url": "https://finnhub.io/api/news?id=90735daf51e4778b6a634e061b853afb4a26d570797c28474a39dd3284486f22",
       "datetime": 1790155572,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica: A Cheaper Ticket To The AI Infrastructure Boom",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c29f911db11c96162287ef06f4a14e49ff7254b0d6322c19207ff84debe281f6",
-      "datetime": 1790141919,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "ORLY",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-26T00:58:15.546595+00:00"
+  "updated_at": "2026-09-26T01:13:15.414670+00:00"
 }
