@@ -60,6 +60,30 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Best Buy\u2019s 4.2% Yield Looks Attractive. Can the Dividend Survive a Bad Year?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f1e3b49f12800c4e4aad17f05c113db34e056f5724f67d7f7fac6414e2d37905",
+      "datetime": 1790427740,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Most Investors Own All Seven Magnificent Seven Stocks. That's a Mistake.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=053da01eba36705473a9b4b4c9e75141d39342703b81027ab5f0c5976622ba7c",
+      "datetime": 1790427720,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Is Spending $220 Billion on Data Centers. Here's Why That Makes The Stock an Incredible Buy",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=872c9159864b8fb5af911d4b795f76345d4540d38486637db166a3fcf21c294f",
+      "datetime": 1790424300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon Turned $1,000 Into $5,239 Over Ten Years but Recent Buyers Face a Rougher Reality",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b42df6e5adc416c213772c833a473fc2f851191e9fecdd555a8846ba985c0820",
@@ -99,14 +123,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "What Moved Markets This Week",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=8db58902f8a901e02142333e7092ccad903b8ead626c0ca0d7858ec1a754c93b",
-      "datetime": 1790411148,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Nvidia vs. Broadcom: Whose AI Bull Case is Better?",
       "source": "Yahoo",
@@ -139,28 +155,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Let\u2019s Take a Closer Look at Amazon\u2019s (AMZN) Debt-Fueled AI Buildout",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b9dcea6c86759db10cdc5031906ce1b96eb29ec6dbbde4f5219dbd99e0f9890d",
-      "datetime": 1790378434,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Dividend Champion, Contender, And Challenger Highlights: Week September 27",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=403589f5a28b768b40e6b9e54ab5a5d2aa8836e772aecee6e6c1fa8830560d81",
       "datetime": 1790377479,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Interrupted authority and written vetting rules at center of New Mexico crash lawsuit",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3f4b6fd22ddc5372739461902942d3b54e0dedaf568fde5abee54c0ed3eae7d5",
-      "datetime": 1790373975,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "COR",
@@ -177,6 +177,14 @@
       "url": "https://finnhub.io/api/news?id=a814040e50ad11761ac8ecfe2bf14dfe60f2a9916224f775b0beddb15731efe0",
       "datetime": 1790370572,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "$100 Invested In Everpure 5 Years Ago Would Be Worth This Much Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=80e2344a2135b3716f061b5b6c9addf562c6f9999fbc68e48d9a3e0698f048ec",
+      "datetime": 1790361922,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "P",
@@ -241,14 +249,6 @@
       "url": "https://finnhub.io/api/news?id=f24c540e9e4f4434d19d2ada1e713840676d785eeea4d6eb73f4b4aa74734a11",
       "datetime": 1790325900,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Barclays Maintains Equal-Weight on Everpure, Raises Price Target to $132",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=e05ac2d24d4a85f7aaa64e1564da7ebcfb86c48bc257f2f97e57715cd6f5feec",
-      "datetime": 1790325309,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "COR",
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-26T13:58:14.394384+00:00"
+  "updated_at": "2026-09-26T14:13:14.537958+00:00"
 }
