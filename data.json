@@ -99,22 +99,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "COR",
-      "headline": "AbbVie vs. Pfizer: Which Healthcare Stock Makes Your Portfolio Healthier in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3c443fa180b195a06f52ced8a8b5d4a24a692b809dd175762819f3d8ae4b1d19",
-      "datetime": 1790371321,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "AutoZone Stock Has One Thing Left To Prove",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a814040e50ad11761ac8ecfe2bf14dfe60f2a9916224f775b0beddb15731efe0",
-      "datetime": 1790370572,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "How Much Track Is Left For MRVL Stock?",
       "source": "Yahoo",
@@ -195,44 +179,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "ORLY",
-      "headline": "This Perennial Winner Is Down 20% From Its All-Time High. History Says It Can Double in the Next 5 Years.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6badbb5e7236d63fb832b4c78734a8fe3d052b0aa1cde9ed3067ef145517a607",
-      "datetime": 1790341440,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Cencora Elects Robert E. Sanchez to Its Board of Directors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b0d89fe02f5adb02c0ffbd827739d57c3e48106d68fb905d7a05435cf6eaf5c9",
-      "datetime": 1790337600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
       "ticker": "P",
       "headline": "Dow Jones Futures Signal Rebound For Resilient Market; Tesla, Akamai, Taiwan Semi In Focus",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=24ee99cacf6450bc4588a67a6b0f3cdd1856b24cc2c800cfd2cda37107ae5a94",
       "datetime": 1790337386,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "2 Large-Cap Stocks with Exciting Potential and 1 Facing Headwinds",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=73eb6ea9964792dd56d2fb2b2f2942337fa260c9cdd64aea611f01d6a23dcd60",
-      "datetime": 1790336197,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Zacks Investment Ideas feature highlights: Celestica, Advanced Energy Industries and EMCOR",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f24c540e9e4f4434d19d2ada1e713840676d785eeea4d6eb73f4b4aa74734a11",
-      "datetime": 1790325900,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "P",
@@ -249,150 +201,6 @@
       "url": "https://finnhub.io/api/news?id=819bbe3dbe48e20bf27b5921fe79e972f64f4beab1a4a443f0505b1922340720",
       "datetime": 1790323792,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "AbbVie vs. Novo Nordisk: Which Drug Giant Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a527e44c28e4d2901c54177a49412223ada2e94c09864f8c6483e6026a3335f0",
-      "datetime": 1790284741,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "AbbVie vs. Eli Lilly: Which Star Pharma Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8eb972c08a04133027eb920e3fc3b121b93a21bf2259240dd130d95008f10fd5",
-      "datetime": 1790281321,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica: 2027 Could Unlock The Next Growth Phase",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=2509a3d3033e1f9c3aef7f68ce7264077b93e9853dd42a8603b6c5938535be74",
-      "datetime": 1790260898,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "3 \"Strong Buy\" Tech Stocks to Buy Now Down 20% and Hold for AI Upside",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=450b8c650a4c7e868739d79ae5b6e1a4adb6183123f49ecb1058297153d35045",
-      "datetime": 1790247600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "1 Profitable Stock to Target This Week and 2 We Question",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=486ba199c94e0b7b85625006d9c80e3a1a266e3382a4a014137f24343c228b32",
-      "datetime": 1790245494,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Zacks.com featured highlights include CareDx, Ciena, Celestica, Materion and MACOM Technology Solutions",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=41e52b40f87db7efae2294ec66d9622adbbba3f1638a1a0e3dcacd6e89630ad1",
-      "datetime": 1790242740,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Barrick (GOLD) Stock Could Be 24% Overvalued On Cash Flow Questions",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aa417a95e94b1672b8450653288e18f20fa9e24073f1c6ce2a119351950f373a",
-      "datetime": 1790205379,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica (CLS) Ascends While Market Falls: Some Facts to Note",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f03b565a870e97289299e1da6b1637a402059db2940e83e69dc2ad0e16b2f26d",
-      "datetime": 1790199903,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Avathon Selected to Power an AI-Native Mining Operating Model for Barrick's North American Business",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=40e6923a73280cb4e70e6f645c52d3419de73bd0788f916566a38a35530c8e01",
-      "datetime": 1790168400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "O'Reilly Automotive: Great Business, Still No Bargain",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c47513ec6b6f6238ee0381970703fd5ced408f6c12737563964775bba1d16751",
-      "datetime": 1790168057,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Can Newmont's Record Free Cash Flow Momentum Carry Into Q3?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=00a7359cfaf31420b029a709abcc649901546a58514faf2686c1629c7a33cef0",
-      "datetime": 1790165100,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Can Agnico Eagle Sustain Its Shareholder-Friendly Capital Strategy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=18cd1b2977dc2ee9b598375d824be1cf1672a696d89f2b6c4240952ff5eae857",
-      "datetime": 1790164980,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Barrick Mining (NYSE:B) High Growth Momentum Meets Breakout Setup",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=f6adbf70f84b1dee3b7b0a19770ab1bded72d6a970143922d1431832d8046b7c",
-      "datetime": 1790164858,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "5 Top-Ranked High-Efficiency Stocks With Strong Profit Potential",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=769a5f0aa18fdfaaa1741fe0419f464d3987dba78bc692ca68962a84128cf57e",
-      "datetime": 1790164800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Barrick Mining's North American Business Taps Avathon's Autonomy Platform As Technology Partner For Business Transformation",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=90735daf51e4778b6a634e061b853afb4a26d570797c28474a39dd3284486f22",
-      "datetime": 1790155572,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Discover which S&P500 stocks are making waves on Tuesday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=9bb87e258e62e7a642da3a0ac5578e1ec65d5eed0ac4c6bb6207cc2886cc981a",
-      "datetime": 1790103901,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Can CAH's MSO Expansion Unlock Growth in Specialty Care Delivery?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5e90da72b9445f8f269fe769a77eee231cb102829bca91c22fcabee80a02ffe0",
-      "datetime": 1790083920,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Cencora Sees Specialty Strategy Fueling Growth Into Fiscal 2027",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3e59c5a142d490e9f2d3d2ec72f8bffda0c3472f6744f8f7756c20aa1a5b6325",
-      "datetime": 1790031728,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     }
   ],
   "recent_posts": [],
@@ -600,5 +408,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-26T06:43:14.524457+00:00"
+  "updated_at": "2026-09-26T06:58:14.707906+00:00"
 }
