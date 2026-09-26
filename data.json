@@ -59,6 +59,30 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Broadcom Has More Than One Way to Win. Here\u2019s Where I See the Stock Going",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7db80f6cdf7166a419b8121e59e9e6312912d70e86da37fa0e27c4d425d5c545",
+      "datetime": 1790441111,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "3 Elite Dividend Stocks Hiding in the Nasdaq-100",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5423b41d525b5d427c974c3fa6e4ee096922ded73202f5df7e64c263fc64d832",
+      "datetime": 1790438302,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The 3 \"Magnificent Seven\" Stocks That I'm Buying Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2b5166a182adcc0ae68ee08893cc938f55d81d7ccd3d29278e36df06bfc30bd9",
+      "datetime": 1790437800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Intuit vs. Oracle: Which Technology Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
@@ -107,14 +131,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Amazon Turned $1,000 Into $5,239 Over Ten Years but Recent Buyers Face a Rougher Reality",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b42df6e5adc416c213772c833a473fc2f851191e9fecdd555a8846ba985c0820",
-      "datetime": 1790423118,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Adobe Stock And 2 Other AI Stocks To Own",
       "source": "Yahoo",
@@ -152,22 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7a1c5168f62af67f4e1fbe933488e74fa80f567914b85126a9c31ab8180dd394",
       "datetime": 1790409900,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "NVIDIA (NVDA) vs. Broadcom (AVGO): Which AI Chip Stock Has the Stronger Moat?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=59fb5ee40cadd499d2557266fbec626123c350c97af49ee2eb226eecf03fa537",
-      "datetime": 1790398261,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia Would Have to Add Almost a Whole Broadcom to Reach $7 Trillion",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4c4c114117f5c7acb7be91f7324a441243a63a96f45648fcea675aa10394aa57",
-      "datetime": 1790379841,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-26T17:58:14.976270+00:00"
+  "updated_at": "2026-09-26T18:13:15.064825+00:00"
 }
