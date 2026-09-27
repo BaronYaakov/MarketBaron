@@ -75,6 +75,22 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "PRMB",
+      "headline": "Primo Brands (PRMB) Stock May Be Undervalued On Earnings Power",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=afdff173d4ffd28f7b6afc611f45be1cd1f4e8dfee4d2262214309530081d1e4",
+      "datetime": 1790496727,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+    },
+    {
+      "ticker": "PRMB",
+      "headline": "Primo Brands (PRMB), Why Is It Getting Attention Now?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=08e3664a9f31ebdac51db031faf6c676db1c99c97a43edb2d9552ae99a43e8c6",
+      "datetime": 1790492893,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom Stock Is Back Where It Ended 2025, but Its Earnings Are About 43% Higher. Is It a Buy?",
       "source": "Yahoo",
@@ -600,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-27T12:43:13.870473+00:00"
+  "updated_at": "2026-09-27T12:58:13.823681+00:00"
 }
