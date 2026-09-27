@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "P",
+      "headline": "Everpure\u2019s $7 Billion Forecast Just Blew Past Wall Street\u2019s Numbers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2ef708a2fd04751b0f5f82af030d5ff5b84f01fe9dd65cc759b3676b4e222caa",
+      "datetime": 1790523936,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Microsoft\u2019s AI Investment Could Pay Off for Years. Here\u2019s My Price Target",
       "source": "Yahoo",
@@ -249,14 +257,6 @@
       "url": "https://finnhub.io/api/news?id=b0d89fe02f5adb02c0ffbd827739d57c3e48106d68fb905d7a05435cf6eaf5c9",
       "datetime": 1790337600,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Dow Jones Futures Signal Rebound For Resilient Market; Tesla, Akamai, Taiwan Semi In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=24ee99cacf6450bc4588a67a6b0f3cdd1856b24cc2c800cfd2cda37107ae5a94",
-      "datetime": 1790337386,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "ORLY",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-27T16:13:14.478278+00:00"
+  "updated_at": "2026-09-27T16:28:14.074439+00:00"
 }
