@@ -60,6 +60,38 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Microsoft\u2019s AI Investment Could Pay Off for Years. Here\u2019s My Price Target",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bdbf48f623093393ca21dbd7f7d4c32194dec430bd2269d4698f8b2381165af8",
+      "datetime": 1790523044,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon offers one inbound shipment to reach eight countries",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=65fd58ae0f93453d0cff84f9c5ea8e42f2fb8aaffe4b1d05af7626072f8d794c",
+      "datetime": 1790519304,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon copies Costco move that benefits members and workers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c249677dcc8fcce83b68cf7c5e4c0a71a5bda9424aa1abb7a5a3d18cdff6590b",
+      "datetime": 1790518620,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "What Does Best Buy (BBY) Fire TV Deal Mean For Its Ad Business?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ecdeb3343017d44c3ecabb5a7a50e67c3a19698e49597490a76bd81bc7c765a9",
+      "datetime": 1790518003,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "This Magnificent Seven Stock Could Reach a New All-Time High",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e58c15ef6ad774e881e3d06e24d940f42da1c60c6a856ba7622b9c61570f0dfd",
@@ -72,30 +104,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=213bfc858854e6d27f4b0edd8bd131894038b5764b5a8db54ac7a6fb770898ac",
       "datetime": 1790514540,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Houston, Amazon.com Has a Problem -- and It's in Europe!",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f20aeb42f5f42aaeeef2af7dc689d344433b0abffd38ca908b07c6c88ae3704a",
-      "datetime": 1790514300,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The AI gold rush is fueling a record corporate bond boom: Chart of the Day",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1da21b88573d0925b8cea64ec80cad580d88d41182b420c03fb11f15e81ad799",
-      "datetime": 1790509822,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Opened Seller Central to Walmart and eBay but Blocked Meta\u2019s Muse. Here\u2019s What Connects the Two Moves",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a99127fe4f353426e2bef4cde8cdb62eeba75f6e38b7740748c411d67c07f47f",
-      "datetime": 1790502496,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -129,14 +137,6 @@
       "url": "https://finnhub.io/api/news?id=67581fec95f390c66d92cb1294d8371b4254bbd1c43e2f401772c0993fd6aca9",
       "datetime": 1790485200,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Anthropic's IPO is a $300 billion test for Amazon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ff1f8ea5a0b56499ddcde47ef5a6e66d429e37cd5c511db2a0c7e6f82a5552e9",
-      "datetime": 1790473620,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-27T15:58:14.304909+00:00"
+  "updated_at": "2026-09-27T16:13:14.478278+00:00"
 }
