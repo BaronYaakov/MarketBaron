@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "I'd Buy Amazon Stock While It Sits 12% Below Its Record",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b495c52071712436fd2d36279ee75eb9feb8d68ccbc7899b1bc9381b7a1bb45a",
+      "datetime": 1790544841,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Why the Nasdaq Refuses to Break Even With Treasury Yields Above Five Percent",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e7b04b219bdb4304f2daf3e88e243a774a914db8d02a09aa8375d095b76a2c8f",
@@ -123,12 +131,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Amazon offers one inbound shipment to reach eight countries",
+      "ticker": "AVGO",
+      "headline": "Analysts Keep Hiking Broadcom Price Targets, But AVGO Is Flat - Shorting AVGO Puts Is an Attractive Play",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=65fd58ae0f93453d0cff84f9c5ea8e42f2fb8aaffe4b1d05af7626072f8d794c",
-      "datetime": 1790519304,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "url": "https://finnhub.io/api/news?id=8270b5d6ddf9582408378b5a42a01d48f24cdf6b9b6d743fb1f4dbfe86f1d0f6",
+      "datetime": 1790517602,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "PRMB",
@@ -168,14 +176,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7db80f6cdf7166a419b8121e59e9e6312912d70e86da37fa0e27c4d425d5c545",
       "datetime": 1790441111,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "3 Elite Dividend Stocks Hiding in the Nasdaq-100",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5423b41d525b5d427c974c3fa6e4ee096922ded73202f5df7e64c263fc64d832",
-      "datetime": 1790438302,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-27T21:58:14.194852+00:00"
+  "updated_at": "2026-09-27T22:13:14.151504+00:00"
 }
