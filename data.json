@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "The AI gold rush is fueling a record corporate bond boom: Chart of the Day",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1da21b88573d0925b8cea64ec80cad580d88d41182b420c03fb11f15e81ad799",
+      "datetime": 1790509822,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Opened Seller Central to Walmart and eBay but Blocked Meta\u2019s Muse. Here\u2019s What Connects the Two Moves",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a99127fe4f353426e2bef4cde8cdb62eeba75f6e38b7740748c411d67c07f47f",
+      "datetime": 1790502496,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom Stock Is Back Where It Ended 2025, but Its Earnings Are About 43% Higher. Is It a Buy?",
       "source": "Yahoo",
@@ -131,22 +147,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Amazon.com (AMZN) Confirmed Iranian Drone Strikes Hit AWS Data Centers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4a1e72e5916d0ec5a28c7e50f0879a0bbd33f157706a1858fbc0b0caefbb120d",
-      "datetime": 1790431813,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Best Buy\u2019s 4.2% Yield Looks Attractive. Can the Dividend Survive a Bad Year?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f1e3b49f12800c4e4aad17f05c113db34e056f5724f67d7f7fac6414e2d37905",
-      "datetime": 1790427740,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Adobe Stock And 2 Other AI Stocks To Own",
       "source": "Yahoo",
@@ -156,10 +156,10 @@
     },
     {
       "ticker": "AVGO",
-      "headline": "China Won't Move Chip Stocks Anymore",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=01816fc4ab9318669e391835bc282880a019cc329cb99b11e678ce1c85c76b10",
-      "datetime": 1790419847,
+      "headline": "MarketBeat Week in Review \u2013 09/21 - 09/25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5da135187ff9df3232944c32517d0aa77c67fed027fbd2742f8b92479cc69908",
+      "datetime": 1790420400,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-27T11:58:13.827921+00:00"
+  "updated_at": "2026-09-27T12:13:13.850525+00:00"
 }
