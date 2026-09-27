@@ -60,6 +60,30 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Why the Nasdaq Refuses to Break Even With Treasury Yields Above Five Percent",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e7b04b219bdb4304f2daf3e88e243a774a914db8d02a09aa8375d095b76a2c8f",
+      "datetime": 1790536523,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Is Amazon Stock a Buy, Hold, or Sell Below $250?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=35b2f82c1930a8dc83b008153c53fb98e4db6c2b981863b2cc683b7ef334a139",
+      "datetime": 1790532926,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "AI\u2019s $10 Trillion Buildout Will Reach 3.6% of GDP. Who\u2019s Going to Pay for It?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4c130de69e9e413a4c5e83d1a0c533851c51ed925510f971df7f4a8493a59763",
+      "datetime": 1790531511,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Michael Burry sends a stark warning to Big Tech stock investors",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4aedc10a23791f458218d790acdcafff36bdbe453290209dc4865e95a6ad71cb",
@@ -104,30 +128,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=65fd58ae0f93453d0cff84f9c5ea8e42f2fb8aaffe4b1d05af7626072f8d794c",
       "datetime": 1790519304,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon copies Costco move that benefits members and workers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c249677dcc8fcce83b68cf7c5e4c0a71a5bda9424aa1abb7a5a3d18cdff6590b",
-      "datetime": 1790518620,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "What Does Best Buy (BBY) Fire TV Deal Mean For Its Ad Business?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ecdeb3343017d44c3ecabb5a7a50e67c3a19698e49597490a76bd81bc7c765a9",
-      "datetime": 1790518003,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "This Magnificent Seven Stock Could Reach a New All-Time High",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e58c15ef6ad774e881e3d06e24d940f42da1c60c6a856ba7622b9c61570f0dfd",
-      "datetime": 1790515806,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-27T19:58:14.278154+00:00"
+  "updated_at": "2026-09-27T20:13:14.644316+00:00"
 }
