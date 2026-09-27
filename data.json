@@ -60,6 +60,30 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "This Magnificent Seven Stock Could Reach a New All-Time High",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e58c15ef6ad774e881e3d06e24d940f42da1c60c6a856ba7622b9c61570f0dfd",
+      "datetime": 1790515806,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Does the S&P 500 Have a \"Magnificent Seven\" Problem? Here's What Investors Need to Know.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=213bfc858854e6d27f4b0edd8bd131894038b5764b5a8db54ac7a6fb770898ac",
+      "datetime": 1790514540,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Houston, Amazon.com Has a Problem -- and It's in Europe!",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f20aeb42f5f42aaeeef2af7dc689d344433b0abffd38ca908b07c6c88ae3704a",
+      "datetime": 1790514300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "The AI gold rush is fueling a record corporate bond boom: Chart of the Day",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1da21b88573d0925b8cea64ec80cad580d88d41182b420c03fb11f15e81ad799",
@@ -115,14 +139,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Meta\u2019s Muse Could Be the Biggest Threat Google Has Faced in 20 Years",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=18ddcf0cbb85469294bcfa170f0eb7418f282e2b7b4e8cad14f2362cdcbb0ee6",
-      "datetime": 1790448060,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Broadcom Has More Than One Way to Win. Here\u2019s Where I See the Stock Going",
       "source": "Yahoo",
@@ -137,22 +153,6 @@
       "url": "https://finnhub.io/api/news?id=5423b41d525b5d427c974c3fa6e4ee096922ded73202f5df7e64c263fc64d832",
       "datetime": 1790438302,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The 3 \"Magnificent Seven\" Stocks That I'm Buying Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2b5166a182adcc0ae68ee08893cc938f55d81d7ccd3d29278e36df06bfc30bd9",
-      "datetime": 1790437800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Intuit vs. Oracle: Which Technology Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5cd135f9d84fb4ec9a0e1e48e0bb5cddb69504c96e4abfaebcfa96535f35ffdd",
-      "datetime": 1790436774,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "ORLY",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-27T13:58:14.062340+00:00"
+  "updated_at": "2026-09-27T14:13:14.100876+00:00"
 }
