@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Meta\u2019s Muse Could Be the Biggest Threat Google Has Faced in 20 Years",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=18ddcf0cbb85469294bcfa170f0eb7418f282e2b7b4e8cad14f2362cdcbb0ee6",
+      "datetime": 1790448060,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom Has More Than One Way to Win. Here\u2019s Where I See the Stock Going",
       "source": "Yahoo",
@@ -120,14 +128,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=053da01eba36705473a9b4b4c9e75141d39342703b81027ab5f0c5976622ba7c",
       "datetime": 1790427720,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Is Spending $220 Billion on Data Centers. Here's Why That Makes The Stock an Incredible Buy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=872c9159864b8fb5af911d4b795f76345d4540d38486637db166a3fcf21c294f",
-      "datetime": 1790424300,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -600,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-27T01:58:15.741737+00:00"
+  "updated_at": "2026-09-27T02:13:16.174104+00:00"
 }
