@@ -139,6 +139,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "3 AI Infrastructure Stocks Retail Investors Are Watching For Data Center Growth",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7e470a752d9e16a6a2587fdbed03d2c0584fcc9f5a7206b9cd9f1777e154ab63",
+      "datetime": 1790521745,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Analysts Keep Hiking Broadcom Price Targets, But AVGO Is Flat - Shorting AVGO Puts Is an Attractive Play",
       "source": "Yahoo",
@@ -379,14 +387,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "5 Top-Ranked High-Efficiency Stocks With Strong Profit Potential",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=769a5f0aa18fdfaaa1741fe0419f464d3987dba78bc692ca68962a84128cf57e",
-      "datetime": 1790164800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "B",
       "headline": "Barrick Mining's North American Business Taps Avathon's Autonomy Platform As Technology Partner For Business Transformation",
       "source": "Benzinga",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-28T00:43:14.844248+00:00"
+  "updated_at": "2026-09-28T00:58:14.949758+00:00"
 }
