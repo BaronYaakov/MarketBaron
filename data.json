@@ -60,6 +60,22 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Seattle tower across from Amazon sold for $12.5M after a $97M deal in 2019. Where smart real estate money is going now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=046e71909627e2e5b53a022bf6123c909de4b49c03ff411fe06d34d5f0f9907c",
+      "datetime": 1790557200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon (AMZN) Calls for AI Safeguards Without a Slowdown. Can AWS Benefit?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2b151143b539cd1c2a2c327be655eb75b46d58c1e77ed98a1ea3d040f543e63d",
+      "datetime": 1790556085,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon (AMZN) Pauses a Cargo Carrier after a Fatal Crash. Can its Air Network Absorb the Disruption?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6aca540b7d0b3de77cb48b096f11dd9ecad009563869d6ecef743a523d0d863e",
@@ -96,22 +112,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b495c52071712436fd2d36279ee75eb9feb8d68ccbc7899b1bc9381b7a1bb45a",
       "datetime": 1790544841,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "How to Trade Qualcomm Stock Near Multi-Month Highs",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9ce524797a71fddd15e1de5a1c5f844744a42147bf6c198a20185b163879f7f5",
-      "datetime": 1790538387,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Why the Nasdaq Refuses to Break Even With Treasury Yields Above Five Percent",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e7b04b219bdb4304f2daf3e88e243a774a914db8d02a09aa8375d095b76a2c8f",
-      "datetime": 1790536523,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-28T04:58:14.029779+00:00"
+  "updated_at": "2026-09-28T05:13:13.911365+00:00"
 }
