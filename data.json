@@ -100,18 +100,18 @@
     },
     {
       "ticker": "AMZN",
-      "headline": "Why the Nasdaq Refuses to Break Even With Treasury Yields Above Five Percent",
+      "headline": "How to Trade Qualcomm Stock Near Multi-Month Highs",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e7b04b219bdb4304f2daf3e88e243a774a914db8d02a09aa8375d095b76a2c8f",
-      "datetime": 1790536523,
+      "url": "https://finnhub.io/api/news?id=9ce524797a71fddd15e1de5a1c5f844744a42147bf6c198a20185b163879f7f5",
+      "datetime": 1790538387,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Is Amazon Stock a Buy, Hold, or Sell Below $250?",
+      "headline": "Why the Nasdaq Refuses to Break Even With Treasury Yields Above Five Percent",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=35b2f82c1930a8dc83b008153c53fb98e4db6c2b981863b2cc683b7ef334a139",
-      "datetime": 1790532926,
+      "url": "https://finnhub.io/api/news?id=e7b04b219bdb4304f2daf3e88e243a774a914db8d02a09aa8375d095b76a2c8f",
+      "datetime": 1790536523,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-28T01:58:14.862470+00:00"
+  "updated_at": "2026-09-28T02:13:15.370445+00:00"
 }
