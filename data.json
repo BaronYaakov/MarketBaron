@@ -131,6 +131,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "B",
+      "headline": "Barrick signs new agreement with unions at Mali gold complex",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ce65958ab5a46d8a983198d11b6322864b5d67099d3702f459d2a95cbace038e",
+      "datetime": 1790586900,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "INTC, AMD, AVGO: Chip Stocks Lead Slide As Tech Gets Hammered Amid Renewed U.S.-Iran Tensions",
       "source": "Yahoo",
@@ -387,14 +395,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "B",
-      "headline": "Barrick Mining (NYSE:B) High Growth Momentum Meets Breakout Setup",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=f6adbf70f84b1dee3b7b0a19770ab1bded72d6a970143922d1431832d8046b7c",
-      "datetime": 1790164858,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Can CAH's MSO Expansion Unlock Growth in Specialty Care Delivery?",
       "source": "Yahoo",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-28T12:28:14.936488+00:00"
+  "updated_at": "2026-09-28T12:43:14.687480+00:00"
 }
