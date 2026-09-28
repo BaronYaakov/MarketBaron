@@ -60,6 +60,30 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Amazon (AMZN) Pauses a Cargo Carrier after a Fatal Crash. Can its Air Network Absorb the Disruption?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6aca540b7d0b3de77cb48b096f11dd9ecad009563869d6ecef743a523d0d863e",
+      "datetime": 1790553183,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Taps Prysmian and Rio Tinto for Low-Carbon Data Center Cables. What Does it Mean for Investors?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=775175fcf3bea8010248ea91f0065e4dc7b5027d6eb678cd723ad9e3923834fd",
+      "datetime": 1790552202,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Is Best Buy (BBY) A Bargain On Its Debt Filing And New Partnerships?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ea0edb980e4291f649b196d7f0df39a5b8c0b9a25f7c6385840727e4cf24374f",
+      "datetime": 1790547025,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "I'd Buy Amazon Stock While It Sits 12% Below Its Record",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b495c52071712436fd2d36279ee75eb9feb8d68ccbc7899b1bc9381b7a1bb45a",
@@ -80,22 +104,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=35b2f82c1930a8dc83b008153c53fb98e4db6c2b981863b2cc683b7ef334a139",
       "datetime": 1790532926,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "AI\u2019s $10 Trillion Buildout Will Reach 3.6% of GDP. Who\u2019s Going to Pay for It?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4c130de69e9e413a4c5e83d1a0c533851c51ed925510f971df7f4a8493a59763",
-      "datetime": 1790531511,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Michael Burry sends a stark warning to Big Tech stock investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4aedc10a23791f458218d790acdcafff36bdbe453290209dc4865e95a6ad71cb",
-      "datetime": 1790530380,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -121,14 +129,6 @@
       "url": "https://finnhub.io/api/news?id=2ef708a2fd04751b0f5f82af030d5ff5b84f01fe9dd65cc759b3676b4e222caa",
       "datetime": 1790523936,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Microsoft\u2019s AI Investment Could Pay Off for Years. Here\u2019s My Price Target",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bdbf48f623093393ca21dbd7f7d4c32194dec430bd2269d4698f8b2381165af8",
-      "datetime": 1790523044,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-27T23:58:14.190750+00:00"
+  "updated_at": "2026-09-28T00:13:14.647231+00:00"
 }
