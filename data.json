@@ -163,6 +163,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
+      "ticker": "B",
+      "headline": "I Was Wrong, But Newmont Is Still A Buy",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0472ac3ca480fa76831757cbfaf04b5c09ff82cae61ed31603c7fb8b257d7153",
+      "datetime": 1790618233,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "P",
       "headline": "IBD Stock Of The Day: NetApp's AI-Powered Rally Faces Next Test",
       "source": "Yahoo",
@@ -395,14 +403,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "B",
-      "headline": "Can Newmont's Record Free Cash Flow Momentum Carry Into Q3?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=00a7359cfaf31420b029a709abcc649901546a58514faf2686c1629c7a33cef0",
-      "datetime": 1790165100,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Can CAH's MSO Expansion Unlock Growth in Specialty Care Delivery?",
       "source": "Yahoo",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-28T22:13:15.119122+00:00"
+  "updated_at": "2026-09-28T22:28:15.497371+00:00"
 }
