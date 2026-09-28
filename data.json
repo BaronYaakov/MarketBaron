@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Copilot Reboot Sends Microsoft Soaring, but Trump's No to Iran Hangs Over Monday",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=a2b7dc9eeea5d94aaba6a7c3f389b01e95bb8333f1593ffa51f07c8d174b3473",
+      "datetime": 1790583401,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Seattle tower across from Amazon sold for $12.5M after a $97M deal in 2019. Where smart real estate money is going now",
       "source": "Yahoo",
@@ -192,14 +200,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=67581fec95f390c66d92cb1294d8371b4254bbd1c43e2f401772c0993fd6aca9",
       "datetime": 1790485200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Has More Than One Way to Win. Here\u2019s Where I See the Stock Going",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7db80f6cdf7166a419b8121e59e9e6312912d70e86da37fa0e27c4d425d5c545",
-      "datetime": 1790441111,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-28T09:28:14.576770+00:00"
+  "updated_at": "2026-09-28T09:43:14.565339+00:00"
 }
