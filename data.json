@@ -155,6 +155,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "B",
+      "headline": "Barrick Mining reaches agreement with Mali unions, planned strikes off - Bloomberg",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=738d09b78a5dcce6fa7b99751470a5acb17ed78f747414f0e2017c49c6ba75d7",
+      "datetime": 1790514474,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "PRMB",
       "headline": "Primo Brands (PRMB) Stock May Be Undervalued On Earnings Power",
       "source": "Yahoo",
@@ -387,14 +395,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "B",
-      "headline": "Barrick Mining's North American Business Taps Avathon's Autonomy Platform As Technology Partner For Business Transformation",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=90735daf51e4778b6a634e061b853afb4a26d570797c28474a39dd3284486f22",
-      "datetime": 1790155572,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Can CAH's MSO Expansion Unlock Growth in Specialty Care Delivery?",
       "source": "Yahoo",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-28T02:13:15.370445+00:00"
+  "updated_at": "2026-09-28T02:28:14.219635+00:00"
 }
