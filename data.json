@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "CLS",
+      "headline": "Celestica (NYSE:CLS) and the Affordable Growth Case Behind Its Strong EPS and Revenue Outlook",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=87ddbf8a62f384f7c5e7931d81c07eebe1ef562a400916532b49ae7b6d071ea7",
+      "datetime": 1790589652,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Information Technology Market Report 2026: Capture the $3.76 Trillion Revenue Shift Through 2030 as AI, Cloud and Cybersecurity Disrupt Enterprise Spend\u2014Benchmark Microsoft, Amazon, Alphabet, IBM and Oracle Before Competitors Seize the Advantage",
       "source": "Yahoo",
@@ -347,14 +355,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "Celestica (CLS) Ascends While Market Falls: Some Facts to Note",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f03b565a870e97289299e1da6b1637a402059db2940e83e69dc2ad0e16b2f26d",
-      "datetime": 1790199903,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "B",
       "headline": "Avathon Selected to Power an AI-Native Mining Operating Model for Barrick's North American Business",
       "source": "Yahoo",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-28T10:13:14.399702+00:00"
+  "updated_at": "2026-09-28T10:28:14.417789+00:00"
 }
