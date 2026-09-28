@@ -59,6 +59,54 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "These AI Stocks Took Off Or Tumbled In Q3. Here's Why.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5021ab32b249699f3d99fe30d8626a97ed33ea746712d3d7ebc283900dfe0971",
+      "datetime": 1790596023,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Latest News In AI Chips - AI's Impact on Semiconductor Transformation and Material Demand",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f664d4e5c7561eec6d87238c40f7ce057a3d372e7b51cc55e8e4fabcd4ec5339",
+      "datetime": 1790595434,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "NIQ Expands Health & Beauty Measurement to Capture $56 Billion in Amazon Marketplace Sales",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=245060ef6ea080e7f96859ecbfe57e9fcad1ce6fc5052070dab9afd2285cdbfb",
+      "datetime": 1790592300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Apple and Amazon Face UK Consumer Lawsuit Over Marketplace Sales",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6605328b763b7a861d1ad51a136bf7f9c2d3937c0ea2d00b95a6ef706eafa11c",
+      "datetime": 1790591444,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Aave Just Turned Tokenized Apple, Nvidia and Tesla Stocks Into USDC Loan Collateral",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e3044b602e1d07ba8fad260a0cb139b1e302929de14402cc5f2907ed8620a9dc",
+      "datetime": 1790590663,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Market Chatter: OpenAI, Anthropic CEOs Asked to Appear at Australian AI Inquiry",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b6b6f381fed11cbdf04dfbdab2200d813b5889f607be7c8926375112327cd1ec",
+      "datetime": 1790590098,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "CLS",
       "headline": "Celestica (NYSE:CLS) and the Affordable Growth Case Behind Its Strong EPS and Revenue Outlook",
       "source": "ChartMill",
@@ -97,38 +145,6 @@
       "url": "https://finnhub.io/api/news?id=a2b7dc9eeea5d94aaba6a7c3f389b01e95bb8333f1593ffa51f07c8d174b3473",
       "datetime": 1790583401,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Guy Gentile Releases The Stock Operator, Tracing Three Decades of Trading, Risk and Loss",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dfcd7837b1c5f5b87387b4cb13b37a2e89762c68abc4a5912e49e5d86c16bbd8",
-      "datetime": 1790582580,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Mark Zuckerberg's Muse Remains Locked Out As Amazon Says Meta Never Got Permission; Cathie Wood's ARK Calls It A 'Great Test' For Loyalty",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=125131439707fb9589fe2c18e4b5d7bad6ab325f5d79908b7538c9a7869c6901",
-      "datetime": 1790580881,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Seattle tower across from Amazon sold for $12.5M after a $97M deal in 2019. Where smart real estate money is going now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=046e71909627e2e5b53a022bf6123c909de4b49c03ff411fe06d34d5f0f9907c",
-      "datetime": 1790557200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon (AMZN) Calls for AI Safeguards Without a Slowdown. Can AWS Benefit?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2b151143b539cd1c2a2c327be655eb75b46d58c1e77ed98a1ea3d040f543e63d",
-      "datetime": 1790556085,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -171,14 +187,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Analysts Keep Hiking Broadcom Price Targets, But AVGO Is Flat - Shorting AVGO Puts Is an Attractive Play",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8270b5d6ddf9582408378b5a42a01d48f24cdf6b9b6d743fb1f4dbfe86f1d0f6",
-      "datetime": 1790517602,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "B",
       "headline": "Barrick Mining reaches agreement with Mali unions, planned strikes off - Bloomberg",
       "source": "Yahoo",
@@ -201,14 +209,6 @@
       "url": "https://finnhub.io/api/news?id=08e3664a9f31ebdac51db031faf6c676db1c99c97a43edb2d9552ae99a43e8c6",
       "datetime": 1790492893,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Stock Is Back Where It Ended 2025, but Its Earnings Are About 43% Higher. Is It a Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fecda99caf0cf5679c57784efe18f5ab3ae98d025b91e05ce6c2ad27574fd6db",
-      "datetime": 1790492581,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "ORLY",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-28T11:58:14.373892+00:00"
+  "updated_at": "2026-09-28T12:13:14.468203+00:00"
 }
