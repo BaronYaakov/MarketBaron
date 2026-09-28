@@ -59,19 +59,91 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Top 3 Cash Flow Stocks To Watch In September 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ebe8464f5d38e21dbf415e86183e6da74c826da73fa37c4ffe734c0b88767104",
+      "datetime": 1790629717,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The S&P 500 Has Only Grown Earnings This Fast Twice Before. History Says This Is What Happens Next",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8871c54241bd348498e579e2b6dbc96ff800ddbcb7e5c63273e44a386eecd1f6",
+      "datetime": 1790629501,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "ChatGPT Asks & David Answers, Vol. 4",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cb36a6601923e31a3f021691b9187bdc4a66112703c672adc64e81e6e706666c",
+      "datetime": 1790629221,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Did The Market Read Marvell Stock Right?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed7df84c6426c3a5b78a7c05370fb2fd15a10be3181fdd88aed593ef64f1acbd",
+      "datetime": 1790628289,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "The Best ETF to Own in Your 30s, 40s, 50s, and 60s, According to the Math",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=736476664bcb18570333e1e2f7ca7c8d8be519f301a472e1b60634f9da66618a",
+      "datetime": 1790628031,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Not Nvidia, Not AMD. Broadcom's Custom Silicon Business Is Quietly Becoming an AI Chip Powerhouse",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2783ec0858b9b7fed4c2bf84492ec2d68e48de13b74f24ead4dbbd7d65adc4d7",
+      "datetime": 1790627460,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom vs. Marvell Technology: Which Semiconductor Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b78a942e2c9f8288e314af078a248061aa2c8937e49521b76557761845e29fe2",
+      "datetime": 1790627378,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon (AMZN) vs. Alibaba (BABA): Which AI Bet Is Starting to Pay Off?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=03cdf61706de44c690ec418a29864baeecad6213ee91b308f395366bbc02ae8f",
+      "datetime": 1790625783,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Nvidia\u2019s $235 Billion Buyback Shows Who Is Really Winning the AI Boom",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2fa8b8ae6cc792b258d02f4bf6bc69ac8cf4fa4c38d6638021ff38a373f85e67",
+      "datetime": 1790625420,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Can CoreWeave\u2019s (CRWV) Computing Advantage Become a Lasting Moat?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=69a0db94a35f21f19adf6a17b71dd417ef9f12dcb4ddd9737379e393ae192a4a",
+      "datetime": 1790625140,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Amazon Has a $10 Billion Holiday Catalyst Coming in October",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1bef18267c1ed72aded04798b1ff3541022ddcc3b5db7536ea5a9fa7209ef25f",
       "datetime": 1790624697,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon, Walmart Face Record $275 Billion Holiday Rush",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6ef122efe459c5819ebdd9d711c712449ea820eacafd12a6523991e366cc3b60",
-      "datetime": 1790624595,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -81,38 +153,6 @@
       "url": "https://finnhub.io/api/news?id=acb1d609aa4809e9aea1a204f9b1f0a01c54c30f1eccebe9cd1c1752f7187026",
       "datetime": 1790624150,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "How Has Alphabet Stock's Story Changed?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e889819364be642924cf9f77fb92061179e2e8b57136d062a75b9d417d1db01a",
-      "datetime": 1790623867,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Apple Stock Edges Higher Although Two Legal Bills Stack Up",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bed4b3111a105884e4e705863d77bab8e327b7754b2ed60564dd4f2bcda1cf60",
-      "datetime": 1790623613,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Is eBay Stock Priced Right Against Its Peers?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=33ced5d32076a9e5957507cdaa5e91947671b1311533bf0865dbecb9c380f526",
-      "datetime": 1790623276,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Top dow jones movers in Monday's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=e7314e47396ff982ffb99f585545511c858008d4c9e0017fe81912982ec663c9",
-      "datetime": 1790622615,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -131,52 +171,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "When Should You Buy NVIDIA Stock After This Run?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c538610b3401de0da1d9f4e05e0b62fc909bea232630fa32243413b867fd623c",
-      "datetime": 1790616262,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "P",
       "headline": "Which S&P500 stocks are moving on Monday?",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=9ff638211af9695af811e0b0c8a54eeb199d3613c1b0baba17d91732994a3931",
       "datetime": 1790613301,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "This Chip Giant's AI Revenue Grew 221% Last Quarter. It's Also Quietly Raised Its Dividend for 15 Straight Years.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a46d3214393c70390bd9802897d2f849148d788776e24979ee07b92622e87c1a",
-      "datetime": 1790612401,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "This AI Infrastructure Stock Is Flying Under the Radar",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a92e2886098c45fea2920c4eab1cdaa610855b4dd6dc40848332ef4bec217a96",
-      "datetime": 1790611229,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Adobe And 2 Other Top AI Stocks To Watch",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0f1ddf2c6596fc3fbacc72cbc21e8fb5ea1ba88d440346afd1de57196f7d9887",
-      "datetime": 1790608182,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia and AMD Just Got a New AI Demand Risk to Watch",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=04a3954d2a96a9adffa7321bc826efc8519d160959723efc9d5855ba83cd7f5b",
-      "datetime": 1790607484,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-28T21:58:15.290706+00:00"
+  "updated_at": "2026-09-28T22:13:15.119122+00:00"
 }
