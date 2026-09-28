@@ -75,6 +75,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "P",
+      "headline": "Everpure (P): Every Analyst Raised Targets After Analyst Day, Free Cash Flow Went Negative Anyway",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aef7d499d582e7f1b17b27df3ce98d69990a7889afcf517fc9b663f5bafc73c3",
+      "datetime": 1790551307,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Is Best Buy (BBY) A Bargain On Its Debt Filing And New Partnerships?",
       "source": "Yahoo",
@@ -232,14 +240,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=322cd9bd67b0b3a762c5f89aaa424eb45cc3eb232e422d5f8382630ed9d6558f",
       "datetime": 1790351864,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Everpure Stock Just Hit a New All-Time High. What Comes Next.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9af600b4edcbf6b91a31238c030f55b4ba128af66751dd78dbed6380e4b64e97",
-      "datetime": 1790346261,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-28T00:13:14.647231+00:00"
+  "updated_at": "2026-09-28T00:28:15.216525+00:00"
 }
