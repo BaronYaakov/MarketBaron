@@ -195,6 +195,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
+      "ticker": "B",
+      "headline": "Canadian miners slide as gold, silver slump weighs on sector",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=596a5427d34543267ffbec5392dd4df59b688f0a95ba69133d188b9d49efb9c7",
+      "datetime": 1790605691,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "COR",
       "headline": "1 of Wall Street\u2019s Favorite Stocks with Impressive Fundamentals and 2 We Turn Down",
       "source": "Yahoo",
@@ -384,14 +392,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=aa417a95e94b1672b8450653288e18f20fa9e24073f1c6ce2a119351950f373a",
       "datetime": 1790205379,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Avathon Selected to Power an AI-Native Mining Operating Model for Barrick's North American Business",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=40e6923a73280cb4e70e6f645c52d3419de73bd0788f916566a38a35530c8e01",
-      "datetime": 1790168400,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-29T08:43:13.719961+00:00"
+  "updated_at": "2026-09-29T08:58:13.697513+00:00"
 }
