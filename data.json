@@ -60,6 +60,38 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Market Chatter: Amazon-Backed Anthropic Founders to Control 50.1% Voting Power Through New LLC",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=be9777b7ad207a0a24f18090ab0d4cf888d3aa7baa6bc0051299cf0b6687091e",
+      "datetime": 1790675778,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Market Chatter: Anthropic Lost $42 Billion in 2025 as Future Infrastructure Costs Reach $518 Billion",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=53f539485dc50e5f545350b42bcb88f5098fde808d4e0c3dae69e2fc3bece6d7",
+      "datetime": 1790675031,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Not Broadcom. Not AMD. Nvidia's Biggest Threat Continues to Be Something Near and Dear to Its Heart.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=133ab9206371966c9bbbaf2629830513c37bf335f467ac43a1a16845c2cd8f91",
+      "datetime": 1790673961,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "J.P. Morgan Drops Sharp Take on Magnificent 7 Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5071e0008d2a9c6fca463dd4d92ffa52b30958a053f3447a25046227b54ee0b4",
+      "datetime": 1790669350,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "DAL Stock In Focus: Elon Musk Takes Aim At Delta Over Starlink As United Airlines Expands In-Flight WiFi",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=564cf70be5563eed9857564b209444bdbb064ae4cae09d0ce59e95ceb08425d6",
@@ -99,30 +131,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "The S&P 500 Has Only Grown Earnings This Fast Twice Before. History Says This Is What Happens Next",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8871c54241bd348498e579e2b6dbc96ff800ddbcb7e5c63273e44a386eecd1f6",
-      "datetime": 1790629501,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "ChatGPT Asks & David Answers, Vol. 4",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cb36a6601923e31a3f021691b9187bdc4a66112703c672adc64e81e6e706666c",
-      "datetime": 1790629221,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Why Amazon (AMZN) Dipped More Than Broader Market Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=05a13b3c6ef5f350e0aa3b6b020c65b82fb3b284ff8c79d830ac86aa635ca39d",
-      "datetime": 1790628302,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Did The Market Read Marvell Stock Right?",
       "source": "Yahoo",
@@ -144,14 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2783ec0858b9b7fed4c2bf84492ec2d68e48de13b74f24ead4dbbd7d65adc4d7",
       "datetime": 1790627460,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom vs. Marvell Technology: Which Semiconductor Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b78a942e2c9f8288e314af078a248061aa2c8937e49521b76557761845e29fe2",
-      "datetime": 1790627378,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-29T09:58:13.787799+00:00"
+  "updated_at": "2026-09-29T10:13:13.687178+00:00"
 }
