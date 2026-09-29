@@ -92,26 +92,26 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "Beam Therapeutics: Ignore The Anthropic Noise And Focus On Clinical Progress",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0b2f7f810f70395a2cacb2e0d08118903ac1ac743984c1905bf6998b3ab15787",
+      "datetime": 1790667020,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Where I'd Put My Next $10,000 In Stocks",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4c5abb4f21aa5bf85df569781925c19a9147bca7d8c1ab6447adf843358e7931",
+      "datetime": 1790667000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "A Major Market Rotation Could Be Coming Soon",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=6acbfd082da8fd1f64497f064e4c4e442cafbe76f6a4fbde3a776ca2c62dc0b1",
       "datetime": 1790665508,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "DAL Stock In Focus: Elon Musk Takes Aim At Delta Over Starlink As United Airlines Expands In-Flight WiFi",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=564cf70be5563eed9857564b209444bdbb064ae4cae09d0ce59e95ceb08425d6",
-      "datetime": 1790663801,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Intel: An Overlooked Business And A Ticking Clock",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=8d7c8bbe8ef11fd5f9733a5be83922dd9f6574cc9899553b9bb7e52c9f69b4f3",
-      "datetime": 1790662417,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-29T11:43:14.118059+00:00"
+  "updated_at": "2026-09-29T11:58:14.107192+00:00"
 }
