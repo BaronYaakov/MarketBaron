@@ -204,6 +204,22 @@
     },
     {
       "ticker": "CLS",
+      "headline": "Take the Zacks Approach to Beat the Markets: Bloom Energy, Microsoft & Amgen in Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ca90682f5ea9c24da7a452467c520d9d0fafb31e823d2d8f774047a507180b07",
+      "datetime": 1790597520,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica, Inc. (CLS) Is a Trending Stock: Facts to Know Before Betting on It",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=64406bd70bef8545f83d03b0c1bb9c39b08dec5d6074e60b3aba7feb5386461c",
+      "datetime": 1790596803,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
       "headline": "Celestica (NYSE:CLS) and the Affordable Growth Case Behind Its Strong EPS and Revenue Outlook",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=87ddbf8a62f384f7c5e7931d81c07eebe1ef562a400916532b49ae7b6d071ea7",
@@ -355,28 +371,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "3 \"Strong Buy\" Tech Stocks to Buy Now Down 20% and Hold for AI Upside",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=450b8c650a4c7e868739d79ae5b6e1a4adb6183123f49ecb1058297153d35045",
-      "datetime": 1790247600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "1 Profitable Stock to Target This Week and 2 We Question",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=486ba199c94e0b7b85625006d9c80e3a1a266e3382a4a014137f24343c228b32",
       "datetime": 1790245494,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Zacks.com featured highlights include CareDx, Ciena, Celestica, Materion and MACOM Technology Solutions",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=41e52b40f87db7efae2294ec66d9622adbbba3f1638a1a0e3dcacd6e89630ad1",
-      "datetime": 1790242740,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "B",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-29T00:28:14.217385+00:00"
+  "updated_at": "2026-09-29T00:43:14.763550+00:00"
 }
