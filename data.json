@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Robotaxi Firms Quietly Growing Real Estate Footprint, Even Where They're Not Yet Legal",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8fbc6f4b69d3142f8dda7630b2e816a4114ec161f9b3ff3adaec9404e521fbfc",
+      "datetime": 1790638451,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Top 3 Cash Flow Stocks To Watch In September 2026",
       "source": "Yahoo",
@@ -80,6 +88,14 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=cb36a6601923e31a3f021691b9187bdc4a66112703c672adc64e81e6e706666c",
       "datetime": 1790629221,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Why Amazon (AMZN) Dipped More Than Broader Market Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=05a13b3c6ef5f350e0aa3b6b020c65b82fb3b284ff8c79d830ac86aa635ca39d",
+      "datetime": 1790628302,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -128,22 +144,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2fa8b8ae6cc792b258d02f4bf6bc69ac8cf4fa4c38d6638021ff38a373f85e67",
       "datetime": 1790625420,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Can CoreWeave\u2019s (CRWV) Computing Advantage Become a Lasting Moat?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=69a0db94a35f21f19adf6a17b71dd417ef9f12dcb4ddd9737379e393ae192a4a",
-      "datetime": 1790625140,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Has a $10 Billion Holiday Catalyst Coming in October",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1bef18267c1ed72aded04798b1ff3541022ddcc3b5db7536ea5a9fa7209ef25f",
-      "datetime": 1790624697,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-29T00:13:15.240808+00:00"
+  "updated_at": "2026-09-29T00:28:14.217385+00:00"
 }
