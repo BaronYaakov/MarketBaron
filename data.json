@@ -92,6 +92,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "A Major Market Rotation Could Be Coming Soon",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6acbfd082da8fd1f64497f064e4c4e442cafbe76f6a4fbde3a776ca2c62dc0b1",
+      "datetime": 1790665508,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "DAL Stock In Focus: Elon Musk Takes Aim At Delta Over Starlink As United Airlines Expands In-Flight WiFi",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=564cf70be5563eed9857564b209444bdbb064ae4cae09d0ce59e95ceb08425d6",
@@ -113,14 +121,6 @@
       "url": "https://finnhub.io/api/news?id=fb610c1ad415bd9b636f9321e7f5f5499bce46ac65a80a550fa97e2dba94db21",
       "datetime": 1790650621,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Meta Hasn't Split Its Stock Since Its IPO. Would a Stock Split Get It Into the Dow?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5e283575e4569ba163d9d6090cd1eeae87c8889d37358edc12199b56bfc3557d",
-      "datetime": 1790647261,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-29T11:13:13.768479+00:00"
+  "updated_at": "2026-09-29T11:28:13.828328+00:00"
 }
