@@ -60,43 +60,91 @@
   "news": [
     {
       "ticker": "AMZN",
-      "headline": "Billionaire Money Managers Have Chosen Their 2 Favorite AI Stocks (and It's Not Nvidia or Alphabet)",
+      "headline": "Starship Milestone Lifts SpaceX Stock. This Analyst Sees 40% Upside.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ddbe6ec8f5d5edb27302fbff5d8dd3ffbc3c5c91fca475eb0eac3882d05e3d63",
-      "datetime": 1790681161,
+      "url": "https://finnhub.io/api/news?id=81604584bd545e53566e45bdb020928cc6406169edcd650889bc2e0100f7d215",
+      "datetime": 1790689920,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Anthropic IPO Filing Shows Fast Growth, Big Losses and 'Catastrophic Risk' Warning: Report",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=12ff9f2567653a5346c3016c38a6bb41c4b1637228efcdb3da431ececbdadf6d",
+      "datetime": 1790689834,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "What Will Decide Apple Stock Over The Next Six Months?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f3f6fa9bc9371e6b46f40fe64c2566d1936cdbe120db11fe0f2ff3ade33bb75",
+      "datetime": 1790688611,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Aurora Mobile's GPTBots.ai Helps Ruko Cut Support Ticket Response Time from Two Hours to Under 10 Minutes",
+      "headline": "Nancy Pelosi And Bill Ackman Are Betting On The Same Two Stocks",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0edfcfdb01394fe9f5af4ed5195be9eadb0853e9867a1f1ab00504572cf3328b",
-      "datetime": 1790679600,
+      "url": "https://finnhub.io/api/news?id=0f6013b7835894597b781e1602dba893fe8db78420e6cebba6109aee09bf0428",
+      "datetime": 1790688437,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Market Chatter: Amazon-Backed Anthropic Warns IPO Investors AI Could Pose 'Existential Risks' to Humanity",
+      "headline": "Polymarket Hires Goldman Sachs Banker To Attract Institutional Investors",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9f314df331b779223655535ebe3769fe85bcd6a0a0340173a33ae51e8b3709e2",
-      "datetime": 1790677386,
+      "url": "https://finnhub.io/api/news?id=8ae77fbe29f6311d156f877b2c6b1ee2983450333aacec7a0929554e7becc32e",
+      "datetime": 1790688180,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "OpenAI tried to invest $100 million in Hugging Face",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=86a26068a6b5900e5d9ba375b2a4e894e318e36ce607078ff9019df252c54db6",
+      "datetime": 1790687901,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Spreetail Launches Brand Benchmark, Giving Brands Unprecedented Insight Beyond Their Own Sales",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e11d6947b70f50c2d1e44182d9f334c3104e0da021a8b09adeb6bd616c63fd5",
+      "datetime": 1790686800,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Market Chatter: Amazon-Backed Anthropic Founders to Control 50.1% Voting Power Through New LLC",
+      "headline": "NOW CFO Acquires Go HQ and Bright Flag Recruiting",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=be9777b7ad207a0a24f18090ab0d4cf888d3aa7baa6bc0051299cf0b6687091e",
-      "datetime": 1790675778,
+      "url": "https://finnhub.io/api/news?id=080b567edd112ef1da856984472d258aa428ad87f0b675454de4a0f6d347bacd",
+      "datetime": 1790686800,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Market Chatter: Anthropic Lost $42 Billion in 2025 as Future Infrastructure Costs Reach $518 Billion",
+      "ticker": "AVGO",
+      "headline": "Is The Market Underpricing NVIDIA Stock?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=53f539485dc50e5f545350b42bcb88f5098fde808d4e0c3dae69e2fc3bece6d7",
-      "datetime": 1790675031,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "url": "https://finnhub.io/api/news?id=52089fec4dc6f06c93bd5fdcbae42d24dd051bb8ef76d663d09032891a2772d2",
+      "datetime": 1790686362,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "How Market Bets on Anthropic\u2019s IPO Are Hiding in an AI ETF",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1a3a8c7c7c4a4ce6c37dfe00ada4fd31159cac271aa601310a9c6eb1a2c24089",
+      "datetime": 1790686200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom Inc. (AVGO) is Attracting Investor Attention: Here is What You Should Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=21f7df074644816efcdacf15974d2bd17db763b57d395b4ca8740fc2156c3ed5",
+      "datetime": 1790683203,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -107,52 +155,20 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Sprouts Farmers Market Looks Like An Organic Bargain",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=f59ea92880777b700bd14dfd16d060823f6bcd4802047efc13c610ce616f3660",
-      "datetime": 1790673789,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "ticker": "ORLY",
+      "headline": "This SpaceX Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Tuesday",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=7868982d9003cab0c229b7e417ab79e8c76b506cb4e748560bcb844841950459",
+      "datetime": 1790669407,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Broadcom's Dividend Has Grown About 90-Fold Since 2010. Its Next Raise Usually Comes in December.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fb610c1ad415bd9b636f9321e7f5f5499bce46ac65a80a550fa97e2dba94db21",
-      "datetime": 1790650621,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Top 3 Cash Flow Stocks To Watch In September 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ebe8464f5d38e21dbf415e86183e6da74c826da73fa37c4ffe734c0b88767104",
-      "datetime": 1790629717,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Did The Market Read Marvell Stock Right?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ed7df84c6426c3a5b78a7c05370fb2fd15a10be3181fdd88aed593ef64f1acbd",
-      "datetime": 1790628289,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "The Best ETF to Own in Your 30s, 40s, 50s, and 60s, According to the Math",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=736476664bcb18570333e1e2f7ca7c8d8be519f301a472e1b60634f9da66618a",
-      "datetime": 1790628031,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Not Nvidia, Not AMD. Broadcom's Custom Silicon Business Is Quietly Becoming an AI Chip Powerhouse",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2783ec0858b9b7fed4c2bf84492ec2d68e48de13b74f24ead4dbbd7d65adc4d7",
-      "datetime": 1790627460,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+      "ticker": "ORLY",
+      "headline": "Bernstein Initiates Coverage On O'Reilly Automotive with Market Perform Rating, Announces Price Target of $94",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=44640d0919ab601d7675822c6d7a9bef969954a1ff57f38c57584dca8b49e9e1",
+      "datetime": 1790661979,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "P",
@@ -185,6 +201,14 @@
       "url": "https://finnhub.io/api/news?id=9ff638211af9695af811e0b0c8a54eeb199d3613c1b0baba17d91732994a3931",
       "datetime": 1790613301,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "$100 Invested In Cencora 5 Years Ago Would Be Worth This Much Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e4914a606e5e89c31d15e5d78f5fe1f1055347a74281b15b6e197065508343dc",
+      "datetime": 1790613033,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "P",
@@ -225,6 +249,14 @@
       "url": "https://finnhub.io/api/news?id=64406bd70bef8545f83d03b0c1bb9c39b08dec5d6074e60b3aba7feb5386461c",
       "datetime": 1790596803,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "B",
+      "headline": "Reported Earlier, Allied Gold Begins Ore Processing At Sadiola Phase 1 Expansion And Advances Capital Efficient Phase 2 Plans",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ecd0c72607ed128d03c81c63c89ce38adf48f63ba3ec3d9d03223850aeae12ee",
+      "datetime": 1790589881,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "CLS",
@@ -377,38 +409,6 @@
       "url": "https://finnhub.io/api/news?id=2509a3d3033e1f9c3aef7f68ce7264077b93e9853dd42a8603b6c5938535be74",
       "datetime": 1790260898,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "1 Profitable Stock to Target This Week and 2 We Question",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=486ba199c94e0b7b85625006d9c80e3a1a266e3382a4a014137f24343c228b32",
-      "datetime": 1790245494,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Barrick (GOLD) Stock Could Be 24% Overvalued On Cash Flow Questions",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aa417a95e94b1672b8450653288e18f20fa9e24073f1c6ce2a119351950f373a",
-      "datetime": 1790205379,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "O'Reilly Automotive: Great Business, Still No Bargain",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c47513ec6b6f6238ee0381970703fd5ced408f6c12737563964775bba1d16751",
-      "datetime": 1790168057,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Can CAH's MSO Expansion Unlock Growth in Specialty Care Delivery?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5e90da72b9445f8f269fe769a77eee231cb102829bca91c22fcabee80a02ffe0",
-      "datetime": 1790083920,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     }
   ],
   "recent_posts": [],
@@ -467,12 +467,12 @@
       "market_cap_musd": 1668717.786587712,
       "country": "US",
       "currency": "USD",
-      "price": 359.53,
+      "price": 357.81,
       "open": 353.76,
       "day_high": 361.26,
       "day_low": 353.76,
       "prev_close": 349.57,
-      "day_change_pct": 2.85,
+      "day_change_pct": 2.36,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -486,12 +486,12 @@
       "market_cap_musd": 99905.1843,
       "country": "CA",
       "currency": "USD",
-      "price": 41.25,
+      "price": 41.32,
       "open": 41.3,
       "day_high": 41.38,
       "day_low": 40.93,
       "prev_close": 41.09,
-      "day_change_pct": 0.39,
+      "day_change_pct": 0.56,
       "week52_high": 74.0,
       "week52_low": 42.62
     },
@@ -505,12 +505,12 @@
       "market_cap_musd": 65159.089717,
       "country": "CA",
       "currency": "USD",
-      "price": 372.95,
+      "price": 368.75,
       "open": 360.21,
       "day_high": 375.28,
       "day_low": 360.21,
       "prev_close": 356.53,
-      "day_change_pct": 4.61,
+      "day_change_pct": 3.43,
       "week52_high": 655.5,
       "week52_low": 315.41
     },
@@ -524,12 +524,12 @@
       "market_cap_musd": 57975.207774488044,
       "country": "US",
       "currency": "USD",
-      "price": 300.42,
+      "price": 301.7,
       "open": 299.7,
       "day_high": 302.15,
       "day_low": 298.21,
       "prev_close": 303.81,
-      "day_change_pct": -1.12,
+      "day_change_pct": -0.69,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -543,12 +543,12 @@
       "market_cap_musd": 69983.19840716984,
       "country": "US",
       "currency": "USD",
-      "price": 86.15,
+      "price": 86.3,
       "open": 86.17,
-      "day_high": 86.4,
+      "day_high": 86.49,
       "day_low": 85.33,
       "prev_close": 86.51,
-      "day_change_pct": -0.42,
+      "day_change_pct": -0.24,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -562,12 +562,12 @@
       "market_cap_musd": 7054.283211744101,
       "country": "US",
       "currency": "USD",
-      "price": 19.52,
+      "price": 19.57,
       "open": 19.39,
-      "day_high": 19.56,
+      "day_high": 19.58,
       "day_low": 19.34,
       "prev_close": 19.49,
-      "day_change_pct": 0.15,
+      "day_change_pct": 0.41,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -581,12 +581,12 @@
       "market_cap_musd": 43119.6080139762,
       "country": "US",
       "currency": "USD",
-      "price": 129.77,
+      "price": 129.71,
       "open": 130.08,
       "day_high": 132.44,
       "day_low": 128.88,
       "prev_close": 129.4,
-      "day_change_pct": 0.29,
+      "day_change_pct": 0.24,
       "week52_high": 131.41,
       "week52_low": 56.78
     },
@@ -600,12 +600,12 @@
       "market_cap_musd": 2655051.283164458,
       "country": "US",
       "currency": "USD",
-      "price": 245.78,
+      "price": 246.06,
       "open": 246.51,
       "day_high": 247.41,
-      "day_low": 245.67,
+      "day_low": 245.14,
       "prev_close": 246.15,
-      "day_change_pct": -0.15,
+      "day_change_pct": -0.04,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-29T13:58:17.247978+00:00"
+  "updated_at": "2026-09-29T14:13:18.098769+00:00"
 }
