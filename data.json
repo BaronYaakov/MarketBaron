@@ -72,7 +72,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5e283575e4569ba163d9d6090cd1eeae87c8889d37358edc12199b56bfc3557d",
       "datetime": 1790647261,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
@@ -80,7 +80,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8fbc6f4b69d3142f8dda7630b2e816a4114ec161f9b3ff3adaec9404e521fbfc",
       "datetime": 1790638451,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -96,7 +96,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8871c54241bd348498e579e2b6dbc96ff800ddbcb7e5c63273e44a386eecd1f6",
       "datetime": 1790629501,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
@@ -104,7 +104,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=cb36a6601923e31a3f021691b9187bdc4a66112703c672adc64e81e6e706666c",
       "datetime": 1790629221,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
@@ -112,7 +112,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=05a13b3c6ef5f350e0aa3b6b020c65b82fb3b284ff8c79d830ac86aa635ca39d",
       "datetime": 1790628302,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -152,7 +152,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=03cdf61706de44c690ec418a29864baeecad6213ee91b308f395366bbc02ae8f",
       "datetime": 1790625783,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -591,6 +591,15 @@
       "week52_low": 56.78
     },
     "AMZN": {
+      "name": "Amazon.com Inc",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png",
+      "industry": "Retail",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "website": "https://www.amazon.com/",
+      "ipo_date": "1997-05-15",
+      "market_cap_musd": 2655051.283164458,
+      "country": "US",
+      "currency": "USD",
       "price": 246.15,
       "open": 246.62,
       "day_high": 247.77,
@@ -607,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-29T05:13:29.321777+00:00"
+  "updated_at": "2026-09-29T05:28:16.910115+00:00"
 }
