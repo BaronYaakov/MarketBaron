@@ -60,6 +60,30 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Amazon appears to be mystery tenant at Galleria North Tower in Dallas",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=89d2d6b2df2b415e17578f277e7d0b8a9cbeec5c2b59df65ca632eb6b490f6a7",
+      "datetime": 1790716213,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "My Top AI Power Stock to Buy Right Now (and It's Not Even Close)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e91dbd848325c53dac38f5860d54c28824c97f772771076055e1f242ed3595f0",
+      "datetime": 1790715000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Has MSFT Stock Run Out Of Steam?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5269c26441c3abf13e705ed88d84cca3c0a1b94315f7cd480a5b50aa8846f2a8",
+      "datetime": 1790713937,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Sector Update: Tech Stocks Rise Late Afternoon",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fcf79993b993d12393c90aa654ab7a52182ffa384966151be8fb727fcab57338",
@@ -83,36 +107,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Anthropic Makes Major Move to Cut AI Costs",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=339f2e58aee2a86eb988d25d67d64f4d88abcdb9d2b48e2c2e06015289665f59",
-      "datetime": 1790709174,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Which dow jones stocks are moving on Tuesday?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=d86a89f12f7a3769625ba57f71398b516023a72b2444d33a1d6a23ea31e36d7c",
-      "datetime": 1790709009,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Marvell Is Up 210% in 2026: Take Profits, or Buy More?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=513f74c8c35d4f0cfed1620f5cbe2dbf7603340c1e5c30742f2664c172d78bf0",
       "datetime": 1790708512,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Why Planned Data Centers Worth $9 Trillion May Never Be Built",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=26003f223a8c78f017d35d4b9b68f4774d5d99017ec68c74b3965a8a211e3274",
-      "datetime": 1790708220,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-29T21:58:15.514578+00:00"
+  "updated_at": "2026-09-29T22:13:17.225824+00:00"
 }
