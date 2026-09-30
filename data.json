@@ -75,6 +75,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "P",
+      "headline": "Everpure (P) Unveils AI Data Platform Upgrades With Faster Inference And Privacy Controls",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1aaec875ab89fceedd043ab697c857dbc271ac517b7306d966a0d3478d37b55c",
+      "datetime": 1790766702,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "OpenAI's Dots connect to 4,000 apps and never sleep",
       "source": "Yahoo",
@@ -256,14 +264,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=65ad28854d4e8150ff85e9585dbe0c291af10b7b9198a2224c6b81b25e5fd39c",
       "datetime": 1790617205,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Which S&P500 stocks are moving on Monday?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=9ff638211af9695af811e0b0c8a54eeb199d3613c1b0baba17d91732994a3931",
-      "datetime": 1790613301,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-30T12:13:14.920953+00:00"
+  "updated_at": "2026-09-30T12:28:15.012224+00:00"
 }
