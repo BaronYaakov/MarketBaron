@@ -59,6 +59,46 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Land of Startups: What ICTWeek Uzbekistan Revealed About Central Asia's Tech Rise",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8f44ad2481318fcbb801eafbb686fab4365625fed11cb431675ad655d45e20b9",
+      "datetime": 1790739120,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "3 Undervalued Stocks Trading At Least 24% Below Fair Value",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dd9aac8c3f9048adbb65ea214fd33e570e002c3d8c22d89d3256df1a17586587",
+      "datetime": 1790737874,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "SPCX CEO Elon Musk Warns Delta Will \u2018Lose A Lot Of Customers\u2019 Over Starlink Snub \u2014 Even as Rival United Already Has 600+ Jets Connected",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c94ec0ac08dc095deeb7d32996773bb699670b983cc05cd58e8e79ed192d4148",
+      "datetime": 1790731806,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "How much AMZN stock does Amazon\u2019s founder Jeff Bezos actually own?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b15658a6d7bfa042104d8fc318aa24b516293f4e8b25228e7335eec2bbafdf24",
+      "datetime": 1790730845,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "S&P 500 investors may have more tech exposure than they think: Here's how one wealth manager mitigates concentration risk",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2a83eca63e96323d9f57e3ecab19ccf880b913d9eeec9e0fec70a3955535926b",
+      "datetime": 1790727667,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "S&P 500, Dow Extend Losses From Elevated Yield Pressure \u2014 SPCX, TGT, AAPL, MU, NTAP In Focus",
       "source": "Yahoo",
@@ -91,44 +131,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "My Top AI Power Stock to Buy Right Now (and It's Not Even Close)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e91dbd848325c53dac38f5860d54c28824c97f772771076055e1f242ed3595f0",
-      "datetime": 1790715000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "Celestica (CLS) Increases Despite Market Slip: Here's What You Need to Know",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=88e79dec83875a0e08a634bf36f3076f57e6c840d241368c3f4e2512ddd4c1e8",
       "datetime": 1790714702,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Has MSFT Stock Run Out Of Steam?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5269c26441c3abf13e705ed88d84cca3c0a1b94315f7cd480a5b50aa8846f2a8",
-      "datetime": 1790713937,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Sector Update: Tech Stocks Rise Late Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fcf79993b993d12393c90aa654ab7a52182ffa384966151be8fb727fcab57338",
-      "datetime": 1790711726,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "What Is The One Risk Every Google Stock Investor Should Know?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a7967c24b06427f73d01cc10288db31526e618c49311614800fc516f583dc0bb",
-      "datetime": 1790709620,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -152,14 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3fb09f7f4dde4148a255efb9c748335460f7fb5931ea73b0e8e148dea9652843",
       "datetime": 1790707202,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Anthropic\u2019s S-1 Is Here. The $518 Billion Commitment Is the Real Story.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0f65e767ff59bb1470074320c1273d8ab83905f25e91824fd75e04c1e992a61b",
-      "datetime": 1790701051,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-30T04:58:14.943115+00:00"
+  "updated_at": "2026-09-30T05:13:15.138487+00:00"
 }
