@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "P",
+      "headline": "88% of Executives Fear Data Sovereignty Failures Could Cost Them Their Jobs",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=32275cd6b19ce8014964e9cf81b099ba3a6d00174412f4072ad93bc8c938b0fc",
+      "datetime": 1790755200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Everpure Announces New Data Management Capabilities for Production AI at Scale",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=35286c1b24bd18a121fbd9db867bcb7135ae62fc4e4e7e3e2a217cb3f96f923a",
+      "datetime": 1790755200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "History Says Broadcom Stock's Best Season Starts Now. It Has Risen in 13 Straight Fourth Quarters.",
       "source": "Yahoo",
@@ -259,14 +275,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
-      "ticker": "P",
-      "headline": "VNT vs. P: Which Stock Should Value Investors Buy Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8ec0e96ce2ca751f19d1eda6da8dca11a29fc4ad1ae0421d05fc14cf4cdb3362",
-      "datetime": 1790606403,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
       "ticker": "B",
       "headline": "Canadian miners slide as gold, silver slump weighs on sector",
       "source": "Yahoo",
@@ -329,14 +337,6 @@
       "url": "https://finnhub.io/api/news?id=e2b4f062d97e5c6fd999ed8e8fb151b3db2f6c1d509c2a6b30ded71b6b3f0cff",
       "datetime": 1790584595,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Everpure (P): Every Analyst Raised Targets After Analyst Day, Free Cash Flow Went Negative Anyway",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aef7d499d582e7f1b17b27df3ce98d69990a7889afcf517fc9b663f5bafc73c3",
-      "datetime": 1790551307,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "PRMB",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-30T10:13:14.340558+00:00"
+  "updated_at": "2026-09-30T10:28:14.589974+00:00"
 }
