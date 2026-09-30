@@ -60,6 +60,78 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Stock Market Today, Sept. 30: Nvidia Authorizes $150B Buyback, Lifting Total to $235B",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=896f4a4e19435f89e701a78564b104ce85f21479fba1841fe468e3a7db5e1394",
+      "datetime": 1790804401,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "JPMorgan sends a strong message to Mag-7 stock investors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5d3c1a924a076dd4a318800346bb7a073aa74b0c7fb9e2beed62fe6dc73e49f5",
+      "datetime": 1790803980,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Constellation Stock Rises as Amazon Backs Nuclear Plant Expansion",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e81974981fcb08cc7a3d97ac57ad658b707e1ddd17cdf269fb1fae3d0b96e8e1",
+      "datetime": 1790802120,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "What Changed In Marvell's Story?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b05b1e969245e0bfbedb856808dedb6899f5e29074591516279fb401e99f90d5",
+      "datetime": 1790801546,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "AI demand fuels Micron earnings beat",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7aede7e34f728a8a2083bb7cb45abee7e4d14ba18a36a34a855cd773d82e5178",
+      "datetime": 1790801160,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Constellation Energy stock climbs on Amazon nuclear power deal",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=96e2ec16b7523fceb3accad82133a5a2a5c56a7f092efedc3614e16f97458a9f",
+      "datetime": 1790801086,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "SCHD\u2019s Rules Sold Broadcom in March 2024. The Stock Is Up About 183% Since, and SCHD Holders Missed the Run",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4bae0d95ab943297f7e9d0c6edbd5f92750b2d99eb3ec1d9c81ea92830447d34",
+      "datetime": 1790798507,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Constellation and Amazon Announce 20-Year Power Purchase Agreement Adding 190 Megawatts of Nuclear Capacity at Calvert Cliffs",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b48b08f2162baae41e27808ff8c840e7e2a6995a76e3cc6de1cad3da6d3f27e5",
+      "datetime": 1790798400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Sector Update: Tech Stocks Higher Late Afternoon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2b7c7c16a265951f57ddea7d32d248c6c8d82ed73dcd488c53ced9dd8048984c",
+      "datetime": 1790798171,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Anthropic\u2019s $11.6 Billion Quarter Just Changed How the Market Should Read the S-1",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4677091277950a52cdb9944d8f512973180b6fb701f1efdcd03288dd7b8cc520",
@@ -67,83 +139,19 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Anthropic\u2019s $11.6 Billion Quarter Just Changed How the Market Should Read the S-1",
+      "ticker": "AVGO",
+      "headline": "Top Analyst Reports for Apple, Microsoft & Broadcom",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4677091277950a52cdb9944d8f512973180b6fb701f1efdcd03288dd7b8cc520",
-      "datetime": 1790797452,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Signs $1 Billion Synopsys Deal as AWS Steps Up Nvidia Challenge",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e8c26ba3bfc024599a5097724a731007e9c0dc6e84685e84e1218a807becf787",
-      "datetime": 1790796799,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Was There Any Sign Palantir Stock Would Run?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f2ae93e6291a58a5a4a8b2a4c4cd6f8c6ee3a9038cfdc413cead7447478ea89c",
-      "datetime": 1790796211,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "url": "https://finnhub.io/api/news?id=ca3b626f6371b67d4ed3a6fb6d3bb6adcab9be810769197aff832a5dc7207b7f",
+      "datetime": 1790796000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
       "headline": "Is Cerebras' Next Big Thing Already Here?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c6da1bced8a63d3a5d035e6b5cb5c9f3b59a533b12e952216dc3009c9ccc871c",
+      "url": "https://finnhub.io/api/news?id=5cc48d59eda873553181be54ce757e32bedc8ce18c017060ac2b51c76d383f17",
       "datetime": 1790795732,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Stay informed with the top movers within the dow jones index on Wednesday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=0093b0cd464267ac6c1513a5f23552a3363364456c7f26595de3332df4bb8e51",
-      "datetime": 1790795413,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Consumer Confidence Fell to Its Lowest Level Since 2014 and Consumer Stocks Are Already Paying for It",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=717d483d70d0e88fa9fb19c210926d8468a11dc0436c545c6c0da6d19e122abc",
-      "datetime": 1790794530,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "What Is The Case For Waiting On Qualcomm Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aabf53418ee4821a01d0435e9eb0313fc7949e476e15f00ff28c97fba0c2ccbf",
-      "datetime": 1790794314,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Oracle Stock Is Down 60% From Its High. Here's Why I'm Still Not Buying.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7497e076cb0508135a64dcf3be06ba5a6124ddd2c84eef6f1708a0a73eb2a543",
-      "datetime": 1790793120,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Top 3 AI Chip Stocks To Watch In September 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=846c69d078b5e97eb2c1b2db74255515bdec08caf82b6e90f47b3f1dd928f31d",
-      "datetime": 1790791925,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "3 AI Stocks With Revenue Growth Up To 34%",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=80b8e96f707c514eb6852675478f1045a1b397a0f20ad8e3a043b39a245331a2",
-      "datetime": 1790785485,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -161,14 +169,6 @@
       "url": "https://finnhub.io/api/news?id=39c8b0d65d016661fc240daa4dc5d5c622c60cf374cedbb1865d36d02d4b09f9",
       "datetime": 1790780492,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Here\u2019s What The Apple Patent Renewal Really Does for Qualcomm and Why I\u2019m Buying",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2a2ec178c9179082f38bfe2d76fdca42b416d2e9514876c192f57ac066e3b597",
-      "datetime": 1790779508,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "COR",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-30T21:58:15.329707+00:00"
+  "updated_at": "2026-09-30T22:13:14.792172+00:00"
 }
