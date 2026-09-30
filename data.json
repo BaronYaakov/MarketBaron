@@ -60,6 +60,38 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Sector Update: Tech Stocks Mixed Wednesday Afternoon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ccbe097de06ad01327ecc5b99b64da6fd9ca720ded6a86d8a33569539bba93de",
+      "datetime": 1790789649,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "How Much Upside Is Left In Microsoft Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3926ec6233fba3eba3a55e9bef398e1d8eec69d336d1aace4a5c08fa28389b73",
+      "datetime": 1790789210,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "BAG Ventures Closes Inaugural Fund I on the Strength of 150+ Operators Supporting Enterprise AI Founders",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da5f10c3b0a4cc943080feea146bfcd6555437dd41947cecf4a93f2a84673c00",
+      "datetime": 1790789100,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Synopsys Signs $1 Billion-Plus Silicon IP, AI Software Deal With Amazon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=619fb8f356e576f71255b98230ca09215e135a87358eaffbd3c9e3c7d8ced502",
+      "datetime": 1790788108,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Uncover the latest developments among dow jones stocks in today's session.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=77ef1c904bb3386988b017a5a99d23d7af9be8d6552ba602ebe18ed579b59213",
@@ -67,11 +99,19 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Corning vs. Honeywell International: Which Technology Stock Is a Better Buy in 2026?",
+      "ticker": "AVGO",
+      "headline": "3 AI Stocks With Revenue Growth Up To 34%",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d14b151e499de4cf899876567dd47db75823eb6d70e590af0f301ee362b48451",
-      "datetime": 1790783488,
+      "url": "https://finnhub.io/api/news?id=80b8e96f707c514eb6852675478f1045a1b397a0f20ad8e3a043b39a245331a2",
+      "datetime": 1790785485,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "QUALCOMM (QCOM) Is Down 6.7% After Renewing Apple Patent Deal And Deepening AI, Cloud Push",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ce490dc860da448ed0eaf18350c5b1a7fa898609cba8afb37f707f9c45d4fa90",
+      "datetime": 1790785170,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -81,38 +121,6 @@
       "url": "https://finnhub.io/api/news?id=a267aff3a125e1512ea017d4d9ba91466709de0e977d5bd76f1dee471c9ebc08",
       "datetime": 1790783216,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Target Lifted as Rosenblatt Says AI Agents Won\u2019t Disrupt Business Model",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=06c88b73028e8cee8ce985ccdbeecbf06308e43349b76063dd9030db7434a4bb",
-      "datetime": 1790783119,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The AI Revolution Could Be Microsoft\u2019s Next Trillion-Dollar Opportunity",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eae9b312e71ee662f58c3d5de5d579c5c2a9ec52b72e7ea4125d2d519ac0d804",
-      "datetime": 1790782251,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Connected Nation earns GUINNESS WORLD RECORDS\u2122 title for 'longest internet literacy live stream'",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f6073801ed4189e87b02e4193af074026e3e71bcc7ea9d0f298b4e46cbff077e",
-      "datetime": 1790780940,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon rolls out new capabilities for bulky package shippers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0a059d4f6a6d1b295eb7140d4e6efef5f4eea7576781f29324bca7c181827937",
-      "datetime": 1790780265,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -160,14 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=888ec320330a8ad11e78ebd02c93477bb6f654dca972a24c53839945704648a4",
       "datetime": 1790777853,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "When AMD's CEO and the Chart Say the Same Thing, Pay Attention",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a1f0ba3993e440d81774f61887138fb655dfb4f1e88750b61b5526734a600a55",
-      "datetime": 1790776037,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -467,12 +467,12 @@
       "market_cap_musd": 1695116.006903052,
       "country": "US",
       "currency": "USD",
-      "price": 353.68,
+      "price": 354.0,
       "open": 356.73,
       "day_high": 357.9,
       "day_low": 352.32,
       "prev_close": 355.1,
-      "day_change_pct": -0.4,
+      "day_change_pct": -0.31,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -486,12 +486,12 @@
       "market_cap_musd": 95757.55486,
       "country": "CA",
       "currency": "USD",
-      "price": 40.8,
+      "price": 40.86,
       "open": 41.37,
       "day_high": 41.54,
       "day_low": 40.71,
       "prev_close": 41.24,
-      "day_change_pct": -1.07,
+      "day_change_pct": -0.92,
       "week52_high": 74.0,
       "week52_low": 42.62
     },
@@ -505,12 +505,12 @@
       "market_cap_musd": 63790.783355,
       "country": "CA",
       "currency": "USD",
-      "price": 355.69,
+      "price": 355.01,
       "open": 368.0,
       "day_high": 376.76,
       "day_low": 353.52,
       "prev_close": 366.47,
-      "day_change_pct": -2.94,
+      "day_change_pct": -3.13,
       "week52_high": 655.5,
       "week52_low": 321.89
     },
@@ -543,12 +543,12 @@
       "market_cap_musd": 69627.25910342121,
       "country": "US",
       "currency": "USD",
-      "price": 85.22,
+      "price": 85.15,
       "open": 86.41,
       "day_high": 86.77,
-      "day_low": 85.15,
+      "day_low": 85.08,
       "prev_close": 86.07,
-      "day_change_pct": -0.99,
+      "day_change_pct": -1.07,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -562,12 +562,12 @@
       "market_cap_musd": 6967.416635877374,
       "country": "US",
       "currency": "USD",
-      "price": 19.18,
+      "price": 19.15,
       "open": 19.38,
       "day_high": 19.48,
       "day_low": 19.0,
       "prev_close": 19.25,
-      "day_change_pct": -0.36,
+      "day_change_pct": -0.52,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -581,12 +581,12 @@
       "market_cap_musd": 43336.20369164606,
       "country": "US",
       "currency": "USD",
-      "price": 130.87,
+      "price": 130.66,
       "open": 130.87,
       "day_high": 133.31,
       "day_low": 130.19,
       "prev_close": 130.05,
-      "day_change_pct": 0.63,
+      "day_change_pct": 0.47,
       "week52_high": 131.41,
       "week52_low": 56.78
     },
@@ -600,12 +600,12 @@
       "market_cap_musd": 2660660.1201785468,
       "country": "US",
       "currency": "USD",
-      "price": 251.14,
+      "price": 250.77,
       "open": 247.03,
       "day_high": 252.44,
       "day_low": 246.08,
       "prev_close": 246.67,
-      "day_change_pct": 1.81,
+      "day_change_pct": 1.66,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-30T17:58:16.498503+00:00"
+  "updated_at": "2026-09-30T18:13:16.547420+00:00"
 }
