@@ -59,6 +59,30 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "S&P 500, Dow Extend Losses From Elevated Yield Pressure \u2014 SPCX, TGT, AAPL, MU, NTAP In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=df076b1e0ea4fcf5a99c515a953021e0b32023f0067e91178578e91f8038213b",
+      "datetime": 1790721008,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "3 Dividend ETFs for a 40-Year Retirement. One Has Paid Every Quarter Since 2005",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c9a000c3e85978a38cb24b09ff0b752855dd56b4753129a36b190e2adb4cb57b",
+      "datetime": 1790719288,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Should You Buy The Dip In MongoDB Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ccf5e7a297292ba0a91ba6fa32c317633fb9b14e4251e95d6af183fb285b590c",
+      "datetime": 1790719171,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Amazon appears to be mystery tenant at Galleria North Tower in Dallas",
       "source": "Yahoo",
@@ -99,14 +123,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "SpaceX Briefly Passed Amazon and Microsoft in Market Cap After Its IPO. Could It Get There Again?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=81753abf08510cb607b0440483dfb9e964feb80c5a8c24c4ad358cf2e2f03532",
-      "datetime": 1790709540,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Marvell Is Up 210% in 2026: Take Profits, or Buy More?",
       "source": "Yahoo",
@@ -136,22 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0f65e767ff59bb1470074320c1273d8ab83905f25e91824fd75e04c1e992a61b",
       "datetime": 1790701051,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "What Was AMD Telling You Before Its Stock Ran?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3a520b48f86487096365118a06265cd32c7f21d67a8ed307b26ed068e08dbfe3",
-      "datetime": 1790695306,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "3 Stocks to Buy Before the End of September",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ce42ed2adfde2305874b94f2c7c32159541ebb1426262225556c2539b75a5a15",
-      "datetime": 1790692200,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-30T00:13:16.532143+00:00"
+  "updated_at": "2026-09-30T00:28:16.402628+00:00"
 }
