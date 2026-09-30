@@ -67,6 +67,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Jabil (JBL) Beats Q4 Earnings and Revenue Estimates",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8a458af01d209bbb2c58bfd564321df38862c7b347e959e84a3b9d1195b9e475",
+      "datetime": 1790768701,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "AI Chips Update - AMD Expands AI Horizons with World Labs Acquisition",
       "source": "Yahoo",
@@ -97,6 +105,22 @@
       "url": "https://finnhub.io/api/news?id=d1034a4ebf86c8ee8cf8b12310cd48cbbfe6cdd9a50e3a816b903d9d74dbe591",
       "datetime": 1790762400,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Top 3 Canadian Undervalued Tech Stocks To Watch In September 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bb8049a004488c9da2d6ef9202f2045be9400025467de0d3bab4b812987a7731",
+      "datetime": 1790759336,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Marvell: Surprisingly Cheaper Than In August, But There's A Catch",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f8fd36b4aef42f3a48352e604b8911343f71dec6cc3fa497f610e9d56080d6ec",
+      "datetime": 1790758144,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -168,14 +192,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=dd9aac8c3f9048adbb65ea214fd33e570e002c3d8c22d89d3256df1a17586587",
       "datetime": 1790737874,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "S&P 500, Dow Extend Losses From Elevated Yield Pressure \u2014 SPCX, TGT, AAPL, MU, NTAP In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=df076b1e0ea4fcf5a99c515a953021e0b32023f0067e91178578e91f8038213b",
-      "datetime": 1790721008,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -299,28 +315,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "Celestica, Inc. (CLS) Is a Trending Stock: Facts to Know Before Betting on It",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=64406bd70bef8545f83d03b0c1bb9c39b08dec5d6074e60b3aba7feb5386461c",
-      "datetime": 1790596803,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "B",
       "headline": "Reported Earlier, Allied Gold Begins Ore Processing At Sadiola Phase 1 Expansion And Advances Capital Efficient Phase 2 Plans",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=ecd0c72607ed128d03c81c63c89ce38adf48f63ba3ec3d9d03223850aeae12ee",
       "datetime": 1790589881,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica (NYSE:CLS) and the Affordable Growth Case Behind Its Strong EPS and Revenue Outlook",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=87ddbf8a62f384f7c5e7931d81c07eebe1ef562a400916532b49ae7b6d071ea7",
-      "datetime": 1790589652,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "B",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-30T12:58:14.595074+00:00"
+  "updated_at": "2026-09-30T13:13:15.402786+00:00"
 }
