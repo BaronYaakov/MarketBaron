@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "History Says Broadcom Stock's Best Season Starts Now. It Has Risen in 13 Straight Fourth Quarters.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c132e5df782ef8e0fd31618177c331029b851253c2f3e9b1df1d3928d6b570ab",
+      "datetime": 1790755081,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "These 3 AI Stocks Are Poised to Be Big Winners from Amazon's Choice to Block Meta's Muse",
       "source": "Yahoo",
@@ -153,14 +161,6 @@
       "url": "https://finnhub.io/api/news?id=88e79dec83875a0e08a634bf36f3076f57e6c840d241368c3f4e2512ddd4c1e8",
       "datetime": 1790714702,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Marvell Is Up 210% in 2026: Take Profits, or Buy More?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=513f74c8c35d4f0cfed1620f5cbe2dbf7603340c1e5c30742f2664c172d78bf0",
-      "datetime": 1790708512,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "ORLY",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-30T09:58:14.479985+00:00"
+  "updated_at": "2026-09-30T10:13:14.340558+00:00"
 }
