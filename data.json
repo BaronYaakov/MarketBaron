@@ -99,6 +99,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Celestica (CLS) Increases Despite Market Slip: Here's What You Need to Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=88e79dec83875a0e08a634bf36f3076f57e6c840d241368c3f4e2512ddd4c1e8",
+      "datetime": 1790714702,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Has MSFT Stock Run Out Of Steam?",
       "source": "Yahoo",
@@ -163,12 +171,28 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Brokers Suggest Investing in Celestica (CLS): Read This Before Placing a Bet",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=43b92f2407da3a44b292bd303db6a99e17092ca6a03af7f1b2c7e57a8783d12c",
+      "datetime": 1790685002,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "B",
       "headline": "Barrick Mining Corporation (ABX:CA) Presents at Mining Forum Americas 2026 - Slideshow",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=1df64097aeeda2deb116ca13fe56fa9ddd47caddd45d0d5794db9743af1e4bdc",
       "datetime": 1790681457,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "JBL Q4 Earnings Coming Up: How Should You Play the Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f3fbe0b4f956ecddcc7ab3facf93bec9750c154263648017ffbc30c8c18bcd18",
+      "datetime": 1790680320,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "P",
@@ -315,14 +339,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "3 AI Infrastructure Stocks Retail Investors Are Watching For Data Center Growth",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7e470a752d9e16a6a2587fdbed03d2c0584fcc9f5a7206b9cd9f1777e154ab63",
-      "datetime": 1790521745,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "PRMB",
       "headline": "Primo Brands (PRMB) Stock May Be Undervalued On Earnings Power",
       "source": "Yahoo",
@@ -379,14 +395,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "Zacks Investment Ideas feature highlights: Celestica, Advanced Energy Industries and EMCOR",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f24c540e9e4f4434d19d2ada1e713840676d785eeea4d6eb73f4b4aa74734a11",
-      "datetime": 1790325900,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "COR",
       "headline": "AbbVie vs. Novo Nordisk: Which Drug Giant Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
@@ -401,14 +409,6 @@
       "url": "https://finnhub.io/api/news?id=8eb972c08a04133027eb920e3fc3b121b93a21bf2259240dd130d95008f10fd5",
       "datetime": 1790281321,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica: 2027 Could Unlock The Next Growth Phase",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=2509a3d3033e1f9c3aef7f68ce7264077b93e9853dd42a8603b6c5938535be74",
-      "datetime": 1790260898,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     }
   ],
   "recent_posts": [],
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-30T00:58:16.120302+00:00"
+  "updated_at": "2026-09-30T01:13:16.679168+00:00"
 }
