@@ -75,6 +75,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "P",
+      "headline": "Is Everpure (P) Quietly Turning Its Data Platform Into an AI Cost and Risk Control Hub?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7cde43695e9ce54f796ed11b47fff7d8a8bfdd919503e3ffd218aff15623f6a0",
+      "datetime": 1790802889,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Constellation Stock Rises as Amazon Backs Nuclear Plant Expansion",
       "source": "Yahoo",
@@ -337,14 +345,6 @@
       "url": "https://finnhub.io/api/news?id=44640d0919ab601d7675822c6d7a9bef969954a1ff57f38c57584dca8b49e9e1",
       "datetime": 1790661979,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Stay informed with the top movers within the S&P500 index on Monday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=c12fd4505fe17fdad5ac70e1ca08de2c446637afd094d810b99c6d6f5a82993e",
-      "datetime": 1790622301,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "COR",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-30T22:13:14.792172+00:00"
+  "updated_at": "2026-09-30T22:28:14.813362+00:00"
 }
