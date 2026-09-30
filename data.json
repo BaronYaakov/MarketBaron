@@ -59,6 +59,38 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Meet the Low-Cost Vanguard ETF With 51.8% Invested in Nvidia, Apple, Alphabet, Microsoft, and Amazon While VOO Has Just 30%",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d82b697ba8b3abfbf8cd280855fc3ad6f8f83e30c123ba24e7289588cf8dcb3a",
+      "datetime": 1790769000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "AI Chips Update - AMD Expands AI Horizons with World Labs Acquisition",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=71237bd0e7d7b203e57e5c7246993d764611824d701f6f1a338d1e00bb9f40b4",
+      "datetime": 1790768247,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "OpenAI's Dots connect to 4,000 apps and never sleep",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f176ede7444ef0683a82195580a89bda301107420de266d3c7bcb96164c7b133",
+      "datetime": 1790766000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The $3T AI spend, grid bottlenecks, and the indexing trap",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d1034a4ebf86c8ee8cf8b12310cd48cbbfe6cdd9a50e3a816b903d9d74dbe591",
+      "datetime": 1790762400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "P",
       "headline": "88% of Executives Fear Data Sovereignty Failures Could Cost Them Their Jobs",
       "source": "Yahoo",
@@ -100,6 +132,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "Amazon: AI Growth Story Looks Great Until You Ask Who's Paying",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=695e9f0f4c712805b8b74917e62078e4c1aa41a8660d6649d0bff5e8ed9964cd",
+      "datetime": 1790754424,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon (AMZN) and Apple (AAPL) Must Face a UK Class Action Over Marketplace Sales",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=669783a8227114e6de2f820923e64d9c78a1feec557326ccd2c999418529837d",
@@ -115,14 +155,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Land of Startups: What ICTWeek Uzbekistan Revealed About Central Asia's Tech Rise",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8f44ad2481318fcbb801eafbb686fab4365625fed11cb431675ad655d45e20b9",
-      "datetime": 1790739120,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "3 Undervalued Stocks Trading At Least 24% Below Fair Value",
       "source": "Yahoo",
@@ -131,43 +163,11 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "SPCX CEO Elon Musk Warns Delta Will \u2018Lose A Lot Of Customers\u2019 Over Starlink Snub \u2014 Even as Rival United Already Has 600+ Jets Connected",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c94ec0ac08dc095deeb7d32996773bb699670b983cc05cd58e8e79ed192d4148",
-      "datetime": 1790731806,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "How much AMZN stock does Amazon\u2019s founder Jeff Bezos actually own?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b15658a6d7bfa042104d8fc318aa24b516293f4e8b25228e7335eec2bbafdf24",
-      "datetime": 1790730845,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "S&P 500 investors may have more tech exposure than they think: Here's how one wealth manager mitigates concentration risk",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2a83eca63e96323d9f57e3ecab19ccf880b913d9eeec9e0fec70a3955535926b",
-      "datetime": 1790727667,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "S&P 500, Dow Extend Losses From Elevated Yield Pressure \u2014 SPCX, TGT, AAPL, MU, NTAP In Focus",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=df076b1e0ea4fcf5a99c515a953021e0b32023f0067e91178578e91f8038213b",
       "datetime": 1790721008,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "3 Dividend ETFs for a 40-Year Retirement. One Has Paid Every Quarter Since 2005",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c9a000c3e85978a38cb24b09ff0b752855dd56b4753129a36b190e2adb4cb57b",
-      "datetime": 1790719288,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-30T11:58:14.753202+00:00"
+  "updated_at": "2026-09-30T12:13:14.920953+00:00"
 }
