@@ -115,6 +115,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "Top 10 AI Stocks To Buy On The Seasonal Dip",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a3e22694d92fd988d036f92e065fdbc41c2b6a8c7b19fab3e5258cff030b31fd",
+      "datetime": 1790758860,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Marvell: Surprisingly Cheaper Than In August, But There's A Catch",
       "source": "SeekingAlpha",
@@ -168,14 +176,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=695e9f0f4c712805b8b74917e62078e4c1aa41a8660d6649d0bff5e8ed9964cd",
       "datetime": 1790754424,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon (AMZN) and Apple (AAPL) Must Face a UK Class Action Over Marketplace Sales",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=669783a8227114e6de2f820923e64d9c78a1feec557326ccd2c999418529837d",
-      "datetime": 1790748498,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-30T13:13:15.402786+00:00"
+  "updated_at": "2026-09-30T13:28:15.186117+00:00"
 }
