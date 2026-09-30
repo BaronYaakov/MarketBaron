@@ -60,6 +60,30 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "These 3 AI Stocks Are Poised to Be Big Winners from Amazon's Choice to Block Meta's Muse",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c04ede28227099abe60f969c2362828fad36bf797514a0fb8180ad6a5aedb01",
+      "datetime": 1790754600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Chip Stocks Roar Back: AMD, Intel Power SOXX Toward Best Month Since June",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c542917146affb8a187a3642c366ded0cf78e3f04872bf54e53d4d8e4f3de5c9",
+      "datetime": 1790754535,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon (AMZN) and Apple (AAPL) Must Face a UK Class Action Over Marketplace Sales",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=669783a8227114e6de2f820923e64d9c78a1feec557326ccd2c999418529837d",
+      "datetime": 1790748498,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Land of Startups: What ICTWeek Uzbekistan Revealed About Central Asia's Tech Rise",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8f44ad2481318fcbb801eafbb686fab4365625fed11cb431675ad655d45e20b9",
@@ -115,22 +139,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Should You Buy The Dip In MongoDB Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ccf5e7a297292ba0a91ba6fa32c317633fb9b14e4251e95d6af183fb285b590c",
-      "datetime": 1790719171,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon appears to be mystery tenant at Galleria North Tower in Dallas",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=89d2d6b2df2b415e17578f277e7d0b8a9cbeec5c2b59df65ca632eb6b490f6a7",
-      "datetime": 1790716213,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "Celestica (CLS) Increases Despite Market Slip: Here's What You Need to Know",
       "source": "Yahoo",
@@ -152,14 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=cb8b32c7d964b863df44f8539dd51812887f54327e0d02334589cdf35160c33f",
       "datetime": 1790707601,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Reflecting On Processors and Graphics Chips Stocks\u2019 Q2 Earnings: Broadcom (NASDAQ:AVGO)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3fb09f7f4dde4148a255efb9c748335460f7fb5931ea73b0e8e148dea9652843",
-      "datetime": 1790707202,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-30T07:58:13.878381+00:00"
+  "updated_at": "2026-09-30T08:13:13.996863+00:00"
 }
