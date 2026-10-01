@@ -179,6 +179,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
+      "ticker": "PRMB",
+      "headline": "Can Primo Brands' 30.5% Premium Water Growth Sustain Momentum?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fe07a5cd24f1769bf22764e5fd7ad939f128c790009e46ece514acb26bfc109a",
+      "datetime": 1790786640,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+    },
+    {
       "ticker": "B",
       "headline": "LODE GOLD APPOINTS PATRICK W. GARRETSON AS SENIOR TECHNICAL ADVISOR - ADDS MAJOR MINING COMPANY EXPERIENCE TO FREMONT GOLD MINE",
       "source": "Yahoo",
@@ -616,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-01T01:28:16.380175+00:00"
+  "updated_at": "2026-10-01T01:43:14.910339+00:00"
 }
