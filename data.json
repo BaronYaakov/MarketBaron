@@ -59,6 +59,86 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Why Anthropic\u2019s \u2018disaster\u2019 prospectus needs more context",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=155d4c32579aa0029a378843f50c9326343880d6399ce8beca68496cd5cd9710",
+      "datetime": 1790869260,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Top Midday Stories: Micron Shares Fall Despite Strong Earnings, Guidance; Broadcom to Lend Anthropic $42 Billion for Infrastructure Spending",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7ba659041f67ce3709677047ffb605c15f6b63ae040b7a5399c67b2d5252f134",
+      "datetime": 1790869103,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Top Midday Stories: Micron Shares Fall Despite Strong Earnings, Guidance; Broadcom to Lend Anthropic $42 Billion for Infrastructure Spending",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7ba659041f67ce3709677047ffb605c15f6b63ae040b7a5399c67b2d5252f134",
+      "datetime": 1790869103,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "How Has Microsoft's Story Changed In A Year?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5a5986f25f64b803b9a08fadf94072c7bbf430a64c082281012b1c9c6afb9202",
+      "datetime": 1790868444,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Which Dates Could Move Microsoft Stock Most?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1ae3c28c5ec20eeb048befda771504bd5f36e2dcc083d7911189c603e391eef3",
+      "datetime": 1790867807,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Why Amazon\u2019s (AMZN) Infrastructure Investment Sets Up Record Downstream FCF",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ec13ad971a57750e982e291118213615cc6f123ef675e76411d36a1b4c1e7115",
+      "datetime": 1790866428,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Synopsys Is the Top Stock in the Nasdaq 100 Today. Here\u2019s Why.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0eddf3ffdaf15fa2ad79ea77f388301733cfacced954512a6c37b4a873133c2b",
+      "datetime": 1790865180,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom lends Anthropic $42B, Nike releases Caitlin 1s, and Micron earnings takeaways",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=79246680482975bb878f7c231ff31868246a783afaace38fda15f85ee526e87c",
+      "datetime": 1790864000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Anthropic and Broadcom Are Becoming More Intertwined. What It Means for Broadcom Stock.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=97cca3e4059229defbd05dae556b3f738d6fa7ff4447be05a873c7b9ee77be63",
+      "datetime": 1790863860,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "3 Tech Stocks Trading At Least 25% Below Fair Value",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=17063dbe7b45598c7af7703610a6bb70c8231b8898c34563f827e64730fdd141",
+      "datetime": 1790863855,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Is Broadcom a Millionaire-Maker Stock?",
       "source": "Yahoo",
@@ -67,91 +147,11 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "3 Mega-Cap Stocks to Target This Week",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6aee91249939c5a92ccb0275c90dece9dbab6d94f69e9ddc912e589d501f16cc",
-      "datetime": 1790862067,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Broadcom to lend Anthropic $42 billion in finance infrastructure spending",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=43f9370f1a90e171b25ea647f8816600621ed547eccef5b1f1fd267d85f50aa7",
       "datetime": 1790861885,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "5 Stocks Under $10 to Buy Now for Immediate Monthly Cash Flow",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9382f46d42abb8bdff9882bed80bdebab333c9ece58baa1d9e9791c9ef104950",
-      "datetime": 1790860360,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Goldman Sachs adds Amazon to conviction buy list, $375 target",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e89dcf3c5ce99af181447874524434d750c3016835b6c3c2cff855058f908f14",
-      "datetime": 1790860240,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon to start sending out settlement payments. Are you eligible?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=30be301f870e5ee71f6f7ae077bfe97145fe2da46251bd9ea6213e79d7d11daf",
-      "datetime": 1790860116,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "How Booking Holdings and Expedia Are Taking Opposite Bets on AI Shopping Agents",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=524b4a2ac12ec75afa5b895b7ad2cb658f232212ec249c7f42c034719d669a94",
-      "datetime": 1790859934,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Volantis Raises $88M Series A to Demolish the AI Memory Wall With Photonics",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4695c27b390b471a17aae61f02844f510c132bc95240f20ce5578d2267ae89eb",
-      "datetime": 1790859600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "The Only Way I Stop Adding Broadcom is an AI Collapse",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f632cf3cbf8243be7fd4a7624ab96648a3ef4b3c0b34afece9caa3194ccbdf8a",
-      "datetime": 1790858741,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Two of Ecommerce\u2019s Biggest Names Just Launched a Silent War",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c7bbfb475c0d933d2cc7e83a2beaccc3f7a4957e686ee17d67b6839959342480",
-      "datetime": 1790858728,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia\u2019s Latest Move is a Green Light to Keep Loading Up",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=255968f262587cbbcb587b1fa5f00da24ba63e59e2ab4c1a408e4b7febd40121",
-      "datetime": 1790858702,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom offering Anthropic $42 billion loan for AI chip leases",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b9d564ceb468624b0b9ddbf0ef84c9650db6e33e53db0db53876b808207f8bb4",
-      "datetime": 1790858460,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -475,12 +475,12 @@
       "market_cap_musd": 1676451.107360384,
       "country": "US",
       "currency": "USD",
-      "price": 346.82,
+      "price": 347.7,
       "open": 353.38,
       "day_high": 354.45,
       "day_low": 346.09,
       "prev_close": 351.19,
-      "day_change_pct": -1.24,
+      "day_change_pct": -0.99,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -494,12 +494,12 @@
       "market_cap_musd": 96234.862843,
       "country": "CA",
       "currency": "USD",
-      "price": 40.41,
+      "price": 40.33,
       "open": 40.52,
       "day_high": 40.73,
       "day_low": 40.0,
       "prev_close": 40.67,
-      "day_change_pct": -0.64,
+      "day_change_pct": -0.84,
       "week52_high": 74.0,
       "week52_low": 42.62
     },
@@ -513,12 +513,12 @@
       "market_cap_musd": 65479.409177,
       "country": "CA",
       "currency": "USD",
-      "price": 371.82,
+      "price": 370.38,
       "open": 364.83,
       "day_high": 372.58,
       "day_low": 354.49,
       "prev_close": 361.43,
-      "day_change_pct": 2.87,
+      "day_change_pct": 2.48,
       "week52_high": 655.5,
       "week52_low": 321.89
     },
@@ -532,12 +532,12 @@
       "market_cap_musd": 57295.8616178568,
       "country": "US",
       "currency": "USD",
-      "price": 306.07,
+      "price": 307.41,
       "open": 301.71,
       "day_high": 313.02,
       "day_low": 300.77,
       "prev_close": 300.25,
-      "day_change_pct": 1.94,
+      "day_change_pct": 2.38,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -551,12 +551,12 @@
       "market_cap_musd": 69093.3430007107,
       "country": "US",
       "currency": "USD",
-      "price": 84.43,
+      "price": 84.39,
       "open": 85.46,
       "day_high": 85.76,
       "day_low": 83.9,
       "prev_close": 85.41,
-      "day_change_pct": -1.15,
+      "day_change_pct": -1.19,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -570,12 +570,12 @@
       "market_cap_musd": 6895.027972877922,
       "country": "US",
       "currency": "USD",
-      "price": 18.9,
+      "price": 18.88,
       "open": 19.18,
       "day_high": 19.35,
       "day_low": 18.73,
       "prev_close": 19.05,
-      "day_change_pct": -0.79,
+      "day_change_pct": -0.89,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -589,12 +589,12 @@
       "market_cap_musd": 43579.46266172503,
       "country": "US",
       "currency": "USD",
-      "price": 132.89,
+      "price": 133.68,
       "open": 132.04,
-      "day_high": 133.52,
+      "day_high": 133.88,
       "day_low": 130.08,
       "prev_close": 130.78,
-      "day_change_pct": 1.61,
+      "day_change_pct": 2.22,
       "week52_high": 132.44,
       "week52_low": 56.78
     },
@@ -608,12 +608,12 @@
       "market_cap_musd": 2687410.2260471815,
       "country": "US",
       "currency": "USD",
-      "price": 247.06,
+      "price": 247.48,
       "open": 250.84,
       "day_high": 251.83,
       "day_low": 246.12,
       "prev_close": 249.15,
-      "day_change_pct": -0.84,
+      "day_change_pct": -0.67,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-01T15:58:16.892022+00:00"
+  "updated_at": "2026-10-01T16:13:16.322403+00:00"
 }
