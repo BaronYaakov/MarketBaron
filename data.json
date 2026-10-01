@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Softer Inflation Takes the Edge Off Hike Fears, Then Micron Raises the Bar Again",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=686bb10bbe6618ce3d7e4527ac38df030a70e4d3f931bceb5621e9bca9137a32",
+      "datetime": 1790845500,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "P",
       "headline": "Everpure Stock Is September\u2019s Surprise S&P 500 Winner, Surging More Than 40% As Retail Piles In",
       "source": "Yahoo",
@@ -145,14 +153,6 @@
       "url": "https://finnhub.io/api/news?id=896f4a4e19435f89e701a78564b104ce85f21479fba1841fe468e3a7db5e1394",
       "datetime": 1790804401,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "JPMorgan sends a strong message to Mag-7 stock investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5d3c1a924a076dd4a318800346bb7a073aa74b0c7fb9e2beed62fe6dc73e49f5",
-      "datetime": 1790803980,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-01T09:28:14.608885+00:00"
+  "updated_at": "2026-10-01T09:43:14.644299+00:00"
 }
