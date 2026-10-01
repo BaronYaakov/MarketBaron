@@ -91,6 +91,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "ORLY",
+      "headline": "O\u2019Reilly Automotive, Inc. Announces Dates for Its Third Quarter 2026 Earnings Release and Conference Call",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2370116ca6460d5caf9d88ea21df3e73394d2247391c4643d8d66eca7deee611",
+      "datetime": 1790886600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Synopsys is becoming a major AI player: CEO discusses OpenAI, Amazon deals",
       "source": "Yahoo",
@@ -363,14 +371,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "ORLY",
-      "headline": "This SpaceX Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Tuesday",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=7868982d9003cab0c229b7e417ab79e8c76b506cb4e748560bcb844841950459",
-      "datetime": 1790669407,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
       "ticker": "COR",
       "headline": "$100 Invested In Cencora 5 Years Ago Would Be Worth This Much Today",
       "source": "Benzinga",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-01T22:13:15.871253+00:00"
+  "updated_at": "2026-10-01T22:28:14.861992+00:00"
 }
