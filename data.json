@@ -124,6 +124,14 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "Broadcom: Get Ready For A Breakout",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=55e9a580b29ceeb4ee80c3f86f68cc35fe29f1eaf6de1ac3d8b2074213db2bad",
+      "datetime": 1790882989,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Applied Materials vs. Broadcom: Which Semiconductor Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6f3e91de8704ac93d4fdf702bbb7770dbd94930ccf9dc6f9975ef83e8b8b86bf",
@@ -152,14 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=dc5ab560ccee9503364544a15807c4803781b70d2fc7e31fadc6b3553820c528",
       "datetime": 1790877639,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "DGRO: Banks Are The Next Dividend Growth Engine",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=74a6d03a2d585ef26750a60d77561bba5a774b6a3296cc15e207b80b7bd9c816",
-      "datetime": 1790874591,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-01T23:43:15.229138+00:00"
+  "updated_at": "2026-10-01T23:58:15.046541+00:00"
 }
