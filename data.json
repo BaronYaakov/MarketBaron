@@ -59,12 +59,68 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Amazon Raised Its 2026 Capex Guide to $220 Billion. Here\u2019s What Drove the Increase",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a22d8c9e2d9a043fa3dba0832e43586076914ddf3baaf0caca0ef7e920ba8f08",
+      "datetime": 1790854817,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon signs 20-year nuclear power deal with Constellation Energy",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=70ac3e3e4fe7f9bd3fc3fb4ad6b1e4ca0e6dedf8ea0a7163f6503f95769c447f",
+      "datetime": 1790854215,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The Hyperscaler CPU Threat to AMD No One Is Talking About",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=53403066a13cd814eec58a16705c590a0da8ec44154a9dd5e9b452a21e38486a",
+      "datetime": 1790853341,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Everyone Is Wrong About The Anthropic IPO",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=364f118f5474cbae87d00e7785c6af41f8680aed764ec5713cca6e7ed64d486c",
+      "datetime": 1790852400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Anthropic may borrow up to $42bn from Broadcom to lease its chips - report",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=46c27a725b406569ce2962e40fdfe285815fd78ecbfee53a2367fb2e13b227d0",
+      "datetime": 1790852130,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Anthropic may borrow up to $42bn from Broadcom to lease its chips - report",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=46c27a725b406569ce2962e40fdfe285815fd78ecbfee53a2367fb2e13b227d0",
+      "datetime": 1790852130,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "CLS",
       "headline": "Celestica Inc. (NYSE:CLS) Combines High Growth Leadership With Strong Momentum",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=f56d6c4bd58442afa3e23b598f5cf9eb7872decba992364a50f0d392a52be92e",
       "datetime": 1790851852,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "By 2001, His Amazon Shares Had Fallen 93% And Wall Street Was Predicting The Company Would Go Bankrupt. Bill Miller Didn\u2019t Care, He Doubled Down At $6 A Share. Two Decades Later He Had More Amazon Stock Than Anyone Not Named Bezos",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ca62f34825be428950d91b70e15c56e24389a7462b41ad6da1262ecf297ff761",
+      "datetime": 1790851118,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "B",
@@ -75,60 +131,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Elizabeth Warren demands answers on $96B in lost federal revenue as Amazon, Google, Meta and Microsoft claim tax breaks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4c44fa3eaf40e63f729fd396a88968419d1488a87b997933463f7a59c3a112d5",
-      "datetime": 1790847000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Warren Buffett's Successor, Greg Abel, Jettisoned Amazon Earlier This Year and More Than 6X'd Berkshire's Stake in the \"Apple\" of His Eye",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9103c81ad7dc8f863b9ee75cc3255b347dbe6cd748eedc179f4f32d205cac63d",
-      "datetime": 1790846761,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The 3 Best Stocks to Buy in October",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3eda08640461ee23930e04d678931d20c88864a2f3b956b7b0085db6f83430a0",
-      "datetime": 1790846280,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "O'Reilly Automotive (ORLY) Stock Still Looks Overvalued On Its 109% Five Year Run",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d74bf68327073a21e09ad4bb676671ae13423e4703a2c0409f394754465e1b42",
       "datetime": 1790845819,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Softer Inflation Takes the Edge Off Hike Fears, Then Micron Raises the Bar Again",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=686bb10bbe6618ce3d7e4527ac38df030a70e4d3f931bceb5621e9bca9137a32",
-      "datetime": 1790845500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Synopsys signs $1bn-plus silicon IP deal with Amazon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b1d42e9eb7df078d6191b6b9a710a28657243575e1fd077f81cd96bf9ae8344a",
-      "datetime": 1790844192,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "DAL Stock Heads For Red Week: Elon Musk's Feud With Delta Air Lines Over Starlink Intensifies Even As CEO Ed Bastian Hits Back",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0d115d3eab74d33fec1e93e456d42bdd22f99cb1f94d0e133aa0ce0c4c252b7e",
-      "datetime": 1790843312,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -200,14 +208,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b05b1e969245e0bfbedb856808dedb6899f5e29074591516279fb401e99f90d5",
       "datetime": 1790801546,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "SCHD\u2019s Rules Sold Broadcom in March 2024. The Stock Is Up About 183% Since, and SCHD Holders Missed the Run",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4bae0d95ab943297f7e9d0c6edbd5f92750b2d99eb3ec1d9c81ea92830447d34",
-      "datetime": 1790798507,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-01T11:58:14.923918+00:00"
+  "updated_at": "2026-10-01T12:13:15.682317+00:00"
 }
