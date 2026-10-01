@@ -59,12 +59,28 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "P",
+      "headline": "Everpure Stock Is September\u2019s Surprise S&P 500 Winner, Surging More Than 40% As Retail Piles In",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=354f01ab3ffb52f17fffa0baf0e02019c8c004112604de1a2c35b6845f67ceca",
+      "datetime": 1790839084,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Amazon Stock Pays $0 in Dividends. Here's Why Long-Term Investors Should Own It Anyway.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=dbe9450ec9de024303ab0f09867d7692f61b3a89a10d963ff549e791be1f195d",
       "datetime": 1790837400,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Everpure (P), Why Is It Drawing Fresh Attention Today?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f346f1987456b98010a84109fcd8b80b5e4e250ceac1f4d486b8fca9495be0bd",
+      "datetime": 1790834845,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "AVGO",
@@ -283,14 +299,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "P",
-      "headline": "Everpure Announces New Data Management Capabilities for Production AI at Scale",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=35286c1b24bd18a121fbd9db867bcb7135ae62fc4e4e7e3e2a217cb3f96f923a",
-      "datetime": 1790755200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "Bernstein Initiates Coverage On Celestica with Outperform Rating, Announces Price Target of $520",
       "source": "Benzinga",
@@ -329,14 +337,6 @@
       "url": "https://finnhub.io/api/news?id=12810ddfc2801a0050626ba1f4d6a6db1d430a552e4659dc0f4e9d02a662eeda",
       "datetime": 1790689952,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Chief Product Officer Of Everpure Sold $5.33M In Stock",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=ce5a347880eeb71300adb88f92ec598e00b99383a2c0ecc923f8657de439b56a",
-      "datetime": 1790679669,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "ORLY",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-01T07:58:14.523153+00:00"
+  "updated_at": "2026-10-01T08:13:15.167160+00:00"
 }
