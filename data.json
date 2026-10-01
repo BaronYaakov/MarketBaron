@@ -60,11 +60,59 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Elizabeth Warren demands answers on $96B in lost federal revenue as Amazon, Google, Meta and Microsoft claim tax breaks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4c44fa3eaf40e63f729fd396a88968419d1488a87b997933463f7a59c3a112d5",
+      "datetime": 1790847000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Warren Buffett's Successor, Greg Abel, Jettisoned Amazon Earlier This Year and More Than 6X'd Berkshire's Stake in the \"Apple\" of His Eye",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9103c81ad7dc8f863b9ee75cc3255b347dbe6cd748eedc179f4f32d205cac63d",
+      "datetime": 1790846761,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The 3 Best Stocks to Buy in October",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3eda08640461ee23930e04d678931d20c88864a2f3b956b7b0085db6f83430a0",
+      "datetime": 1790846280,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Softer Inflation Takes the Edge Off Hike Fears, Then Micron Raises the Bar Again",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=686bb10bbe6618ce3d7e4527ac38df030a70e4d3f931bceb5621e9bca9137a32",
       "datetime": 1790845500,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Synopsys signs $1bn-plus silicon IP deal with Amazon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b1d42e9eb7df078d6191b6b9a710a28657243575e1fd077f81cd96bf9ae8344a",
+      "datetime": 1790844192,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "DAL Stock Heads For Red Week: Elon Musk's Feud With Delta Air Lines Over Starlink Intensifies Even As CEO Ed Bastian Hits Back",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0d115d3eab74d33fec1e93e456d42bdd22f99cb1f94d0e133aa0ce0c4c252b7e",
+      "datetime": 1790843312,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "The Zacks Analyst Blog Highlights Apple, Microsoft and Broadcom",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eb1b1a99a65498e2c6389a4dcf8ce8a7574f6cb1199e3c7650ff4395296fd573",
+      "datetime": 1790840460,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -73,14 +121,6 @@
       "url": "https://finnhub.io/api/news?id=354f01ab3ffb52f17fffa0baf0e02019c8c004112604de1a2c35b6845f67ceca",
       "datetime": 1790839084,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Stock Pays $0 in Dividends. Here's Why Long-Term Investors Should Own It Anyway.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dbe9450ec9de024303ab0f09867d7692f61b3a89a10d963ff549e791be1f195d",
-      "datetime": 1790837400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -97,38 +137,6 @@
       "url": "https://finnhub.io/api/news?id=b7deef85221430a024a04d7f5653a91a75e6f3b37f8f949b6802afdcb00b5c74",
       "datetime": 1790834461,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Signs 20-Year Nuclear Power Deal With Constellation, Unlocking $3 Billion Investment to Fuel AI-Induced Electricity Demand",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f317ff8db46435518ae4ebd81d6452319e844ba10ab9138aa424ebef2cb4efc0",
-      "datetime": 1790832003,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Trump Losing Midterms Could Be the 'Trigger' that Pops AI Bubble, Says Market Analyst \u2014 Here's What Crypto Punters Think",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5c47b3c659a2b86e95362aece3c906f834abc994094d6f2a6e59192468e007ca",
-      "datetime": 1790825542,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "CEG Stock Rises Overnight: Constellation Signs 20-Year Nuclear Power Deal With Amazon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=28875decffb04ca755d66f2a77f936619eed8e8ea6a6e3e494fbc092a4b150a9",
-      "datetime": 1790817386,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Anthropic Plans to Spend $518 Billion on Cloud and Data Centers. More Than $100 Billion Is Already Promised to Amazon.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5af6b2c051a415306e7762b6c8a3feebce0de42925d9c04761d4dcb2e67e4600",
-      "datetime": 1790816221,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "B",
@@ -176,14 +184,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4bae0d95ab943297f7e9d0c6edbd5f92750b2d99eb3ec1d9c81ea92830447d34",
       "datetime": 1790798507,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Anthropic\u2019s $11.6 Billion Quarter Just Changed How the Market Should Read the S-1",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4677091277950a52cdb9944d8f512973180b6fb701f1efdcd03288dd7b8cc520",
-      "datetime": 1790797452,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-01T09:58:14.378417+00:00"
+  "updated_at": "2026-10-01T10:13:14.490484+00:00"
 }
