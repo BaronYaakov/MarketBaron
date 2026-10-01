@@ -60,6 +60,46 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Amazon Signs 20 Year Nuclear Power Deal. That's Great News for This Nuclear Stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=36bbb932031d0a68e628d1da02b329b52f3b418594e9cf3aaed4bffe4471a56c",
+      "datetime": 1790891863,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "IonQ vs. SoundHound AI: Which Tech Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fd48f330e8e5e8dfcec8856002b2f5999ab91a01d5b01c146a820fb518ba56ec",
+      "datetime": 1790889873,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "BAG Ventures Closes $11.3M Fund With Support From Google, Amazon, And More",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d44a5e44ceac81ac142703ed291965723128a5ab1448befe1c3281a96504f0aa",
+      "datetime": 1790889488,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon (AMZN) and GoodRx (GDRX) Chase Prescription Subscribers as Insurance Coverage Slips",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=17673799e21c620c7cfbe2fa794387b2b2542e5812030b775f332d62eaba42b5",
+      "datetime": 1790887133,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Synopsys is becoming a major AI player: CEO discusses OpenAI, Amazon deals",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1ea559934e0f0123eb996c4cb36fd9780357e41096fae7a248738e8c46990057",
+      "datetime": 1790886421,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Sector Update: Tech Stocks Gain Late Afternoon",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=562133cf5715763d5fbc16d7a6819894df187c19d16c3330eca97d753c41886d",
@@ -75,44 +115,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Amazon, Constellation sign 20-year PPA to expand Maryland nuclear plant",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f1ca1ac9b465740637982ff121d52ae34d3e852f21653abf698dbd0cd94011f4",
-      "datetime": 1790880907,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "National retailer files Chapter 11 after 80 stores closed in 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=18428585ea7ce8bfad42089cb7c5eedb05092899889c1812fe26d67bc1e153f0",
-      "datetime": 1790879655,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Applied Materials vs. Broadcom: Which Semiconductor Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6f3e91de8704ac93d4fdf702bbb7770dbd94930ccf9dc6f9975ef83e8b8b86bf",
       "datetime": 1790879382,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon, Top Warship Builder Added To Goldman's Conviction List",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=39439c9849b11dcea4fe66a586d3dd4284a945b55213575f29cefee4a917db05",
-      "datetime": 1790879212,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Global Foods Group (Jaca) Presenting at NIBA's 153rd Investment Conference in Fort Lauderdale, FL October 7, 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a566a6b3ad7d38800304d0ea30c030c5ef15d721fcdd4ca2af3d3bb28aa69dc8",
-      "datetime": 1790878500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -129,14 +137,6 @@
       "url": "https://finnhub.io/api/news?id=8d09cb3607cc111630e7ad977f1c810872f3230171c99d1afcc28b439f6c9917",
       "datetime": 1790877959,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Synopsys Stock Surges On AI-Driven Transformation Of Engineering",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=47b6f4ebb1987dfbf009ccc6e4dbd62b24bd488ce4c131a46549a85d8f8352ab",
-      "datetime": 1790877653,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-01T21:58:16.452316+00:00"
+  "updated_at": "2026-10-01T22:13:15.871253+00:00"
 }
