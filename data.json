@@ -59,12 +59,28 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Amazon Stock Pays $0 in Dividends. Here's Why Long-Term Investors Should Own It Anyway.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dbe9450ec9de024303ab0f09867d7692f61b3a89a10d963ff549e791be1f195d",
+      "datetime": 1790837400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "History Says AMD Stock's $1 Trillion Milestone Isn't a Ceiling",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b7deef85221430a024a04d7f5653a91a75e6f3b37f8f949b6802afdcb00b5c74",
       "datetime": 1790834461,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Signs 20-Year Nuclear Power Deal With Constellation, Unlocking $3 Billion Investment to Fuel AI-Induced Electricity Demand",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f317ff8db46435518ae4ebd81d6452319e844ba10ab9138aa424ebef2cb4efc0",
+      "datetime": 1790832003,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
@@ -131,28 +147,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Constellation Stock Rises as Amazon Backs Nuclear Plant Expansion",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e81974981fcb08cc7a3d97ac57ad658b707e1ddd17cdf269fb1fae3d0b96e8e1",
-      "datetime": 1790802120,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "What Changed In Marvell's Story?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b05b1e969245e0bfbedb856808dedb6899f5e29074591516279fb401e99f90d5",
       "datetime": 1790801546,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "AI demand fuels Micron earnings beat",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7aede7e34f728a8a2083bb7cb45abee7e4d14ba18a36a34a855cd773d82e5178",
-      "datetime": 1790801160,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-01T07:43:15.286326+00:00"
+  "updated_at": "2026-10-01T07:58:14.523153+00:00"
 }
