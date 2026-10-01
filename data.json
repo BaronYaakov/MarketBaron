@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "B",
+      "headline": "Barrick Mining Corp (NYSE:B) Looks Undervalued as a Profitable Value Stock",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=dd515f1fd86f6bc19228940efff633719d320888461894f693d69cb8469df2ea",
+      "datetime": 1790849451,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Elizabeth Warren demands answers on $96B in lost federal revenue as Amazon, Google, Meta and Microsoft claim tax breaks",
       "source": "Yahoo",
@@ -329,14 +337,6 @@
       "url": "https://finnhub.io/api/news?id=88e79dec83875a0e08a634bf36f3076f57e6c840d241368c3f4e2512ddd4c1e8",
       "datetime": 1790714702,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Three Points Copper Appoints Nick Tintor to The Board of Directors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b5c17d15f7f10e81e06288295e8751d2771ff949efe6a166ccdf50edb328d827",
-      "datetime": 1790692080,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "ORLY",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-01T10:28:14.373115+00:00"
+  "updated_at": "2026-10-01T10:43:14.650613+00:00"
 }
