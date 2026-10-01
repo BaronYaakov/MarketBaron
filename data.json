@@ -59,52 +59,100 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
-      "ticker": "AMZN",
-      "headline": "Amazon Raised Its 2026 Capex Guide to $220 Billion. Here\u2019s What Drove the Increase",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a22d8c9e2d9a043fa3dba0832e43586076914ddf3baaf0caca0ef7e920ba8f08",
-      "datetime": 1790854817,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon signs 20-year nuclear power deal with Constellation Energy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=70ac3e3e4fe7f9bd3fc3fb4ad6b1e4ca0e6dedf8ea0a7163f6503f95769c447f",
-      "datetime": 1790854215,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The Hyperscaler CPU Threat to AMD No One Is Talking About",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=53403066a13cd814eec58a16705c590a0da8ec44154a9dd5e9b452a21e38486a",
-      "datetime": 1790853341,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Everyone Is Wrong About The Anthropic IPO",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=364f118f5474cbae87d00e7785c6af41f8680aed764ec5713cca6e7ed64d486c",
-      "datetime": 1790852400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
-      "headline": "Anthropic may borrow up to $42bn from Broadcom to lease its chips - report",
+      "headline": "Is Broadcom a Millionaire-Maker Stock?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=46c27a725b406569ce2962e40fdfe285815fd78ecbfee53a2367fb2e13b227d0",
-      "datetime": 1790852130,
+      "url": "https://finnhub.io/api/news?id=a1c3567458901a86edb0fb634653e3d058e486e7b491f50a96a4369c51e4f82a",
+      "datetime": 1790862600,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Anthropic may borrow up to $42bn from Broadcom to lease its chips - report",
+      "headline": "3 Mega-Cap Stocks to Target This Week",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=46c27a725b406569ce2962e40fdfe285815fd78ecbfee53a2367fb2e13b227d0",
-      "datetime": 1790852130,
+      "url": "https://finnhub.io/api/news?id=6aee91249939c5a92ccb0275c90dece9dbab6d94f69e9ddc912e589d501f16cc",
+      "datetime": 1790862067,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom to lend Anthropic $42 billion in finance infrastructure spending",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=43f9370f1a90e171b25ea647f8816600621ed547eccef5b1f1fd267d85f50aa7",
+      "datetime": 1790861885,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "5 Stocks Under $10 to Buy Now for Immediate Monthly Cash Flow",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9382f46d42abb8bdff9882bed80bdebab333c9ece58baa1d9e9791c9ef104950",
+      "datetime": 1790860360,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Goldman Sachs adds Amazon to conviction buy list, $375 target",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e89dcf3c5ce99af181447874524434d750c3016835b6c3c2cff855058f908f14",
+      "datetime": 1790860240,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon to start sending out settlement payments. Are you eligible?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30be301f870e5ee71f6f7ae077bfe97145fe2da46251bd9ea6213e79d7d11daf",
+      "datetime": 1790860116,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "How Booking Holdings and Expedia Are Taking Opposite Bets on AI Shopping Agents",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=524b4a2ac12ec75afa5b895b7ad2cb658f232212ec249c7f42c034719d669a94",
+      "datetime": 1790859934,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Volantis Raises $88M Series A to Demolish the AI Memory Wall With Photonics",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4695c27b390b471a17aae61f02844f510c132bc95240f20ce5578d2267ae89eb",
+      "datetime": 1790859600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "The Only Way I Stop Adding Broadcom is an AI Collapse",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f632cf3cbf8243be7fd4a7624ab96648a3ef4b3c0b34afece9caa3194ccbdf8a",
+      "datetime": 1790858741,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Two of Ecommerce\u2019s Biggest Names Just Launched a Silent War",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c7bbfb475c0d933d2cc7e83a2beaccc3f7a4957e686ee17d67b6839959342480",
+      "datetime": 1790858728,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Nvidia\u2019s Latest Move is a Green Light to Keep Loading Up",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=255968f262587cbbcb587b1fa5f00da24ba63e59e2ab4c1a408e4b7febd40121",
+      "datetime": 1790858702,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom offering Anthropic $42 billion loan for AI chip leases",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b9d564ceb468624b0b9ddbf0ef84c9650db6e33e53db0db53876b808207f8bb4",
+      "datetime": 1790858460,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -113,14 +161,6 @@
       "url": "https://finnhub.io/api/news?id=f56d6c4bd58442afa3e23b598f5cf9eb7872decba992364a50f0d392a52be92e",
       "datetime": 1790851852,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "By 2001, His Amazon Shares Had Fallen 93% And Wall Street Was Predicting The Company Would Go Bankrupt. Bill Miller Didn\u2019t Care, He Doubled Down At $6 A Share. Two Decades Later He Had More Amazon Stock Than Anyone Not Named Bezos",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ca62f34825be428950d91b70e15c56e24389a7462b41ad6da1262ecf297ff761",
-      "datetime": 1790851118,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "B",
@@ -139,14 +179,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "The Zacks Analyst Blog Highlights Apple, Microsoft and Broadcom",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eb1b1a99a65498e2c6389a4dcf8ce8a7574f6cb1199e3c7650ff4395296fd573",
-      "datetime": 1790840460,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "P",
       "headline": "Everpure Stock Is September\u2019s Surprise S&P 500 Winner, Surging More Than 40% As Retail Piles In",
       "source": "Yahoo",
@@ -163,14 +195,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "History Says AMD Stock's $1 Trillion Milestone Isn't a Ceiling",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b7deef85221430a024a04d7f5653a91a75e6f3b37f8f949b6802afdcb00b5c74",
-      "datetime": 1790834461,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "B",
       "headline": "Barrick Mining (B) Reaches Mali Labor Deal To Avert Loulo Gounkoto Strikes",
       "source": "Yahoo",
@@ -179,36 +203,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Nvidia, Broadcom, and AMD Investors Need to Have Oct. 15 Circled on Their Calendars",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4a438b5d0e95cb6bd7403fa88539f5348b58651232f9615f1d3f5d35a122dbaa",
-      "datetime": 1790809440,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Stock Market Today, Sept. 30: Nvidia Authorizes $150B Buyback, Lifting Total to $235B",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=896f4a4e19435f89e701a78564b104ce85f21479fba1841fe468e3a7db5e1394",
-      "datetime": 1790804401,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "P",
       "headline": "Is Everpure (P) Quietly Turning Its Data Platform Into an AI Cost and Risk Control Hub?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7cde43695e9ce54f796ed11b47fff7d8a8bfdd919503e3ffd218aff15623f6a0",
       "datetime": 1790802889,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "What Changed In Marvell's Story?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b05b1e969245e0bfbedb856808dedb6899f5e29074591516279fb401e99f90d5",
-      "datetime": 1790801546,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -475,12 +475,12 @@
       "market_cap_musd": 1676451.107360384,
       "country": "US",
       "currency": "USD",
-      "price": 351.09,
+      "price": 348.69,
       "open": 353.38,
       "day_high": 354.45,
-      "day_low": 350.04,
+      "day_low": 347.7,
       "prev_close": 351.19,
-      "day_change_pct": -0.03,
+      "day_change_pct": -0.71,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -494,12 +494,12 @@
       "market_cap_musd": 96234.862843,
       "country": "CA",
       "currency": "USD",
-      "price": 40.28,
+      "price": 40.04,
       "open": 40.52,
       "day_high": 40.73,
-      "day_low": 40.2,
+      "day_low": 40.0,
       "prev_close": 40.67,
-      "day_change_pct": -0.96,
+      "day_change_pct": -1.55,
       "week52_high": 74.0,
       "week52_low": 42.62
     },
@@ -513,12 +513,12 @@
       "market_cap_musd": 65479.409177,
       "country": "CA",
       "currency": "USD",
-      "price": 363.73,
+      "price": 362.4,
       "open": 364.83,
       "day_high": 364.83,
       "day_low": 354.49,
       "prev_close": 361.43,
-      "day_change_pct": 0.64,
+      "day_change_pct": 0.27,
       "week52_high": 655.5,
       "week52_low": 321.89
     },
@@ -532,12 +532,12 @@
       "market_cap_musd": 57295.8616178568,
       "country": "US",
       "currency": "USD",
-      "price": 307.36,
+      "price": 306.11,
       "open": 301.71,
       "day_high": 313.02,
       "day_low": 300.77,
       "prev_close": 300.25,
-      "day_change_pct": 2.37,
+      "day_change_pct": 1.95,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -551,12 +551,12 @@
       "market_cap_musd": 69093.3430007107,
       "country": "US",
       "currency": "USD",
-      "price": 84.76,
+      "price": 84.31,
       "open": 85.46,
       "day_high": 85.76,
-      "day_low": 84.63,
+      "day_low": 84.26,
       "prev_close": 85.41,
-      "day_change_pct": -0.76,
+      "day_change_pct": -1.29,
       "week52_high": 108.72,
       "week52_low": 82.59
     },
@@ -570,12 +570,12 @@
       "market_cap_musd": 6895.027972877922,
       "country": "US",
       "currency": "USD",
-      "price": 18.97,
+      "price": 18.87,
       "open": 19.18,
       "day_high": 19.35,
-      "day_low": 18.9,
+      "day_low": 18.79,
       "prev_close": 19.05,
-      "day_change_pct": -0.42,
+      "day_change_pct": -0.94,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -589,12 +589,12 @@
       "market_cap_musd": 43579.46266172503,
       "country": "US",
       "currency": "USD",
-      "price": 131.82,
+      "price": 131.91,
       "open": 132.04,
       "day_high": 133.52,
       "day_low": 130.08,
       "prev_close": 130.78,
-      "day_change_pct": 0.8,
+      "day_change_pct": 0.86,
       "week52_high": 132.44,
       "week52_low": 56.78
     },
@@ -608,12 +608,12 @@
       "market_cap_musd": 2687410.2260471815,
       "country": "US",
       "currency": "USD",
-      "price": 248.5,
+      "price": 247.78,
       "open": 250.84,
       "day_high": 251.83,
-      "day_low": 248.14,
+      "day_low": 246.95,
       "prev_close": 249.15,
-      "day_change_pct": -0.26,
+      "day_change_pct": -0.55,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-01T13:58:16.356194+00:00"
+  "updated_at": "2026-10-01T14:13:16.887494+00:00"
 }
