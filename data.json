@@ -148,10 +148,10 @@
     },
     {
       "ticker": "AVGO",
-      "headline": "Broadcom to provide Anthropic with up to $42 billion in financing, Reuters reports",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=96626ce12fabea8001bdf684ade014d23a63b239c9eb7e3c0887d89bd545711a",
-      "datetime": 1790870100,
+      "headline": "DGRO: Banks Are The Next Dividend Growth Engine",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=74a6d03a2d585ef26750a60d77561bba5a774b6a3296cc15e207b80b7bd9c816",
+      "datetime": 1790874591,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-01T21:28:16.009534+00:00"
+  "updated_at": "2026-10-01T21:43:16.263959+00:00"
 }
