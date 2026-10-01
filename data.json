@@ -464,7 +464,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1695116.006903052,
+      "market_cap_musd": 1676451.107360384,
       "country": "US",
       "currency": "USD",
       "price": 351.19,
@@ -483,7 +483,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.barrick.com/",
       "ipo_date": "1983-05-02",
-      "market_cap_musd": 95757.55486,
+      "market_cap_musd": 96234.862843,
       "country": "CA",
       "currency": "USD",
       "price": 40.67,
@@ -502,7 +502,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.celestica.com/",
       "ipo_date": "1998-07-01",
-      "market_cap_musd": 63790.783355,
+      "market_cap_musd": 65479.409177,
       "country": "CA",
       "currency": "USD",
       "price": 361.43,
@@ -521,7 +521,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 58698.43977442218,
+      "market_cap_musd": 57295.8616178568,
       "country": "US",
       "currency": "USD",
       "price": 300.25,
@@ -540,7 +540,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 69627.25910342121,
+      "market_cap_musd": 69093.3430007107,
       "country": "US",
       "currency": "USD",
       "price": 85.41,
@@ -559,7 +559,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 6967.416635877374,
+      "market_cap_musd": 6895.027972877922,
       "country": "US",
       "currency": "USD",
       "price": 19.05,
@@ -578,7 +578,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 43336.20369164606,
+      "market_cap_musd": 43579.46266172503,
       "country": "US",
       "currency": "USD",
       "price": 130.78,
@@ -587,7 +587,7 @@
       "day_low": 129.84,
       "prev_close": 130.05,
       "day_change_pct": 0.56,
-      "week52_high": 131.41,
+      "week52_high": 132.44,
       "week52_low": 56.78
     },
     "AMZN": {
@@ -597,7 +597,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2660660.1201785468,
+      "market_cap_musd": 2687410.2260471815,
       "country": "US",
       "currency": "USD",
       "price": 249.15,
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-09-30T23:58:15.608016+00:00"
+  "updated_at": "2026-10-01T00:13:15.939451+00:00"
 }
