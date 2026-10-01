@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Nvidia, Broadcom, and AMD Investors Need to Have Oct. 15 Circled on Their Calendars",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4a438b5d0e95cb6bd7403fa88539f5348b58651232f9615f1d3f5d35a122dbaa",
+      "datetime": 1790809440,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Stock Market Today, Sept. 30: Nvidia Authorizes $150B Buyback, Lifting Total to $235B",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=896f4a4e19435f89e701a78564b104ce85f21479fba1841fe468e3a7db5e1394",
@@ -115,6 +123,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "Amazon deal with Calvert Cliffs would extend nuclear plant\u2019s life, explore new reactors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=550458b0defb76726d97772b8e0f16c56a2310552ca6cb8d18248015b9b4f45d",
+      "datetime": 1790798700,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "SCHD\u2019s Rules Sold Broadcom in March 2024. The Stock Is Up About 183% Since, and SCHD Holders Missed the Run",
       "source": "Yahoo",
@@ -128,14 +144,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b48b08f2162baae41e27808ff8c840e7e2a6995a76e3cc6de1cad3da6d3f27e5",
       "datetime": 1790798400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Sector Update: Tech Stocks Higher Late Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2b7c7c16a265951f57ddea7d32d248c6c8d82ed73dcd488c53ced9dd8048984c",
-      "datetime": 1790798171,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -155,12 +163,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Is Cerebras' Next Big Thing Already Here?",
+      "ticker": "CLS",
+      "headline": "AI Play Celestica Flashes Three Buy Points Amid Strong Earnings Outlook",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5cc48d59eda873553181be54ce757e32bedc8ce18c017060ac2b51c76d383f17",
-      "datetime": 1790795732,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+      "url": "https://finnhub.io/api/news?id=3a52f5ba391d171c618822991200fd9ef38f6330a2a99cb51a7e9d251db5c52e",
+      "datetime": 1790788469,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "ORLY",
@@ -185,6 +193,14 @@
       "url": "https://finnhub.io/api/news?id=17ec7e19223b3ea07ff36979b275faa1c28e02702f7b5ca9bafd798374df9a48",
       "datetime": 1790778901,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Target upgraded, Moderna downgraded: Wall Street's top analyst calls",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bb76bfa794beae6cf0c08bb55b649b68e623d691b44b38b410869e1cd7ac6654",
+      "datetime": 1790775637,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "B",
@@ -291,14 +307,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "Brokers Suggest Investing in Celestica (CLS): Read This Before Placing a Bet",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=43b92f2407da3a44b292bd303db6a99e17092ca6a03af7f1b2c7e57a8783d12c",
-      "datetime": 1790685002,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "B",
       "headline": "Barrick Mining Corporation (ABX:CA) Presents at Mining Forum Americas 2026 - Slideshow",
       "source": "SeekingAlpha",
@@ -313,14 +321,6 @@
       "url": "https://finnhub.io/api/news?id=00dc4b3fe1bc982b72e9ba0c8d202cd667638556364f176e4ca0ff1a88b69847",
       "datetime": 1790680380,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "JBL Q4 Earnings Coming Up: How Should You Play the Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f3fbe0b4f956ecddcc7ab3facf93bec9750c154263648017ffbc30c8c18bcd18",
-      "datetime": 1790680320,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "P",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-01T00:13:15.939451+00:00"
+  "updated_at": "2026-10-01T00:28:15.559954+00:00"
 }
