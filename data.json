@@ -83,6 +83,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "ORLY",
+      "headline": "O'Reilly Automotive (ORLY) Stock Still Looks Overvalued On Its 109% Five Year Run",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d74bf68327073a21e09ad4bb676671ae13423e4703a2c0409f394754465e1b42",
+      "datetime": 1790845819,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Softer Inflation Takes the Edge Off Hike Fears, Then Micron Raises the Bar Again",
       "source": "ChartMill",
@@ -403,14 +411,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
-      "ticker": "ORLY",
-      "headline": "AutoZone Stock Has One Thing Left To Prove",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a814040e50ad11761ac8ecfe2bf14dfe60f2a9916224f775b0beddb15731efe0",
-      "datetime": 1790370572,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Cencora Elects Robert E. Sanchez to Its Board of Directors",
       "source": "Yahoo",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-01T10:13:14.490484+00:00"
+  "updated_at": "2026-10-01T10:28:14.373115+00:00"
 }
