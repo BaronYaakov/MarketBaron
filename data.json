@@ -211,6 +211,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
+      "ticker": "ORLY",
+      "headline": "O\u2019Reilly Automotive\u2019s Stock Slump Hides a Stronger Business",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=75ac82d15a0305b7e3425511877630b9f296b43c24407b2a2a79c3522703471a",
+      "datetime": 1790793000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "CLS",
       "headline": "AI Play Celestica Flashes Three Buy Points Amid Strong Earnings Outlook",
       "source": "Yahoo",
@@ -360,14 +368,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=7868982d9003cab0c229b7e417ab79e8c76b506cb4e748560bcb844841950459",
       "datetime": 1790669407,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Bernstein Initiates Coverage On O'Reilly Automotive with Market Perform Rating, Announces Price Target of $94",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=44640d0919ab601d7675822c6d7a9bef969954a1ff57f38c57584dca8b49e9e1",
-      "datetime": 1790661979,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-01T20:13:15.935099+00:00"
+  "updated_at": "2026-10-01T20:28:16.484168+00:00"
 }
