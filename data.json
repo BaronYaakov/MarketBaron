@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "CLS",
+      "headline": "Celestica Inc. (NYSE:CLS) Combines High Growth Leadership With Strong Momentum",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=f56d6c4bd58442afa3e23b598f5cf9eb7872decba992364a50f0d392a52be92e",
+      "datetime": 1790851852,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "B",
       "headline": "Barrick Mining Corp (NYSE:B) Looks Undervalued as a Profitable Value Stock",
       "source": "ChartMill",
@@ -329,14 +337,6 @@
       "url": "https://finnhub.io/api/news?id=ad957c4c32a66642b3767c43e37592d7fa0e4cae0b87b38541c303cc5710b909",
       "datetime": 1790715778,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica (CLS) Increases Despite Market Slip: Here's What You Need to Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=88e79dec83875a0e08a634bf36f3076f57e6c840d241368c3f4e2512ddd4c1e8",
-      "datetime": 1790714702,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "ORLY",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-01T10:58:15.483492+00:00"
+  "updated_at": "2026-10-01T11:13:14.882737+00:00"
 }
