@@ -60,6 +60,38 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Accenture Silences the AI Skeptics, Nike Warns the Pain Isn't Over",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=edfb258113299bc729c0988e637af84ee3891556c48037d1750b4142ecf69bd9",
+      "datetime": 1790937587,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Reportedly Seeks Investors for $8 Billion Nvidia Chip Financing Structure",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9f72054fc270cbf748b17b7427d1edd4849c6bedb9066f11426d1ff8b9aee8f4",
+      "datetime": 1790936969,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The Dates That Matter Most For Amazon Stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=55f1e386a35ca3197073a5ee33eac1a536a7778103adc42c2d440b05d7acd82c",
+      "datetime": 1790936841,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Is Microsoft Stock Paying You Enough For The Swings?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9f49e02e47f528c09320c0328ef16a418480db3fb0a9be7cb4f22dae2912173a",
+      "datetime": 1790934834,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Micron is about to do something that would surprise most Magnificent 7 investors",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=39613fbd01f187740ccfb4fe200afb5323ef656332bb63bb39a16f1756650117",
@@ -80,38 +112,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e2aa6593c26be82ddb6bef2c2593ac93b834698c99aa9a8076c22026ae6346b3",
       "datetime": 1790933162,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "What Should IBM Stock Investors Be Watching Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=679445fae814863283611762aa276c180d3f8859cb730ff17129da8a78cf4b13",
-      "datetime": 1790932975,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Big Tech Will Spend $735 Billion on Data Centers. This Boring Electrical Contractor Collects the Checks.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4c8307e9d4aad0bfbfbb91ce19e174dd93d5cbb50dde2f60c26e0ae12a90e700",
-      "datetime": 1790932500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "AMZN Inches Higher Premarket: Amazon Reportedly Seeks To Offload $8B Of Nvidia Chips To Investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f2358a639c87c7bda68100377ca49eb26249af6f5f0bc2b3ff06bc280ceb561e",
-      "datetime": 1790931964,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "What Could Go Wrong With Palantir Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=534054347138e6f32845301e189aa19c997fc52182a871e11f905ff86ac4a6fc",
-      "datetime": 1790931918,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-02T10:58:14.747127+00:00"
+  "updated_at": "2026-10-02T11:13:14.979189+00:00"
 }
