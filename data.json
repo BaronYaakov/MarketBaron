@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Broadcom raises $60 billion in debt to fund Anthropic AI chips",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=95b1b873ef305092c5035ef97e7970ba208e4e3c08c0a9a45f57127ae644792c",
+      "datetime": 1790940647,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Accenture Silences the AI Skeptics, Nike Warns the Pain Isn't Over",
       "source": "ChartMill",
@@ -83,6 +91,22 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Broadcom Financing Syndicate Reportedly Seeks $60 Billion for Anthropic and Other AI Companies",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ccedd5e23d03c6b1558aa3013c4b456a479342a064837e6269e5ec8b9ab505be",
+      "datetime": 1790936777,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "What Could Send NVIDIA Stock Higher?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6c3d740688fab61693d440611b886b90c8056797c9779b93c1bca17433af4c81",
+      "datetime": 1790934836,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Is Microsoft Stock Paying You Enough For The Swings?",
       "source": "Yahoo",
@@ -91,12 +115,28 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "One Reason Intel Stock Looks Better Than Its Price",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7dc84ed4a34d097ece9a9b8f0ef5b16406c076082db8d9f7676ff10a13c126ef",
+      "datetime": 1790934831,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Micron is about to do something that would surprise most Magnificent 7 investors",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=39613fbd01f187740ccfb4fe200afb5323ef656332bb63bb39a16f1756650117",
       "datetime": 1790934450,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Can NVIDIA's $150B Repurchase Plan Enhance Shareholder Value?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=00470c3504b94945e0b9e965c11c44b040446c975a3f254f87cd4753e7b25941",
+      "datetime": 1790934300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "COR",
@@ -131,30 +171,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Broadcom starts amassing $60 bln to fund chips for Anthropic- Bloomberg",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8c1cc369aa44836c6d52ed670ce1fc88604b440c7b9bd43694bf30f2f7179ee8",
-      "datetime": 1790917719,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Starts Amassing $60 Billion to Fund Chips for Anthropic",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bca5aea198252b809d0e7823934b553a0254d9a2b7fc4b98bf2c092b234b59ec",
-      "datetime": 1790914353,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Isn\u2019t Just Selling Anthropic Chips Anymore. It\u2019s Underwriting Them With Up to $42 Billion",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4ae4616b54c49e22b3544bc11efb676946e73d9dde097ed55f8d6fbffb9e3b73",
-      "datetime": 1790914192,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "P",
       "headline": "Why Did CRWD, TWLO, P Stocks Hit 52-Week Highs Today?",
       "source": "Yahoo",
@@ -185,22 +201,6 @@
       "url": "https://finnhub.io/api/news?id=2370116ca6460d5caf9d88ea21df3e73394d2247391c4643d8d66eca7deee611",
       "datetime": 1790886600,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Is Marvell Stock Ready For A Slowdown In AI Demand?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0285a6d1db0bed4cc0b79c3edf21275ff5e70005157e9cceea8c3fc99e3ef001",
-      "datetime": 1790883153,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom: Get Ready For A Breakout",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=55e9a580b29ceeb4ee80c3f86f68cc35fe29f1eaf6de1ac3d8b2074213db2bad",
-      "datetime": 1790882989,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-02T11:43:14.667903+00:00"
+  "updated_at": "2026-10-02T11:58:15.308540+00:00"
 }
