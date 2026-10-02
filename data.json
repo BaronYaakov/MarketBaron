@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "COR",
+      "headline": "AbbVie vs. Bristol Myers Squibb: Which Healthcare Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e98e6cb8cdda4ddef333d043a63b0f58a5549656408252b35331ef9926a27d67",
+      "datetime": 1790894462,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Amazon Signs 20 Year Nuclear Power Deal. That's Great News for This Nuclear Stock",
       "source": "Yahoo",
@@ -409,14 +417,6 @@
       "url": "https://finnhub.io/api/news?id=3c443fa180b195a06f52ced8a8b5d4a24a692b809dd175762819f3d8ae4b1d19",
       "datetime": 1790371321,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Cencora Elects Robert E. Sanchez to Its Board of Directors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b0d89fe02f5adb02c0ffbd827739d57c3e48106d68fb905d7a05435cf6eaf5c9",
-      "datetime": 1790337600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     }
   ],
   "recent_posts": [],
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-02T00:13:15.345106+00:00"
+  "updated_at": "2026-10-02T00:28:14.946545+00:00"
 }
