@@ -59,6 +59,46 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Did Amazon\u2019s AI Chip and Nuclear Power Deals Just Shift Amazon.com's (AMZN) Investment Narrative?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=96547f6a3466c65b0211b3e88da76adc1ec04a4c4b94569e26ec5fe745fae75b",
+      "datetime": 1790910618,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Why Did CRWD, TWLO, P Stocks Hit 52-Week Highs Today?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6277c5840bbadb06338339f1f228ab7bc0a83533e1f4c8a5aab8df864a84eddd",
+      "datetime": 1790910239,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Synopsys (SNPS) Bags New Multi-Billion Dollar Deals, Shares Spike",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6144daa7f23f6268830572f5f5ab839fd68ca36c5c6b3acd26578889012e4109",
+      "datetime": 1790910182,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Tesla Is the Only Magnificent Seven Stock in the Red for 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e5a75ff1b036abc59b1be1398245a1af37ef409a9f0295f758a32c6de04fbb79",
+      "datetime": 1790909821,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "How Risky Is Home Depot Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=55ab6052d539718cf9d7628a8a6d09af702280c53f6fffdd0559697de500f3d0",
+      "datetime": 1790902268,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "COR",
       "headline": "AbbVie vs. Bristol Myers Squibb: Which Healthcare Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
@@ -83,44 +123,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "IonQ vs. SoundHound AI: Which Tech Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fd48f330e8e5e8dfcec8856002b2f5999ab91a01d5b01c146a820fb518ba56ec",
-      "datetime": 1790889873,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "BAG Ventures Closes $11.3M Fund With Support From Google, Amazon, And More",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d44a5e44ceac81ac142703ed291965723128a5ab1448befe1c3281a96504f0aa",
-      "datetime": 1790889488,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon (AMZN) and GoodRx (GDRX) Chase Prescription Subscribers as Insurance Coverage Slips",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=17673799e21c620c7cfbe2fa794387b2b2542e5812030b775f332d62eaba42b5",
-      "datetime": 1790887133,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "O\u2019Reilly Automotive, Inc. Announces Dates for Its Third Quarter 2026 Earnings Release and Conference Call",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2370116ca6460d5caf9d88ea21df3e73394d2247391c4643d8d66eca7deee611",
       "datetime": 1790886600,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Synopsys is becoming a major AI player: CEO discusses OpenAI, Amazon deals",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1ea559934e0f0123eb996c4cb36fd9780357e41096fae7a248738e8c46990057",
-      "datetime": 1790886421,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -345,14 +353,6 @@
       "url": "https://finnhub.io/api/news?id=bb8049a004488c9da2d6ef9202f2045be9400025467de0d3bab4b812987a7731",
       "datetime": 1790759336,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "88% of Executives Fear Data Sovereignty Failures Could Cost Them Their Jobs",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=32275cd6b19ce8014964e9cf81b099ba3a6d00174412f4072ad93bc8c938b0fc",
-      "datetime": 1790755200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "CLS",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-02T04:58:15.688084+00:00"
+  "updated_at": "2026-10-02T05:13:14.735732+00:00"
 }
