@@ -123,6 +123,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Celestica (CLS) Is Setting Up for a Big 2027. Should You Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fd3ae6d4ee6fc61fd0ac36e7ae2bc07a657a6e962bd3c89cd43032a071feef19",
+      "datetime": 1790905868,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "How Risky Is Home Depot Stock?",
       "source": "Yahoo",
@@ -352,14 +360,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=bb8049a004488c9da2d6ef9202f2045be9400025467de0d3bab4b812987a7731",
       "datetime": 1790759336,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Bernstein Initiates Coverage On Celestica with Outperform Rating, Announces Price Target of $520",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=8ab99e19e13a6fdb477a3299a736d5307b6cbfa5e2bdb50c5a25d2a1511ca480",
-      "datetime": 1790750980,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-02T07:28:14.719877+00:00"
+  "updated_at": "2026-10-02T07:43:14.671091+00:00"
 }
