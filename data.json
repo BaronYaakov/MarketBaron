@@ -67,6 +67,30 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Broadcom starts amassing $60 bln to fund chips for Anthropic- Bloomberg",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8c1cc369aa44836c6d52ed670ce1fc88604b440c7b9bd43694bf30f2f7179ee8",
+      "datetime": 1790917719,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon seeks to offload $8 bln of Nvidia chips to investors- FT",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=886f027fa46edb25b85723b224f8aa79596880cca96eb433071ffe73916318a2",
+      "datetime": 1790916527,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Palantir Billionaire Peter Thiel Has 42% of His Portfolio in These 2 Artificial Intelligence Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9af7daa37f7801ef72a28fe2aaf0d05bd9a625b8590c8b07d50ed983a6295560",
+      "datetime": 1790914800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Did Amazon\u2019s AI Chip and Nuclear Power Deals Just Shift Amazon.com's (AMZN) Investment Narrative?",
       "source": "Yahoo",
@@ -115,22 +139,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Amazon Signs 20 Year Nuclear Power Deal. That's Great News for This Nuclear Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=36bbb932031d0a68e628d1da02b329b52f3b418594e9cf3aaed4bffe4471a56c",
-      "datetime": 1790891863,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Senator Rick Scott Hails Jobless Claims Near 57-Year Low, Urges Congress to \u2018Get Out Of Small Businesses\u2019 Way\u2019 \u2014 \u2018Jobs Are the Key to Living the American Dream\u2019",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=16f84b5531ebf61d38c10d784e4841c6939eb755b3ac828559df0f0f8dc8ee04",
-      "datetime": 1790890226,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "O\u2019Reilly Automotive, Inc. Announces Dates for Its Third Quarter 2026 Earnings Release and Conference Call",
       "source": "Yahoo",
@@ -176,14 +184,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8d09cb3607cc111630e7ad977f1c810872f3230171c99d1afcc28b439f6c9917",
       "datetime": 1790877959,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "AI Spending Is Entering Its Next Phase. This Stock Could Benefit Most",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dc5ab560ccee9503364544a15807c4803781b70d2fc7e31fadc6b3553820c528",
-      "datetime": 1790877639,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-02T05:58:14.742740+00:00"
+  "updated_at": "2026-10-02T06:13:14.764914+00:00"
 }
