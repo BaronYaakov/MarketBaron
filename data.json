@@ -60,11 +60,67 @@
   "news": [
     {
       "ticker": "AMZN",
-      "headline": "DAL Stock In Focus: Musk-Bastian Feud Over Starlink Escalates As United, American Court Delta Flyers",
+      "headline": "Micron is about to do something that would surprise most Magnificent 7 investors",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3da8f9b0695ce7e5e72c380290204a542ff6b8470e102102910f6e9c72780516",
-      "datetime": 1790925928,
+      "url": "https://finnhub.io/api/news?id=39613fbd01f187740ccfb4fe200afb5323ef656332bb63bb39a16f1756650117",
+      "datetime": 1790934450,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "2 Cash-Producing Stocks with Promising Prospects and 1 We Brush Off",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=168f9badca7040d68c74b634cf09d64a780542e9820e53c97d9382a9a8b775c0",
+      "datetime": 1790934123,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Ranking the \"Magnificent Seven\" From Most to Least Attractive, Based on Projected Cash Flow",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e2aa6593c26be82ddb6bef2c2593ac93b834698c99aa9a8076c22026ae6346b3",
+      "datetime": 1790933162,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "What Should IBM Stock Investors Be Watching Now?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=679445fae814863283611762aa276c180d3f8859cb730ff17129da8a78cf4b13",
+      "datetime": 1790932975,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Big Tech Will Spend $735 Billion on Data Centers. This Boring Electrical Contractor Collects the Checks.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4c8307e9d4aad0bfbfbb91ce19e174dd93d5cbb50dde2f60c26e0ae12a90e700",
+      "datetime": 1790932500,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "AMZN Inches Higher Premarket: Amazon Reportedly Seeks To Offload $8B Of Nvidia Chips To Investors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f2358a639c87c7bda68100377ca49eb26249af6f5f0bc2b3ff06bc280ceb561e",
+      "datetime": 1790931964,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "What Could Go Wrong With Palantir Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=534054347138e6f32845301e189aa19c997fc52182a871e11f905ff86ac4a6fc",
+      "datetime": 1790931918,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Market Chatter: Broadcom Lines Up $60 Billion War Chest to Fund AI-Chip Sales, Production",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4dc05a6f20afea81bce8bbaef2dad612f407b305085438b172ce1d6d1bae33d9",
+      "datetime": 1790931860,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -83,36 +139,20 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Amazon seeks to offload $8 bln of Nvidia chips to investors- FT",
+      "ticker": "AVGO",
+      "headline": "Broadcom Starts Amassing $60 Billion to Fund Chips for Anthropic",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=886f027fa46edb25b85723b224f8aa79596880cca96eb433071ffe73916318a2",
-      "datetime": 1790916527,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "url": "https://finnhub.io/api/news?id=bca5aea198252b809d0e7823934b553a0254d9a2b7fc4b98bf2c092b234b59ec",
+      "datetime": 1790914353,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Palantir Billionaire Peter Thiel Has 42% of His Portfolio in These 2 Artificial Intelligence Stocks",
+      "ticker": "AVGO",
+      "headline": "Broadcom Isn\u2019t Just Selling Anthropic Chips Anymore. It\u2019s Underwriting Them With Up to $42 Billion",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9af7daa37f7801ef72a28fe2aaf0d05bd9a625b8590c8b07d50ed983a6295560",
-      "datetime": 1790914800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Why Muse May Never Need Ads",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=4048f63b9a650074626cd380d245d935a2eaa00201153ba0327aa8b40fb82330",
-      "datetime": 1790912400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Did Amazon\u2019s AI Chip and Nuclear Power Deals Just Shift Amazon.com's (AMZN) Investment Narrative?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=96547f6a3466c65b0211b3e88da76adc1ec04a4c4b94569e26ec5fe745fae75b",
-      "datetime": 1790910618,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "url": "https://finnhub.io/api/news?id=4ae4616b54c49e22b3544bc11efb676946e73d9dde097ed55f8d6fbffb9e3b73",
+      "datetime": 1790914192,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -121,14 +161,6 @@
       "url": "https://finnhub.io/api/news?id=6277c5840bbadb06338339f1f228ab7bc0a83533e1f4c8a5aab8df864a84eddd",
       "datetime": 1790910239,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Synopsys (SNPS) Bags New Multi-Billion Dollar Deals, Shares Spike",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6144daa7f23f6268830572f5f5ab839fd68ca36c5c6b3acd26578889012e4109",
-      "datetime": 1790910182,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "CLS",
@@ -168,30 +200,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=55e9a580b29ceeb4ee80c3f86f68cc35fe29f1eaf6de1ac3d8b2074213db2bad",
       "datetime": 1790882989,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Applied Materials vs. Broadcom: Which Semiconductor Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6f3e91de8704ac93d4fdf702bbb7770dbd94930ccf9dc6f9975ef83e8b8b86bf",
-      "datetime": 1790879382,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Why Did AMD Stock Jump?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=179b81b2efb1c751797187a71b6871e83de204b5d534b7a4c5024935d51782d0",
-      "datetime": 1790878401,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Is NVIDIA Stock Increasing Your Market Risk?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8d09cb3607cc111630e7ad977f1c810872f3230171c99d1afcc28b439f6c9917",
-      "datetime": 1790877959,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -409,14 +417,6 @@
       "url": "https://finnhub.io/api/news?id=08e3664a9f31ebdac51db031faf6c676db1c99c97a43edb2d9552ae99a43e8c6",
       "datetime": 1790492893,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "AbbVie vs. Pfizer: Which Healthcare Stock Makes Your Portfolio Healthier in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3c443fa180b195a06f52ced8a8b5d4a24a692b809dd175762819f3d8ae4b1d19",
-      "datetime": 1790371321,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     }
   ],
   "recent_posts": [],
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-02T09:58:15.370988+00:00"
+  "updated_at": "2026-10-02T10:13:15.194523+00:00"
 }
