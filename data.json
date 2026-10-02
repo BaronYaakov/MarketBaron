@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "P",
+      "headline": "Everpure Consensus Price Target Raised 11.24% to $146.34",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=bcd80fd06c4ba7fae8091e65c6143761c25014fdec3a2c66b3606b6d6ec47977",
+      "datetime": 1790918224,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Did Amazon\u2019s AI Chip and Nuclear Power Deals Just Shift Amazon.com's (AMZN) Investment Narrative?",
       "source": "Yahoo",
@@ -329,14 +337,6 @@
       "url": "https://finnhub.io/api/news?id=8a458af01d209bbb2c58bfd564321df38862c7b347e959e84a3b9d1195b9e475",
       "datetime": 1790768701,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Everpure (P) Unveils AI Data Platform Upgrades With Faster Inference And Privacy Controls",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1aaec875ab89fceedd043ab697c857dbc271ac517b7306d966a0d3478d37b55c",
-      "datetime": 1790766702,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "B",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-02T05:43:14.576196+00:00"
+  "updated_at": "2026-10-02T05:58:14.742740+00:00"
 }
