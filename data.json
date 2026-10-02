@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "3 Great AI Stocks To Own In October 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ce5d876d8284827b5bea7aa70d3b932395ded7b35c44df8fbed7a7597b78e41e",
+      "datetime": 1790975426,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Microsoft Entered the Smart Home Through Your Washing Machine, Not Your Phone",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0f2d1c3d53eedfae80145cee9847b938daf52ad0d758e9803e034794d9215f82",
+      "datetime": 1790972281,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "No Longer Complacent, Carter\u2019s Finds a New Groove",
       "source": "Yahoo",
@@ -115,14 +131,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "More Amazon Prime settlement payments are on the way. Who qualifies?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=70f506a8887c990936f4d933d204368dbdee3373d326fcaa51f707804b715c8b",
-      "datetime": 1790963690,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "4 Unexpected Dividend Payers Income Investors Completely Overlook",
       "source": "Yahoo",
@@ -152,14 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4466d2b1246d5fef85592a1965276093186611a54cba5874e0dd55b32f44ea78",
       "datetime": 1790956835,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "AMD Climbs 3% as Chip Stocks Extend Their Run; Arm Jumps 8%, NVIDIA Rises 2%",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=73b493ec511e22341068073b5e1770e7afca1b286fb436d4610f7e22d7eafd29",
-      "datetime": 1790956051,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-02T21:58:18.932612+00:00"
+  "updated_at": "2026-10-02T22:13:19.123360+00:00"
 }
