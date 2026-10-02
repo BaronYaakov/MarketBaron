@@ -123,6 +123,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Nvidia: Competition Caps The Upside Case",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=944554a9e6ded22da7de653bbd320d2830128f991fb325ed185e89ede11b800a",
+      "datetime": 1790964022,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "How Much Could Better Retail Margins Add to Amazon\u2019s Value?",
       "source": "Yahoo",
@@ -152,14 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a70076e460996ca1116fb22f700b406238c0f43866163af0410a2892857b8253",
       "datetime": 1790959535,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Prediction: 3 AI Stocks That Could Turn $10,000 Into $15,000",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4466d2b1246d5fef85592a1965276093186611a54cba5874e0dd55b32f44ea78",
-      "datetime": 1790956835,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-02T22:13:19.123360+00:00"
+  "updated_at": "2026-10-02T22:28:17.663072+00:00"
 }
