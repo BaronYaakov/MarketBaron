@@ -68,6 +68,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "Senator Rick Scott Hails Jobless Claims Near 57-Year Low, Urges Congress to \u2018Get Out Of Small Businesses\u2019 Way\u2019 \u2014 \u2018Jobs Are the Key to Living the American Dream\u2019",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=16f84b5531ebf61d38c10d784e4841c6939eb755b3ac828559df0f0f8dc8ee04",
+      "datetime": 1790890226,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "IonQ vs. SoundHound AI: Which Tech Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fd48f330e8e5e8dfcec8856002b2f5999ab91a01d5b01c146a820fb518ba56ec",
@@ -104,14 +112,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1ea559934e0f0123eb996c4cb36fd9780357e41096fae7a248738e8c46990057",
       "datetime": 1790886421,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Sector Update: Tech Stocks Gain Late Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=562133cf5715763d5fbc16d7a6819894df187c19d16c3330eca97d753c41886d",
-      "datetime": 1790884303,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -472,7 +472,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1655996.0860089527,
+      "market_cap_musd": 1640410.1843332225,
       "country": "US",
       "currency": "USD",
       "price": 343.64,
@@ -529,7 +529,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 58300.565578193884,
+      "market_cap_musd": 59114.44349643356,
       "country": "US",
       "currency": "USD",
       "price": 309.78,
@@ -548,7 +548,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 68437.11716638978,
+      "market_cap_musd": 68785.94108495775,
       "country": "US",
       "currency": "USD",
       "price": 85.03,
@@ -567,7 +567,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 6797.302894009449,
+      "market_cap_musd": 6895.027696,
       "country": "US",
       "currency": "USD",
       "price": 19.05,
@@ -586,7 +586,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 44189.26712016761,
+      "market_cap_musd": 44695.772557334145,
       "country": "US",
       "currency": "USD",
       "price": 134.13,
@@ -605,7 +605,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2658179.2687101075,
+      "market_cap_musd": 2677486.771108221,
       "country": "US",
       "currency": "USD",
       "price": 248.23,
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-01T23:58:15.046541+00:00"
+  "updated_at": "2026-10-02T00:13:15.345106+00:00"
 }
