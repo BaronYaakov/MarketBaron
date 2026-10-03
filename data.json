@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "The S&P 500 Is Not Enough: My 3-Stock Starter Portfolio for New Investors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1808834a7d9308a7a154d508d24cd51f3a2a5c1e021d54fa4ef43aedd91d1b3f",
+      "datetime": 1791048900,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "This Stock Posted the Best Performance in the \u201cMagnificent Seven\u201d in September. (Hint: It\u2019s Not Nvidia.)",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=284602e45d1ad9c65269f1aa8700a068da02e30cd374a7b4dfbdf8b4e1940659",
@@ -152,14 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a1e9358005f875c7d02d95be0c4d0056b31f2ed50be77fe612a52d15876d35ec",
       "datetime": 1790981400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Weekly Wrap: Crypto Rallies To Start \u2018Uptober\u2019",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7a9b175a06c2391dc0765f8f1132d9ce57a933ef1728aade821673273de172de",
-      "datetime": 1790980680,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-03T17:58:16.163354+00:00"
+  "updated_at": "2026-10-03T18:13:15.478732+00:00"
 }
