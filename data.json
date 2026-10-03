@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "This Stock Posted the Best Performance in the \u201cMagnificent Seven\u201d in September. (Hint: It\u2019s Not Nvidia.)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=284602e45d1ad9c65269f1aa8700a068da02e30cd374a7b4dfbdf8b4e1940659",
+      "datetime": 1791034201,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Should You Forget Palantir and Buy These 2 Artificial Intelligence (AI) Stocks Instead?",
       "source": "Yahoo",
@@ -81,6 +89,14 @@
       "url": "https://finnhub.io/api/news?id=3cbc6c6c0489fd7871ef6ef60d42c8e47422fbe7010e81af63fcff7e378e40de",
       "datetime": 1791020401,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Micron, Nike, Meta and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=4ad332166f4319c2fcf4c9006101bd1eff1553040404abe77f126421aed826ae",
+      "datetime": 1791016220,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
@@ -144,22 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7a9b175a06c2391dc0765f8f1132d9ce57a933ef1728aade821673273de172de",
       "datetime": 1790980680,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Microsoft Entered the Smart Home Through Your Washing Machine, Not Your Phone",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0f2d1c3d53eedfae80145cee9847b938daf52ad0d758e9803e034794d9215f82",
-      "datetime": 1790972281,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "No Longer Complacent, Carter\u2019s Finds a New Groove",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=da579ec0054f549b0184f779428ca9845c8ea8370c9986e294c104ad2e7d9745",
-      "datetime": 1790970579,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-03T13:58:16.462575+00:00"
+  "updated_at": "2026-10-03T14:13:16.519888+00:00"
 }
