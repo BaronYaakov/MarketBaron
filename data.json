@@ -155,12 +155,28 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Buy Jabil (JBL) Stock as AI Infrastructure Demand Fuels Strong Q4 Results?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a984c053dd8699f26a9eb41e93cf731066686d1f7af124d4da9148583d81a45c",
+      "datetime": 1790960760,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Got $1,000? 2 Growth Stocks Building the Data Centers of the AI Infrastructure Supercycle.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=386cfe521d6ef503072db9f1a16754edc08b9c47eea912b3ecbe62ac87da9bef",
       "datetime": 1790960580,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica Trounces S&P 500 As Earnings Outlook Brightens; Stock Offers Early Entry",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1e07a65d03d84ce17209a9e30e13828db6e4259041d755f4e3c58612bae3c825",
+      "datetime": 1790951815,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "COR",
@@ -355,28 +371,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "Jabil (JBL) Beats Q4 Earnings and Revenue Estimates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8a458af01d209bbb2c58bfd564321df38862c7b347e959e84a3b9d1195b9e475",
-      "datetime": 1790768701,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "B",
       "headline": "Can Barrick Mining's Cash Engine Unlock Greater Returns Ahead?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=9fd6e0b0cc0d1ef6409238d6b1f8151db71f3827386fe1e7427af14cd980e3ca",
       "datetime": 1790763900,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Top 3 Canadian Undervalued Tech Stocks To Watch In September 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bb8049a004488c9da2d6ef9202f2045be9400025467de0d3bab4b812987a7731",
-      "datetime": 1790759336,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "B",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-03T00:43:15.900076+00:00"
+  "updated_at": "2026-10-03T00:58:15.989725+00:00"
 }
