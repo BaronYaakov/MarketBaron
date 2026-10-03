@@ -60,6 +60,30 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Mag 7 Voices: Huang Defends AI Spending, Pichai Ramps Up Gemini, Nadella Calls Copilot A \u2018New OS For Work\u2019 This Week",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=46d3c6a7d717e97fd24c883d9bfe1437bda2f3237c110f4776dbe0b335daddb1",
+      "datetime": 1790992895,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom, Qualcomm, and Sensata Technologies Stocks Trade Up, What You Need To Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0cabc7487cc7242291b9464d4d0c92c5aa7dfe4cf3ffdde833373b04f3fc998f",
+      "datetime": 1790987403,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "September's Leaders And Laggards",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ad55939cdb4eaa81677d2b0c9d6df027c03f898b180fb8c90f7a228a85731309",
+      "datetime": 1790987400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Should You Buy Amazon Stock (AMZN) in October?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a1e9358005f875c7d02d95be0c4d0056b31f2ed50be77fe612a52d15876d35ec",
@@ -131,14 +155,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "What Are Amazon Investors Paying for AWS Without Investment Gains?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=766e0167896a74df11dbf31c39934a184506de85778df3fea96aa251a38368a9",
-      "datetime": 1790965614,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Nvidia: Competition Caps The Upside Case",
       "source": "SeekingAlpha",
@@ -161,14 +177,6 @@
       "url": "https://finnhub.io/api/news?id=a984c053dd8699f26a9eb41e93cf731066686d1f7af124d4da9148583d81a45c",
       "datetime": 1790960760,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Got $1,000? 2 Growth Stocks Building the Data Centers of the AI Infrastructure Supercycle.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=386cfe521d6ef503072db9f1a16754edc08b9c47eea912b3ecbe62ac87da9bef",
-      "datetime": 1790960580,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -281,14 +289,6 @@
       "url": "https://finnhub.io/api/news?id=0fe146f17ee6e76ef5de8bbb5de7db2133b6becda66077e1fecf7a7bae3bb14a",
       "datetime": 1790809986,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Is Everpure (P) Quietly Turning Its Data Platform Into an AI Cost and Risk Control Hub?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7cde43695e9ce54f796ed11b47fff7d8a8bfdd919503e3ffd218aff15623f6a0",
-      "datetime": 1790802889,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "ORLY",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-03T04:58:15.635474+00:00"
+  "updated_at": "2026-10-03T05:13:15.409227+00:00"
 }
