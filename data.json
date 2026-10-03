@@ -187,6 +187,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
+      "ticker": "B",
+      "headline": "If You Invested $100 In Barrick Mining Stock 5 Years Ago, You Would Have This Much Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=4431ac0403428b50ee9e45e1625b6e71f3fed97e5454948495c29e1d042b28f0",
+      "datetime": 1790943323,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "COR",
       "headline": "Cencora Announces Date and Time for Fourth Quarter Fiscal 2026 Earnings Release",
       "source": "Yahoo",
@@ -376,14 +384,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=9fd6e0b0cc0d1ef6409238d6b1f8151db71f3827386fe1e7427af14cd980e3ca",
       "datetime": 1790763900,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Barrick Mining Targets Year-End IPO as Nevada Growth Plan Takes Shape",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ad957c4c32a66642b3767c43e37592d7fa0e4cae0b87b38541c303cc5710b909",
-      "datetime": 1790715778,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-03T14:43:16.425686+00:00"
+  "updated_at": "2026-10-03T14:58:16.689119+00:00"
 }
