@@ -60,6 +60,22 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Prediction: This AI Chip Stock Will Be the Biggest Winner of 2027 (Hint: It\u2019s Not Nvidia, AMD, or Broadcom)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3cbc6c6c0489fd7871ef6ef60d42c8e47422fbe7010e81af63fcff7e378e40de",
+      "datetime": 1791020401,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "A Fund Manager Says the Old Market Indicators Broke in November 2022. His Firm Just Launched ETFs for the New Ones",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7a50acb9a5cf72d49e00b4619f0f2071e6a7367cf32f10afde07b48aea4fa9fa",
+      "datetime": 1791015140,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Broadcom\u2019s $42 Billion Loan to Anthropic Turns the Chipmaker Into Its Customer\u2019s Bank",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0abd9abfa2ae1bcdb75673375a1ae02548e1165c3de123394c9ee29021f55200",
@@ -139,14 +155,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Friday's session: top gainers and losers in the dow jones index",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=d3c7a24ec996d4e6f3ea43028242317d0d3e49cd31ec72a434e469e2479a6725",
-      "datetime": 1790968216,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "P",
       "headline": "Stay informed with the top movers within the S&P500 index on Friday.",
       "source": "ChartMill",
@@ -160,14 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1cd84cf9278582a8a2d552adc88cb27bcd91e73379b8bff844d4a48fabd846ea",
       "datetime": 1790966157,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia: Competition Caps The Upside Case",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=944554a9e6ded22da7de653bbd320d2830128f991fb325ed185e89ede11b800a",
-      "datetime": 1790964022,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-03T09:58:15.977378+00:00"
+  "updated_at": "2026-10-03T10:13:16.106170+00:00"
 }
