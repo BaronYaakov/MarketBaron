@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Broadcom\u2019s $42 Billion Loan to Anthropic Turns the Chipmaker Into Its Customer\u2019s Bank",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0abd9abfa2ae1bcdb75673375a1ae02548e1165c3de123394c9ee29021f55200",
+      "datetime": 1791013123,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Mag 7 Voices: Huang Defends AI Spending, Pichai Ramps Up Gemini, Nadella Calls Copilot A \u2018New OS For Work\u2019 This Week",
       "source": "Yahoo",
@@ -160,14 +168,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=944554a9e6ded22da7de653bbd320d2830128f991fb325ed185e89ede11b800a",
       "datetime": 1790964022,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "4 Unexpected Dividend Payers Income Investors Completely Overlook",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=22018184f038ccee3ebc7f5886392db30cd5adffd920d125e2a1271497497a3c",
-      "datetime": 1790963128,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-03T07:58:16.342843+00:00"
+  "updated_at": "2026-10-03T08:13:16.012531+00:00"
 }
