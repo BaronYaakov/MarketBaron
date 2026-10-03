@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b750d450728a5af20e921e8522aabab198da92df9bc7210a5607d461d343e5b1",
+      "datetime": 1791053037,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "The S&P 500 Is Not Enough: My 3-Stock Starter Portfolio for New Investors",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1808834a7d9308a7a154d508d24cd51f3a2a5c1e021d54fa4ef43aedd91d1b3f",
@@ -153,14 +161,6 @@
       "url": "https://finnhub.io/api/news?id=ad55939cdb4eaa81677d2b0c9d6df027c03f898b180fb8c90f7a228a85731309",
       "datetime": 1790987400,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Should You Buy Amazon Stock (AMZN) in October?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a1e9358005f875c7d02d95be0c4d0056b31f2ed50be77fe612a52d15876d35ec",
-      "datetime": 1790981400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-03T19:58:15.030488+00:00"
+  "updated_at": "2026-10-03T20:13:15.128050+00:00"
 }
