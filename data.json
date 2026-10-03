@@ -60,6 +60,22 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Should You Forget Palantir and Buy These 2 Artificial Intelligence (AI) Stocks Instead?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=db63711fde47479f87b937ccbefd3948dd0b38e6d6ed1d93d16ec2e49a53b6f6",
+      "datetime": 1791026340,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "If You'd Invested $1,000 in Broadcom's 2009 IPO, Here's How Much You'd Have Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=de6f4ce86dda1edc47278627dde91333c4e95c639dffff81f77b0de5e4686a17",
+      "datetime": 1791023700,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Prediction: This AI Chip Stock Will Be the Biggest Winner of 2027 (Hint: It\u2019s Not Nvidia, AMD, or Broadcom)",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3cbc6c6c0489fd7871ef6ef60d42c8e47422fbe7010e81af63fcff7e378e40de",
@@ -73,6 +89,14 @@
       "url": "https://finnhub.io/api/news?id=7a50acb9a5cf72d49e00b4619f0f2071e6a7367cf32f10afde07b48aea4fa9fa",
       "datetime": 1791015140,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Skyworks: The Qorvo Deal Could Finally Change The Investment Case",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=84c6b97a573c7b1e05a87d1ef5799a3ab3bba145cff7aa48badde4f304d41389",
+      "datetime": 1791013632,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -123,22 +147,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "3 Power Grid Stocks With Revenue Growth Up To 34%",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7f64eb31a2349f9d16ddbb2f12eb16f3f6a8ba74376f6a244e90eb43e20c4f80",
-      "datetime": 1790978866,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "3 Great AI Stocks To Own In October 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ce5d876d8284827b5bea7aa70d3b932395ded7b35c44df8fbed7a7597b78e41e",
-      "datetime": 1790975426,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "AMZN",
       "headline": "Microsoft Entered the Smart Home Through Your Washing Machine, Not Your Phone",
       "source": "Yahoo",
@@ -161,14 +169,6 @@
       "url": "https://finnhub.io/api/news?id=ca861ffeeb0452b9b3ceee92fd62a06df36568a2f615f744bf4b4c309f941890",
       "datetime": 1790967901,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Bets $102 Billion on Anthropic Chips",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1cd84cf9278582a8a2d552adc88cb27bcd91e73379b8bff844d4a48fabd846ea",
-      "datetime": 1790966157,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-03T11:58:16.193564+00:00"
+  "updated_at": "2026-10-03T12:13:16.093450+00:00"
 }
