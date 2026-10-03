@@ -59,6 +59,30 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Should You Buy Amazon Stock (AMZN) in October?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a1e9358005f875c7d02d95be0c4d0056b31f2ed50be77fe612a52d15876d35ec",
+      "datetime": 1790981400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Weekly Wrap: Crypto Rallies To Start \u2018Uptober\u2019",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7a9b175a06c2391dc0765f8f1132d9ce57a933ef1728aade821673273de172de",
+      "datetime": 1790980680,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "3 Power Grid Stocks With Revenue Growth Up To 34%",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7f64eb31a2349f9d16ddbb2f12eb16f3f6a8ba74376f6a244e90eb43e20c4f80",
+      "datetime": 1790978866,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "3 Great AI Stocks To Own In October 2026",
       "source": "Yahoo",
@@ -115,28 +139,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Synopsys Is the Nasdaq 100\u2019s Top Stock Today. The Target Says It\u2019s Not Done",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=00d458189dfee1ad8d236639740ffa19962e7eae4398dd9b656a6a22bf813e31",
-      "datetime": 1790964052,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Nvidia: Competition Caps The Upside Case",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=944554a9e6ded22da7de653bbd320d2830128f991fb325ed185e89ede11b800a",
       "datetime": 1790964022,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "How Much Could Better Retail Margins Add to Amazon\u2019s Value?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=126da3dcef7716bfa0e5174a4644d0753800f4d9100d54d7478d30210c754ffb",
-      "datetime": 1790963782,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -152,14 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=386cfe521d6ef503072db9f1a16754edc08b9c47eea912b3ecbe62ac87da9bef",
       "datetime": 1790960580,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom, Marvell, and SanDisk Are Quietly Building Toward a Massive Bull Run",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a70076e460996ca1116fb22f700b406238c0f43866163af0410a2892857b8253",
-      "datetime": 1790959535,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-03T00:13:16.450553+00:00"
+  "updated_at": "2026-10-03T00:28:16.047603+00:00"
 }
