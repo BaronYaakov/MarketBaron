@@ -147,6 +147,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "Top Wall Street analysts are upbeat about the prospects for these 3 stocks",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=57d8f938169a9c527676c2ffe8565d557d066bc602221ff2a7a1812ecf11d50d",
+      "datetime": 1791105856,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "B",
       "headline": "Barrick Mining (TSX:ABX) Averts Mali Strike As Fair Value Debate Returns",
       "source": "Yahoo",
@@ -160,14 +168,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=3261980ee2ac3b5f357bbfbda9d74bcdf7b6a9fc4fac595e05a08ca9c254d8ef",
       "datetime": 1791102600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "How Much Revenue Visibility Does Microsoft\u2019s Backlog Really Provide?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=04d267a0dba4fe238f17b5475bfa2fed7f5e79fa77784b837b8923df29e6a731",
-      "datetime": 1791081334,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-04T17:43:16.640162+00:00"
+  "updated_at": "2026-10-04T17:58:16.568890+00:00"
 }
