@@ -59,6 +59,46 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Amazon Wants to Move $8 Billion in Nvidia Chips Off Its Books. Is AI\u2019s Financing Model Starting to Change?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=00a6a27373db4d8893dcdcfae1a5c751a7be4379a50f1e3287e4ed2e5b11bc1d",
+      "datetime": 1791128309,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom\u2019s Massive $42 Billion Chip-Buying Deal with Anthropic Raises Circular Financing Worries",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fa5a7e2ff4db3144d26d7401b8f1e3c66c64a9fe94fce1abfc45c0e57c65422d",
+      "datetime": 1791128028,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Is Spending Another $1 Billion on AI Data Centers \u2014 But This Time, It\u2019s Not Buying a Single GPU",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d2bc1c84b38b35de0cc8149dbe295cd3212cdb115778b7bab41af68049608b89",
+      "datetime": 1791126994,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Amgen vs. Vertex Pharmaceuticals: Which Biotech Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=773d3787e684fba498bba3b49094c209329c0e46fcca5973e7c495eb6d0c1b89",
+      "datetime": 1791124497,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "LinkDaddy Reports 1.52M AI Crawler Requests to AI Verified Registry",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f10bd690d927fe333449c920233038783e3b7dc085d6c9df4106dadc673a439c",
+      "datetime": 1791123540,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom's 2028 Projection Makes the Stock a Screaming Buy",
       "source": "Yahoo",
@@ -123,43 +163,11 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "LinkedIn Cofounder Defends Massive AI Infrastructure Spending, Says AI Capital Is 'the Only Reason We\u2019re Not in a Recession'",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=4540275b88a3f8c2042e253b01b7748b4a4de3f6be0a280a5eefd58951545111",
-      "datetime": 1791087672,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "AMZN",
       "headline": "How Much Revenue Visibility Does Microsoft\u2019s Backlog Really Provide?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=04d267a0dba4fe238f17b5475bfa2fed7f5e79fa77784b837b8923df29e6a731",
       "datetime": 1791081334,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Trump Defends Data Centers at Ohio Rally: 'You Can't Just Turn Them Off. They'll Go to China'",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=6d51b9e02e5d58f93e13c78f32ac0bc08cb71b66c00aefc71933b5e01de3628e",
-      "datetime": 1791077298,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Elizabeth Warren Targets Trump, Big Tech Over 'Massive Tax Breaks' for AI and Data Centers: 'People... Are Worried About AI'",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=b43c74e4085209a1c9d8fbbed6e988bbf2b1c65c9279429b9dae69ebf4135888",
-      "datetime": 1791071169,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Nvidia (NVDA) Is At The Center Of An $8 Billion AI Financing Shift",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7b31f6f72da28162f972b402d8c7d61247def29acfb2b4cf188e0e950c90ce74",
-      "datetime": 1791068782,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -395,14 +403,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "COR",
-      "headline": "$100 Invested In Cencora 5 Years Ago Would Be Worth This Much Today",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=e4914a606e5e89c31d15e5d78f5fe1f1055347a74281b15b6e197065508343dc",
-      "datetime": 1790613033,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
       "ticker": "PRMB",
       "headline": "Primo Brands (PRMB) Stock May Be Undervalued On Earnings Power",
       "source": "Yahoo",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-04T15:58:16.833981+00:00"
+  "updated_at": "2026-10-04T16:13:16.379777+00:00"
 }
