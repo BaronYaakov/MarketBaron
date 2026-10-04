@@ -124,10 +124,10 @@
     },
     {
       "ticker": "AVGO",
-      "headline": "How Much of Marvell\u2019s Adjusted Profit Reaches Shareholders?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=85cf86be12b53de0ab5519b852f807eba6dc9ea7f11d42cad2139d7d66a738db",
-      "datetime": 1791082007,
+      "headline": "LinkedIn Cofounder Defends Massive AI Infrastructure Spending, Says AI Capital Is 'the Only Reason We\u2019re Not in a Recession'",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=4540275b88a3f8c2042e253b01b7748b4a4de3f6be0a280a5eefd58951545111",
+      "datetime": 1791087672,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -140,26 +140,26 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "Trump Defends Data Centers at Ohio Rally: 'You Can't Just Turn Them Off. They'll Go to China'",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=6d51b9e02e5d58f93e13c78f32ac0bc08cb71b66c00aefc71933b5e01de3628e",
+      "datetime": 1791077298,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Elizabeth Warren Targets Trump, Big Tech Over 'Massive Tax Breaks' for AI and Data Centers: 'People... Are Worried About AI'",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b43c74e4085209a1c9d8fbbed6e988bbf2b1c65c9279429b9dae69ebf4135888",
+      "datetime": 1791071169,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Nvidia (NVDA) Is At The Center Of An $8 Billion AI Financing Shift",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7b31f6f72da28162f972b402d8c7d61247def29acfb2b4cf188e0e950c90ce74",
       "datetime": 1791068782,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "ASML Holding vs. Qualcomm: What Revenue Trends Tell Investors About These Semiconductor Industry Giants",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3383b0266d756737bce44c3e390c6bd5b3484ab88f4e5bbb323e740c726f8ceb",
-      "datetime": 1791067952,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Meta's Muse AI: Good or Bad for E-Commerce? Shopify and Amazon Are Taking Opposite Approaches.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=20f4fbf4c25221acb9e372fd7fc967070a49a30392c0d1144fa1e45863ef614f",
-      "datetime": 1791067800,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-04T14:43:16.402993+00:00"
+  "updated_at": "2026-10-04T14:58:16.481803+00:00"
 }
