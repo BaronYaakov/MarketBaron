@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Can Broadcom Keep Growing Its Dividend as AI Customers Gain Power?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=43325a2c8ff7132f67a99d499921e589cf9bc0a1149bcecab5ee8949435bc8a8",
+      "datetime": 1791146014,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Here is Why Broadcom (AVGO) is a Good Investment at Today\u2019s Price",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=860113ac420e762057194e9bc74460154cf102c6fccd163b0a0d232a5aaa7ae1",
+      "datetime": 1791145016,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Is Cognizant\u2019s AI-Led Delivery Shift Altering The Investment Case For Cognizant Technology Solutions (CTSH)?",
       "source": "Yahoo",
@@ -144,22 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1e7d75e27e14281cea8f381c1e061bf30a3e3b9ee960c875d74cd6d8b59b79b1",
       "datetime": 1791118740,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "3 Semiconductor Stocks With Fortress Balance Sheets and Proven Dividend Raises",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bb2715f4e9e6d16130e7a2b514a8079289947eb3ffc835aa78ff0309ba727e53",
-      "datetime": 1791117952,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "What a $10,000 Investment Split Between Nvidia and Broadcom Could Be Worth by 2030",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fdee99ebb64a9e468197951ea3d764ff1cbb16d94b38af4ecd0e12ed7a02e5ac",
-      "datetime": 1791117900,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-04T21:58:17.363536+00:00"
+  "updated_at": "2026-10-04T22:13:16.637442+00:00"
 }
