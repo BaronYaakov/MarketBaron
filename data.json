@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "How Much of Marvell\u2019s Adjusted Profit Reaches Shareholders?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=85cf86be12b53de0ab5519b852f807eba6dc9ea7f11d42cad2139d7d66a738db",
+      "datetime": 1791082007,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "How Much Revenue Visibility Does Microsoft\u2019s Backlog Really Provide?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=04d267a0dba4fe238f17b5475bfa2fed7f5e79fa77784b837b8923df29e6a731",
+      "datetime": 1791081334,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Nvidia (NVDA) Is At The Center Of An $8 Billion AI Financing Shift",
       "source": "Yahoo",
@@ -96,14 +112,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1808834a7d9308a7a154d508d24cd51f3a2a5c1e021d54fa4ef43aedd91d1b3f",
       "datetime": 1791048900,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "This Stock Posted the Best Performance in the \u201cMagnificent Seven\u201d in September. (Hint: It\u2019s Not Nvidia.)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=284602e45d1ad9c65269f1aa8700a068da02e30cd374a7b4dfbdf8b4e1940659",
-      "datetime": 1791034201,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -153,14 +161,6 @@
       "url": "https://finnhub.io/api/news?id=f37266945d5c439305c73236ec98de7c1a3a132da9098b95b5e8fc82a4ddeb73",
       "datetime": 1791007720,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom, Qualcomm, and Sensata Technologies Stocks Trade Up, What You Need To Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0cabc7487cc7242291b9464d4d0c92c5aa7dfe4cf3ffdde833373b04f3fc998f",
-      "datetime": 1790987403,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-04T04:58:15.800055+00:00"
+  "updated_at": "2026-10-04T05:13:15.732504+00:00"
 }
