@@ -60,6 +60,38 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Pay Me While I Wait: 3 Turnaround Stocks That Keep Paying Investors Through the Rebuild",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=69e46293fa3cb0d1ab3cc9be8a9da6788e5458a715d05f7bb99c69cedb416105",
+      "datetime": 1791130527,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon AWS CEO reveals surprising risk to AI stocks and U.S. economy",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=51ce6115ae12ffa68bb342ae2e1fafe8632e7e2fe2aaaf54802b168522490f5b",
+      "datetime": 1791129780,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Jim Cramer Says He May Quit Amazon for the Rival That Jumped 24% in a Month",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=59352f12e4d58e8346bfae50c868ea29a592f1221285acb772611671f974581b",
+      "datetime": 1791129505,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "AI Is Burning Through More Money Than Any Technology Boom in History \u2014 Now Comes the Hard Part",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b23db0738aeb4d842f9c5dd5f12c994c79f5c9048a3cd81959d5c7a009dd51f6",
+      "datetime": 1791129199,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon Wants to Move $8 Billion in Nvidia Chips Off Its Books. Is AI\u2019s Financing Model Starting to Change?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=00a6a27373db4d8893dcdcfae1a5c751a7be4379a50f1e3287e4ed2e5b11bc1d",
@@ -89,14 +121,6 @@
       "url": "https://finnhub.io/api/news?id=773d3787e684fba498bba3b49094c209329c0e46fcca5973e7c495eb6d0c1b89",
       "datetime": 1791124497,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "LinkDaddy Reports 1.52M AI Crawler Requests to AI Verified Registry",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f10bd690d927fe333449c920233038783e3b7dc085d6c9df4106dadc673a439c",
-      "datetime": 1791123540,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -131,14 +155,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Constellation Energy (CEG) Could Be 26% Below Fair Value As Amazon Deal Lands",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a62e8383202564c491e976da88bfead5b81147e1c2af5c78b9f9ff678746dbca",
-      "datetime": 1791108395,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Broadcom vs. Micron: Which Semiconductor Stock Is the Better AI Buy over the Next 3 Years?",
       "source": "Yahoo",
@@ -147,28 +163,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Top Wall Street analysts are upbeat about the prospects for these 3 stocks",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=57d8f938169a9c527676c2ffe8565d557d066bc602221ff2a7a1812ecf11d50d",
-      "datetime": 1791105856,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "B",
       "headline": "Barrick Mining (TSX:ABX) Averts Mali Strike As Fair Value Debate Returns",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=860c5b20b623d15e2a3ba6fcb67eb1a3d859f60db487057b1b81a7c7924646e5",
       "datetime": 1791104962,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "UTF: Rate Shock Lifted The Yield To 7.87% And Opened An Entry Point For Income Investors",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=3261980ee2ac3b5f357bbfbda9d74bcdf7b6a9fc4fac595e05a08ca9c254d8ef",
-      "datetime": 1791102600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "ORLY",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-04T17:58:16.568890+00:00"
+  "updated_at": "2026-10-04T18:13:17.162448+00:00"
 }
