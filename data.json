@@ -83,6 +83,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "UTF: Rate Shock Lifted The Yield To 7.87% And Opened An Entry Point For Income Investors",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3261980ee2ac3b5f357bbfbda9d74bcdf7b6a9fc4fac595e05a08ca9c254d8ef",
+      "datetime": 1791102600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "How Much of Marvell\u2019s Adjusted Profit Reaches Shareholders?",
       "source": "Yahoo",
@@ -120,14 +128,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=20f4fbf4c25221acb9e372fd7fc967070a49a30392c0d1144fa1e45863ef614f",
       "datetime": 1791067800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b750d450728a5af20e921e8522aabab198da92df9bc7210a5607d461d343e5b1",
-      "datetime": 1791053037,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-04T12:43:16.409260+00:00"
+  "updated_at": "2026-10-04T12:58:16.164275+00:00"
 }
