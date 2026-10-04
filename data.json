@@ -60,6 +60,30 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Nvidia (NVDA) Is At The Center Of An $8 Billion AI Financing Shift",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7b31f6f72da28162f972b402d8c7d61247def29acfb2b4cf188e0e950c90ce74",
+      "datetime": 1791068782,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "ASML Holding vs. Qualcomm: What Revenue Trends Tell Investors About These Semiconductor Industry Giants",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3383b0266d756737bce44c3e390c6bd5b3484ab88f4e5bbb323e740c726f8ceb",
+      "datetime": 1791067952,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Meta's Muse AI: Good or Bad for E-Commerce? Shopify and Amazon Are Taking Opposite Approaches.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=20f4fbf4c25221acb9e372fd7fc967070a49a30392c0d1144fa1e45863ef614f",
+      "datetime": 1791067800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon responds to data center backlash, says it no longer uses NDAs",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b750d450728a5af20e921e8522aabab198da92df9bc7210a5607d461d343e5b1",
@@ -107,22 +131,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Micron, Nike, Meta and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=4ad332166f4319c2fcf4c9006101bd1eff1553040404abe77f126421aed826ae",
-      "datetime": 1791016220,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "A Fund Manager Says the Old Market Indicators Broke in November 2022. His Firm Just Launched ETFs for the New Ones",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7a50acb9a5cf72d49e00b4619f0f2071e6a7367cf32f10afde07b48aea4fa9fa",
-      "datetime": 1791015140,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Skyworks: The Qorvo Deal Could Finally Change The Investment Case",
       "source": "SeekingAlpha",
@@ -137,14 +145,6 @@
       "url": "https://finnhub.io/api/news?id=0abd9abfa2ae1bcdb75673375a1ae02548e1165c3de123394c9ee29021f55200",
       "datetime": 1791013123,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Mag 7 Voices: Huang Defends AI Spending, Pichai Ramps Up Gemini, Nadella Calls Copilot A \u2018New OS For Work\u2019 This Week",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=46d3c6a7d717e97fd24c883d9bfe1437bda2f3237c110f4776dbe0b335daddb1",
-      "datetime": 1790992895,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -557,7 +557,7 @@
       "day_low": 84.44,
       "prev_close": 85.03,
       "day_change_pct": -0.15,
-      "week52_high": 107.96,
+      "week52_high": 105.39,
       "week52_low": 82.59
     },
     "PRMB": {
@@ -595,7 +595,7 @@
       "day_low": 134.0,
       "prev_close": 134.13,
       "day_change_pct": 4.48,
-      "week52_high": 135.68,
+      "week52_high": 140.83,
       "week52_low": 56.78
     },
     "AMZN": {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-03T23:58:16.453796+00:00"
+  "updated_at": "2026-10-04T00:13:15.733134+00:00"
 }
