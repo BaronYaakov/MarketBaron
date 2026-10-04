@@ -67,6 +67,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Broadcom vs. Micron: Which Semiconductor Stock Is the Better AI Buy over the Next 3 Years?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f6cebb53fb677cb21529337a367884ac856a5b57797f5029c4f6b9ae0104bc82",
+      "datetime": 1791107940,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "B",
       "headline": "Barrick Mining (TSX:ABX) Averts Mali Strike As Fair Value Debate Returns",
       "source": "Yahoo",
@@ -132,6 +140,22 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "MarketBeat Week in Review \u2013 09/28 - 10/02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6067384e01c9dba75b78ac0e7c68eb7a0e4ba602e99b8fbef786d6564eaea72c",
+      "datetime": 1791025200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "MarketBeat Week in Review \u2013 09/28 - 10/02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6067384e01c9dba75b78ac0e7c68eb7a0e4ba602e99b8fbef786d6564eaea72c",
+      "datetime": 1791025200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "If You'd Invested $1,000 in Broadcom's 2009 IPO, Here's How Much You'd Have Today",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=de6f4ce86dda1edc47278627dde91333c4e95c639dffff81f77b0de5e4686a17",
@@ -144,22 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3cbc6c6c0489fd7871ef6ef60d42c8e47422fbe7010e81af63fcff7e378e40de",
       "datetime": 1791020401,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Skyworks: The Qorvo Deal Could Finally Change The Investment Case",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=84c6b97a573c7b1e05a87d1ef5799a3ab3bba145cff7aa48badde4f304d41389",
-      "datetime": 1791013632,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom\u2019s $42 Billion Loan to Anthropic Turns the Chipmaker Into Its Customer\u2019s Bank",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0abd9abfa2ae1bcdb75673375a1ae02548e1165c3de123394c9ee29021f55200",
-      "datetime": 1791013123,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -385,14 +393,6 @@
       "url": "https://finnhub.io/api/news?id=39b4d2865401ca5da02ba18f23292e7d07e4762c874a52e5d99fec1a5b9442d8",
       "datetime": 1790773975,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Netflix upgraded, Carvana downgraded: Wall Street's top analyst calls",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=12810ddfc2801a0050626ba1f4d6a6db1d430a552e4659dc0f4e9d02a662eeda",
-      "datetime": 1790689952,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "COR",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-04T11:58:16.042095+00:00"
+  "updated_at": "2026-10-04T12:13:16.151317+00:00"
 }
