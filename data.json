@@ -108,18 +108,18 @@
     },
     {
       "ticker": "AMZN",
-      "headline": "Meta And Alphabet Will Beat OpenAI And Anthropic",
+      "headline": "Wall Street Breakfast Podcast: October's Retail Harvest",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=dd57e1974d3811293fcde416d83a551972624f1a00a16ad6c647f9fbfa68b99a",
-      "datetime": 1791183066,
+      "url": "https://finnhub.io/api/news?id=035694136145d5f5bb3cfe03aea6d424a42478efde0213255b029fc487c3bd0d",
+      "datetime": 1791183600,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Michael Saylor Proves Bitcoin Is Tame With a Chart Where His Own Stock Hits 94%",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=400def4cca98b9c2396ecf07aa03edb797b61965236393b458568c4e8e0eb30f",
-      "datetime": 1791182652,
+      "headline": "Meta And Alphabet Will Beat OpenAI And Anthropic",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dd57e1974d3811293fcde416d83a551972624f1a00a16ad6c647f9fbfa68b99a",
+      "datetime": 1791183066,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-05T11:13:13.666797+00:00"
+  "updated_at": "2026-10-05T11:28:13.808933+00:00"
 }
