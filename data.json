@@ -60,11 +60,59 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "If You'd Bought $10,000 Worth of Amazon Stock 10 Years Ago, Here's How Much You'd Have Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8597623b11d4e31c3b849c14a5dce0e6c23ae206ea9c44862ea53fac2033bb57",
+      "datetime": 1791200880,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Investment Wisdom Always Says Buy Assets, So Don\u2019t Ignore That Wisdom As It Relates To This Hyperscaler",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=78200ab68f9046030d509d2eef4ae192ac62c691e73743fe8290b9d5c0803ed5",
+      "datetime": 1791200718,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "AI Chips Update - AIBotics Boosts AI Strategy with Empulser Acquisition",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=32557e6fd106cb38b0f3952c17904c3017c0b1f2589855efb307086e03143bdc",
+      "datetime": 1791200223,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "This multi-trillion stock is \"cheap and getting cheaper\": Morgan Stanley",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=768f00f2d7ce5ecf4716ab7b55b609d323406e8acd46d77c192714bfe78b70b7",
+      "datetime": 1791199508,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "OpenAI Fired the People It Needed Most",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dd2b5b9e0d93fe878e6755ec21ac44f7d61f88234efdfcafb37599c029631c35",
+      "datetime": 1791198000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "OpenAI Fired the People It Needed Most",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=dd2b5b9e0d93fe878e6755ec21ac44f7d61f88234efdfcafb37599c029631c35",
       "datetime": 1791198000,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Meet the Low-Cost Vanguard ETF With 32.4% Invested in Nvidia, Broadcom, Micron, AMD, Intel, and Lam Research, While VOO Has Just 14.8%.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b0cf215ea487392e67e586be62096cb6b8d47e93ddaf02471c8e9a3ec0ce5353",
+      "datetime": 1791197400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -80,30 +128,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f9eefc76b99c9e34195c6c9b5d54c08bff955aaba6623cd535288ca7d01335c2",
       "datetime": 1791195360,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Bull of the Day: Abercrombie & Fitch (ANF)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6c60b5373ea8ccde7500861914c22ad8fef09e0c06d68496bdd1b5e3fa6f3662",
-      "datetime": 1791194400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Nvidia, Tesla Shares Head for 24/7 Onchain Trading Under OKX and NYSE Owner\u2019s Venture",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aeb5f10fa4f8f217b1b794db76865562df090a767a7918d2f7279cd146668419",
-      "datetime": 1791193537,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Bill Ackman on AI: \u2018Massively Increased the Risk of Disruption\u2019",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b7d3e6d3252b8a810ebed276c0daecec20657966d4ba09e078a39fb629c60e2b",
-      "datetime": 1791193516,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -147,36 +171,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Semiconductors Winners And Losers At The Start Of Q4 2026",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d7cdd47e7e15c5f64e4ec24ab20183fcacc9ffcbcbfefe646574e1ce084abd2f",
-      "datetime": 1791173679,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "What is O\u2019Reilly Automotive\u2019s (ORLY) Economic Moat, and is it Widening or Narrowing?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a2e64797d878b4889bee724a448396ac39fcf8b0cf65ec3d594c42a56f0367ae",
       "datetime": 1791172103,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "3 Great AI Stocks To Watch In October 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1ec764b4f837114e7af1e0a6726a7e182c7dd23cd856d22f2a6cfd70c5d334eb",
-      "datetime": 1791165966,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom vs. Intel: What Revenue Trends Tell Investors About These Artificial Intelligence Companies",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=33b13c9c8e3f454a3825c599f3eb42a30c565f632e8ec831e040a0d5c58c6893",
-      "datetime": 1791156988,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "B",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-05T11:58:13.697314+00:00"
+  "updated_at": "2026-10-05T12:13:14.105355+00:00"
 }
