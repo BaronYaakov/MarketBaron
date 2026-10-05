@@ -59,6 +59,38 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "ORLY",
+      "headline": "What is O\u2019Reilly Automotive\u2019s (ORLY) Economic Moat, and is it Widening or Narrowing?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a2e64797d878b4889bee724a448396ac39fcf8b0cf65ec3d594c42a56f0367ae",
+      "datetime": 1791172103,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "3 Great AI Stocks To Watch In October 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1ec764b4f837114e7af1e0a6726a7e182c7dd23cd856d22f2a6cfd70c5d334eb",
+      "datetime": 1791165966,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "MU, HPE, AMZN, META, SPCX: Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=941d7de09ad8782ad8a787b14da4d142eb94b32a9765eae533675260f14b4bf7",
+      "datetime": 1791165291,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Could Investing $5,000 in SpaceX Help Make You a Millionaire?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=15687efec25d84dbf86961d51c6979273415a7eb5decc795a528c15c851721a3",
+      "datetime": 1791165000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom vs. Intel: What Revenue Trends Tell Investors About These Artificial Intelligence Companies",
       "source": "Yahoo",
@@ -136,30 +168,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=1f51c558984ec226824455a50b00a46c9e2ddcacb6b7235dfdfca49a3f6fdf0e",
       "datetime": 1791129794,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon AWS CEO reveals surprising risk to AI stocks and U.S. economy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=51ce6115ae12ffa68bb342ae2e1fafe8632e7e2fe2aaaf54802b168522490f5b",
-      "datetime": 1791129780,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Jim Cramer Says He May Quit Amazon for the Rival That Jumped 24% in a Month",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=59352f12e4d58e8346bfae50c868ea29a592f1221285acb772611671f974581b",
-      "datetime": 1791129505,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom\u2019s Massive $42 Billion Chip-Buying Deal with Anthropic Raises Circular Financing Worries",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fa5a7e2ff4db3144d26d7401b8f1e3c66c64a9fe94fce1abfc45c0e57c65422d",
-      "datetime": 1791128028,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -393,30 +401,6 @@
       "url": "https://finnhub.io/api/news?id=17ec7e19223b3ea07ff36979b275faa1c28e02702f7b5ca9bafd798374df9a48",
       "datetime": 1790778901,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "4 Stocks That Could Split Next\u2014and Why Investors Are Watching",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a5b7c64c8bb6385c768246cde6b9e374a14152874e957c763ab5fead9d6593de",
-      "datetime": 1790774100,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Primo Brands (PRMB) Stock May Be Undervalued On Earnings Power",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=afdff173d4ffd28f7b6afc611f45be1cd1f4e8dfee4d2262214309530081d1e4",
-      "datetime": 1790496727,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Primo Brands (PRMB), Why Is It Getting Attention Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=08e3664a9f31ebdac51db031faf6c676db1c99c97a43edb2d9552ae99a43e8c6",
-      "datetime": 1790492893,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     }
   ],
   "recent_posts": [],
@@ -624,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-05T04:58:14.686037+00:00"
+  "updated_at": "2026-10-05T05:13:14.594599+00:00"
 }
