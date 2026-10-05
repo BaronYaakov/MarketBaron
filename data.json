@@ -91,6 +91,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "ORLY",
+      "headline": "O\u2019Reilly Automotive (ORLY) vs. AZO and GPC: Why Auto Parts Stocks Are No Longer Safe Havens",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8b170d2546eb8e514b6e0745d65478aa6cdde39726ce93e8e81b6c2afd7235e3",
+      "datetime": 1791225018,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Update: Equity Markets Rise Intraday Despite Higher Yields",
       "source": "Yahoo",
@@ -379,14 +387,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     },
     {
-      "ticker": "ORLY",
-      "headline": "Used Cars Are the New Luxury Vehicles: 3-Year Old Beaters Now Cost Over $32,400",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a267aff3a125e1512ea017d4d9ba91466709de0e977d5bd76f1dee471c9ebc08",
-      "datetime": 1790783216,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Cardinal Health: I'm Still Buying After Checking The Numbers",
       "source": "SeekingAlpha",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-05T20:13:16.456993+00:00"
+  "updated_at": "2026-10-05T20:28:17.141070+00:00"
 }
