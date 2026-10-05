@@ -100,6 +100,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "What a 20-Year Deal With Amazon Means for Constellation Energy Stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac507a114a3f8dc4f9e53b87e09b7f9074d907e4aa0b915b84c599fb5beabffb",
+      "datetime": 1791138602,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Pay Me While I Wait: 3 Turnaround Stocks That Keep Paying Investors Through the Rebuild",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=69e46293fa3cb0d1ab3cc9be8a9da6788e5458a715d05f7bb99c69cedb416105",
@@ -128,14 +136,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=59352f12e4d58e8346bfae50c868ea29a592f1221285acb772611671f974581b",
       "datetime": 1791129505,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "AI Is Burning Through More Money Than Any Technology Boom in History \u2014 Now Comes the Hard Part",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b23db0738aeb4d842f9c5dd5f12c994c79f5c9048a3cd81959d5c7a009dd51f6",
-      "datetime": 1791129199,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-05T00:58:17.202064+00:00"
+  "updated_at": "2026-10-05T01:13:17.784149+00:00"
 }
