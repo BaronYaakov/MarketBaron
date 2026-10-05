@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Broadcom and Applied Materials Earnings Put Broadening Chip Rally to the Test",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=8c28650ae40efa8d839ce467b5e542a559aab043c0026fb2e1c405c1183e4c94",
+      "datetime": 1791203788,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "If You'd Bought $10,000 Worth of Amazon Stock 10 Years Ago, Here's How Much You'd Have Today",
       "source": "Yahoo",
@@ -144,14 +152,6 @@
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=7d9e5e396c8898c7050f63983a8921f960929cb810ab5c0bf558e790bc1a21bc",
       "datetime": 1791185268,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom (AVGO) Trades Above Its Own Average Multiple While Growth Cools. Is the Premium Fair?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b68db3412e9eb0fe3c8201f05198860c250eb5967d0acc2b80e843cde0e61bb8",
-      "datetime": 1791181739,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-05T12:43:14.143942+00:00"
+  "updated_at": "2026-10-05T12:58:14.415325+00:00"
 }
