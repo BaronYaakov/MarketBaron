@@ -59,6 +59,46 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Wall Street tests lender appetite with $60 billion Broadcom-Anthropic deal - FT",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9767c1ce7486f49d389c61175a1b19215ba5e905cd954d700da4629eee67a564",
+      "datetime": 1791236825,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon, LA Olympics Organizer Take Over 39-Acre Site Formerly Home To Forever 21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4ded1771146b99587764e9a35e41c6001401695cfe0df0cda6ac85326d5d558b",
+      "datetime": 1791236546,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "This \"Magnificent Seven\" Stock Could Be Overdue for a Big Rally",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1d24dbb4b9c4292a4c2091240f46c353fb690e8bd7940e6aa87349803f653a31",
+      "datetime": 1791234902,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Pinterest stock dips as company names Amazon veteran as CFO",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3b5b40297c6505778a359b7b55745152292312064a94f1eefe52d121d7dcf683",
+      "datetime": 1791233652,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Pinterest Appoints James Dibbo Chief Financial Officer",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3aefcba797662e28b02b6f112464ff4dcc759b8b3163d9b7d3b0f31758d06264",
+      "datetime": 1791231300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Could Nvidia reach a $6T market cap by the end of October?",
       "source": "Yahoo",
@@ -99,36 +139,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Update: Equity Markets Rise Intraday Despite Higher Yields",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=be7f281847b240432fa54378d280bcc48e4724a298cbe9004e03e357e23cb47d",
-      "datetime": 1791224092,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Stay informed about the most active stocks in the S&P500 index on Monday's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=b7c18e4ce8373b2dcb8bf352e2ddf6e61d31d2e8247495f06d086b29877dfd12",
-      "datetime": 1791223500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "The Highest-Beta Name in Big Tech Just Ran. Here\u2019s the Risk",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=51b71121a7dca22ef6f0f2586b20f4b4f7142e3ca532aaa315747febfd76ec5d",
       "datetime": 1791221451,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "1 Stat That Makes Amazon Hard to Ignore Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c0badd9a0c4652a3a587d79dabfb14e0842e384c5c77e63ae2a5f0654a24edbe",
-      "datetime": 1791219780,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -139,27 +155,11 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "The Core Hyperscaler Battle: First-Mover Software Integration Vs. Raw Infrastructure Scale",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=95f5736e29153b26b267bb8e7e0e0f559ca6ac1dbc152d24747af7e863602706",
-      "datetime": 1791218752,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Broadcom Is Up More Than 25X in 10 Years. Can AI Drive the Next Chapter?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=be2b67495dc07cf15f06f535fb184f23532d69de5c61e376d272b453e7bd7f94",
       "datetime": 1791217825,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "CDT Insider Sentiment September 2026 - A Quiet Market Drawdown And Two Opposing Thoughts",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=cdf78904ec430a90a8ed75fa8bd2872fe6f065bcf75714fb822a8d6ae6b7f48b",
-      "datetime": 1791217800,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-05T21:58:15.672943+00:00"
+  "updated_at": "2026-10-05T22:13:15.851324+00:00"
 }
