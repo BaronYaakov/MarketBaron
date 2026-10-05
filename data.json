@@ -124,6 +124,14 @@
     },
     {
       "ticker": "B",
+      "headline": "Barrick: Bad News Priced In, While Gold Production Rises",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f8839218d012411f3fee50da8e4f4fb45830102e29fe44336bdfdf8f2c58d785",
+      "datetime": 1791181380,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
+      "ticker": "B",
       "headline": "Tanzania Renews Barrick North Mara Mining Licenses for 15 Years",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=251da386130bd1cf51c73890bc0c3b709835d8e6902aceee759e9b73391f6dde",
@@ -353,14 +361,6 @@
       "url": "https://finnhub.io/api/news?id=f346f1987456b98010a84109fcd8b80b5e4e250ceac1f4d486b8fca9495be0bd",
       "datetime": 1790834845,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Barrick Mining (B) Reaches Mali Labor Deal To Avert Loulo Gounkoto Strikes",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0fe146f17ee6e76ef5de8bbb5de7db2133b6becda66077e1fecf7a7bae3bb14a",
-      "datetime": 1790809986,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "ORLY",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-05T10:28:13.714223+00:00"
+  "updated_at": "2026-10-05T10:43:13.765124+00:00"
 }
