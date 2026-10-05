@@ -83,6 +83,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "A Soft Jobs Report Takes the Heat Off Rates, and Nvidia Closes In on $6 Trillion",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=7d9e5e396c8898c7050f63983a8921f960929cb810ab5c0bf558e790bc1a21bc",
+      "datetime": 1791185268,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Michael Saylor Proves Bitcoin Is Tame With a Chart Where His Own Stock Hits 94%",
       "source": "Yahoo",
@@ -169,14 +177,6 @@
       "url": "https://finnhub.io/api/news?id=840b5f0fb6366a6cd8ef08be476491675ce600d716c600e3474bcd79c8399070",
       "datetime": 1791151688,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Can Broadcom Keep Growing Its Dividend as AI Customers Gain Power?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=43325a2c8ff7132f67a99d499921e589cf9bc0a1149bcecab5ee8949435bc8a8",
-      "datetime": 1791146014,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-05T08:13:14.879033+00:00"
+  "updated_at": "2026-10-05T08:28:14.719385+00:00"
 }
