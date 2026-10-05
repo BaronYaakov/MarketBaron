@@ -147,6 +147,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Is Celestica (TSX:CLS) A Bargain As Its $3b AI Expansion Draws Investors In?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9f1f0605b872e615baa36d9fb712fdfe6d9af118666d7ac942af2b88e4e42d91",
+      "datetime": 1791126566,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "COR",
       "headline": "Amgen vs. Vertex Pharmaceuticals: Which Biotech Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
@@ -169,6 +177,14 @@
       "url": "https://finnhub.io/api/news?id=860c5b20b623d15e2a3ba6fcb67eb1a3d859f60db487057b1b81a7c7924646e5",
       "datetime": 1791104962,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Plexus Is Booming\u2014But Can the Growth Story Last?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bc1444d49942cdf07c97c1874125eb666fa69005f6fc5f0b3d26c37d295030d7",
+      "datetime": 1791031500,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "ORLY",
@@ -283,14 +299,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "Celestica Inc. (NYSE:CLS) Combines High Growth Leadership With Strong Momentum",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=f56d6c4bd58442afa3e23b598f5cf9eb7872decba992364a50f0d392a52be92e",
-      "datetime": 1790851852,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "B",
       "headline": "Barrick Mining Corp (NYSE:B) Looks Undervalued as a Profitable Value Stock",
       "source": "ChartMill",
@@ -337,14 +345,6 @@
       "url": "https://finnhub.io/api/news?id=75ac82d15a0305b7e3425511877630b9f296b43c24407b2a2a79c3522703471a",
       "datetime": 1790793000,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "AI Play Celestica Flashes Three Buy Points Amid Strong Earnings Outlook",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3a52f5ba391d171c618822991200fd9ef38f6330a2a99cb51a7e9d251db5c52e",
-      "datetime": 1790788469,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "PRMB",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-05T00:28:16.377228+00:00"
+  "updated_at": "2026-10-05T00:43:17.309798+00:00"
 }
