@@ -60,18 +60,50 @@
   "news": [
     {
       "ticker": "AMZN",
-      "headline": "Where Will Amazon Stock Be in 5 Years as AWS, Advertising, and AI Converge?",
+      "headline": "OpenAI Fired the People It Needed Most",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=13b81e249d43fbaef5f825c30e424af19208efe30a0283f510b5949b077a4233",
-      "datetime": 1791188520,
+      "url": "https://finnhub.io/api/news?id=dd2b5b9e0d93fe878e6755ec21ac44f7d61f88234efdfcafb37599c029631c35",
+      "datetime": 1791198000,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "VST Vs CEG: Which Nuclear Power Fleet Stock Is A Better Bet?",
+      "headline": "Meet the Low-Cost Vanguard ETF With 32.4% Invested in Nvidia, Broadcom, Micron, AMD, Intel, and Lam Research, While VOO Has Just 14.8%.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c3291924403501aeab4cde4ff9d60a17c98f9563a0bae83f3d37ee82358285bf",
-      "datetime": 1791187048,
+      "url": "https://finnhub.io/api/news?id=b0cf215ea487392e67e586be62096cb6b8d47e93ddaf02471c8e9a3ec0ce5353",
+      "datetime": 1791197400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Global Virtual Machine Market Report 2026: Trends and Forecast to 2030 | Capitalize on 15.5% CAGR as Microsoft, Amazon, Google, Alibaba, and Dell Accelerate AI and Hybrid Cloud",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f9eefc76b99c9e34195c6c9b5d54c08bff955aaba6623cd535288ca7d01335c2",
+      "datetime": 1791195360,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Bull of the Day: Abercrombie & Fitch (ANF)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6c60b5373ea8ccde7500861914c22ad8fef09e0c06d68496bdd1b5e3fa6f3662",
+      "datetime": 1791194400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Nvidia, Tesla Shares Head for 24/7 Onchain Trading Under OKX and NYSE Owner\u2019s Venture",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aeb5f10fa4f8f217b1b794db76865562df090a767a7918d2f7279cd146668419",
+      "datetime": 1791193537,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Bill Ackman on AI: \u2018Massively Increased the Risk of Disruption\u2019",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b7d3e6d3252b8a810ebed276c0daecec20657966d4ba09e078a39fb629c60e2b",
+      "datetime": 1791193516,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -83,44 +115,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "QCOM Gains Overnight After Patent Deal With China\u2019s Huawei Covering AI Chip Tech",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6b5abae5f2325cc5ec0edd3c48655499f7d3b15bf5d11960745306f36d8b9e2e",
-      "datetime": 1791186054,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "FDX Stock Reverses 4 Weeks Of Losses: Ross Gerber Lauds FedEx's Fleet Electrification, Wants Amazon To Follow Suit",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b9bfc6c28c978da88a2f23f7753c92ab417ad178e20f418132344eb7c9e0c772",
-      "datetime": 1791185961,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "A Soft Jobs Report Takes the Heat Off Rates, and Nvidia Closes In on $6 Trillion",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=7d9e5e396c8898c7050f63983a8921f960929cb810ab5c0bf558e790bc1a21bc",
       "datetime": 1791185268,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Wall Street Breakfast Podcast: October's Retail Harvest",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=035694136145d5f5bb3cfe03aea6d424a42478efde0213255b029fc487c3bd0d",
-      "datetime": 1791183600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Meta And Alphabet Will Beat OpenAI And Anthropic",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=dd57e1974d3811293fcde416d83a551972624f1a00a16ad6c647f9fbfa68b99a",
-      "datetime": 1791183066,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-05T11:28:13.808933+00:00"
+  "updated_at": "2026-10-05T11:43:13.850754+00:00"
 }
