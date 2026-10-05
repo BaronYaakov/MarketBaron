@@ -156,10 +156,10 @@
     },
     {
       "ticker": "AVGO",
-      "headline": "Is Marvell Stock Increasing Your Market Risk?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e3139b51265bbc80daa9f48ff2840d695168efbb105b2f15f32138d53d1fcf35",
-      "datetime": 1791214894,
+      "headline": "CDT Insider Sentiment September 2026 - A Quiet Market Drawdown And Two Opposing Thoughts",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cdf78904ec430a90a8ed75fa8bd2872fe6f065bcf75714fb822a8d6ae6b7f48b",
+      "datetime": 1791217800,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-05T20:43:16.159802+00:00"
+  "updated_at": "2026-10-05T20:58:16.108430+00:00"
 }
