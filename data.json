@@ -115,6 +115,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Semiconductors Winners And Losers At The Start Of Q4 2026",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d7cdd47e7e15c5f64e4ec24ab20183fcacc9ffcbcbfefe646574e1ce084abd2f",
+      "datetime": 1791173679,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "ORLY",
       "headline": "What is O\u2019Reilly Automotive\u2019s (ORLY) Economic Moat, and is it Widening or Narrowing?",
       "source": "Yahoo",
@@ -152,14 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=33b13c9c8e3f454a3825c599f3eb42a30c565f632e8ec831e040a0d5c58c6893",
       "datetime": 1791156988,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Billionaire Investor Dan Loeb\u2019s Third Point Exited 5 Chip Stocks Last Quarter \u2014 Here\u2019s How They\u2019re Performing Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8ab2468e78a238f537e542bfd20b21bdc49a1c51c1b3e08d30616aa447435060",
-      "datetime": 1791156616,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-05T08:28:14.719385+00:00"
+  "updated_at": "2026-10-05T08:43:14.568946+00:00"
 }
