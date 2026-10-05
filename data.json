@@ -83,6 +83,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "B",
+      "headline": "Newmont (NEM) vs Barrick (B): Which is a Better Stock to Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=840b5f0fb6366a6cd8ef08be476491675ce600d716c600e3474bcd79c8399070",
+      "datetime": 1791151688,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Can Broadcom Keep Growing Its Dividend as AI Customers Gain Power?",
       "source": "Yahoo",
@@ -395,14 +403,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "B",
-      "headline": "7% Overvalued? Barrick Mining (B) After A $1.5b Shareholder Return Push",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=39b4d2865401ca5da02ba18f23292e7d07e4762c874a52e5d99fec1a5b9442d8",
-      "datetime": 1790773975,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
       "ticker": "PRMB",
       "headline": "Primo Brands (PRMB) Stock May Be Undervalued On Earnings Power",
       "source": "Yahoo",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-05T01:43:17.795265+00:00"
+  "updated_at": "2026-10-05T02:28:17.487647+00:00"
 }
