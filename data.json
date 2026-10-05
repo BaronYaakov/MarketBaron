@@ -59,6 +59,46 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "3 Market-Beating Stocks to Research Further",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d3af4d3fd9e98cc01e76d335e37d620480de7d2a76279c00c651c40eaa64ae50",
+      "datetime": 1791186894,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "QCOM Gains Overnight After Patent Deal With China\u2019s Huawei Covering AI Chip Tech",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6b5abae5f2325cc5ec0edd3c48655499f7d3b15bf5d11960745306f36d8b9e2e",
+      "datetime": 1791186054,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "FDX Stock Reverses 4 Weeks Of Losses: Ross Gerber Lauds FedEx's Fleet Electrification, Wants Amazon To Follow Suit",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b9bfc6c28c978da88a2f23f7753c92ab417ad178e20f418132344eb7c9e0c772",
+      "datetime": 1791185961,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Michael Saylor Proves Bitcoin Is Tame With a Chart Where His Own Stock Hits 94%",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=400def4cca98b9c2396ecf07aa03edb797b61965236393b458568c4e8e0eb30f",
+      "datetime": 1791182652,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom (AVGO) Trades Above Its Own Average Multiple While Growth Cools. Is the Premium Fair?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b68db3412e9eb0fe3c8201f05198860c250eb5967d0acc2b80e843cde0e61bb8",
+      "datetime": 1791181739,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "B",
       "headline": "Tanzania Renews Barrick North Mara Mining Licenses for 15 Years",
       "source": "Yahoo",
@@ -136,46 +176,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=43325a2c8ff7132f67a99d499921e589cf9bc0a1149bcecab5ee8949435bc8a8",
       "datetime": 1791146014,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Here is Why Broadcom (AVGO) is a Good Investment at Today\u2019s Price",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=860113ac420e762057194e9bc74460154cf102c6fccd163b0a0d232a5aaa7ae1",
-      "datetime": 1791145016,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Is Cognizant\u2019s AI-Led Delivery Shift Altering The Investment Case For Cognizant Technology Solutions (CTSH)?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8c0014fc1f12f4fbfd59084ba22679de609fd1c41340ee442d1a1aa6689646e4",
-      "datetime": 1791140939,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "What a 20-Year Deal With Amazon Means for Constellation Energy Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ac507a114a3f8dc4f9e53b87e09b7f9074d907e4aa0b915b84c599fb5beabffb",
-      "datetime": 1791138602,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Pay Me While I Wait: 3 Turnaround Stocks That Keep Paying Investors Through the Rebuild",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=69e46293fa3cb0d1ab3cc9be8a9da6788e5458a715d05f7bb99c69cedb416105",
-      "datetime": 1791130527,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "VFLO And CGDV: The Perfect Pairing For AI Growth",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=1f51c558984ec226824455a50b00a46c9e2ddcacb6b7235dfdfca49a3f6fdf0e",
-      "datetime": 1791129794,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-05T07:58:14.985946+00:00"
+  "updated_at": "2026-10-05T08:13:14.879033+00:00"
 }
