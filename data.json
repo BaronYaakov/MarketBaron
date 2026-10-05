@@ -67,6 +67,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Billionaire Investor Dan Loeb\u2019s Third Point Exited 5 Chip Stocks Last Quarter \u2014 Here\u2019s How They\u2019re Performing Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8ab2468e78a238f537e542bfd20b21bdc49a1c51c1b3e08d30616aa447435060",
+      "datetime": 1791156616,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Amazon vs. Alphabet: Which AI Cloud Stock Makes the Better Case After the Spending Bill?",
       "source": "Yahoo",
@@ -161,14 +169,6 @@
       "url": "https://finnhub.io/api/news?id=773d3787e684fba498bba3b49094c209329c0e46fcca5973e7c495eb6d0c1b89",
       "datetime": 1791124497,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom's 2028 Projection Makes the Stock a Screaming Buy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=46eb16b4f50ecf58d11581d7dc3441c209f98cc083d422867edba0454ca2b493",
-      "datetime": 1791119040,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "B",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-05T01:28:16.913299+00:00"
+  "updated_at": "2026-10-05T01:43:17.795265+00:00"
 }
