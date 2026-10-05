@@ -91,6 +91,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "ORLY",
+      "headline": "Sherwin-Williams (SHW): Is Its Pro-Painter Distribution Moat Underappreciated?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d087c27a7738fd60352ab74ad3cbd2fdfbcaaed555edb1864d093cb2719d0f36",
+      "datetime": 1791233382,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Pinterest Appoints James Dibbo Chief Financial Officer",
       "source": "Yahoo",
@@ -371,14 +379,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "ORLY",
-      "headline": "O\u2019Reilly Automotive\u2019s Stock Slump Hides a Stronger Business",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=75ac82d15a0305b7e3425511877630b9f296b43c24407b2a2a79c3522703471a",
-      "datetime": 1790793000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
       "ticker": "PRMB",
       "headline": "Can Primo Brands' 30.5% Premium Water Growth Sustain Momentum?",
       "source": "Yahoo",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-05T22:13:15.851324+00:00"
+  "updated_at": "2026-10-05T22:28:16.697172+00:00"
 }
