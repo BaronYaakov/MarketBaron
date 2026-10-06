@@ -60,50 +60,82 @@
   "news": [
     {
       "ticker": "AMZN",
-      "headline": "Sector Update: Consumer Stocks Higher Late Afternoon",
+      "headline": "Bitcoin Price Lags as S&P 500 and Nasdaq Hit Record High",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=af0026f590c2c6b88d5e99d7e39902f2a18de1c6a5f7d03103c11dbc9cad0d16",
-      "datetime": 1791316569,
+      "url": "https://finnhub.io/api/news?id=27aa8f23f72f7f3415ccb867b175ffb9c55a9a809eb258461b6281e54862d14b",
+      "datetime": 1791323585,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Stock Market Today, Oct. 6: Marvell Stock Is Up as the Company Raises FY2028 Revenue Outlook to $20 Billion",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=83e0ef9fc987f98db97acab112d97a05f41721729ea51260c55bf20ca9463241",
+      "datetime": 1791322204,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "\u2018$1 or $2 a day\u2019: How broke Stallone was before \u2018Rocky\u2019",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=60638feb49088638f50ab0be1a8e3e3303a250c8e44bb09172316e74b4c6d366",
+      "datetime": 1791321420,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Stock Market Today: Dow Rises, But Seagate Dives On This; AI Stock, Electronics Play Clear Entries (Live Coverage)",
+      "headline": "Amazon (AMZN) Surpasses Market Returns: Some Facts Worth Knowing",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1978a1c82c4d9c59958a6ba206f27ca78d48bd7846ee379ed8b186b3e2f133e2",
-      "datetime": 1791315290,
+      "url": "https://finnhub.io/api/news?id=0b271c37746f3e8affe9a3cff856e1623aaa0c94208fd8dae197bdd9bfb09278",
+      "datetime": 1791319504,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "$5,100 Split Across These 5 AI Infrastructure Stocks Could Be Worth This Much by 2030",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7a571eae5d266955d8e0c4200205760b1c8beecf50044cd2cf7e37d41a2113bb",
+      "datetime": 1791319500,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Stock Market Today: Dow, S&P 500 Rally; Cathie Wood Buys This Stock Amid 56% Dive",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ecd0a449183cc5b59536653b5886a95168da8c11b0fdfe02872d15c9a08989fd",
+      "datetime": 1791319389,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Marvell rides the AI boom, targets $90B in revenue by fiscal 2031",
+      "headline": "Google Joins Microsoft, Amazon, and Meta on Constellation\u2019s Energy Roster",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fd1442bda0c611fa1334f17bc6daf04e297b94976a8502ef8ed764624dcb48ce",
-      "datetime": 1791314814,
+      "url": "https://finnhub.io/api/news?id=f206aafb473d886268e6c4b6c97cd2605ca995e0dee3b0bf2de7013e2939b798",
+      "datetime": 1791318790,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Stay informed with the top movers within the dow jones index on Tuesday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=d746261ff29e9cc44ef27036fcaea7bc30f5ad242ea1e6c22ec443fb552f4afd",
-      "datetime": 1791313811,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "ticker": "AVGO",
+      "headline": "S&P 500 and Nasdaq surge to record highs after AI chipmaker rally",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8f597f962a78768037d17ee7fd8f28d3273bbd1dcd13803f54d0247c6f61a4b",
+      "datetime": 1791318522,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Markets climb as a handful of tech stocks power the rally",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=55a8e5bb533d90a5d1368fe19791af10890c2e9b710b8e98c805a045441ce5e4",
+      "datetime": 1791317880,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Hilton taps former Uber exec as CTO",
+      "headline": "Markets climb as a handful of tech stocks power the rally",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0a4867223b812042e8c6db87ea87d3afbfa8ff59ad1b87dc7aa70c12af5dab7e",
-      "datetime": 1791313262,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Delta\u2019s (DAL) Amazon Decision Sends Jim Cramer\u2019s Attention Back to SpaceX (SPCX)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a9d5ce3f1b8ed9f351cbaffbfe2714f5424e6a91d8f265cea880add3d2e9b42c",
-      "datetime": 1791313174,
+      "url": "https://finnhub.io/api/news?id=55a8e5bb533d90a5d1368fe19791af10890c2e9b710b8e98c805a045441ce5e4",
+      "datetime": 1791317880,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -120,38 +152,6 @@
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=7ac5538e31ce186fc71d5982aeaf8622b1db0c230425ffa7324cfbda11ad9a1d",
       "datetime": 1791309902,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "TSMC Q3 Earnings: Strong AI Demand Sets the Bar High for Growth",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eee32647e2dd9c812eb46807295402951283bebc08db4a697e83aa60b1fe535b",
-      "datetime": 1791309600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Why Broadcom Stock Popped Tuesday Morning",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b6e22575b44214c7a84d1f649aa08992a450a88b1de736837200208a6530b3fe",
-      "datetime": 1791309326,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "What Should Qualcomm Stock Investors Be Watching Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=981ed86db40f8f6c95aa0e99527fd19a355cc685b1d4cdd50c1d41d6ff867ba5",
-      "datetime": 1791307987,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Top 3 Cash Flow Stocks To Watch In October 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e8ba9f7ee850acd957cdb6831f1090814af2872720726a6d0e57b845f39e4089",
-      "datetime": 1791306561,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-06T21:58:15.818287+00:00"
+  "updated_at": "2026-10-06T22:13:15.684547+00:00"
 }
