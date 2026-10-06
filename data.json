@@ -60,11 +60,27 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Pinterest Brings In Amazon Finance Veteran James Dibbo As CFO: 'Exceptional Finance Leader,' Says CEO \u2060Bill Ready",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a9efb68ce71d18230dba614b9cef87634ed128a36905a62dee0f99f40951fc6c",
+      "datetime": 1791264627,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Dan Niles Backs Alphabet and Meta as Google Cloud Grows Over 80%",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=da78b02e4b50bd6389cf1c1939f0f16046592c5e22ecf62cdfb8a3508f0fdac8",
       "datetime": 1791259500,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Cencora Remains A Buy At These Prices, As Healthcare Supply-Chain Needs Grow",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d11344c10f5ec7aaa66a54cfe75864bb6d79d9cffc1b3aad8016ddc425868a66",
+      "datetime": 1791258499,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "AMZN",
@@ -128,14 +144,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4ded1771146b99587764e9a35e41c6001401695cfe0df0cda6ac85326d5d558b",
       "datetime": 1791236546,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "This \"Magnificent Seven\" Stock Could Be Overdue for a Big Rally",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1d24dbb4b9c4292a4c2091240f46c353fb690e8bd7940e6aa87349803f653a31",
-      "datetime": 1791234902,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -393,14 +401,6 @@
       "url": "https://finnhub.io/api/news?id=39c8b0d65d016661fc240daa4dc5d5c622c60cf374cedbb1865d36d02d4b09f9",
       "datetime": 1790780492,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Wednesday's session: gap up and gap down stock in the S&P500 index",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=17ec7e19223b3ea07ff36979b275faa1c28e02702f7b5ca9bafd798374df9a48",
-      "datetime": 1790778901,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     }
   ],
   "recent_posts": [],
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-06T07:58:14.118045+00:00"
+  "updated_at": "2026-10-06T08:13:14.372200+00:00"
 }
