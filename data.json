@@ -59,12 +59,44 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "ORLY",
+      "headline": "3 S&P 500 Stocks to Consider Right Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b3d42ebcd936b7400012ece3ba67335d61f1a7e935c1e4ca6416e04c6a71f384",
+      "datetime": 1791279394,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Nasdaq Hits a Fresh Record While the 10-Year Climbs to 5.31%",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=cf7d02a17a97c293cb3d48d6293c22a01187ab427091a00190a1bacf4496ab2e",
       "datetime": 1791274766,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Global Change and Configuration Management Market Report 2026; Change and Configuration Management Market Set to Reach $4.25 Billion by 2030 as Security and Automation Demand Accelerates",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=963e48470c74bd9d6d77b56da3095c08ca7d031ea80f213fe6a99f585732d4b7",
+      "datetime": 1791274440,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Global Grid Computing Market Report 2026: Global Grid Computing Market Set to Reach $13.17 Billion by 2030 as Demand for Secure, High-Performance Infrastructure Accelerates",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a47b0e4f5a82406d08bb155f8d3c442a9ddeabeeeb563ee7a8d63835c49310fd",
+      "datetime": 1791274380,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Anthropic Is Aiming for the Biggest IPO Ever -- Here's the Chip Stock to Buy Before It Lists",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac5e6aade99a89516c8fe8f1b12bcbfa1e420faebb8e6c39383c16c286791daf",
+      "datetime": 1791274021,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -112,14 +144,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8ef4e323775eb29a0a05a5563df83a2a0e69e3f19887e2a80333aadd72ee4ed9",
       "datetime": 1791251652,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "AI borrowing binge rattles US markets",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=215157fd09a2eccc10aa4ac81ef9cb4e90cfdce4f5c5cb6560b89db24b8c59ca",
-      "datetime": 1791249272,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -185,22 +209,6 @@
       "url": "https://finnhub.io/api/news?id=4329c4f150994091d434b2964d586a9ced56f977a6069ea2e18702a441984535",
       "datetime": 1791225000,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Why It\u2019s Time to Load Up on Broadcom Stock Before It Touches $523",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a6171fcdafc6c5f629b382b84e7f018b86ed29ecde5133847e9b590617d7f663",
-      "datetime": 1791221788,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "The Highest-Beta Name in Big Tech Just Ran. Here\u2019s the Risk",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=51b71121a7dca22ef6f0f2586b20f4b4f7142e3ca532aaa315747febfd76ec5d",
-      "datetime": 1791221451,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -360,14 +368,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2370116ca6460d5caf9d88ea21df3e73394d2247391c4643d8d66eca7deee611",
       "datetime": 1790886600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "O'Reilly Automotive (ORLY) Stock Still Looks Overvalued On Its 109% Five Year Run",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d74bf68327073a21e09ad4bb676671ae13423e4703a2c0409f394754465e1b42",
-      "datetime": 1790845819,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-06T09:58:13.965482+00:00"
+  "updated_at": "2026-10-06T10:13:14.061734+00:00"
 }
