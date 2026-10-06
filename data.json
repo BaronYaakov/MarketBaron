@@ -59,6 +59,38 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "NYSE\u2019s Parent Just Filed to Tokenize 63 US Stocks on a Crypto-Native Exchange \u2014 And the SEC Already Gave It Permission",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=747b93a1b9acffd07c7522220fe485f0df8eb6b27635895298dcfe6662071794",
+      "datetime": 1791255179,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Dow, S&P 500, Nasdaq Futures Edge Higher After Nasdaq Climbs To Record High: SPCX, USAR, CEG, NVAX Stocks In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e36925399fa221e8c28227ad05e36bdd8bbaf76ac85ae6e446fff173aadb0466",
+      "datetime": 1791254736,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Why Is CEG Stock Surging More Than 4% In Overnight Trading?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8ef4e323775eb29a0a05a5563df83a2a0e69e3f19887e2a80333aadd72ee4ed9",
+      "datetime": 1791251652,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "AI borrowing binge rattles US markets",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=215157fd09a2eccc10aa4ac81ef9cb4e90cfdce4f5c5cb6560b89db24b8c59ca",
+      "datetime": 1791249272,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "CLS",
       "headline": "Lundin Gold And 2 Canadian Undervalued Stocks To Watch",
       "source": "Yahoo",
@@ -115,30 +147,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Pinterest Appoints James Dibbo Chief Financial Officer",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3aefcba797662e28b02b6f112464ff4dcc759b8b3163d9b7d3b0f31758d06264",
-      "datetime": 1791231300,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Could Nvidia reach a $6T market cap by the end of October?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c3c7d42a1a0e583333852fb3de6ed3d657bfafbff0f6034ecc8674a7121a5598",
-      "datetime": 1791229287,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Monday's session: top gainers and losers in the dow jones index",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=0e88a10f0ad90454a5ff9c1b9d8c6be70f11a0beeaf98797fe4fc38372abaa20",
-      "datetime": 1791227409,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "China is 'fully' catching up on one part of the AI race, but the US has nothing to fear",
       "source": "Yahoo",
@@ -184,14 +192,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=51b71121a7dca22ef6f0f2586b20f4b4f7142e3ca532aaa315747febfd76ec5d",
       "datetime": 1791221451,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Taiwan Semiconductor Gains 2% to Record as Musk Confirms Early Terafab Talks; Broadcom Rises 2%, Qualcomm Pulls Back",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d89809b5fe7ae90f25828d4185f4c2b74754d57ddca04f3477497806713e73cf",
-      "datetime": 1791219759,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-06T04:58:15.296744+00:00"
+  "updated_at": "2026-10-06T05:13:16.055707+00:00"
 }
