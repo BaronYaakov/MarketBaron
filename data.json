@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Nasdaq Hits a Fresh Record While the 10-Year Climbs to 5.31%",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=cf7d02a17a97c293cb3d48d6293c22a01187ab427091a00190a1bacf4496ab2e",
+      "datetime": 1791274766,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Pinterest Brings In Amazon Finance Veteran James Dibbo As CFO: 'Exceptional Finance Leader,' Says CEO \u2060Bill Ready",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a9efb68ce71d18230dba614b9cef87634ed128a36905a62dee0f99f40951fc6c",
@@ -137,14 +145,6 @@
       "url": "https://finnhub.io/api/news?id=9767c1ce7486f49d389c61175a1b19215ba5e905cd954d700da4629eee67a564",
       "datetime": 1791236825,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon, LA Olympics Organizer Take Over 39-Acre Site Formerly Home To Forever 21",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4ded1771146b99587764e9a35e41c6001401695cfe0df0cda6ac85326d5d558b",
-      "datetime": 1791236546,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "ORLY",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-06T09:13:14.188243+00:00"
+  "updated_at": "2026-10-06T09:28:14.151070+00:00"
 }
