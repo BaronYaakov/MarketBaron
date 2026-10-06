@@ -107,6 +107,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "B",
+      "headline": "Barrick Mining: Nevada Is Priced Like It Is Already Listed",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=36b0ce30de47ff9a259a95b1626dbdaa4bbe4fd6bf089ca9f57263bf3bc6d765",
+      "datetime": 1791270559,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "ValuEngine Weekly Commentary: YTD And Q3 Performance Analysis, Strategy Notes",
       "source": "SeekingAlpha",
@@ -329,14 +337,6 @@
       "url": "https://finnhub.io/api/news?id=ca861ffeeb0452b9b3ceee92fd62a06df36568a2f615f744bf4b4c309f941890",
       "datetime": 1790967901,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "If You Invested $100 In Barrick Mining Stock 5 Years Ago, You Would Have This Much Today",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=4431ac0403428b50ee9e45e1625b6e71f3fed97e5454948495c29e1d042b28f0",
-      "datetime": 1790943323,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "COR",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-06T11:28:14.363178+00:00"
+  "updated_at": "2026-10-06T11:43:14.168602+00:00"
 }
