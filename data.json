@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "CLS",
+      "headline": "Lundin Gold And 2 Canadian Undervalued Stocks To Watch",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8079561878f0c1f7289dfecdddcd071bc8dfe4d6e612b2c1e633a716f628a8ef",
+      "datetime": 1791242147,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "3 Canadian Growth Stocks To Own In October 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=efa1967fd26ed048092728eac7a4da251d1adde72c6f4d0f9a130ceb84b122bb",
+      "datetime": 1791238147,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Wall Street tests lender appetite with $60 billion Broadcom-Anthropic deal - FT",
       "source": "Yahoo",
@@ -171,6 +187,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Should JBL Stock Be in Your Portfolio Post Solid Q4 Earnings?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=31138e872a17a3157b53dccb52a05e285362c672d9de1ad4568398371a210114",
+      "datetime": 1791209820,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "B",
       "headline": "Barrick: Bad News Priced In, While Gold Production Rises",
       "source": "SeekingAlpha",
@@ -267,22 +291,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "Buy Jabil (JBL) Stock as AI Infrastructure Demand Fuels Strong Q4 Results?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a984c053dd8699f26a9eb41e93cf731066686d1f7af124d4da9148583d81a45c",
-      "datetime": 1790960760,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica Trounces S&P 500 As Earnings Outlook Brightens; Stock Offers Early Entry",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1e07a65d03d84ce17209a9e30e13828db6e4259041d755f4e3c58612bae3c825",
-      "datetime": 1790951815,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "B",
       "headline": "If You Invested $100 In Barrick Mining Stock 5 Years Ago, You Would Have This Much Today",
       "source": "Benzinga",
@@ -321,14 +329,6 @@
       "url": "https://finnhub.io/api/news?id=6277c5840bbadb06338339f1f228ab7bc0a83533e1f4c8a5aab8df864a84eddd",
       "datetime": 1790910239,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica (CLS) Is Setting Up for a Big 2027. Should You Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fd3ae6d4ee6fc61fd0ac36e7ae2bc07a657a6e962bd3c89cd43032a071feef19",
-      "datetime": 1790905868,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "COR",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-06T02:28:15.642812+00:00"
+  "updated_at": "2026-10-06T02:43:22.404587+00:00"
 }
