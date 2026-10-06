@@ -148,6 +148,14 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "Why It\u2019s Time to Load Up on Broadcom Stock Before It Touches $523",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a6171fcdafc6c5f629b382b84e7f018b86ed29ecde5133847e9b590617d7f663",
+      "datetime": 1791221788,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "The Highest-Beta Name in Big Tech Just Ran. Here\u2019s the Risk",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=51b71121a7dca22ef6f0f2586b20f4b4f7142e3ca532aaa315747febfd76ec5d",
@@ -160,14 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d89809b5fe7ae90f25828d4185f4c2b74754d57ddca04f3477497806713e73cf",
       "datetime": 1791219759,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Is Up More Than 25X in 10 Years. Can AI Drive the Next Chapter?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=be2b67495dc07cf15f06f535fb184f23532d69de5c61e376d272b453e7bd7f94",
-      "datetime": 1791217825,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -456,7 +456,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1695306.9888484455,
+      "market_cap_musd": 1730488.640195458,
       "country": "US",
       "currency": "USD",
       "price": 362.51,
@@ -475,7 +475,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.barrick.com/",
       "ipo_date": "1983-05-02",
-      "market_cap_musd": 93782.492325,
+      "market_cap_musd": 94490.223119,
       "country": "CA",
       "currency": "USD",
       "price": 40.0,
@@ -494,7 +494,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.celestica.com/",
       "ipo_date": "1998-07-01",
-      "market_cap_musd": 66968.788829,
+      "market_cap_musd": 69574.241067,
       "country": "CA",
       "currency": "USD",
       "price": 382.69,
@@ -513,7 +513,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 58975.13942391117,
+      "market_cap_musd": 60097.20109494292,
       "country": "US",
       "currency": "USD",
       "price": 314.93,
@@ -532,7 +532,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 68680.77224350466,
+      "market_cap_musd": 67871.81363403534,
       "country": "US",
       "currency": "USD",
       "price": 83.9,
@@ -551,7 +551,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 7061.521803095014,
+      "market_cap_musd": 7195.441349037416,
       "country": "US",
       "currency": "USD",
       "price": 19.88,
@@ -570,7 +570,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 46698.470533991494,
+      "market_cap_musd": 47944.73859343799,
       "country": "US",
       "currency": "USD",
       "price": 143.88,
@@ -589,7 +589,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2712973.764554988,
+      "market_cap_musd": 2711679.499577638,
       "country": "US",
       "currency": "USD",
       "price": 251.4,
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-05T23:58:15.570942+00:00"
+  "updated_at": "2026-10-06T00:13:15.595090+00:00"
 }
