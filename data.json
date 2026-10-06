@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Dan Niles Backs Alphabet and Meta as Google Cloud Grows Over 80%",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da78b02e4b50bd6389cf1c1939f0f16046592c5e22ecf62cdfb8a3508f0fdac8",
+      "datetime": 1791259500,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "NYSE\u2019s Parent Just Filed to Tokenize 63 US Stocks on a Crypto-Native Exchange \u2014 And the SEC Already Gave It Permission",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=747b93a1b9acffd07c7522220fe485f0df8eb6b27635895298dcfe6662071794",
@@ -128,14 +136,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1d24dbb4b9c4292a4c2091240f46c353fb690e8bd7940e6aa87349803f653a31",
       "datetime": 1791234902,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Pinterest stock dips as company names Amazon veteran as CFO",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3b5b40297c6505778a359b7b55745152292312064a94f1eefe52d121d7dcf683",
-      "datetime": 1791233652,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-06T05:58:13.957635+00:00"
+  "updated_at": "2026-10-06T06:13:15.256771+00:00"
 }
