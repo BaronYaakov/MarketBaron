@@ -67,6 +67,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
+      "ticker": "P",
+      "headline": "2 Cash-Heavy Stocks Worth Your Attention and 1 Facing Challenges",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6f06ceb891ae31ff616c248ac0fd8bb8abc3dfa89e8fc79240093ae119d906ce",
+      "datetime": 1791275554,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Nasdaq Hits a Fresh Record While the 10-Year Climbs to 5.31%",
       "source": "ChartMill",
@@ -379,14 +387,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "P",
-      "headline": "Everpure (P), Why Is It Drawing Fresh Attention Today?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f346f1987456b98010a84109fcd8b80b5e4e250ceac1f4d486b8fca9495be0bd",
-      "datetime": 1790834845,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
       "ticker": "PRMB",
       "headline": "Can Primo Brands' 30.5% Premium Water Growth Sustain Momentum?",
       "source": "Yahoo",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-06T10:13:14.061734+00:00"
+  "updated_at": "2026-10-06T10:28:14.359459+00:00"
 }
