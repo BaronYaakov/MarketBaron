@@ -107,6 +107,22 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "ValuEngine Weekly Commentary: YTD And Q3 Performance Analysis, Strategy Notes",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f7f9ba42bf795a8ba5ac93ca3deca7c3b67ceeb97d78b96746a91e1219253b98",
+      "datetime": 1791267600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "ValuEngine Weekly Commentary: YTD And Q3 Performance Analysis, Strategy Notes",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f7f9ba42bf795a8ba5ac93ca3deca7c3b67ceeb97d78b96746a91e1219253b98",
+      "datetime": 1791267600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Pinterest Brings In Amazon Finance Veteran James Dibbo As CFO: 'Exceptional Finance Leader,' Says CEO \u2060Bill Ready",
       "source": "Yahoo",
@@ -192,14 +208,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7594b99f6d131dc4be0175996517a50857e4e65255bced5a2fed86cb5107ac47",
       "datetime": 1791226800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia, Broadcom May Be Surprisingly Safe From a 32-GW Hole in the AI Boom, Morgan Stanley Says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a06d38c2adb48ff3109e7132ee60fa6cf971bad4d2b9885679f1754c197079f0",
-      "datetime": 1791226313,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -377,14 +385,6 @@
       "url": "https://finnhub.io/api/news?id=2370116ca6460d5caf9d88ea21df3e73394d2247391c4643d8d66eca7deee611",
       "datetime": 1790886600,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Everpure Stock Is September\u2019s Surprise S&P 500 Winner, Surging More Than 40% As Retail Piles In",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=354f01ab3ffb52f17fffa0baf0e02019c8c004112604de1a2c35b6845f67ceca",
-      "datetime": 1790839084,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "PRMB",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-06T10:28:14.359459+00:00"
+  "updated_at": "2026-10-06T10:43:14.144677+00:00"
 }
