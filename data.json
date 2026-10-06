@@ -163,6 +163,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
+      "ticker": "B",
+      "headline": "Barrick\u2019s Pueblo Viejo Mine Completes 59th Participatory Environmental Monitoring Exercise",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4329c4f150994091d434b2964d586a9ced56f977a6069ea2e18702a441984535",
+      "datetime": 1791225000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Why It\u2019s Time to Load Up on Broadcom Stock Before It Touches $523",
       "source": "Yahoo",
@@ -345,14 +353,6 @@
       "url": "https://finnhub.io/api/news?id=2370116ca6460d5caf9d88ea21df3e73394d2247391c4643d8d66eca7deee611",
       "datetime": 1790886600,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Barrick Mining Corp (NYSE:B) Looks Undervalued as a Profitable Value Stock",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=dd515f1fd86f6bc19228940efff633719d320888461894f693d69cb8469df2ea",
-      "datetime": 1790849451,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "ORLY",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-06T02:43:22.404587+00:00"
+  "updated_at": "2026-10-06T02:58:16.062611+00:00"
 }
