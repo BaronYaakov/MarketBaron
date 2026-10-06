@@ -148,6 +148,14 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "SCHD-Inspired 4-Factor Dividend Growth Strategy Selections For October 2026",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7e1eb27d1f4ac3e3c7397391f053e54fcf4e19d49304b9e204a5b9fdef0c8732",
+      "datetime": 1791274326,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Anthropic Is Aiming for the Biggest IPO Ever -- Here's the Chip Stock to Buy Before It Lists",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ac5e6aade99a89516c8fe8f1b12bcbfa1e420faebb8e6c39383c16c286791daf",
@@ -185,14 +193,6 @@
       "url": "https://finnhub.io/api/news?id=d11344c10f5ec7aaa66a54cfe75864bb6d79d9cffc1b3aad8016ddc425868a66",
       "datetime": 1791258499,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Dow, S&P 500, Nasdaq Futures Edge Higher After Nasdaq Climbs To Record High: SPCX, USAR, CEG, NVAX Stocks In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e36925399fa221e8c28227ad05e36bdd8bbaf76ac85ae6e446fff173aadb0466",
-      "datetime": 1791254736,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-06T12:28:16.162003+00:00"
+  "updated_at": "2026-10-06T12:43:15.434896+00:00"
 }
