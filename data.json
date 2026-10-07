@@ -187,6 +187,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
+      "ticker": "B",
+      "headline": "Barrick Mining Secures 15-Year Renewal for Tanzania's North Mara Mine",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5bd228ce2cb97068dfccba503cda75ceab774f8ce363e8a21de768413cacbce2",
+      "datetime": 1791293940,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "COR",
       "headline": "Eli Lilly and vs. Novo Nordisk A/S: Which Healthcare Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
@@ -195,12 +203,28 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
+      "ticker": "B",
+      "headline": "Can Kinross Gold Sustain Its Shareholder-Focused Momentum?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0378c63bc518e38ea8a5aaaef0fa379493708eca80f2d2a0b009765f81ba36c5",
+      "datetime": 1791286380,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "ORLY",
       "headline": "3 S&P 500 Stocks to Consider Right Now",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b3d42ebcd936b7400012ece3ba67335d61f1a7e935c1e4ca6416e04c6a71f384",
       "datetime": 1791279394,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "B",
+      "headline": "Barrick secures 15-year licence renewal for Tanzania\u2019s North Mara",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e12d323b1b22d7ee73357abe0a573195cd27f10dcb6b1b822ba322af861d74fa",
+      "datetime": 1791278389,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "P",
@@ -307,14 +331,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "B",
-      "headline": "Tanzania Renews Barrick North Mara Mining Licenses for 15 Years",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=251da386130bd1cf51c73890bc0c3b709835d8e6902aceee759e9b73391f6dde",
-      "datetime": 1791176400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "What is O\u2019Reilly Automotive\u2019s (ORLY) Economic Moat, and is it Widening or Narrowing?",
       "source": "Yahoo",
@@ -323,28 +339,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "B",
-      "headline": "Newmont (NEM) vs Barrick (B): Which is a Better Stock to Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=840b5f0fb6366a6cd8ef08be476491675ce600d716c600e3474bcd79c8399070",
-      "datetime": 1791151688,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Amgen vs. Vertex Pharmaceuticals: Which Biotech Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=773d3787e684fba498bba3b49094c209329c0e46fcca5973e7c495eb6d0c1b89",
       "datetime": 1791124497,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Barrick Mining (TSX:ABX) Averts Mali Strike As Fair Value Debate Returns",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=860c5b20b623d15e2a3ba6fcb67eb1a3d859f60db487057b1b81a7c7924646e5",
-      "datetime": 1791104962,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "ORLY",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-07T01:58:18.516373+00:00"
+  "updated_at": "2026-10-07T02:13:17.526428+00:00"
 }
