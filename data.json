@@ -59,6 +59,30 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Mobile Edge Computing - Global Strategic Business Report: Capitalize on 29% CAGR to Secure the US$6.9 Billion 2030 Market as Cisco, AT&T, Broadcom, ADLINK, and HPE Reshape Competition",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9319e8a76824f713477b26df6652d9e9293229305a612f5a18e9504930af68d0",
+      "datetime": 1791407580,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "What Just Happened To Ciena Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ca0cb49f8948f6d5ecf731ed4a96486f5e7c8df2445a0a7235a642f55206c9f9",
+      "datetime": 1791404575,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Not Amazon. Not Sea Limited. This $94 Billion E-Commerce Powerhouse Dominates Latin America.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4e346dae93b8740ee40faac2c6675ac1927ecd6850234d5c77ee696aaefb9aa5",
+      "datetime": 1791403980,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Duke Energy protects customers from data center costs",
       "source": "Yahoo",
@@ -136,30 +160,6 @@
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=4574ee8c39ec3dd826fa7de37d8238c05690ba516f9b485eecc268e670c2781d",
       "datetime": 1791396303,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "AI boom, Gen Z\u2019s \u2018vibecession\u2019 and Tesla\u2019s $40B chip bet",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6ad2e82d0dc2d2d6694e4f4c48b7f0d2c72e829ad8ce22ef2ef17470368ca8c4",
-      "datetime": 1791396126,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "How SpaceX's big Nvidia buy could contribute to 'structural changes' to the economy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6c1ed6c5e141480c22661da4e8d36ba79c4772667f3658f12f6fbd4e283dfaa1",
-      "datetime": 1791395134,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Broadcom vs. Qualcomm: Rapid Growth vs. Flat Revenue",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5ff5d4c6bc446fe2bf7e7aaf2f6ed1f69fbba3edf4817a0de2ed9bd3b48f728a",
-      "datetime": 1791393602,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-07T21:58:18.869882+00:00"
+  "updated_at": "2026-10-07T22:13:18.654466+00:00"
 }
