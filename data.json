@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Los Angeles truckers agonize over $8 diesel prices",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=81d66a04fcdf70af4e0fe83e19e2408a022ddc59dfae0a9de411ac795d977709",
+      "datetime": 1791367200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "How Mario Carbone's NYC roots power global growth",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0baf0d35afe495928c2f830b1b73dbf931727d6540f55a4bbe6f8a510cb79433",
+      "datetime": 1791367200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "B",
       "headline": "Barrick Mining Corp (NYSE:B): High-Growth Leadership and Momentum Potential",
       "source": "ChartMill",
@@ -128,22 +144,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f1856cdeb33a6465729d98ecf16cf77cc195ed580c6a253f690724f8c75b9244",
       "datetime": 1791344531,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Ring nearly went bankrupt in a single day.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=709fbe78a00b2e3c27d3a7d18d1488aa4ffbaafb9d91a64f5a6a1a6e0a4220ce",
-      "datetime": 1791336745,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon found the trick that makes you order more often",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=17e5afe4a68ce510825c754023156892edf2e5ef21ab477578ce55ff57736b9c",
-      "datetime": 1791331380,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-07T10:28:14.751441+00:00"
+  "updated_at": "2026-10-07T10:43:14.662168+00:00"
 }
