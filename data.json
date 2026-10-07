@@ -59,11 +59,51 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "B",
+      "headline": "Barrick Mining Corp (NYSE:B): High-Growth Leadership and Momentum Potential",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=80b5ced599608f957c1fac4001f92a2af11102d833fd5ac86a1e89856d0d8ee5",
+      "datetime": 1791366670,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Warren Buffett's $863 Million \"Secret\" Portfolio Dumped Alphabet and Broadcom, but Has Over 17% of Invested Assets in This Proven Moneymaking Strategy",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3a9447deb1eb1337cf7b23131113cce858068eb287cbc2e789ba8531eeb90eaf",
+      "datetime": 1791365161,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "NVIDIA And 2 Elite Undervalued Stocks To Own",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=850cee1d2d2199d33e784edd409b737c35f19becfe776b1cac3049376df916ca",
+      "datetime": 1791365064,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Marvell Is The Latest AI Infra Play To Raise Long-Term Targets: Here's How Dell, HPE, CoreWeave And Broadcom Compare",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=af6fbc5888392e83d3d6f54015c51f3f80684903010c01b7637c24f966eb344c",
+      "datetime": 1791362765,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "eDreams ODIGEO and Amazon Alexa Collaborate to Bring AI Travel Search to Alexa+",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3967b9380759f5d534b5b924a222d05480e56faa2dee48159a58572aa849dcf3",
       "datetime": 1791358080,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon, Google Face New Smart Home Rival as Apple Lines Up Doorbell, Lock and Camera Launches: Report",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=33b3ad83c92a49d461e044ee6e5d78937de8bd78474a8579f62c6c8a76bba058",
+      "datetime": 1791357724,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -99,14 +139,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "3 Value ETFs Head to Head. One Charges 0.03% and Returned 19% Over the Past Year",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d98ea365f596b0099f33913b9eb30a1a5f663aae7c5c2f4375c54798bd1ee58a",
-      "datetime": 1791327785,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "An AI Rally Built On Infrastructure",
       "source": "SeekingAlpha",
@@ -128,30 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=83e0ef9fc987f98db97acab112d97a05f41721729ea51260c55bf20ca9463241",
       "datetime": 1791322204,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "$5,100 Split Across These 5 AI Infrastructure Stocks Could Be Worth This Much by 2030",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7a571eae5d266955d8e0c4200205760b1c8beecf50044cd2cf7e37d41a2113bb",
-      "datetime": 1791319500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "S&P 500 and Nasdaq surge to record highs after AI chipmaker rally",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c8f597f962a78768037d17ee7fd8f28d3273bbd1dcd13803f54d0247c6f61a4b",
-      "datetime": 1791318522,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Markets climb as a handful of tech stocks power the rally",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=55a8e5bb533d90a5d1368fe19791af10890c2e9b710b8e98c805a045441ce5e4",
-      "datetime": 1791317880,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -321,14 +329,6 @@
       "url": "https://finnhub.io/api/news?id=31138e872a17a3157b53dccb52a05e285362c672d9de1ad4568398371a210114",
       "datetime": 1791209820,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Barrick: Bad News Priced In, While Gold Production Rises",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=f8839218d012411f3fee50da8e4f4fb45830102e29fe44336bdfdf8f2c58d785",
-      "datetime": 1791181380,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "ORLY",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-07T09:58:14.674686+00:00"
+  "updated_at": "2026-10-07T10:13:14.801894+00:00"
 }
