@@ -139,6 +139,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Why Celestica (TSX:CLS) Is Up 6.3% After Highlighting AI Cloud Demand And Investor Recognition",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c7a32956b9dd5d8d5fd18a9ade08d6b5bdb4bd2b1897557e3f5282e56f07e9f6",
+      "datetime": 1791347269,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Target\u2019s Sales Are Recovering After 10,000+ Price Cuts. Is the Turnaround Already Priced In?",
       "source": "Yahoo",
@@ -329,14 +337,6 @@
       "url": "https://finnhub.io/api/news?id=d78ffd39021735e4739cfbbd4e7ce2c89bcdbad94ff4f003fc44637d8d221831",
       "datetime": 1791212429,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Should JBL Stock Be in Your Portfolio Post Solid Q4 Earnings?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=31138e872a17a3157b53dccb52a05e285362c672d9de1ad4568398371a210114",
-      "datetime": 1791209820,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "ORLY",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-07T11:28:14.549013+00:00"
+  "updated_at": "2026-10-07T11:43:14.944002+00:00"
 }
