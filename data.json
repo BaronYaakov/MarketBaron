@@ -60,6 +60,30 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Target\u2019s Sales Are Recovering After 10,000+ Price Cuts. Is the Turnaround Already Priced In?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f1856cdeb33a6465729d98ecf16cf77cc195ed580c6a253f690724f8c75b9244",
+      "datetime": 1791344531,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Ring nearly went bankrupt in a single day.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=709fbe78a00b2e3c27d3a7d18d1488aa4ffbaafb9d91a64f5a6a1a6e0a4220ce",
+      "datetime": 1791336745,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon found the trick that makes you order more often",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=17e5afe4a68ce510825c754023156892edf2e5ef21ab477578ce55ff57736b9c",
+      "datetime": 1791331380,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "3 Value ETFs Head to Head. One Charges 0.03% and Returned 19% Over the Past Year",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d98ea365f596b0099f33913b9eb30a1a5f663aae7c5c2f4375c54798bd1ee58a",
@@ -107,36 +131,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "\u2018$1 or $2 a day\u2019: How broke Stallone was before \u2018Rocky\u2019",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=60638feb49088638f50ab0be1a8e3e3303a250c8e44bb09172316e74b4c6d366",
-      "datetime": 1791321420,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon (AMZN) Surpasses Market Returns: Some Facts Worth Knowing",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0b271c37746f3e8affe9a3cff856e1623aaa0c94208fd8dae197bdd9bfb09278",
-      "datetime": 1791319504,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "$5,100 Split Across These 5 AI Infrastructure Stocks Could Be Worth This Much by 2030",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7a571eae5d266955d8e0c4200205760b1c8beecf50044cd2cf7e37d41a2113bb",
       "datetime": 1791319500,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Stock Market Today: Dow, S&P 500 Rally; Cathie Wood Buys This Stock Amid 56% Dive",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ecd0a449183cc5b59536653b5886a95168da8c11b0fdfe02872d15c9a08989fd",
-      "datetime": 1791319389,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-07T04:58:14.444721+00:00"
+  "updated_at": "2026-10-07T05:13:14.219195+00:00"
 }
