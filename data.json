@@ -67,6 +67,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "An AI Rally Built On Infrastructure",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3797dfd4cefa8badd6b170dbda82f5e7e386baf5736b6a70f4e8087a18ec4a0d",
+      "datetime": 1791326700,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "XLK Does Not Own Alphabet, Amazon, Meta, Netflix or Tesla. Three Stocks Are 35.87% of It",
       "source": "Yahoo",
@@ -161,14 +169,6 @@
       "url": "https://finnhub.io/api/news?id=f67ab5fc54c4248ec90872f101bd6823b401b377562e8c00aed1e9ddd70b42d9",
       "datetime": 1791317700,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Update: Big Tech Pushes US Equity Indexes Higher Amid Lower Treasury Yields",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2ab5e7fc9760494ddf7b7b34e153477832f90dc4e64fbd26a41bd130255744df",
-      "datetime": 1791311072,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-07T03:13:23.924988+00:00"
+  "updated_at": "2026-10-07T03:28:21.973397+00:00"
 }
