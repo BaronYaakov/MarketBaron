@@ -91,6 +91,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "P",
+      "headline": "Jim Cramer Believes Everpure (P) Could Have More Room to Run",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1b9deeb80cac01e8491f6107038dc5bcf4a5344e19b867d2a66f620cd02ef575",
+      "datetime": 1791362656,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "eDreams ODIGEO and Amazon Alexa Collaborate to Bring AI Travel Search to Alexa+",
       "source": "Yahoo",
@@ -387,14 +395,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
-      "ticker": "P",
-      "headline": "Everpure Consensus Price Target Raised 11.24% to $146.34",
-      "source": "Fintel",
-      "url": "https://finnhub.io/api/news?id=bcd80fd06c4ba7fae8091e65c6143761c25014fdec3a2c66b3606b6d6ec47977",
-      "datetime": 1790918224,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
       "ticker": "COR",
       "headline": "AbbVie vs. Bristol Myers Squibb: Which Healthcare Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-07T10:13:14.801894+00:00"
+  "updated_at": "2026-10-07T10:28:14.751441+00:00"
 }
