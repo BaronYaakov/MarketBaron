@@ -60,6 +60,22 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "eDreams ODIGEO and Amazon Alexa Collaborate to Bring AI Travel Search to Alexa+",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3967b9380759f5d534b5b924a222d05480e56faa2dee48159a58572aa849dcf3",
+      "datetime": 1791358080,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "How This Active Value ETF Rode to the Top",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2db3a0772b10a6bb546d5365a15ed6f63446b53a6d3891aabe1abc19725896d0",
+      "datetime": 1791352800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Target\u2019s Sales Are Recovering After 10,000+ Price Cuts. Is the Turnaround Already Priced In?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f1856cdeb33a6465729d98ecf16cf77cc195ed580c6a253f690724f8c75b9244",
@@ -97,22 +113,6 @@
       "url": "https://finnhub.io/api/news?id=3797dfd4cefa8badd6b170dbda82f5e7e386baf5736b6a70f4e8087a18ec4a0d",
       "datetime": 1791326700,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "XLK Does Not Own Alphabet, Amazon, Meta, Netflix or Tesla. Three Stocks Are 35.87% of It",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e89cf9ca966b15c06f25ef68871e73a4c203607efcaa3cec2e74e247d5ad4c89",
-      "datetime": 1791326024,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "CRWD Stock Pops as CrowdStrike Launches Fourth Startup Accelerator",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1a1a97e396f24ae36264769e72cb1cfc09bf377599428e62b51ad9bcd5ddea92",
-      "datetime": 1791324259,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-07T07:58:14.710647+00:00"
+  "updated_at": "2026-10-07T08:13:14.531293+00:00"
 }
