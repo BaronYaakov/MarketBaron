@@ -60,11 +60,35 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "3 Value ETFs Head to Head. One Charges 0.03% and Returned 19% Over the Past Year",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d98ea365f596b0099f33913b9eb30a1a5f663aae7c5c2f4375c54798bd1ee58a",
+      "datetime": 1791327785,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "XLK Does Not Own Alphabet, Amazon, Meta, Netflix or Tesla. Three Stocks Are 35.87% of It",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e89cf9ca966b15c06f25ef68871e73a4c203607efcaa3cec2e74e247d5ad4c89",
+      "datetime": 1791326024,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Bitcoin Price Lags as S&P 500 and Nasdaq Hit Record High",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=27aa8f23f72f7f3415ccb867b175ffb9c55a9a809eb258461b6281e54862d14b",
       "datetime": 1791323585,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "LinkedIn Cofounder Defends Massive AI Infrastructure Spending, Says AI Capital Is 'the Only Reason We\u2019re Not in a Recession'",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e8c28d0ddd165a6c62d365eb1b1b71b29441ce2eae26368bba36cdac99598863",
+      "datetime": 1791322216,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -107,14 +131,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Google Joins Microsoft, Amazon, and Meta on Constellation\u2019s Energy Roster",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f206aafb473d886268e6c4b6c97cd2605ca995e0dee3b0bf2de7013e2939b798",
-      "datetime": 1791318790,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "S&P 500 and Nasdaq surge to record highs after AI chipmaker rally",
       "source": "Yahoo",
@@ -131,27 +147,11 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Markets climb as a handful of tech stocks power the rally",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=55a8e5bb533d90a5d1368fe19791af10890c2e9b710b8e98c805a045441ce5e4",
-      "datetime": 1791317880,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Update: Big Tech Pushes US Equity Indexes Higher Amid Lower Treasury Yields",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2ab5e7fc9760494ddf7b7b34e153477832f90dc4e64fbd26a41bd130255744df",
       "datetime": 1791311072,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Which S&P500 stocks are the most active on Tuesday?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=7ac5538e31ce186fc71d5982aeaf8622b1db0c230425ffa7324cfbda11ad9a1d",
-      "datetime": 1791309902,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -456,7 +456,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1730488.640195458,
+      "market_cap_musd": 1793977.8945877445,
       "country": "US",
       "currency": "USD",
       "price": 375.81,
@@ -475,7 +475,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.barrick.com/",
       "ipo_date": "1983-05-02",
-      "market_cap_musd": 94490.223119,
+      "market_cap_musd": 93914.166091,
       "country": "CA",
       "currency": "USD",
       "price": 40.72,
@@ -494,7 +494,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.celestica.com/",
       "ipo_date": "1998-07-01",
-      "market_cap_musd": 69574.241067,
+      "market_cap_musd": 68854.143833,
       "country": "CA",
       "currency": "USD",
       "price": 388.24,
@@ -513,7 +513,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 60097.20109494292,
+      "market_cap_musd": 60371.99320230613,
       "country": "US",
       "currency": "USD",
       "price": 316.37,
@@ -532,7 +532,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 67871.81363403534,
+      "market_cap_musd": 68874.92507837735,
       "country": "US",
       "currency": "USD",
       "price": 85.14,
@@ -541,7 +541,7 @@
       "day_low": 83.38,
       "prev_close": 83.9,
       "day_change_pct": 1.48,
-      "week52_high": 105.39,
+      "week52_high": 105.36,
       "week52_low": 82.59
     },
     "PRMB": {
@@ -551,7 +551,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 7195.441349037416,
+      "market_cap_musd": 6956.558112194164,
       "country": "US",
       "currency": "USD",
       "price": 19.22,
@@ -570,7 +570,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 47944.73859343799,
+      "market_cap_musd": 49051.05498537669,
       "country": "US",
       "currency": "USD",
       "price": 147.2,
@@ -579,7 +579,7 @@
       "day_low": 144.5,
       "prev_close": 143.88,
       "day_change_pct": 2.31,
-      "week52_high": 140.83,
+      "week52_high": 144.03,
       "week52_low": 56.78
     },
     "AMZN": {
@@ -589,7 +589,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2711679.499577638,
+      "market_cap_musd": 2764424.464076227,
       "country": "US",
       "currency": "USD",
       "price": 256.29,
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-06T23:58:15.891281+00:00"
+  "updated_at": "2026-10-07T00:13:16.831575+00:00"
 }
