@@ -147,12 +147,36 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Celestica to Hold Q3 2026 Financial Results and 2026 Investor and Analyst Day Conference Call",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3bd2eaf378a9a9ff94351c56fe8bd9d2506f1d448eb46c4fa56f959eac6a05ef",
+      "datetime": 1791317700,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Update: Big Tech Pushes US Equity Indexes Higher Amid Lower Treasury Yields",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2ab5e7fc9760494ddf7b7b34e153477832f90dc4e64fbd26a41bd130255744df",
       "datetime": 1791311072,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Can Sanmina's Specialized Industrial Solutions Drive Future Growth?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad7c0da952616727cc812e793d562c59b987b8c7fb80b5e27882d8af3d49386f",
+      "datetime": 1791296160,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Cantech Announces 2025-26 Cantech Letter Awards Finalists",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bf5fed17320937d00f3b16bed3c135df5b0a88367a4e0be76f788c70a5978dee",
+      "datetime": 1791294060,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "COR",
@@ -299,14 +323,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "Is Celestica (TSX:CLS) A Bargain As Its $3b AI Expansion Draws Investors In?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9f1f0605b872e615baa36d9fb712fdfe6d9af118666d7ac942af2b88e4e42d91",
-      "datetime": 1791126566,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Amgen vs. Vertex Pharmaceuticals: Which Biotech Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
@@ -323,28 +339,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "Plexus Is Booming\u2014But Can the Growth Story Last?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bc1444d49942cdf07c97c1874125eb666fa69005f6fc5f0b3d26c37d295030d7",
-      "datetime": 1791031500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "MarketBeat Week in Review \u2013 09/28 - 10/02",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6067384e01c9dba75b78ac0e7c68eb7a0e4ba602e99b8fbef786d6564eaea72c",
       "datetime": 1791025200,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "3 Canadian Quality Stocks With ROE Over 32%",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f37266945d5c439305c73236ec98de7c1a3a132da9098b95b5e8fc82a4ddeb73",
-      "datetime": 1791007720,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "P",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-07T00:58:16.753757+00:00"
+  "updated_at": "2026-10-07T01:13:16.755175+00:00"
 }
