@@ -139,6 +139,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "P",
+      "headline": "Eli Lilly To Rally Over 21%? Here Are 10 Top Analyst Forecasts For Thursday",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=8712679e68035a7653e67a091e12385ff8167b48802366bb003849d81147b513",
+      "datetime": 1791449882,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom Is Arranging $50 Billion So OpenAI Can Buy Its Chips",
       "source": "Yahoo",
@@ -177,6 +185,14 @@
       "url": "https://finnhub.io/api/news?id=4969bb37167e933cfd7558289b21f83b2434a2d4a02d1d83b878f78ff6fb8b48",
       "datetime": 1791399901,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Socket Mobile Announced A New Update To Its React Native CaptureSDK To Supports The React Native Version 0.75.4 And Enables Developers To Customize The SocketCam Viewfinder Within Their Applications",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=09abd19b8b3b59baafc8fa905928c55d77beb81dbef1cd2ed7c1d01f589cf43d",
+      "datetime": 1791388124,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "P",
@@ -251,14 +267,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "Cantech Announces 2025-26 Cantech Letter Awards Finalists",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bf5fed17320937d00f3b16bed3c135df5b0a88367a4e0be76f788c70a5978dee",
-      "datetime": 1791294060,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "B",
       "headline": "Barrick Mining Secures 15-Year Renewal for Tanzania's North Mara Mine",
       "source": "Yahoo",
@@ -313,14 +321,6 @@
       "url": "https://finnhub.io/api/news?id=36b0ce30de47ff9a259a95b1626dbdaa4bbe4fd6bf089ca9f57263bf3bc6d765",
       "datetime": 1791270559,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "ValuEngine Weekly Commentary: YTD And Q3 Performance Analysis, Strategy Notes",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=f7f9ba42bf795a8ba5ac93ca3deca7c3b67ceeb97d78b96746a91e1219253b98",
-      "datetime": 1791267600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "COR",
@@ -459,12 +459,12 @@
       "market_cap_musd": 1797319.3755012597,
       "country": "US",
       "currency": "USD",
-      "price": 368.94,
+      "price": 366.68,
       "open": 370.63,
       "day_high": 371.8,
-      "day_low": 368.05,
+      "day_low": 366.47,
       "prev_close": 376.51,
-      "day_change_pct": -2.01,
+      "day_change_pct": -2.61,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -478,12 +478,12 @@
       "market_cap_musd": 95379.002202,
       "country": "CA",
       "currency": "USD",
-      "price": 39.24,
+      "price": 39.54,
       "open": 38.99,
-      "day_high": 39.31,
+      "day_high": 39.56,
       "day_low": 38.9,
       "prev_close": 39.18,
-      "day_change_pct": 0.15,
+      "day_change_pct": 0.92,
       "week52_high": 74.0,
       "week52_low": 42.62
     },
@@ -497,12 +497,12 @@
       "market_cap_musd": 69586.8491,
       "country": "CA",
       "currency": "USD",
-      "price": 367.32,
+      "price": 366.11,
       "open": 366.01,
       "day_high": 368.48,
       "day_low": 363.0,
       "prev_close": 371.57,
-      "day_change_pct": -1.14,
+      "day_change_pct": -1.47,
       "week52_high": 655.5,
       "week52_low": 321.89
     },
@@ -516,12 +516,12 @@
       "market_cap_musd": 60539.921588888006,
       "country": "US",
       "currency": "USD",
-      "price": 316.42,
+      "price": 319.28,
       "open": 316.6,
-      "day_high": 317.46,
+      "day_high": 319.53,
       "day_low": 315.8,
       "prev_close": 317.25,
-      "day_change_pct": -0.26,
+      "day_change_pct": 0.64,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -535,12 +535,12 @@
       "market_cap_musd": 68446.17410289547,
       "country": "US",
       "currency": "USD",
-      "price": 84.98,
+      "price": 85.13,
       "open": 84.88,
-      "day_high": 85.07,
+      "day_high": 85.19,
       "day_low": 84.59,
       "prev_close": 84.61,
-      "day_change_pct": 0.44,
+      "day_change_pct": 0.61,
       "week52_high": 105.23,
       "week52_low": 82.59
     },
@@ -554,12 +554,12 @@
       "market_cap_musd": 6876.930540218523,
       "country": "US",
       "currency": "USD",
-      "price": 19.0,
+      "price": 19.08,
       "open": 19.19,
       "day_high": 19.19,
       "day_low": 18.89,
       "prev_close": 19.0,
-      "day_change_pct": 0.0,
+      "day_change_pct": 0.42,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -573,12 +573,12 @@
       "market_cap_musd": 50870.47312891291,
       "country": "US",
       "currency": "USD",
-      "price": 152.69,
+      "price": 154.84,
       "open": 151.83,
-      "day_high": 154.14,
+      "day_high": 155.0,
       "day_low": 151.14,
       "prev_close": 152.66,
-      "day_change_pct": 0.02,
+      "day_change_pct": 1.43,
       "week52_high": 149.04,
       "week52_low": 56.78
     },
@@ -592,12 +592,12 @@
       "market_cap_musd": 2803578.9461302864,
       "country": "US",
       "currency": "USD",
-      "price": 258.78,
+      "price": 258.36,
       "open": 259.75,
       "day_high": 259.86,
-      "day_low": 258.2,
+      "day_low": 258.18,
       "prev_close": 259.92,
-      "day_change_pct": -0.44,
+      "day_change_pct": -0.6,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-08T13:43:16.301321+00:00"
+  "updated_at": "2026-10-08T13:58:16.788936+00:00"
 }
