@@ -91,6 +91,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Broadcom Holds Early Talks About Financing Deal for OpenAI Chips",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3af21f1c5d1f8df13b4d9213e32f59a0fbadf655ca3507a7621b274bf3902bb2",
+      "datetime": 1791414437,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "What Happens To IBM Stock If Its Slowdown Lasts?",
       "source": "Yahoo",
@@ -120,14 +128,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=83d6292d2594f7ccb711d65d6db0810ed16e50936015d86e6a86fd223b1c8a66",
       "datetime": 1791410274,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Mobile Edge Computing - Global Strategic Business Report: Capitalize on 29% CAGR to Secure the US$6.9 Billion 2030 Market as Cisco, AT&T, Broadcom, ADLINK, and HPE Reshape Competition",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9319e8a76824f713477b26df6652d9e9293229305a612f5a18e9504930af68d0",
-      "datetime": 1791407580,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-08T03:58:21.531541+00:00"
+  "updated_at": "2026-10-08T04:13:16.388234+00:00"
 }
