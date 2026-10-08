@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Review & Preview: Close but No Cigar",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9aa818e37f1f6225bcaed4a2e6f20c0151e76654ba83cfba3c011764dc0021ec",
+      "datetime": 1791417300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom, Oracle And SpaceX Tap Private Credit For AI Hardware: Report",
       "source": "Yahoo",
@@ -153,14 +161,6 @@
       "url": "https://finnhub.io/api/news?id=4969bb37167e933cfd7558289b21f83b2434a2d4a02d1d83b878f78ff6fb8b48",
       "datetime": 1791399901,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Waymo Borrows $5 Billion To Fuel Its Global Robotaxi Expansion",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5d62e048a2a69107f3a69c43d541900085c867f8ca95c8ca427025beafe4f3cf",
-      "datetime": 1791396563,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-08T01:58:17.362995+00:00"
+  "updated_at": "2026-10-08T02:13:18.676977+00:00"
 }
