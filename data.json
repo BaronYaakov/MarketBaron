@@ -60,6 +60,70 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Amazon layoffs hit nearly 1,000 retail jobs",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=946c2e0dc19582605bfdc0859ba94c94f3775dcd54cd807ac2cf00ec9282c640",
+      "datetime": 1791460012,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Meta Stock Falls as Florida Asks a Court to Switch Off Infinite Scroll for Teens",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=10eb6f268e872f7c988f3322e92fd749b4e660bb72da67d44bb2fe0ebc481a1b",
+      "datetime": 1791458739,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Elon Musk Praises Jeff Bezos After $28 Billion Blue Origin Reveal",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=17a9aaea3ba495c68bdc6c8f43f9d69e24f2e73ecf2dba2471a3d4d4d498f090",
+      "datetime": 1791458702,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Could This Chipmaker Really Overtake Intel in Revenue by 2031?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4505e9b492cc5111c0a1647aa39e0b6ce0276415871608a1090ae9e1f1efda7b",
+      "datetime": 1791458155,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Has Fallen 10% From Its All-Time High. Now Is the Perfect Time to Buy.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=66a4a35673c430943925963e872e4e5313396a3038c6e2e93b60d41cafd910cc",
+      "datetime": 1791456060,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "VCSEL Market to Reach US$1.96 Billion by 2032 at 8.8% CAGR, Driven by AI Data Centers and 3D Sensing in Smartphones",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=689da80dbfb77aca568fd37d16eb3f45233ffac1c3f796a5e20d2d074e7264e0",
+      "datetime": 1791455280,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "TSMC Sales Are a Big Win for the AI Trade. Why AMD and Other Chip Stocks Are Falling Anyway.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f24dbd3892c738debee100a4b5498210da3db59d0310b2a039c5fae099f96e1e",
+      "datetime": 1791453780,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Sercomm Makes RDK Set-Top Box Available as Reference Hardware",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b92fbc6bb6c86ebf9c31522f69ca00ac1a767406bac36e3c8c3899ed42aab98f",
+      "datetime": 1791453600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Jeff Bezos Says He Usually Tells Retired Investors To Buy The Same Thing, And It\u2019s Not Just AI Stocks",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0b9e76465bf1bfa66b206abb3b28d0bcaf14d78ecea2673ca23c84c46fdd610d",
@@ -75,44 +139,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Amazon cuts approximately 1,000 roles in latest workforce reduction \u2013 report",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=63374c3c919684646cc90c36fb764048b1a5f16c2c6fcc47d57f72b52366687e",
-      "datetime": 1791449432,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Best Buy Gives Investors a Reason to Take a Second Look",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e414c2c0bde84e5224c8fdc9cc4b78a93992fcac825d47e787715c37aeb6eadb",
-      "datetime": 1791443438,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Healey urged to launch \u00a31.5bn \u2018Amazon tax\u2019 raid on retailers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=22446fd4007b3c2d49bdc9e35e58ea451e039a51ccb3b6abbb0e4c71fadb7fb7",
-      "datetime": 1791442800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Broadcom Is Arranging $50 Billion So OpenAI Can Buy Its Chips",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e81f899141351a12938e1057321a03ed645480eabc4fcd348ab7ef618db51a4f",
       "datetime": 1791439781,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Reportedly Hands Pink Slips To 1,000 Workers As Big Tech Layoffs Continue",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=17fcbbc30538a01983cf26b4a45d76916611dfb513638e394004e2e8e32cee9c",
-      "datetime": 1791439761,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -123,44 +155,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Broadcom, Oracle And SpaceX Tap Private Credit For AI Hardware: Report",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=26cf7b9a80014b18d22440f9bf485fb8d74828f9595f1ce73c769f2a1edd120b",
-      "datetime": 1791416278,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom (AVGO) Is Seen As Resilient To 32 Gigawatt Power Shortfalls",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9ec579a99d207e301a74fc89486a4641555748dc2b5b22da8be42253ee02e1dd",
-      "datetime": 1791415031,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "B",
       "headline": "Gold Mining Stocks: Winners And Losers At The Beginning Of Q4 2026",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=a7a9559a95a5a0aa28f9946c6d3cef61252074db3931e4e0186bf6fc6531673d",
       "datetime": 1791414749,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Holds Early Talks About Financing Deal for OpenAI Chips",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3af21f1c5d1f8df13b4d9213e32f59a0fbadf655ca3507a7621b274bf3902bb2",
-      "datetime": 1791414437,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "What Are AVGO Stock Investors Betting On?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fe6c2b41f319d645bd53217a37d78a23c4388554fc9dfe3c9e1b3a8fd1ab80fb",
-      "datetime": 1791412721,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-08T11:58:13.934035+00:00"
+  "updated_at": "2026-10-08T12:13:14.036519+00:00"
 }
