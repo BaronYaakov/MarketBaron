@@ -60,27 +60,91 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "$2.6 Trillion and Climbing: Where the AI Spending Is Going",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=741bb519c90b50f0485cc84529dd85a3eb07a8ea6f17325263125eb488d10e2c",
+      "datetime": 1791474420,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Supplier Gets Boost From Bullish Analyst Calls; The Stock Is Climbing",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=805c2a6d9d87f0d0240868fda436bf18c46b2cd452cb6c6ab541eea13c70d645",
+      "datetime": 1791473228,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=92f4277736d57f55d1a9e8e5821e50b7e901f743959c94503c04d034947defe2",
+      "datetime": 1791472249,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Reflecting On Credit Card Stocks\u2019 Q2 Earnings: Synchrony Financial (NYSE:SYF)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8c715ace3529d19e36cbf62aed1453ce718ac0fc3b85f5cc806eba45ce602ea7",
+      "datetime": 1791471849,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The Safest Upside in the Mag 7 Right Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4a4d65bcfc04fa074db1e3f94069f327bcd58ff7712a32cd43e00cced26d1867",
+      "datetime": 1791471645,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon targets Apple with high-end Alexa tablets featuring Google Play apps",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ea420d8be9725a3760d43d748d504fe3baa562c75ba765a7f9d4fbd22edc42c0",
+      "datetime": 1791470846,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "SpaceX, Broadcom and Oracle All Want Billions in AI Chip Debt at the Same Time",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=323b5e7496b6179c03adb490679e8ecff0e2288260421d1f7b79d2addeb2f505",
+      "datetime": 1791470359,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Is AMD Stock Paying You Enough For The Swings?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=db73bbe8f441454d905612856364abd366656fb69903e553f28df6ae7fbc39d9",
+      "datetime": 1791469969,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Securitize Launches Tokenized Shares of Apple, Nvidia and Strategy",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=698c8fd51e6ec0c6f6e801183771405364c1bb9f69506bafd4398a5a22b78ae9",
+      "datetime": 1791469260,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom seeks more than $50 billion to finance OpenAI AI chips",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=21a665b9cb988d89968b47b6ba68d303e885416e23bf4052bfabe971843d3bf2",
+      "datetime": 1791468120,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "AI's debt-fueled boom: Who's paying for the buildout?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=25f01e02112f3ca369909e77dfe736746fe68a9541ef4e2feb8af7d8df2a9ec4",
       "datetime": 1791467700,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Here's What a $10,000 Investment in Amazon Stock Could Be Worth in 2035",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cfea60d314afd543201eed15d341721e754519fde942b7bf6cfa9298139299ca",
-      "datetime": 1791467400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon launches 2 new China-to-US air freight options",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4e91dff2fd368ce287cb2a6c13158d5f502f2a410d24d8014d55d1ec1705182f",
-      "datetime": 1791466580,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -91,76 +155,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Zenity Labs Discloses AgentCorruption, a Chain of AWS AgentCore Flaws That Allowed One Prompt to Take Over All AgentCore Agents Within an AWS Account and Region",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2dfce061b378cd90a7d96022cd44a11035e599cdfbe248e5384c46bb1ead3c01",
-      "datetime": 1791464460,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Stock Has Another Growth Story Investors May Be Missing",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a4048993ab130e4ab159a9f4fe878168300831ec7db1aed5b9f072de541fdcf6",
-      "datetime": 1791464449,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "11:11 Systems Acquires Select IBM VMware Cloud Service Provider Enterprise Customers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=088f7da781d0566df6dbfafb7978cbfdb1d7a8512c25a75599b573a9103338e1",
-      "datetime": 1791464400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "In partnership with Amazon, Duracell Powers Up Austin Ahead of F1 Weekend with High-Power Pre-Race Celebration",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2e86d62472f4369a00b344a3a787a7d2aba3137c5c14b39006bb186d83f16f1a",
-      "datetime": 1791464400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "P",
       "headline": "1 Growth Stock with Explosive Upside and 2 That Underwhelm",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=38b87fee1e9b1c8d19c3b12e11ceeb76c41016f18f3100a324bfa35133a6a7b9",
       "datetime": 1791464169,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Why AI Infrastructure Is Turning Meta and Amazon into Cash-Flow Sinks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b8804dbd50588ff2f85301b7debd6e43b3aa57a2351622c50cc254851e68fe99",
-      "datetime": 1791463546,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Stock Futures Fall on Higher Oil Prices, AI Pullback",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0339efaf463ca730737c481749c5eb50be99eb982fa138fed277a764d352fc96",
-      "datetime": 1791462900,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "TSMC Gives AI Trade Upbeat Signal\u2014AMD and Other Chip Stocks Fall Anyway",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a0cbd722236f32fb6b423db64eafee0f5c9dbb7098abd1123b306c36af64f771",
-      "datetime": 1791461940,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Premarket movers: Palantir gains on bullish call, NXP tumbles on downgrade",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0ebbd012874387b57b4fadecc35ddf9543b1245434b147f8d39d306444d374bf",
-      "datetime": 1791461443,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -467,12 +467,12 @@
       "market_cap_musd": 1797319.3755012597,
       "country": "US",
       "currency": "USD",
-      "price": 370.57,
+      "price": 372.22,
       "open": 370.63,
-      "day_high": 372.3,
+      "day_high": 372.47,
       "day_low": 366.37,
       "prev_close": 376.51,
-      "day_change_pct": -1.58,
+      "day_change_pct": -1.14,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -486,12 +486,12 @@
       "market_cap_musd": 95379.002202,
       "country": "CA",
       "currency": "USD",
-      "price": 39.2,
+      "price": 39.3,
       "open": 38.99,
       "day_high": 39.58,
       "day_low": 38.9,
       "prev_close": 39.18,
-      "day_change_pct": 0.05,
+      "day_change_pct": 0.31,
       "week52_high": 74.0,
       "week52_low": 42.62
     },
@@ -505,12 +505,12 @@
       "market_cap_musd": 69586.8491,
       "country": "CA",
       "currency": "USD",
-      "price": 365.13,
+      "price": 363.69,
       "open": 366.01,
       "day_high": 370.46,
       "day_low": 362.11,
       "prev_close": 371.57,
-      "day_change_pct": -1.73,
+      "day_change_pct": -2.12,
       "week52_high": 655.5,
       "week52_low": 321.89
     },
@@ -524,12 +524,12 @@
       "market_cap_musd": 60539.921588888006,
       "country": "US",
       "currency": "USD",
-      "price": 316.21,
+      "price": 315.64,
       "open": 316.6,
       "day_high": 319.53,
       "day_low": 314.9,
       "prev_close": 317.25,
-      "day_change_pct": -0.33,
+      "day_change_pct": -0.51,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -543,12 +543,12 @@
       "market_cap_musd": 68446.17410289547,
       "country": "US",
       "currency": "USD",
-      "price": 85.82,
+      "price": 85.67,
       "open": 84.88,
       "day_high": 85.87,
       "day_low": 84.59,
       "prev_close": 84.61,
-      "day_change_pct": 1.43,
+      "day_change_pct": 1.25,
       "week52_high": 105.23,
       "week52_low": 82.59
     },
@@ -562,12 +562,12 @@
       "market_cap_musd": 6876.930540218523,
       "country": "US",
       "currency": "USD",
-      "price": 18.83,
+      "price": 18.89,
       "open": 19.19,
       "day_high": 19.26,
       "day_low": 18.79,
       "prev_close": 19.0,
-      "day_change_pct": -0.89,
+      "day_change_pct": -0.58,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -581,12 +581,12 @@
       "market_cap_musd": 50870.47312891291,
       "country": "US",
       "currency": "USD",
-      "price": 154.84,
+      "price": 153.47,
       "open": 151.83,
       "day_high": 157.05,
       "day_low": 151.14,
       "prev_close": 152.66,
-      "day_change_pct": 1.43,
+      "day_change_pct": 0.53,
       "week52_high": 149.04,
       "week52_low": 56.78
     },
@@ -600,7 +600,7 @@
       "market_cap_musd": 2803578.9461302864,
       "country": "US",
       "currency": "USD",
-      "price": 258.1,
+      "price": 258.09,
       "open": 259.75,
       "day_high": 259.86,
       "day_low": 257.77,
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-08T15:58:18.347647+00:00"
+  "updated_at": "2026-10-08T16:13:22.055976+00:00"
 }
