@@ -59,6 +59,30 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Nvidia vs. Broadcom: Which AI Chip Stock Is the Better Buy for the Next 5 Years?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f5c0ed61e2f3840a5c91a48ce06e2edd7964c85b43aac1ba3bca4ca906b05bd",
+      "datetime": 1791496140,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "11:11 Systems Acquires Select IBM VMware Cloud Service Provider Enterprise Customers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c4534cc0d3eae0274856384e6d776179dceeae5576c637ddbb2572238deea63c",
+      "datetime": 1791493200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Where Could Walmart's Next Growth Come From?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f9f5f36e2d46a569cc995c2ca01944721e1b0f58135637465ad8c75ffe422ef9",
+      "datetime": 1791491656,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Can AWS Transform Make NetApp (NTAP) the Default Storage Landing Zone in the Cloud?",
       "source": "Yahoo",
@@ -115,18 +139,10 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "What does Amazon's 'About You' feature say about your spending habits?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d3b8ca5108433caf04df44540d139b1dbcc58bd7bdd90de40598678d86d384f6",
-      "datetime": 1791482794,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Oracle stock falls on more debt to fund AI chip buying, OpenAI revenue disclosure",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=da9e8c5fd6a3eb2d327bb8ad292b2488ed65830288b1395953af037226cbae30",
+      "url": "https://finnhub.io/api/news?id=93df02d27e92314437f5c761f94d784e807bdc5086e0ad5331968598949e6721",
       "datetime": 1791482553,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
@@ -136,22 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ad1203e9d7e840ed67a3a8fc16415cdf88a8a9774531117658b9c1415b893fb9",
       "datetime": 1791482319,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "OpenAI Annualized Revenue $20 Billion Short, Says Report. AI Stocks Fall.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1921b41e5f12a124c256f22c6d3f63e459e100fd271c8e1ac8191ea2cbd67afa",
-      "datetime": 1791482050,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Redefines AI Infrastructure with Industry-Leading Networking Innovations at 2026 OCP Global Summit",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d3c554a08719b4c7d28cb356c9bdb81a7b6a44359721ca13093d08cdc273741b",
-      "datetime": 1791475200,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-08T21:58:19.171369+00:00"
+  "updated_at": "2026-10-08T22:13:19.400806+00:00"
 }
