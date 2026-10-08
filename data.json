@@ -60,10 +60,42 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Jeff Bezos Says He Usually Tells Retired Investors To Buy The Same Thing, And It\u2019s Not Just AI Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0b9e76465bf1bfa66b206abb3b28d0bcaf14d78ecea2673ca23c84c46fdd610d",
+      "datetime": 1791452596,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Trims Its Stores Unit Again After 30,000 Corporate Cuts",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1dfda64a4a494e0f2254b39c42506d50b4448e1a5340e2c0da164406f476df08",
+      "datetime": 1791451105,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon cuts approximately 1,000 roles in latest workforce reduction \u2013 report",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=63374c3c919684646cc90c36fb764048b1a5f16c2c6fcc47d57f72b52366687e",
+      "datetime": 1791449432,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Best Buy Gives Investors a Reason to Take a Second Look",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e414c2c0bde84e5224c8fdc9cc4b78a93992fcac825d47e787715c37aeb6eadb",
       "datetime": 1791443438,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Healey urged to launch \u00a31.5bn \u2018Amazon tax\u2019 raid on retailers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=22446fd4007b3c2d49bdc9e35e58ea451e039a51ccb3b6abbb0e4c71fadb7fb7",
+      "datetime": 1791442800,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -80,38 +112,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=17fcbbc30538a01983cf26b4a45d76916611dfb513638e394004e2e8e32cee9c",
       "datetime": 1791439761,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "SPCX Stock Eyes 2-Week Winning Streak: FCC Weighs New Spectrum For SpaceX And Amazon \u2014 As Bezos Floats Blue Origin IPO",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=45da7dc6ee658a9ad3e598ba902d2914bb91567b30b71c83a87b52c0f93d6cc6",
-      "datetime": 1791437322,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon (AMZN) Stock Could Be Undervalued As Its 97% Run Continues",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=32b2b5d1d74fa5ab8d2cf0d37dff7a11fc4b495e5b15707e7f3c4a6fc1fc20c0",
-      "datetime": 1791436450,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Jim Cramer Sees Something Worth Revisiting in These Power Stocks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=36284c63d412af1db62c8f4866957f05249f0afafac67f1cc284d335ce50ea2e",
-      "datetime": 1791431122,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon cuts fewer than 1,000 jobs across teams, Business Insider reports",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8a07b2abe96225ece3dfeb63720b07caad0d711d9e461f1043b4452d5a435298",
-      "datetime": 1791427704,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-08T09:58:13.629157+00:00"
+  "updated_at": "2026-10-08T10:13:13.545561+00:00"
 }
