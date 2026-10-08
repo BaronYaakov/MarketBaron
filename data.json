@@ -597,9 +597,7 @@
       "day_high": 260.14,
       "day_low": 253.17,
       "prev_close": 256.29,
-      "day_change_pct": 1.42,
-      "week52_high": 287.2,
-      "week52_low": 196.0
+      "day_change_pct": 1.42
     }
   },
   "biggest_win": {
@@ -608,5 +606,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-08T13:13:15.780926+00:00"
+  "updated_at": "2026-10-08T13:28:16.233802+00:00"
 }
