@@ -83,6 +83,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "B",
+      "headline": "Gold Mining Stocks: Winners And Losers At The Beginning Of Q4 2026",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a7a9559a95a5a0aa28f9946c6d3cef61252074db3931e4e0186bf6fc6531673d",
+      "datetime": 1791414749,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "What Happens To IBM Stock If Its Slowdown Lasts?",
       "source": "Yahoo",
@@ -337,14 +345,6 @@
       "url": "https://finnhub.io/api/news?id=8b170d2546eb8e514b6e0745d65478aa6cdde39726ce93e8e81b6c2afd7235e3",
       "datetime": 1791225018,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Barrick\u2019s Pueblo Viejo Mine Completes 59th Participatory Environmental Monitoring Exercise",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4329c4f150994091d434b2964d586a9ced56f977a6069ea2e18702a441984535",
-      "datetime": 1791225000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "ORLY",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-08T03:28:22.577139+00:00"
+  "updated_at": "2026-10-08T03:43:22.118448+00:00"
 }
