@@ -123,6 +123,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "3 Canadian Tech Stocks Trading Up To 71% Below Fair Value",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=554121c26d71b20be7d7d9984d83b75bcbbacc68fd56d8eb9260858698d9d6c0",
+      "datetime": 1791404111,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Not Amazon. Not Sea Limited. This $94 Billion E-Commerce Powerhouse Dominates Latin America.",
       "source": "Yahoo",
@@ -169,6 +177,14 @@
       "url": "https://finnhub.io/api/news?id=043dcbd77dbef19dc48598dff28f3acd867cecaddb8e6bb753c356ba842a93e7",
       "datetime": 1791385680,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Sanmina Rides on Holistic Growth: Should You Bet on the Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d7496f41b9ad513c3c2321aecebd2d393971f311e9a66f9e4980d37f19361b3a",
+      "datetime": 1791377100,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "B",
@@ -305,22 +321,6 @@
       "url": "https://finnhub.io/api/news?id=d11344c10f5ec7aaa66a54cfe75864bb6d79d9cffc1b3aad8016ddc425868a66",
       "datetime": 1791258499,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Lundin Gold And 2 Canadian Undervalued Stocks To Watch",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8079561878f0c1f7289dfecdddcd071bc8dfe4d6e612b2c1e633a716f628a8ef",
-      "datetime": 1791242147,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "3 Canadian Growth Stocks To Own In October 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=efa1967fd26ed048092728eac7a4da251d1adde72c6f4d0f9a130ceb84b122bb",
-      "datetime": 1791238147,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "ORLY",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-08T02:13:18.676977+00:00"
+  "updated_at": "2026-10-08T02:28:18.373649+00:00"
 }
