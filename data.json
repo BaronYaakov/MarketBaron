@@ -60,6 +60,30 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Best Buy Gives Investors a Reason to Take a Second Look",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e414c2c0bde84e5224c8fdc9cc4b78a93992fcac825d47e787715c37aeb6eadb",
+      "datetime": 1791443438,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom Is Arranging $50 Billion So OpenAI Can Buy Its Chips",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e81f899141351a12938e1057321a03ed645480eabc4fcd348ab7ef618db51a4f",
+      "datetime": 1791439781,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Reportedly Hands Pink Slips To 1,000 Workers As Big Tech Layoffs Continue",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=17fcbbc30538a01983cf26b4a45d76916611dfb513638e394004e2e8e32cee9c",
+      "datetime": 1791439761,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "SPCX Stock Eyes 2-Week Winning Streak: FCC Weighs New Spectrum For SpaceX And Amazon \u2014 As Bezos Floats Blue Origin IPO",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=45da7dc6ee658a9ad3e598ba902d2914bb91567b30b71c83a87b52c0f93d6cc6",
@@ -99,22 +123,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Baskin Financial Q3 2026 Newsletter",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=eb365455f7a5a9ba78388c93ea3365159c1a0e43e5721bccd6a247400857b59d",
-      "datetime": 1791417900,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Review & Preview: Close but No Cigar",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9aa818e37f1f6225bcaed4a2e6f20c0151e76654ba83cfba3c011764dc0021ec",
-      "datetime": 1791417300,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Broadcom, Oracle And SpaceX Tap Private Credit For AI Hardware: Report",
       "source": "Yahoo",
@@ -152,14 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fe6c2b41f319d645bd53217a37d78a23c4388554fc9dfe3c9e1b3a8fd1ab80fb",
       "datetime": 1791412721,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom, Oracle, and SpaceX pursue blockbuster debt deals amid AI buildout - WSJ",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5aac99229d1977e1003724bed3b6ede51d18663bd7c2253045e5e1c57b312348",
-      "datetime": 1791410308,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-08T07:58:14.670897+00:00"
+  "updated_at": "2026-10-08T08:13:14.567534+00:00"
 }
