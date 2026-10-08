@@ -60,6 +60,22 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "SPCX Stock Eyes 2-Week Winning Streak: FCC Weighs New Spectrum For SpaceX And Amazon \u2014 As Bezos Floats Blue Origin IPO",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=45da7dc6ee658a9ad3e598ba902d2914bb91567b30b71c83a87b52c0f93d6cc6",
+      "datetime": 1791437322,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon (AMZN) Stock Could Be Undervalued As Its 97% Run Continues",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=32b2b5d1d74fa5ab8d2cf0d37dff7a11fc4b495e5b15707e7f3c4a6fc1fc20c0",
+      "datetime": 1791436450,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Jim Cramer Sees Something Worth Revisiting in These Power Stocks",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=36284c63d412af1db62c8f4866957f05249f0afafac67f1cc284d335ce50ea2e",
@@ -131,14 +147,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "What Happens To IBM Stock If Its Slowdown Lasts?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=63751dfd0ba45e251e05f6487254cc994a85f171e9b56f25541cb57bdb614c7e",
-      "datetime": 1791413245,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "What Are AVGO Stock Investors Betting On?",
       "source": "Yahoo",
@@ -161,14 +169,6 @@
       "url": "https://finnhub.io/api/news?id=554121c26d71b20be7d7d9984d83b75bcbbacc68fd56d8eb9260858698d9d6c0",
       "datetime": 1791404111,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Not Amazon. Not Sea Limited. This $94 Billion E-Commerce Powerhouse Dominates Latin America.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4e346dae93b8740ee40faac2c6675ac1927ecd6850234d5c77ee696aaefb9aa5",
-      "datetime": 1791403980,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-08T05:43:16.227784+00:00"
+  "updated_at": "2026-10-08T06:28:15.905955+00:00"
 }
