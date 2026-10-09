@@ -59,6 +59,46 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Jim Cramer Told a Broadcom (AVGO) Holder Not to Sell, and Said He Trimmed It Himself",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2b8307b25bb851499b94d526800be23e02ed5cad0c77860a038d8e3f4a9591a1",
+      "datetime": 1791513063,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Chip, Cloud Stocks Edge Up Overnight After OpenAI\u2019s $50B Revenue Figure Sparks Selloff: Analyst Calls Reaction \u2018Overblown\u2019",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=772ca8270e25d5a3af391cb685fb19d2d36b019c1852c779dacfca5a4ce02655",
+      "datetime": 1791512538,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon's Alexa shopping tool faces its first big October test",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2f79f83118ec2ff2f54d093aa42d338cc41be6e18876d67e322caae91bb19ae8",
+      "datetime": 1791511380,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "What Are Everpure Investors Betting On?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=85a2f70411db67a50bbd7df7bcc3d4774dae50d6cdf68a0c04690dcadcd839e9",
+      "datetime": 1791510451,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Snowflake: Fairly Priced Until Migrations Prove Themselves",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=761d9d58003ad71bd83b302820ba20428fae8f505d7a8be0a1e660177876026e",
+      "datetime": 1791506990,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Is the Market Underestimating Amazon\u2019s (AMZN) Moat?",
       "source": "Yahoo",
@@ -121,38 +161,6 @@
       "url": "https://finnhub.io/api/news?id=4f5c0ed61e2f3840a5c91a48ce06e2edd7964c85b43aac1ba3bca4ca906b05bd",
       "datetime": 1791496140,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "11:11 Systems Acquires Select IBM VMware Cloud Service Provider Enterprise Customers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c4534cc0d3eae0274856384e6d776179dceeae5576c637ddbb2572238deea63c",
-      "datetime": 1791493200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "AVGO Stock Alert: What to Know About Broadcom's $50 Billion Financing Deal for OpenAI Chips",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=46ce3c8d42b5bbdadda5a66726f9a8d97e1e094a57a419e58d3179386139a8a1",
-      "datetime": 1791492794,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Where Could Walmart's Next Growth Come From?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f9f5f36e2d46a569cc995c2ca01944721e1b0f58135637465ad8c75ffe422ef9",
-      "datetime": 1791491656,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Can AWS Transform Make NetApp (NTAP) the Default Storage Landing Zone in the Cloud?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=36da1a2aef088f581f9a20b69c60a715050b3505c529189425258b2d76406428",
-      "datetime": 1791488908,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "PRMB",
@@ -280,14 +288,6 @@
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=4969bb37167e933cfd7558289b21f83b2434a2d4a02d1d83b878f78ff6fb8b48",
       "datetime": 1791399901,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Everpure Stock Rides 10-Day Winning Streak. What\u2019s Driving the Rally.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=043dcbd77dbef19dc48598dff28f3acd867cecaddb8e6bb753c356ba842a93e7",
-      "datetime": 1791385680,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-09T04:58:15.468016+00:00"
+  "updated_at": "2026-10-09T05:13:15.611836+00:00"
 }
