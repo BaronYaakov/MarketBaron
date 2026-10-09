@@ -148,18 +148,18 @@
     },
     {
       "ticker": "AVGO",
-      "headline": "AMD vs. Broadcom: How Much Faster Must AMD\u2019s Cash Flow Grow to Earn Its Premium?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3d77e465ee3cd4a0ba756059f8224cad979ccdaca040777ddc51eb4ddbbedc4b",
-      "datetime": 1791561921,
+      "headline": "QYLG Vs. QDVO: Market Fear Is Good For These Paychecks",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a524689f9aa69a966b4f44e89502e1c86aa5ca5ea20a8b8e924f199f71e540ac",
+      "datetime": 1791564935,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
-      "headline": "One of the Most Important AI Stocks Isn\u2019t Nvidia. It\u2019s TSMC",
+      "headline": "AMD vs. Broadcom: How Much Faster Must AMD\u2019s Cash Flow Grow to Earn Its Premium?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cc0782b9a5d1b03e4ca2c18392abb3068d6b64b78481d311699d2f0b2f122929",
-      "datetime": 1791561637,
+      "url": "https://finnhub.io/api/news?id=3d77e465ee3cd4a0ba756059f8224cad979ccdaca040777ddc51eb4ddbbedc4b",
+      "datetime": 1791561921,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-09T20:58:19.491780+00:00"
+  "updated_at": "2026-10-09T21:13:18.436749+00:00"
 }
