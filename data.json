@@ -60,11 +60,91 @@
   "news": [
     {
       "ticker": "AMZN",
-      "headline": "Amazon Just Signed a 20-Year Nuclear Power Deal. Here's the 1 Industrial Stock That Benefits Most.",
+      "headline": "Spanish PM in row with Jeff Bezos over housing crisis",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2a15204dad56db73ee1cf94be32969b66abcc55a73f20ad604853074142af82f",
-      "datetime": 1791546780,
+      "url": "https://finnhub.io/api/news?id=460f79ed30b25107bafe6279794ea33f5181c9c771962819f1ddc5c1277449f1",
+      "datetime": 1791553563,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Valuing Constellation Energy (CEG): Do Long-Term Power Contracts Justify the Premium?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=af1111caa042963090e841f2013640e0e62d7ddc06d7f69343407e14d4f48bf0",
+      "datetime": 1791552718,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Is Alphabet Stock Priced Right Against Its Peers?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4142f7953cea56dfa30170f132a4b9ae58227495c68f8928e3a03f711b8df5b2",
+      "datetime": 1791552603,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "An Nvidia Director Sold $947 Million of Stock Last Quarter, More Than Any Other U.S. Insider",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c748ba904209a71d055410d9755bbcc8e09827d76ed7340ef230c8e347ac4b1d",
+      "datetime": 1791550835,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "How Low Can Intel Stock Go?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=953b0dd4ff17d9e0b02e5ecf50fc2adc9b13ea49966d80704995aa0883c00c86",
+      "datetime": 1791550810,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "The OpenAI Revenue Scare Was Overblown. The AI Trade\u2019s Real Risk Isn\u2019t.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=047b365a9cd355c97527b9d562c98cd8acb3715abd2a67904d9b98f74c377a4c",
+      "datetime": 1791550620,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Delta Air Lines Slashes Outlook Amid Fuel Prices; Starlink Spat Grows",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5575ac197f29d7e90b3cf98b669c303a2e808ad78a867d40bac435281b66f120",
+      "datetime": 1791550355,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Buy Cisco Systems as Leader of the AI Cloud Networking Space for 2027",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6403817c145dcf33c05748fddd3c30bf18f7e4b2e780187b3850398bb62a9a57",
+      "datetime": 1791550320,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom at $375: It Looks Like the Right Time to Add AVGO Shares",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9d4c115b0361bca5e72af723aecc09d3bed38b638e5f35fdc4565f0c36e59721",
+      "datetime": 1791549950,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Was There Any Sign Texas Instruments Stock Would Run?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e9a3f0dc5792f8734881cd6c842245413e8dde1bd814e2769a490167c1284fe7",
+      "datetime": 1791549229,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Record Profits at Samsung and TSMC Say the AI Trade is Intact",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3b293e07820878b1cc65b6dea375799c0ac3bf437eff9ec60b6c00836341849c",
+      "datetime": 1791548580,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -75,78 +155,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "AI Chips Update - NVIDIA's $1B Boost for US Scientific Innovation",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f61ebf6a8d667b1f2d07578c9f1933cdffc3ddbc2ed39ed90b548f360b65dd87",
-      "datetime": 1791545849,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Prediction: 2 Stocks That Will Be Worth More Than Broadcom 5 Years From Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1cc22d26a2247ef8109559ed48a9ca9818e8518e66f5946498512a600ff67edb",
-      "datetime": 1791545700,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "OpenAI\u2019s Revenue Is Reportedly $20 Billion Lower Than Thought. Nvidia Just Lost $170 Billion",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=02d1180e33cad0a44d1e137920f4df3ccf8373dc16eae441792ce9b7f44d8401",
-      "datetime": 1791544534,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Prediction: Oracle Has 49% Upside as Cloud Backlog Signals Major Growth Shift",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7f5bd24e5f8dbfabe9bca71be89b972a324c3896d0394436713ba3f99f0092d7",
-      "datetime": 1791544509,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Nepra Foods Launches Flagship PROPASTA Brand on Amazon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0e91f02ad55e8a4bdc48c236f53191b35ceff3f5760355170ad36d90eedb0c25",
-      "datetime": 1791543600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Inside Google's AI Slump: Can Gemini 4 Argon Fix it?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aa283c09eb30f351fdb43e0b6ce91499baae724cd14a2654a87e6a32bedad3f2",
-      "datetime": 1791543600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Prediction: Amazon Could Turn a $10K Investment Into This by 2030",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ba899bb608d5f739c07f0fc0838900e7a03c46509e8d98c21013f8987c61192a",
-      "datetime": 1791540300,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "OpenAI's $20 Billion Revenue Gap Sends Chip Stocks Tumbling",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=557033d381aadccfe976abc5e7e0ac7ac2483c91237e84c6093fb91093fef475",
-      "datetime": 1791540023,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "OpenAI's $20 Billion Revenue Gap Sends Chip Stocks Tumbling",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=557033d381aadccfe976abc5e7e0ac7ac2483c91237e84c6093fb91093fef475",
-      "datetime": 1791540023,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "P",
       "headline": "Top Storage Stock to Buy With $500 Right Now",
       "source": "Yahoo",
@@ -155,20 +163,20 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Broadcom: Anthropic Financing Risk Is Priced Too High, Buy",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=128aee206496cbe7b4de84d0956422a7348acfaa6650ecc41f7607579e8ea248",
-      "datetime": 1791538200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "P",
       "headline": "What Are Everpure Investors Betting On?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=85a2f70411db67a50bbd7df7bcc3d4774dae50d6cdf68a0c04690dcadcd839e9",
       "datetime": 1791510451,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica: $3B SPO Dip Unlocks A 65% Upside",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=05c18bcff22bb74945744d68068feb9a2a81949699778c4df31ff40a92308136",
+      "datetime": 1791478449,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "PRMB",
@@ -196,6 +204,14 @@
     },
     {
       "ticker": "CLS",
+      "headline": "Shares of uranium and nuclear companies are trading lower amid growing concerns of escalating conflict in the Middle East and its impact on energy costs.",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=5b755f298e791de8ab4a15f4c9f6344006881753c4c9803889cf5edad4180425",
+      "datetime": 1791473157,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
       "headline": "Celestica Rises 25.7% YTD: Buy, Sell or Hold the Stock?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=09e58fbb31208f7fc339625eb22d80901982cc96bef364c6ee9ce2e9af1bb211",
@@ -219,28 +235,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "Canada's Economic Divergence And The Opportunities For Investors",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=009bfd8c09f091d79e3e669731882ba9de77079263fdd668d05e914095a12ac0",
-      "datetime": 1791468300,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "P",
       "headline": "1 Growth Stock with Explosive Upside and 2 That Underwhelm",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=38b87fee1e9b1c8d19c3b12e11ceeb76c41016f18f3100a324bfa35133a6a7b9",
       "datetime": 1791464169,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica: The Market Will Wake Up From Its Slumber Eventually",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=6dba73da419c7fa2b4dd47c184692f44619cda17240e20f020a80d0a74a9dbb1",
-      "datetime": 1791459000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "P",
@@ -475,12 +475,12 @@
       "market_cap_musd": 1719175.110586522,
       "country": "US",
       "currency": "USD",
-      "price": 363.55,
+      "price": 362.67,
       "open": 365.6,
       "day_high": 366.63,
-      "day_low": 362.8,
+      "day_low": 362.32,
       "prev_close": 360.14,
-      "day_change_pct": 0.95,
+      "day_change_pct": 0.7,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -494,12 +494,12 @@
       "market_cap_musd": 91906.185114,
       "country": "CA",
       "currency": "USD",
-      "price": 41.24,
+      "price": 41.05,
       "open": 40.71,
       "day_high": 41.26,
       "day_low": 40.57,
       "prev_close": 39.99,
-      "day_change_pct": 3.13,
+      "day_change_pct": 2.65,
       "week52_high": 74.0,
       "week52_low": 42.62
     },
@@ -513,12 +513,12 @@
       "market_cap_musd": 66840.153029,
       "country": "CA",
       "currency": "USD",
-      "price": 355.48,
+      "price": 354.88,
       "open": 365.75,
       "day_high": 369.0,
       "day_low": 354.0,
       "prev_close": 356.53,
-      "day_change_pct": -0.29,
+      "day_change_pct": -0.46,
       "week52_high": 655.5,
       "week52_low": 321.89
     },
@@ -532,12 +532,12 @@
       "market_cap_musd": 61322.313956709375,
       "country": "US",
       "currency": "USD",
-      "price": 321.76,
+      "price": 322.19,
       "open": 319.51,
-      "day_high": 322.09,
+      "day_high": 322.33,
       "day_low": 318.79,
       "prev_close": 321.35,
-      "day_change_pct": 0.13,
+      "day_change_pct": 0.26,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -551,12 +551,12 @@
       "market_cap_musd": 69578.72023676717,
       "country": "US",
       "currency": "USD",
-      "price": 86.12,
+      "price": 86.26,
       "open": 85.59,
       "day_high": 86.52,
       "day_low": 85.58,
       "prev_close": 86.01,
-      "day_change_pct": 0.13,
+      "day_change_pct": 0.29,
       "week52_high": 104.06,
       "week52_low": 82.59
     },
@@ -570,12 +570,12 @@
       "market_cap_musd": 6999.991652696842,
       "country": "US",
       "currency": "USD",
-      "price": 19.08,
+      "price": 19.12,
       "open": 19.16,
       "day_high": 19.31,
-      "day_low": 19.04,
+      "day_low": 18.99,
       "prev_close": 19.34,
-      "day_change_pct": -1.34,
+      "day_change_pct": -1.14,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -589,12 +589,12 @@
       "market_cap_musd": 50174.03040469199,
       "country": "US",
       "currency": "USD",
-      "price": 150.52,
+      "price": 150.0,
       "open": 152.01,
       "day_high": 156.1,
       "day_low": 148.9,
       "prev_close": 150.57,
-      "day_change_pct": -0.03,
+      "day_change_pct": -0.38,
       "week52_high": 153.46,
       "week52_low": 56.78
     },
@@ -608,12 +608,12 @@
       "market_cap_musd": 2740371.191531307,
       "country": "US",
       "currency": "USD",
-      "price": 258.43,
+      "price": 258.59,
       "open": 256.51,
-      "day_high": 259.0,
+      "day_high": 259.49,
       "day_low": 256.0,
       "prev_close": 254.06,
-      "day_change_pct": 1.72,
+      "day_change_pct": 1.78,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-09T13:58:16.388273+00:00"
+  "updated_at": "2026-10-09T14:13:17.053922+00:00"
 }
