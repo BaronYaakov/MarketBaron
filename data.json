@@ -60,10 +60,58 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4bf1c55308cb0fec95eb17650c3c090a99ff1faebec0cc2ef7980b15d9e47416",
+      "datetime": 1791575469,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "What Could Surprise CoreWeave Stock Investors On The Upside?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7a66c1ae291228008e867b66f618835d7689b935959909a9860572fe7fffb98f",
+      "datetime": 1791574896,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Arm Stock Is Up 143% This Year: Take Profits, or Hold On for the Ride?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=586ffcc37bfc3d72da938e55beb9272a939869015dc029d229756909852105d3",
+      "datetime": 1791573243,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Delta cuts outlook, Microsoft fights H-1B restrictions, Bezos eyes Blue Origin IPO",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=29895590be39d8554d2273cdd20f3bc580765bc68f65dd79499a4d1e588611bf",
+      "datetime": 1791573180,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Friday's session: top gainers and losers in the dow jones index",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=e8e3b8da2da0d6ae4d9558e72857a3ca0885d2701f5b383c0d396564a0c319c7",
       "datetime": 1791573008,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Management Raised the Bar For NVIDIA Stock; Does The Chart Agree?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b82eadbdd4bf3444c8b21203cfdcc96ac7f6f8489c199a743de1a1a0ffb4b378",
+      "datetime": 1791570131,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Constellation Energy (CEG) Is Up 10.1% After Google Backs 20-Year Nuclear Power Expansion",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b044ff925b9baac9bae32f251277374f5d2480218363dbd5776d7cfffa6a1efb",
+      "datetime": 1791569311,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -75,44 +123,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Better High-Growth AI Stock: CrowdStrike vs. Palantir Technologies",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fc04f85c7510d4429ecd10c0bcc7045d81145277cbbbb31ea7310212680f08c7",
-      "datetime": 1791567873,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Jeff Bezos said a Blue Origin IPO is on the horizon. What could that mean for SpaceX?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1ac305501614db3ccf86a697abd3f600e3da34718cda60b0e4fb61efc92778bf",
-      "datetime": 1791567710,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "How Much Growth Are You Paying For In Palantir Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6aab87c6ca422474a925eecc8e61885d388f995b6c7a7ece674f489d417fd193",
-      "datetime": 1791567002,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "How Investors May Respond To Berkshire Hathaway (BRK.A) Leadership Shift, Index Tilt, and Regulatory Scrutiny",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=767016c846cf36098c2e0699578d0de1856fdbe0e5bc265901c216b0135a4f10",
       "datetime": 1791566179,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Are You Overpaying For Microsoft Stock Versus Its Rivals?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d43f1ddef215c790aa3c296cc12a0c81865a274945ee96b0a16f98327aef0075",
-      "datetime": 1791565848,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -136,22 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=cc0782b9a5d1b03e4ca2c18392abb3068d6b64b78481d311699d2f0b2f122929",
       "datetime": 1791561637,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "One Reason To Buy Applied Optoelectronics Stock Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=184cbd15ad1757faada4b5e4b971e5db2a32579e16e064e9aa9417f8b359f279",
-      "datetime": 1791560863,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Prediction: A $5,000 Investment Split Between Nvidia and Broadcom Will Triple by 2028",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=45c2fbe4395851537653a55d21551b439672c7ee7ab184e471e86264697c0a8a",
-      "datetime": 1791560460,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -475,8 +475,8 @@
       "market_cap_musd": 1719175.110586522,
       "country": "US",
       "currency": "USD",
-      "price": 361.53,
-      "open": 365.6,
+      "price": 361.54,
+      "open": 365.59,
       "day_high": 366.63,
       "day_low": 361.1,
       "prev_close": 360.14,
@@ -494,12 +494,12 @@
       "market_cap_musd": 91906.185114,
       "country": "CA",
       "currency": "USD",
-      "price": 41.04,
-      "open": 40.71,
+      "price": 41.06,
+      "open": 40.7,
       "day_high": 41.26,
       "day_low": 40.57,
       "prev_close": 39.99,
-      "day_change_pct": 2.63,
+      "day_change_pct": 2.68,
       "week52_high": 74.0,
       "week52_low": 42.62
     },
@@ -513,12 +513,12 @@
       "market_cap_musd": 66840.153029,
       "country": "CA",
       "currency": "USD",
-      "price": 362.34,
-      "open": 365.75,
+      "price": 362.16,
+      "open": 365.74,
       "day_high": 369.0,
       "day_low": 354.0,
       "prev_close": 356.53,
-      "day_change_pct": 1.63,
+      "day_change_pct": 1.58,
       "week52_high": 655.5,
       "week52_low": 321.89
     },
@@ -532,12 +532,12 @@
       "market_cap_musd": 61322.313956709375,
       "country": "US",
       "currency": "USD",
-      "price": 323.58,
-      "open": 319.51,
+      "price": 323.85,
+      "open": 319.5,
       "day_high": 325.82,
       "day_low": 318.79,
       "prev_close": 321.35,
-      "day_change_pct": 0.69,
+      "day_change_pct": 0.78,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -551,12 +551,12 @@
       "market_cap_musd": 69578.72023676717,
       "country": "US",
       "currency": "USD",
-      "price": 86.55,
-      "open": 85.59,
-      "day_high": 86.65,
+      "price": 86.45,
+      "open": 85.58,
+      "day_high": 86.64,
       "day_low": 85.58,
       "prev_close": 86.01,
-      "day_change_pct": 0.63,
+      "day_change_pct": 0.51,
       "week52_high": 104.06,
       "week52_low": 82.59
     },
@@ -571,7 +571,7 @@
       "country": "US",
       "currency": "USD",
       "price": 19.27,
-      "open": 19.16,
+      "open": 19.15,
       "day_high": 19.32,
       "day_low": 18.99,
       "prev_close": 19.34,
@@ -589,12 +589,12 @@
       "market_cap_musd": 50174.03040469199,
       "country": "US",
       "currency": "USD",
-      "price": 155.02,
-      "open": 152.01,
+      "price": 154.49,
+      "open": 152.0,
       "day_high": 156.1,
       "day_low": 148.9,
       "prev_close": 150.57,
-      "day_change_pct": 2.96,
+      "day_change_pct": 2.6,
       "week52_high": 153.46,
       "week52_low": 56.78
     },
@@ -608,12 +608,12 @@
       "market_cap_musd": 2740371.191531307,
       "country": "US",
       "currency": "USD",
-      "price": 262.56,
-      "open": 256.51,
+      "price": 262.43,
+      "open": 256.5,
       "day_high": 262.8,
       "day_low": 256.0,
       "prev_close": 254.06,
-      "day_change_pct": 3.35,
+      "day_change_pct": 3.29,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-09T19:58:24.441824+00:00"
+  "updated_at": "2026-10-09T20:13:22.731936+00:00"
 }
