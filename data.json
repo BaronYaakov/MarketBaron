@@ -187,6 +187,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
+      "ticker": "B",
+      "headline": "Gold Just Fell to a Two-Month Low as the Fed Signals Another Hike",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8af85d61930b2addb848db2274031e7dbe943c6effbcb9c843bd0c555688a29f",
+      "datetime": 1791470741,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "CLS",
       "headline": "Canada's Economic Divergence And The Opportunities For Investors",
       "source": "SeekingAlpha",
@@ -336,14 +344,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e12d323b1b22d7ee73357abe0a573195cd27f10dcb6b1b822ba322af861d74fa",
       "datetime": 1791278389,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Barrick Mining: Nevada Is Priced Like It Is Already Listed",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=36b0ce30de47ff9a259a95b1626dbdaa4bbe4fd6bf089ca9f57263bf3bc6d765",
-      "datetime": 1791270559,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-09T01:28:17.699356+00:00"
+  "updated_at": "2026-10-09T01:43:17.256568+00:00"
 }
