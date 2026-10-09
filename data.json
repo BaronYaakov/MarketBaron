@@ -251,14 +251,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "COR",
-      "headline": "Cencora Q3 2026 Earnings Call Transcript",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=53319798fa49c05ae6ed79b7b62a4f1103c6e733ae092d29854fdbea50b44a0b",
-      "datetime": 1791438829,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
       "ticker": "P",
       "headline": "Needham Maintains Buy on Everpure, Raises Price Target to $185",
       "source": "Benzinga",
@@ -291,14 +283,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "COR",
-      "headline": "Leerink Partners Maintains Outperform on Cencora, Raises Price Target to $388",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=983b64903304cbc8987abdbc4b5b92b8bda18628430e143487e03ffa3d4ce7ac",
-      "datetime": 1791377796,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
       "ticker": "B",
       "headline": "Barrick Mining Corp (NYSE:B): High-Growth Leadership and Momentum Potential",
       "source": "ChartMill",
@@ -323,14 +307,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "COR",
-      "headline": "Eli Lilly and vs. Novo Nordisk A/S: Which Healthcare Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a79264aca14b600f8fd73874c113158161ffe44d0b27110d763f44af3d82f8bc",
-      "datetime": 1791293401,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
       "ticker": "B",
       "headline": "Can Kinross Gold Sustain Its Shareholder-Focused Momentum?",
       "source": "Yahoo",
@@ -339,84 +315,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "ORLY",
-      "headline": "3 S&P 500 Stocks to Consider Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b3d42ebcd936b7400012ece3ba67335d61f1a7e935c1e4ca6416e04c6a71f384",
-      "datetime": 1791279394,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
       "ticker": "B",
       "headline": "Barrick secures 15-year licence renewal for Tanzania\u2019s North Mara",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e12d323b1b22d7ee73357abe0a573195cd27f10dcb6b1b822ba322af861d74fa",
       "datetime": 1791278389,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Cencora Remains A Buy At These Prices, As Healthcare Supply-Chain Needs Grow",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d11344c10f5ec7aaa66a54cfe75864bb6d79d9cffc1b3aad8016ddc425868a66",
-      "datetime": 1791258499,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Sherwin-Williams (SHW): Is Its Pro-Painter Distribution Moat Underappreciated?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d087c27a7738fd60352ab74ad3cbd2fdfbcaaed555edb1864d093cb2719d0f36",
-      "datetime": 1791233382,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "O\u2019Reilly Automotive (ORLY) vs. AZO and GPC: Why Auto Parts Stocks Are No Longer Safe Havens",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8b170d2546eb8e514b6e0745d65478aa6cdde39726ce93e8e81b6c2afd7235e3",
-      "datetime": 1791225018,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Nasdaq 100 Records Have Rarely Been This Narrow, 55 Stocks Are Still Below 50-Day Average",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=d78ffd39021735e4739cfbbd4e7ce2c89bcdbad94ff4f003fc44637d8d221831",
-      "datetime": 1791212429,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "What is O\u2019Reilly Automotive\u2019s (ORLY) Economic Moat, and is it Widening or Narrowing?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a2e64797d878b4889bee724a448396ac39fcf8b0cf65ec3d594c42a56f0367ae",
-      "datetime": 1791172103,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Amgen vs. Vertex Pharmaceuticals: Which Biotech Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=773d3787e684fba498bba3b49094c209329c0e46fcca5973e7c495eb6d0c1b89",
-      "datetime": 1791124497,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "MarketBeat Week in Review \u2013 09/28 - 10/02",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6067384e01c9dba75b78ac0e7c68eb7a0e4ba602e99b8fbef786d6564eaea72c",
-      "datetime": 1791025200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Cencora Announces Date and Time for Fourth Quarter Fiscal 2026 Earnings Release",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b718d8f4ba73fb930f8c88752552a3630a0e84a6f67c8554d7f840374c8ff04f",
-      "datetime": 1790942400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     }
   ],
   "recent_posts": [],
@@ -624,5 +528,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-09T06:43:15.685426+00:00"
+  "updated_at": "2026-10-09T06:58:15.737364+00:00"
 }
