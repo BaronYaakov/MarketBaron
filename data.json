@@ -139,6 +139,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "P",
+      "headline": "Everpure Stock Surges 147% in Six Months: Is It Still a Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c5da707e90215f545b6567e3a86156c2cbbe9fa70d1c97819f7fb83f2adee056",
+      "datetime": 1791564960,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "AMD vs. Broadcom: How Much Faster Must AMD\u2019s Cash Flow Grow to Earn Its Premium?",
       "source": "Yahoo",
@@ -153,6 +161,14 @@
       "url": "https://finnhub.io/api/news?id=cc0782b9a5d1b03e4ca2c18392abb3068d6b64b78481d311699d2f0b2f122929",
       "datetime": 1791561637,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "What to Expect From O\u2019Reilly Automotive\u2019s Q3 2026 Earnings Report",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0972b702b0b8e47b8105ddbdbc8d3b3f6d25a5e93b73c245eaac76e3518a1b5e",
+      "datetime": 1791551395,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "P",
@@ -273,14 +289,6 @@
       "url": "https://finnhub.io/api/news?id=53319798fa49c05ae6ed79b7b62a4f1103c6e733ae092d29854fdbea50b44a0b",
       "datetime": 1791438829,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Needham Maintains Buy on Everpure, Raises Price Target to $185",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=702edefe1bee0d27d68ab682c2a9054c2abef321533b7b55e073d622e35f7313",
-      "datetime": 1791438708,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "PRMB",
@@ -409,14 +417,6 @@
       "url": "https://finnhub.io/api/news?id=773d3787e684fba498bba3b49094c209329c0e46fcca5973e7c495eb6d0c1b89",
       "datetime": 1791124497,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "MarketBeat Week in Review \u2013 09/28 - 10/02",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6067384e01c9dba75b78ac0e7c68eb7a0e4ba602e99b8fbef786d6564eaea72c",
-      "datetime": 1791025200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     }
   ],
   "recent_posts": [],
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-09T20:13:22.731936+00:00"
+  "updated_at": "2026-10-09T20:28:19.766608+00:00"
 }
