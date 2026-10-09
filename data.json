@@ -59,6 +59,62 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Is the Market Underestimating Amazon\u2019s (AMZN) Moat?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e9e8657e8db391513cf311af51fb1744c0a263a1405530cebcfd236cccb4da72",
+      "datetime": 1791500822,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "What Does Western Digital Offer That Apple Does Not?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2a3621c8b55a07d1a8a7dcf01f1d30071115719690917cf3c476d8874772b6c4",
+      "datetime": 1791500201,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon (AMZN) Is Spending Billions on AI and Driver Pay. Will the Investments Pay Off?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=480d0278e9415f67fb08a7d9aba8ba0ac1c14e9325a7def6614f556a719e3876",
+      "datetime": 1791498826,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "AI Debt Spree Hammers Tech Debt as Traders Rush to Reprice Risk",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3c4da9fdc0f4750f25e5093ad67e4ea5d54b0e91f0c58fed1cec802c81270741",
+      "datetime": 1791498291,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom (AVGO) Stock Looks To Trade At A Discount To Fair Value",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=296f008276284b040d37cf67ceaef520cc36d4810007b1f5d440658f5e33c8be",
+      "datetime": 1791497879,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Jeff Bezos explains why Amazon is still cutting jobs",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=024e39c00c84034cc6644d4ab2bbc08b9e400c1e10117cd3d03f8c3923366667",
+      "datetime": 1791497820,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Why Broadcom Stock Took a Dive Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8766d43fd2b027ad9ce98ede47f1d5067414f215e398bb10623cd4fa608c5e89",
+      "datetime": 1791497157,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Nvidia vs. Broadcom: Which AI Chip Stock Is the Better Buy for the Next 5 Years?",
       "source": "Yahoo",
@@ -91,67 +147,11 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Did Amazon owe you a refund? You may qualify for part of a $309.5 million settlement.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a9bee8040934f9099ce5b1dc1b0b9d11f4fc2ca5c9b0cce622a190edb495e444",
-      "datetime": 1791488583,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Exploring the top movers within the dow jones index during today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=d02e79ecef043a92ebba46248d20db4281c6aa7162d4da8ddbe12ca8c3b04577",
-      "datetime": 1791486615,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Was The Run In Target Stock Hiding In Plain Sight?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6998d5ebbf1191720a53a0ecafdfaf8420981807afd7344d78e26a5aa1aada5d",
-      "datetime": 1791484998,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Oracle Stock Crashes After OpenAI's Revenue Gap. Who's Next?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=65ae8f35646f7744314bdc34397fee78c5bc627a6baec202a0cfef4a3ababfb7",
       "datetime": 1791484880,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Billionaire David Tepper Dumped Sandisk for This Trillion-Dollar AI Chip Giant",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=898d555a409bbd3fcc793c9debd14d2b25beacc40eb6254a32e199d1684a8732",
-      "datetime": 1791483600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "What Are Costco Investors Betting On?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=34045d124769cb9170aad222e84c7eaf1ca4b6843fcc12e163b344cb7f489e0a",
-      "datetime": 1791482953,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Oracle stock falls on more debt to fund AI chip buying, OpenAI revenue disclosure",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=93df02d27e92314437f5c761f94d784e807bdc5086e0ad5331968598949e6721",
-      "datetime": 1791482553,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Is Marvell Stock Priced Right Against Its Peers?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ad1203e9d7e840ed67a3a8fc16415cdf88a8a9774531117658b9c1415b893fb9",
-      "datetime": 1791482319,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -464,7 +464,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1797319.3755012597,
+      "market_cap_musd": 1719175.110586522,
       "country": "US",
       "currency": "USD",
       "price": 360.14,
@@ -483,7 +483,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.barrick.com/",
       "ipo_date": "1983-05-02",
-      "market_cap_musd": 95379.002202,
+      "market_cap_musd": 91906.185114,
       "country": "CA",
       "currency": "USD",
       "price": 39.99,
@@ -502,7 +502,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.celestica.com/",
       "ipo_date": "1998-07-01",
-      "market_cap_musd": 69586.8491,
+      "market_cap_musd": 66840.153029,
       "country": "CA",
       "currency": "USD",
       "price": 356.53,
@@ -521,7 +521,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 60539.921588888006,
+      "market_cap_musd": 61322.313956709375,
       "country": "US",
       "currency": "USD",
       "price": 321.35,
@@ -540,7 +540,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 68446.17410289547,
+      "market_cap_musd": 69578.72023676717,
       "country": "US",
       "currency": "USD",
       "price": 86.01,
@@ -549,7 +549,7 @@
       "day_low": 84.59,
       "prev_close": 84.61,
       "day_change_pct": 1.65,
-      "week52_high": 105.23,
+      "week52_high": 104.06,
       "week52_low": 82.59
     },
     "PRMB": {
@@ -559,7 +559,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 6876.930540218523,
+      "market_cap_musd": 6999.991652696842,
       "country": "US",
       "currency": "USD",
       "price": 19.34,
@@ -578,7 +578,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 50870.47312891291,
+      "market_cap_musd": 50174.03040469199,
       "country": "US",
       "currency": "USD",
       "price": 150.57,
@@ -587,7 +587,7 @@
       "day_low": 150.02,
       "prev_close": 152.66,
       "day_change_pct": -1.37,
-      "week52_high": 149.04,
+      "week52_high": 153.46,
       "week52_low": 56.78
     },
     "AMZN": {
@@ -597,7 +597,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2803578.9461302864,
+      "market_cap_musd": 2740371.191531307,
       "country": "US",
       "currency": "USD",
       "price": 254.06,
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-08T23:58:22.649064+00:00"
+  "updated_at": "2026-10-09T00:13:19.301228+00:00"
 }
