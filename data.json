@@ -156,10 +156,10 @@
     },
     {
       "ticker": "AVGO",
-      "headline": "3 Stocks Poised to Gain as Google Brings Its AI Chips to Market",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0088a1bc0e5572d80f68fa2ee5ae7b00990f77bd2500012147db343c3e1139f9",
-      "datetime": 1791525420,
+      "headline": "Broadcom: The Market Is Likely Looking At OpenAI/Anthropic All Wrong",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=50a69cdc12499f7ce350d12357292086497ef1ba70eae716994d168444360804",
+      "datetime": 1791533579,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-09T12:28:15.258193+00:00"
+  "updated_at": "2026-10-09T12:43:15.826265+00:00"
 }
