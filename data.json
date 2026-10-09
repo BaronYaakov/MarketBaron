@@ -156,6 +156,38 @@
     },
     {
       "ticker": "CLS",
+      "headline": "Jabil's FY27 AI Revenue Surge Could Redefine Its Growth Story in 2027",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=151f9c78f3c7bd8dec3fd3aa03d97d7056d11373a082faaefa635f45fa5edf35",
+      "datetime": 1791474120,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Is Jabil a Buy After AI Growth as Valuation Stays Above Its Median?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c2fbb35a1ac26676bc732ad9890c60c061f2f1846fc3cbb317a7e47fce353da8",
+      "datetime": 1791473640,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica Rises 25.7% YTD: Buy, Sell or Hold the Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=09e58fbb31208f7fc339625eb22d80901982cc96bef364c6ee9ce2e9af1bb211",
+      "datetime": 1791472620,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Can Celestica's Expanding Communications Portfolio Benefit the Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8bc06af669cbe926fe6a9392bbbff708032e6e70fdc279bd581fc7f7246eb047",
+      "datetime": 1791472260,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
       "headline": "Canada's Economic Divergence And The Opportunities For Investors",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=009bfd8c09f091d79e3e669731882ba9de77079263fdd668d05e914095a12ac0",
@@ -227,28 +259,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "3 Canadian Tech Stocks Trading Up To 71% Below Fair Value",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=554121c26d71b20be7d7d9984d83b75bcbbacc68fd56d8eb9260858698d9d6c0",
-      "datetime": 1791404111,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "P",
       "headline": "Exploring the top movers within the S&P500 index during today's session.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=4969bb37167e933cfd7558289b21f83b2434a2d4a02d1d83b878f78ff6fb8b48",
       "datetime": 1791399901,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Socket Mobile Announced A New Update To Its React Native CaptureSDK To Supports The React Native Version 0.75.4 And Enables Developers To Customize The SocketCam Viewfinder Within Their Applications",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=09abd19b8b3b59baafc8fa905928c55d77beb81dbef1cd2ed7c1d01f589cf43d",
-      "datetime": 1791388124,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "P",
@@ -267,28 +283,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "Sanmina Rides on Holistic Growth: Should You Bet on the Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d7496f41b9ad513c3c2321aecebd2d393971f311e9a66f9e4980d37f19361b3a",
-      "datetime": 1791377100,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "B",
       "headline": "Barrick Mining Corp (NYSE:B): High-Growth Leadership and Momentum Potential",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=80b5ced599608f957c1fac4001f92a2af11102d833fd5ac86a1e89856d0d8ee5",
       "datetime": 1791366670,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Why Celestica (TSX:CLS) Is Up 6.3% After Highlighting AI Cloud Demand And Investor Recognition",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c7a32956b9dd5d8d5fd18a9ade08d6b5bdb4bd2b1897557e3f5282e56f07e9f6",
-      "datetime": 1791347269,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "PRMB",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-09T00:13:19.301228+00:00"
+  "updated_at": "2026-10-09T00:28:16.900908+00:00"
 }
