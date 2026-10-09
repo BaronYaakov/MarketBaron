@@ -59,12 +59,36 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Skydance Faces a Tough Lift. Netflix and Disney Are Better Bets.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9f86627074d8916b46204007a5ebbf469a2a1607a6f8c2beca6e7b8858dff86c",
+      "datetime": 1791525600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "3 Stocks Poised to Gain as Google Brings Its AI Chips to Market",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0088a1bc0e5572d80f68fa2ee5ae7b00990f77bd2500012147db343c3e1139f9",
       "datetime": 1791525420,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The Real Challenge for Muse AI Is Making the Math Make Sense",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3bc8ab084136d6029d7cea2604c91cf1623519fa16089b22bddc1ecab255c93a",
+      "datetime": 1791523800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Zacks Investment Ideas feature highlights: Synopsys and Amazon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c53e4ba36521edbf6ec4340afd5ad22d4d9553756bd553707010313ed861b4e3",
+      "datetime": 1791521820,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -123,22 +147,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "What Does Western Digital Offer That Apple Does Not?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2a3621c8b55a07d1a8a7dcf01f1d30071115719690917cf3c476d8874772b6c4",
-      "datetime": 1791500201,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon (AMZN) Is Spending Billions on AI and Driver Pay. Will the Investments Pay Off?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=480d0278e9415f67fb08a7d9aba8ba0ac1c14e9325a7def6614f556a719e3876",
-      "datetime": 1791498826,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "AI Debt Spree Hammers Tech Debt as Traders Rush to Reprice Risk",
       "source": "Yahoo",
@@ -153,14 +161,6 @@
       "url": "https://finnhub.io/api/news?id=296f008276284b040d37cf67ceaef520cc36d4810007b1f5d440658f5e33c8be",
       "datetime": 1791497879,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Jeff Bezos explains why Amazon is still cutting jobs",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=024e39c00c84034cc6644d4ab2bbc08b9e400c1e10117cd3d03f8c3923366667",
-      "datetime": 1791497820,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "PRMB",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-09T07:28:15.196298+00:00"
+  "updated_at": "2026-10-09T07:43:15.002765+00:00"
 }
