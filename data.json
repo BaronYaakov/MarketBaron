@@ -131,6 +131,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "AVGO Stock Alert: What to Know About Broadcom's $50 Billion Financing Deal for OpenAI Chips",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=46ce3c8d42b5bbdadda5a66726f9a8d97e1e094a57a419e58d3179386139a8a1",
+      "datetime": 1791492794,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Where Could Walmart's Next Growth Come From?",
       "source": "Yahoo",
@@ -145,14 +153,6 @@
       "url": "https://finnhub.io/api/news?id=36da1a2aef088f581f9a20b69c60a715050b3505c529189425258b2d76406428",
       "datetime": 1791488908,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Oracle Stock Crashes After OpenAI's Revenue Gap. Who's Next?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=65ae8f35646f7744314bdc34397fee78c5bc627a6baec202a0cfef4a3ababfb7",
-      "datetime": 1791484880,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "PRMB",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-09T03:58:16.328321+00:00"
+  "updated_at": "2026-10-09T04:13:15.602687+00:00"
 }
