@@ -60,11 +60,43 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Microsoft vs. Alphabet: Which AI Cloud Stock Is Cheaper After the Capital Spending?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e46aa14aebfbe2956ee8255726d8af6a69e90a7b7afe9d82fde9e9856f2a09d",
+      "datetime": 1791580827,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Jim Cramer Just Made the Case for the Dividend Stocks You Are Bored Of",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd22a1c4d44b7615225455526e0f659ac5193aacf121d4f0da492bfad834a48e",
+      "datetime": 1791579607,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Jim Cramer Said NVIDIA\u2019s Shares Were Due For A Gut Check Following Morgan Stanley\u2019s Coverage",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bab91ef10a60e5d6456918da7c90e1606d5c50604c82fdfc99c82cbd364686e3",
+      "datetime": 1791577350,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4bf1c55308cb0fec95eb17650c3c090a99ff1faebec0cc2ef7980b15d9e47416",
       "datetime": 1791575469,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Here's What a $5,000 Investment in Broadcom Could Be Worth by 2032",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a0a7a3738e67a9ef93cdd944440270721485ed60e62c6809a0a6dffab4c6718c",
+      "datetime": 1791575400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -107,22 +139,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Constellation Energy (CEG) Is Up 10.1% After Google Backs 20-Year Nuclear Power Expansion",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b044ff925b9baac9bae32f251277374f5d2480218363dbd5776d7cfffa6a1efb",
-      "datetime": 1791569311,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=1fa9f1c674574e0933237001e1e66d77711e406a331cd57995c1136d4894f80d",
-      "datetime": 1791569102,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "How Investors May Respond To Berkshire Hathaway (BRK.A) Leadership Shift, Index Tilt, and Regulatory Scrutiny",
       "source": "Yahoo",
@@ -145,22 +161,6 @@
       "url": "https://finnhub.io/api/news?id=c5da707e90215f545b6567e3a86156c2cbbe9fa70d1c97819f7fb83f2adee056",
       "datetime": 1791564960,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "QYLG Vs. QDVO: Market Fear Is Good For These Paychecks",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=a524689f9aa69a966b4f44e89502e1c86aa5ca5ea20a8b8e924f199f71e540ac",
-      "datetime": 1791564935,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "AMD vs. Broadcom: How Much Faster Must AMD\u2019s Cash Flow Grow to Earn Its Premium?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3d77e465ee3cd4a0ba756059f8224cad979ccdaca040777ddc51eb4ddbbedc4b",
-      "datetime": 1791561921,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "ORLY",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-09T21:58:16.157898+00:00"
+  "updated_at": "2026-10-09T22:13:16.385339+00:00"
 }
