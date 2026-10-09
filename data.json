@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=1fa9f1c674574e0933237001e1e66d77711e406a331cd57995c1136d4894f80d",
+      "datetime": 1791569102,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Better High-Growth AI Stock: CrowdStrike vs. Palantir Technologies",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fc04f85c7510d4429ecd10c0bcc7045d81145277cbbbb31ea7310212680f08c7",
@@ -113,14 +121,6 @@
       "url": "https://finnhub.io/api/news?id=a3308c1d0e4541641f18709c79e167566ca211d311bb39519f06e756ff3425ab",
       "datetime": 1791565204,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Stock Market Today: Dow Jumps 400 Points But SpaceX Move Hits Verizon (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7edf6bcb7e7f53c6148d2131389fc8a6702c9e0f84c8e68cf236025daf338e80",
-      "datetime": 1791564826,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -475,12 +475,12 @@
       "market_cap_musd": 1719175.110586522,
       "country": "US",
       "currency": "USD",
-      "price": 362.6,
+      "price": 361.96,
       "open": 365.6,
       "day_high": 366.63,
       "day_low": 361.62,
       "prev_close": 360.14,
-      "day_change_pct": 0.68,
+      "day_change_pct": 0.51,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -494,12 +494,12 @@
       "market_cap_musd": 91906.185114,
       "country": "CA",
       "currency": "USD",
-      "price": 41.06,
+      "price": 41.0,
       "open": 40.71,
       "day_high": 41.26,
       "day_low": 40.57,
       "prev_close": 39.99,
-      "day_change_pct": 2.68,
+      "day_change_pct": 2.53,
       "week52_high": 74.0,
       "week52_low": 42.62
     },
@@ -513,12 +513,12 @@
       "market_cap_musd": 66840.153029,
       "country": "CA",
       "currency": "USD",
-      "price": 365.76,
+      "price": 365.09,
       "open": 365.75,
       "day_high": 369.0,
       "day_low": 354.0,
       "prev_close": 356.53,
-      "day_change_pct": 2.59,
+      "day_change_pct": 2.4,
       "week52_high": 655.5,
       "week52_low": 321.89
     },
@@ -532,12 +532,12 @@
       "market_cap_musd": 61322.313956709375,
       "country": "US",
       "currency": "USD",
-      "price": 323.83,
+      "price": 324.97,
       "open": 319.51,
-      "day_high": 324.03,
+      "day_high": 325.11,
       "day_low": 318.79,
       "prev_close": 321.35,
-      "day_change_pct": 0.77,
+      "day_change_pct": 1.13,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -551,12 +551,12 @@
       "market_cap_musd": 69578.72023676717,
       "country": "US",
       "currency": "USD",
-      "price": 86.26,
+      "price": 86.32,
       "open": 85.59,
       "day_high": 86.52,
       "day_low": 85.58,
       "prev_close": 86.01,
-      "day_change_pct": 0.29,
+      "day_change_pct": 0.36,
       "week52_high": 104.06,
       "week52_low": 82.59
     },
@@ -589,12 +589,12 @@
       "market_cap_musd": 50174.03040469199,
       "country": "US",
       "currency": "USD",
-      "price": 154.33,
+      "price": 154.97,
       "open": 152.01,
       "day_high": 156.1,
       "day_low": 148.9,
       "prev_close": 150.57,
-      "day_change_pct": 2.5,
+      "day_change_pct": 2.92,
       "week52_high": 153.46,
       "week52_low": 56.78
     },
@@ -608,12 +608,12 @@
       "market_cap_musd": 2740371.191531307,
       "country": "US",
       "currency": "USD",
-      "price": 260.99,
+      "price": 261.06,
       "open": 256.51,
       "day_high": 261.64,
       "day_low": 256.0,
       "prev_close": 254.06,
-      "day_change_pct": 2.73,
+      "day_change_pct": 2.76,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-09T18:28:16.634103+00:00"
+  "updated_at": "2026-10-09T18:43:20.047202+00:00"
 }
