@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "3 Stocks Poised to Gain as Google Brings Its AI Chips to Market",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0088a1bc0e5572d80f68fa2ee5ae7b00990f77bd2500012147db343c3e1139f9",
+      "datetime": 1791525420,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Jim Cramer Told a Broadcom (AVGO) Holder Not to Sell, and Said He Trimmed It Himself",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2b8307b25bb851499b94d526800be23e02ed5cad0c77860a038d8e3f4a9591a1",
@@ -152,14 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8766d43fd2b027ad9ce98ede47f1d5067414f215e398bb10623cd4fa608c5e89",
       "datetime": 1791497157,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia vs. Broadcom: Which AI Chip Stock Is the Better Buy for the Next 5 Years?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4f5c0ed61e2f3840a5c91a48ce06e2edd7964c85b43aac1ba3bca4ca906b05bd",
-      "datetime": 1791496140,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-09T05:58:15.045598+00:00"
+  "updated_at": "2026-10-09T06:13:15.048152+00:00"
 }
