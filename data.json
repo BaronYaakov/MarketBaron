@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "P",
+      "headline": "Top Storage Stock to Buy With $500 Right Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=647d46c9e0bdf91b7908545a7ede013fffde7b4e561f04a8c2c6c81e3b78da62",
+      "datetime": 1791539400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Prediction: Jeff Bezos Will One Day Reclaim The Title Of World\u2019s Richest Man. Here\u2019s Why Elon Musk\u2019s $650 Billion Lead Might Not Be Enough",
       "source": "Yahoo",
@@ -281,14 +289,6 @@
       "url": "https://finnhub.io/api/news?id=a7a9559a95a5a0aa28f9946c6d3cef61252074db3931e4e0186bf6fc6531673d",
       "datetime": 1791414749,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Exploring the top movers within the S&P500 index during today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=4969bb37167e933cfd7558289b21f83b2434a2d4a02d1d83b878f78ff6fb8b48",
-      "datetime": 1791399901,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "COR",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-09T10:13:15.153557+00:00"
+  "updated_at": "2026-10-09T10:28:15.783701+00:00"
 }
