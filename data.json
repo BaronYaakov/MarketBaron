@@ -60,6 +60,22 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Prediction: Jeff Bezos Will One Day Reclaim The Title Of World\u2019s Richest Man. Here\u2019s Why Elon Musk\u2019s $650 Billion Lead Might Not Be Enough",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=68a8f095c23a5ed3f8573ccd385bf8b093784134247aaf73b8b461b1c6fea07c",
+      "datetime": 1791535009,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon\u2019s New Alexa Tablets Cost Up to $550. Can It Keep Buyers Coming Back?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7a564b12a3d4f0a5542e4b8ae96a5ca524438ce64107faf14ca9c8523e9edf74",
+      "datetime": 1791532641,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Skydance Faces a Tough Lift. Netflix and Disney Are Better Bets.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=9f86627074d8916b46204007a5ebbf469a2a1607a6f8c2beca6e7b8858dff86c",
@@ -129,22 +145,6 @@
       "url": "https://finnhub.io/api/news?id=85a2f70411db67a50bbd7df7bcc3d4774dae50d6cdf68a0c04690dcadcd839e9",
       "datetime": 1791510451,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Snowflake: Fairly Priced Until Migrations Prove Themselves",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=761d9d58003ad71bd83b302820ba20428fae8f505d7a8be0a1e660177876026e",
-      "datetime": 1791506990,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Is the Market Underestimating Amazon\u2019s (AMZN) Moat?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e9e8657e8db391513cf311af51fb1744c0a263a1405530cebcfd236cccb4da72",
-      "datetime": 1791500822,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-09T09:58:14.973839+00:00"
+  "updated_at": "2026-10-09T10:13:15.153557+00:00"
 }
