@@ -59,6 +59,54 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Broadcom vs. Intel: Which Chip Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a07a1f0cae3dbe4e693111a1dd0253e8b8fdfe5e60cb9b6055d1b42fe8cbe862",
+      "datetime": 1791646502,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Consumer AI agents could upend online shopping - but who really wins?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=05108653561dbb7e61e7f252c5f616d34ee8973bdeb6604db127b8d61c84894e",
+      "datetime": 1791645060,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Investor Predicts Anthropic Could Be \u201cthe First\u201d $10 Trillion Company. Cue the Amazon + Google Payday",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=00b29d357e8dc8444cd964cf863dfef2da6fbc2297da88a442cc145cf2612d50",
+      "datetime": 1791644737,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom\u2019s AI Revenue Is Tripling, but the Stock Has Lagged. Is It Time to Load Up?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8f9a6501dc3aab368ea41dc3d95a9558dbf736286a6558f981ff6d72a43e5bff",
+      "datetime": 1791643423,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Here's What a $10,000 Investment in Broadcom Stock Could Be Worth in 5 Years. (Hint: It Could Be 1 of the Best AI Stocks to Buy Today.)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=68732d7b100512ba66a9e1d1576c3a53bdde85d92e9fabdf16c8eaff993bb779",
+      "datetime": 1791643200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "The Next Wave of AI Demand Could Send Broadcom, Marvell, and AMD Soaring",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f8f561ef84e3f719593cfc42dcd9d54da13246e2a9d11165b0479a57a97e02e6",
+      "datetime": 1791642657,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "AWS CEO Says AI Spending Isn\u2019t a Bubble Just Yet \u2014 Amazon\u2019s Cloud Chief Says \u2018We Feel Really Good\u2019 as Ray Dalio Warns the Boom Is Near a Breaking Point",
       "source": "Yahoo",
@@ -107,60 +155,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "This Forgotten AI Stock Is Up 689% and Nobody's Talking About It",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a538b559a0f1e817098b81d148f7a81a230ac4f314dc28a0fa2198dabcdd31bc",
-      "datetime": 1791609600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "AMZN",
       "headline": "Amazon Reshuffles Alexa Leadership: Can Alexa+ Move a $53 Billion Subscription Business?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c41b5d50aa52450df8a33df6ca695b59477462599994e785d195a26e7ca93e35",
       "datetime": 1791609216,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon: AWS Acceleration Supports My Strong Buy Rating",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=2473b491a67d9da9c22275e1170ebbcceab2d195d0c2e6137ee545e2183f0b7c",
-      "datetime": 1791608121,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "S&P 500 Index Concentration - Room At The Top",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=5222804a331d6195d734c895846797694e420afaf28c306ce296846077083e17",
-      "datetime": 1791606300,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Jim Cramer sends a reality check to AI stock investors after tumble",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=501b44f0a91e446842fab556a37383787558532a4870b42715f3c9a5acd65cae",
-      "datetime": 1791602220,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Should Qualcomm Stock Holders Look At First Solar Instead?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5de2651aeb015a26a295c6b9a5242dc5ef7c0541a0e16b987a63ea95aac8b2d7",
-      "datetime": 1791587589,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Jim Cramer Just Made the Case for the Dividend Stocks You Are Bored Of",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cd22a1c4d44b7615225455526e0f659ac5193aacf121d4f0da492bfad834a48e",
-      "datetime": 1791579607,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-10T15:58:14.992237+00:00"
+  "updated_at": "2026-10-10T16:13:15.025451+00:00"
 }
