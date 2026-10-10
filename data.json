@@ -76,6 +76,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "The 1-Minute Market Report October 10, 2026",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ff3b3be067a4c287f88208fb12b78c29d20a59d27d74e110fe1720f8e2fbea04",
+      "datetime": 1791630102,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Big Tech is betting $700 billion on AI. Healthcare will decide whether the bet pays off",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d4e0a727ea92b00175d42b900ecf6e3fd62e49ebdd28f00878113af3174b8254",
@@ -128,14 +136,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=5222804a331d6195d734c895846797694e420afaf28c306ce296846077083e17",
       "datetime": 1791606300,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Which Stocks Have the Biggest Exposure to Anthropic's Growth?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f6f70c9d6b8ebfe7b1372cf4e2ea005fb3a773c4264b2763179188008db07565",
-      "datetime": 1791606000,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-10T15:28:14.690368+00:00"
+  "updated_at": "2026-10-10T15:43:14.956658+00:00"
 }
