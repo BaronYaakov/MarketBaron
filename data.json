@@ -67,6 +67,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "B",
+      "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% Plus (October 2026)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d4f1fad9ff4940b69bbf8baed8448ad3d1454460013668fccccbcd262f2b0de5",
+      "datetime": 1791621300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom: Growth Reliance On OpenAI And Anthropic Becomes Concerning",
       "source": "SeekingAlpha",
@@ -355,14 +363,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
-      "ticker": "B",
-      "headline": "Can Kinross Gold Sustain Its Shareholder-Focused Momentum?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0378c63bc518e38ea8a5aaaef0fa379493708eca80f2d2a0b009765f81ba36c5",
-      "datetime": 1791286380,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "3 S&P 500 Stocks to Consider Right Now",
       "source": "Yahoo",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-10T12:43:14.537624+00:00"
+  "updated_at": "2026-10-10T12:58:14.665847+00:00"
 }
