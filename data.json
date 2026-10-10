@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Prediction: This Will Be the Next Big AI Gold Rush and This Company Will Be the Winner.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=692c79a463889d4c2a5d351152d508f81b1461df34e06aa088e3d1462ca3c9f7",
+      "datetime": 1791631501,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Broadcom: Growth Reliance On OpenAI And Anthropic Becomes Concerning",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=2eb6f8e9ac6b03b39a43132b0a26a36820b5391fe1e3a9a48295989f1ad07bb8",
@@ -144,14 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=cd22a1c4d44b7615225455526e0f659ac5193aacf121d4f0da492bfad834a48e",
       "datetime": 1791579607,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Here's What a $5,000 Investment in Broadcom Could Be Worth by 2032",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a0a7a3738e67a9ef93cdd944440270721485ed60e62c6809a0a6dffab4c6718c",
-      "datetime": 1791575400,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-10T11:58:14.548822+00:00"
+  "updated_at": "2026-10-10T12:13:14.393312+00:00"
 }
