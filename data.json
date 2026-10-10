@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Should Qualcomm Stock Holders Look At First Solar Instead?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5de2651aeb015a26a295c6b9a5242dc5ef7c0541a0e16b987a63ea95aac8b2d7",
+      "datetime": 1791587589,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Atomic Machines CEO on Developing 'Micro-Machines'",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=facfce472defeb9bb17d47732b4d45b137447b0c0132cef48eb1ad9171a6ef8c",
+      "datetime": 1791585879,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Microsoft vs. Alphabet: Which AI Cloud Stock Is Cheaper After the Capital Spending?",
       "source": "Yahoo",
@@ -123,14 +139,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Friday's session: top gainers and losers in the dow jones index",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=e8e3b8da2da0d6ae4d9558e72857a3ca0885d2701f5b383c0d396564a0c319c7",
-      "datetime": 1791573008,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Management Raised the Bar For NVIDIA Stock; Does The Chart Agree?",
       "source": "Yahoo",
@@ -144,14 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=767016c846cf36098c2e0699578d0de1856fdbe0e5bc265901c216b0135a4f10",
       "datetime": 1791566179,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "This AI Stock Snatches Share, Eyes Entry As Funds Pile In. Earnings Are Soaring.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a3308c1d0e4541641f18709c79e167566ca211d311bb39519f06e756ff3425ab",
-      "datetime": 1791565204,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -472,7 +472,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1719175.110586522,
+      "market_cap_musd": 1725858.218029766,
       "country": "US",
       "currency": "USD",
       "price": 361.54,
@@ -491,7 +491,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.barrick.com/",
       "ipo_date": "1983-05-02",
-      "market_cap_musd": 91906.185114,
+      "market_cap_musd": 93584.987955,
       "country": "CA",
       "currency": "USD",
       "price": 41.06,
@@ -510,7 +510,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.celestica.com/",
       "ipo_date": "1998-07-01",
-      "market_cap_musd": 66840.153029,
+      "market_cap_musd": 63885.366691,
       "country": "CA",
       "currency": "USD",
       "price": 362.16,
@@ -520,7 +520,7 @@
       "prev_close": 356.53,
       "day_change_pct": 1.58,
       "week52_high": 655.5,
-      "week52_low": 321.89
+      "week52_low": 330.79
     },
     "COR": {
       "name": "Cencora Inc",
@@ -529,7 +529,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 61322.313956709375,
+      "market_cap_musd": 61799.383078449355,
       "country": "US",
       "currency": "USD",
       "price": 323.85,
@@ -548,7 +548,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 69578.72023676717,
+      "market_cap_musd": 69934.6642306284,
       "country": "US",
       "currency": "USD",
       "price": 86.45,
@@ -567,7 +567,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 6999.991652696842,
+      "market_cap_musd": 6974.655647009307,
       "country": "US",
       "currency": "USD",
       "price": 19.27,
@@ -586,7 +586,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 50174.03040469199,
+      "market_cap_musd": 51480.28258200559,
       "country": "US",
       "currency": "USD",
       "price": 154.49,
@@ -595,7 +595,7 @@
       "day_low": 148.9,
       "prev_close": 150.57,
       "day_change_pct": 2.6,
-      "week52_high": 153.46,
+      "week52_high": 157.05,
       "week52_low": 56.78
     },
     "AMZN": {
@@ -605,7 +605,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2740371.191531307,
+      "market_cap_musd": 2830652.4747320856,
       "country": "US",
       "currency": "USD",
       "price": 262.43,
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-09T23:58:14.094212+00:00"
+  "updated_at": "2026-10-10T00:13:14.340281+00:00"
 }
