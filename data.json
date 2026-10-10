@@ -76,6 +76,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "Amazon: AWS Acceleration Supports My Strong Buy Rating",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2473b491a67d9da9c22275e1170ebbcceab2d195d0c2e6137ee545e2183f0b7c",
+      "datetime": 1791608121,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "S&P 500 Index Concentration - Room At The Top",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=5222804a331d6195d734c895846797694e420afaf28c306ce296846077083e17",
@@ -112,14 +120,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=25c9fd3aa4181b193f642f12cb69304ac2130209a29d310805872cba84474226",
       "datetime": 1791602100,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Procter & Gamble could face new cost problem",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=575415760fe38b6fb3d4adc54245984efb07fad7755b7290365b6c03a9c06d87",
-      "datetime": 1791596220,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-10T08:58:22.184237+00:00"
+  "updated_at": "2026-10-10T09:13:14.184175+00:00"
 }
