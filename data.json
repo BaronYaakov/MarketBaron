@@ -59,6 +59,30 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Amazon.com (AMZN) Patched Critical AWS Bedrock AgentCore Security Flaws",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c0794a766208e8e9d18f74383859a64af2defb42085a298b5feb22d632e3ca2",
+      "datetime": 1791652370,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Fuel Up Fridays Returns: How Prime Members Can Save Big at the Gas Pump",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9ca170fe07b15e4b9c384097c471afd730d660f4fd5f3789cc46c1164b55d780",
+      "datetime": 1791651625,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "3 Low-Cost ETFs Spreading Income Across Hundreds of Holdings. One Still Puts 7.35% Behind a Single Company",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b9ef3a927a71c6291bd6495d9e2aa92b06954eb1c40d4e989078877a4fe76410",
+      "datetime": 1791648192,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom vs. Intel: Which Chip Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
@@ -131,36 +155,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Big Tech is betting $700 billion on AI. Healthcare will decide whether the bet pays off",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d4e0a727ea92b00175d42b900ecf6e3fd62e49ebdd28f00878113af3174b8254",
-      "datetime": 1791628200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "B",
       "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% Plus (October 2026)",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=d4f1fad9ff4940b69bbf8baed8448ad3d1454460013668fccccbcd262f2b0de5",
       "datetime": 1791621300,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom: Growth Reliance On OpenAI And Anthropic Becomes Concerning",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=2eb6f8e9ac6b03b39a43132b0a26a36820b5391fe1e3a9a48295989f1ad07bb8",
-      "datetime": 1791615539,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Reshuffles Alexa Leadership: Can Alexa+ Move a $53 Billion Subscription Business?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c41b5d50aa52450df8a33df6ca695b59477462599994e785d195a26e7ca93e35",
-      "datetime": 1791609216,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-10T17:58:15.214389+00:00"
+  "updated_at": "2026-10-10T18:13:15.752196+00:00"
 }
