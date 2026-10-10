@@ -68,10 +68,26 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "Amazon Reshuffles Alexa Leadership: Can Alexa+ Move a $53 Billion Subscription Business?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c41b5d50aa52450df8a33df6ca695b59477462599994e785d195a26e7ca93e35",
+      "datetime": 1791609216,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Which Stocks Have the Biggest Exposure to Anthropic's Growth?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f6f70c9d6b8ebfe7b1372cf4e2ea005fb3a773c4264b2763179188008db07565",
       "datetime": 1791606000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon\u2019s Thane Data Center Fight: A $8.3 Billion Plan Inside a $173 Billion Capex Budget",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e25a8f94162fa4bd7408f2b98a9083ec20e97108e8655c0605d2a032b52c93b7",
+      "datetime": 1791605990,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -115,28 +131,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Microsoft vs. Alphabet: Which AI Cloud Stock Is Cheaper After the Capital Spending?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3e46aa14aebfbe2956ee8255726d8af6a69e90a7b7afe9d82fde9e9856f2a09d",
-      "datetime": 1791580827,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Jim Cramer Just Made the Case for the Dividend Stocks You Are Bored Of",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=cd22a1c4d44b7615225455526e0f659ac5193aacf121d4f0da492bfad834a48e",
       "datetime": 1791579607,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Jim Cramer Said NVIDIA\u2019s Shares Were Due For A Gut Check Following Morgan Stanley\u2019s Coverage",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bab91ef10a60e5d6456918da7c90e1606d5c50604c82fdfc99c82cbd364686e3",
-      "datetime": 1791577350,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-10T07:58:13.921079+00:00"
+  "updated_at": "2026-10-10T08:13:14.110738+00:00"
 }
