@@ -60,6 +60,22 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "This Forgotten AI Stock Is Up 689% and Nobody's Talking About It",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a538b559a0f1e817098b81d148f7a81a230ac4f314dc28a0fa2198dabcdd31bc",
+      "datetime": 1791609600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Which Stocks Have the Biggest Exposure to Anthropic's Growth?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f6f70c9d6b8ebfe7b1372cf4e2ea005fb3a773c4264b2763179188008db07565",
+      "datetime": 1791606000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Jim Cramer sends a reality check to AI stock investors after tumble",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=501b44f0a91e446842fab556a37383787558532a4870b42715f3c9a5acd65cae",
@@ -131,27 +147,11 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "What Could Surprise CoreWeave Stock Investors On The Upside?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7a66c1ae291228008e867b66f618835d7689b935959909a9860572fe7fffb98f",
-      "datetime": 1791574896,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Arm Stock Is Up 143% This Year: Take Profits, or Hold On for the Ride?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=586ffcc37bfc3d72da938e55beb9272a939869015dc029d229756909852105d3",
       "datetime": 1791573243,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Management Raised the Bar For NVIDIA Stock; Does The Chart Agree?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b82eadbdd4bf3444c8b21203cfdcc96ac7f6f8489c199a743de1a1a0ffb4b378",
-      "datetime": 1791570131,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-10T05:58:14.552625+00:00"
+  "updated_at": "2026-10-10T06:13:14.677899+00:00"
 }
