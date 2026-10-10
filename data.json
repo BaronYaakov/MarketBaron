@@ -67,28 +67,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Which Stocks Have the Biggest Exposure to Anthropic's Growth?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f6f70c9d6b8ebfe7b1372cf4e2ea005fb3a773c4264b2763179188008db07565",
-      "datetime": 1791606000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Jim Cramer sends a reality check to AI stock investors after tumble",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=501b44f0a91e446842fab556a37383787558532a4870b42715f3c9a5acd65cae",
       "datetime": 1791602220,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Procter & Gamble could face new cost problem",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=575415760fe38b6fb3d4adc54245984efb07fad7755b7290365b6c03a9c06d87",
-      "datetime": 1791596220,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -99,44 +83,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Atomic Machines CEO on Developing 'Micro-Machines'",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=facfce472defeb9bb17d47732b4d45b137447b0c0132cef48eb1ad9171a6ef8c",
-      "datetime": 1791585879,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Microsoft vs. Alphabet: Which AI Cloud Stock Is Cheaper After the Capital Spending?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3e46aa14aebfbe2956ee8255726d8af6a69e90a7b7afe9d82fde9e9856f2a09d",
-      "datetime": 1791580827,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Jim Cramer Just Made the Case for the Dividend Stocks You Are Bored Of",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=cd22a1c4d44b7615225455526e0f659ac5193aacf121d4f0da492bfad834a48e",
       "datetime": 1791579607,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Jim Cramer Said NVIDIA\u2019s Shares Were Due For A Gut Check Following Morgan Stanley\u2019s Coverage",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bab91ef10a60e5d6456918da7c90e1606d5c50604c82fdfc99c82cbd364686e3",
-      "datetime": 1791577350,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4bf1c55308cb0fec95eb17650c3c090a99ff1faebec0cc2ef7980b15d9e47416",
-      "datetime": 1791575469,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -153,14 +105,6 @@
       "url": "https://finnhub.io/api/news?id=586ffcc37bfc3d72da938e55beb9272a939869015dc029d229756909852105d3",
       "datetime": 1791573243,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Everpure Stock Surges 147% in Six Months: Is It Still a Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c5da707e90215f545b6567e3a86156c2cbbe9fa70d1c97819f7fb83f2adee056",
-      "datetime": 1791564960,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "ORLY",
@@ -195,36 +139,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "P",
-      "headline": "Top Storage Stock to Buy With $500 Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=647d46c9e0bdf91b7908545a7ede013fffde7b4e561f04a8c2c6c81e3b78da62",
-      "datetime": 1791539400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "What Are Everpure Investors Betting On?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=85a2f70411db67a50bbd7df7bcc3d4774dae50d6cdf68a0c04690dcadcd839e9",
-      "datetime": 1791510451,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "Celestica: $3B SPO Dip Unlocks A 65% Upside",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=05c18bcff22bb74945744d68068feb9a2a81949699778c4df31ff40a92308136",
       "datetime": 1791478449,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Primo Brands' Spring Water Sales Increase 4.1%: What's Driving Growth?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=91174189a0bf3e08412eee1b8497c4d2b5f76c04b05bd051e15b7b3ed72b968a",
-      "datetime": 1791476580,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     },
     {
       "ticker": "CLS",
@@ -259,14 +179,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "P",
-      "headline": "1 Growth Stock with Explosive Upside and 2 That Underwhelm",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=38b87fee1e9b1c8d19c3b12e11ceeb76c41016f18f3100a324bfa35133a6a7b9",
-      "datetime": 1791464169,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
       "ticker": "COR",
       "headline": "If You Invested $1000 In Cencora Stock 10 Years Ago, You Would Have This Much Today",
       "source": "Benzinga",
@@ -275,36 +187,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
-      "ticker": "P",
-      "headline": "Cramer\u2019s Stop Trading: Costco and Everpure",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=c5babd416e275805c6ffdc726fecf8775ef0afe209af2bddc287f52d47bb5114",
-      "datetime": 1791453968,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Eli Lilly To Rally Over 21%? Here Are 10 Top Analyst Forecasts For Thursday",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=8712679e68035a7653e67a091e12385ff8167b48802366bb003849d81147b513",
-      "datetime": 1791449882,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Cencora Q3 2026 Earnings Call Transcript",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=53319798fa49c05ae6ed79b7b62a4f1103c6e733ae092d29854fdbea50b44a0b",
       "datetime": 1791438829,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Transcript: Primo Brands Q2 2026 Earnings Conference Call",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=f7f8c0bfa3fdd3ef181e0fe7a8269988e49e7f23f4ecbd5beb005386778fa1b5",
-      "datetime": 1791433942,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     },
     {
       "ticker": "B",
@@ -329,14 +217,6 @@
       "url": "https://finnhub.io/api/news?id=80b5ced599608f957c1fac4001f92a2af11102d833fd5ac86a1e89856d0d8ee5",
       "datetime": 1791366670,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Primo Brands Announces Date for 2026 Third Quarter Earnings Release and Conference Call",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f67ab5fc54c4248ec90872f101bd6823b401b377562e8c00aed1e9ddd70b42d9",
-      "datetime": 1791317700,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     },
     {
       "ticker": "B",
@@ -624,5 +504,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-10T06:43:14.465078+00:00"
+  "updated_at": "2026-10-10T06:58:14.463125+00:00"
 }
