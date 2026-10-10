@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Broadcom: Growth Reliance On OpenAI And Anthropic Becomes Concerning",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2eb6f8e9ac6b03b39a43132b0a26a36820b5391fe1e3a9a48295989f1ad07bb8",
+      "datetime": 1791615539,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "This Forgotten AI Stock Is Up 689% and Nobody's Talking About It",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a538b559a0f1e817098b81d148f7a81a230ac4f314dc28a0fa2198dabcdd31bc",
@@ -144,14 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a0a7a3738e67a9ef93cdd944440270721485ed60e62c6809a0a6dffab4c6718c",
       "datetime": 1791575400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Arm Stock Is Up 143% This Year: Take Profits, or Hold On for the Ride?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=586ffcc37bfc3d72da938e55beb9272a939869015dc029d229756909852105d3",
-      "datetime": 1791573243,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-10T11:13:14.085188+00:00"
+  "updated_at": "2026-10-10T11:28:14.100125+00:00"
 }
