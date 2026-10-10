@@ -171,6 +171,22 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Celestica, Inc. (CLS) is Attracting Investor Attention: Here is What You Should Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=24f8c5d3af6cc05a1c9303423b1937b18c017ecfa1cde7ea08d045f4b7a4d85d",
+      "datetime": 1791547202,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "3 Canadian Growth Stocks With Earnings Growth Up To 67%",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9be9936a66817b740b86edaf6917de888e3a5cedbad59622adcd8275dfe67949",
+      "datetime": 1791544553,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "B",
       "headline": "Barrick to Report Third Quarter 2026 Results on November 9",
       "source": "Yahoo",
@@ -232,22 +248,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=5b755f298e791de8ab4a15f4c9f6344006881753c4c9803889cf5edad4180425",
       "datetime": 1791473157,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica Rises 25.7% YTD: Buy, Sell or Hold the Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=09e58fbb31208f7fc339625eb22d80901982cc96bef364c6ee9ce2e9af1bb211",
-      "datetime": 1791472620,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Can Celestica's Expanding Communications Portfolio Benefit the Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8bc06af669cbe926fe6a9392bbbff708032e6e70fdc279bd581fc7f7246eb047",
-      "datetime": 1791472260,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-10T00:58:14.259072+00:00"
+  "updated_at": "2026-10-10T01:13:14.436489+00:00"
 }
