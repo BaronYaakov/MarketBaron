@@ -76,6 +76,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "S&P 500 Index Concentration - Room At The Top",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5222804a331d6195d734c895846797694e420afaf28c306ce296846077083e17",
+      "datetime": 1791606300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Which Stocks Have the Biggest Exposure to Anthropic's Growth?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f6f70c9d6b8ebfe7b1372cf4e2ea005fb3a773c4264b2763179188008db07565",
@@ -121,14 +129,6 @@
       "url": "https://finnhub.io/api/news?id=5de2651aeb015a26a295c6b9a5242dc5ef7c0541a0e16b987a63ea95aac8b2d7",
       "datetime": 1791587589,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Atomic Machines CEO on Developing 'Micro-Machines'",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=facfce472defeb9bb17d47732b4d45b137447b0c0132cef48eb1ad9171a6ef8c",
-      "datetime": 1791585879,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-10T08:28:14.022731+00:00"
+  "updated_at": "2026-10-10T08:43:13.965006+00:00"
 }
