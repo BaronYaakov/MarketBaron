@@ -84,6 +84,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "The Hidden Risk In This Record-Breaking Market",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=25c9fd3aa4181b193f642f12cb69304ac2130209a29d310805872cba84474226",
+      "datetime": 1791602100,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Procter & Gamble could face new cost problem",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=575415760fe38b6fb3d4adc54245984efb07fad7755b7290365b6c03a9c06d87",
@@ -128,14 +136,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=bab91ef10a60e5d6456918da7c90e1606d5c50604c82fdfc99c82cbd364686e3",
       "datetime": 1791577350,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4bf1c55308cb0fec95eb17650c3c090a99ff1faebec0cc2ef7980b15d9e47416",
-      "datetime": 1791575469,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-10T07:28:13.902289+00:00"
+  "updated_at": "2026-10-10T07:43:14.113358+00:00"
 }
