@@ -60,6 +60,22 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Jim Cramer sends a reality check to AI stock investors after tumble",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=501b44f0a91e446842fab556a37383787558532a4870b42715f3c9a5acd65cae",
+      "datetime": 1791602220,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Procter & Gamble could face new cost problem",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=575415760fe38b6fb3d4adc54245984efb07fad7755b7290365b6c03a9c06d87",
+      "datetime": 1791596220,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Should Qualcomm Stock Holders Look At First Solar Instead?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5de2651aeb015a26a295c6b9a5242dc5ef7c0541a0e16b987a63ea95aac8b2d7",
@@ -131,27 +147,11 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Delta cuts outlook, Microsoft fights H-1B restrictions, Bezos eyes Blue Origin IPO",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=29895590be39d8554d2273cdd20f3bc580765bc68f65dd79499a4d1e588611bf",
-      "datetime": 1791573180,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Management Raised the Bar For NVIDIA Stock; Does The Chart Agree?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b82eadbdd4bf3444c8b21203cfdcc96ac7f6f8489c199a743de1a1a0ffb4b378",
       "datetime": 1791570131,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "How Investors May Respond To Berkshire Hathaway (BRK.A) Leadership Shift, Index Tilt, and Regulatory Scrutiny",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=767016c846cf36098c2e0699578d0de1856fdbe0e5bc265901c216b0135a4f10",
-      "datetime": 1791566179,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-10T04:58:14.991662+00:00"
+  "updated_at": "2026-10-10T05:13:15.296315+00:00"
 }
