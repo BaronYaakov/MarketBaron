@@ -60,10 +60,42 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Jeff Bezos has a blunt answer for why housing is so expensive",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6aaac42d1a9e191c064229668d2db079b1bbede83bb5617506a9ccdd1fbe0e3a",
+      "datetime": 1791754380,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Not Alphabet. Not Amazon. Microsoft Trades at Big Tech's Cheapest Valuation.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4e52232f63d589a8b81f66bf8d77a2f620fbd46fb151b456cacac026497cef4f",
+      "datetime": 1791749640,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Michael Moritz Says Most Investors Can\u2019t Do the One Thing That Actually Makes Money",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=42b73efe4408426374350440e4062eca2b573ab7199baf45bf6180e40000928a",
+      "datetime": 1791748818,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon and Alphabet Just Committed $420 Billion to Data Centers. 1 Stock Is the Better Buy.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=01a786a0f135b8e34ae002f5c662d8c407607d5e071fa680ed969b0df4cb99ef",
       "datetime": 1791742680,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "SpaceX, Telecom Sell-Off, Micron's A Grades, Steve Cress Origin Story",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c9a6f34ceccc5d3a3671098211168d4c8a87b81d898473c269c65300a40fb421",
+      "datetime": 1791741000,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -83,44 +115,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Jeff Bezos makes surprising prediction for workers as Amazon cuts jobs",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=344489c6a57fd738213f28dae284ec7dcef0e542d000c419b2c1eb9c194af6ef",
-      "datetime": 1791727620,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "How Broadcom\u2019s $42 Billion \u2018Loan\u2019 to Anthropic Is a Bet on a $2 Trillion IPO",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=eed9826ba2d1b873583dc3468d8e0505b669f90bf777148dfac5a09a9561f449",
       "datetime": 1791726315,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "S&P 500 Earnings Expected to Rise 31% in Q3 as AI-Related Companies Lead Growth",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c6553d0c7b6a33aaa0eb8fe2f3b37d5a1a1fe6864438106b13c6caf8af86682a",
-      "datetime": 1791724680,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Why \u2019Net Stocks\u2019 are down sharply this year despite Nasdaq\u2019s gains",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=335ffa3d60bd648df90ca3977cd3af862f52ed1ad5a6b922811f57d0ec7cc7f5",
-      "datetime": 1791723807,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Robert Reich Says Jeff Bezos Is \u2018Partly Right\u2019 That Doubling His Taxes Won\u2019t Help Teacher In Queens Since Some Years He Pays $0 \u2014 You Can\u2019t Double Nothing",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fde51f1e9a72545fac31b00acc4fd783a16f72b6c5d0dd4659f8651bcd212ce8",
-      "datetime": 1791721805,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "CLS",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-11T21:58:17.216998+00:00"
+  "updated_at": "2026-10-11T22:13:17.332051+00:00"
 }
