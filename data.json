@@ -60,6 +60,22 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "\u2018We\u2019re looking at a bubble here\u2019: Experts including Ray Dalio advise on how to protect your wealth as bond yields spike",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fe4d804901704c5e78d42167ae46ba168b237296b1077ebd358045abed71d7be",
+      "datetime": 1791715500,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon: The Economic Challenge Gets Bigger (Rating Downgrade)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fe7c7652392e179a25432fdc6f0e20526d665bc5fcfa8b38092e485acb2d9005",
+      "datetime": 1791705049,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "15 Years In, I've Never Seen The S&P 500 Hide So Much Damage",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=c3fd497feda965090ac30c3c1d3c5fda8be6e9cfcbf18170a203439eabb1c1b4",
@@ -96,22 +112,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=bc9df5f5fa0c7a96a75358f2cf8df6d73c0a296df3487e24bbb7179de9526bd0",
       "datetime": 1791658202,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Skydance Stock Is a Dicey Bet. 2 Better Plays.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=203bd7ee4a0243d17842b4d1b0f7b2101024e589a0debdf892c625697e60a871",
-      "datetime": 1791657720,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon.com (AMZN) Patched Critical AWS Bedrock AgentCore Security Flaws",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7c0794a766208e8e9d18f74383859a64af2defb42085a298b5feb22d632e3ca2",
-      "datetime": 1791652370,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-11T11:58:14.770454+00:00"
+  "updated_at": "2026-10-11T12:13:15.254204+00:00"
 }
