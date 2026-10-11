@@ -60,6 +60,30 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "S&P 500 Earnings Expected to Rise 31% in Q3 as AI-Related Companies Lead Growth",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c6553d0c7b6a33aaa0eb8fe2f3b37d5a1a1fe6864438106b13c6caf8af86682a",
+      "datetime": 1791724680,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Why \u2019Net Stocks\u2019 are down sharply this year despite Nasdaq\u2019s gains",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=335ffa3d60bd648df90ca3977cd3af862f52ed1ad5a6b922811f57d0ec7cc7f5",
+      "datetime": 1791723807,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Robert Reich Says Jeff Bezos Is \u2018Partly Right\u2019 That Doubling His Taxes Won\u2019t Help Teacher In Queens Since Some Years He Pays $0 \u2014 You Can\u2019t Double Nothing",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fde51f1e9a72545fac31b00acc4fd783a16f72b6c5d0dd4659f8651bcd212ce8",
+      "datetime": 1791721805,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "\u2018We\u2019re looking at a bubble here\u2019: Experts including Ray Dalio advise on how to protect your wealth as bond yields spike",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fe4d804901704c5e78d42167ae46ba168b237296b1077ebd358045abed71d7be",
@@ -83,36 +107,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Can CoreWeave Unseat Amazon Web Services as the Top Cloud Provider?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=af016f37940f83b294a6c7ae03cf672d041921185e15f17599825149c8eb8793",
-      "datetime": 1791675000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon (AMZN) Wants Investors to Finance $8 Billion of Nvidia Chips. Is AI Spending Getting Too Heavy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5439d0a6d4d5845f5c234a90752cc1486a967ee44ab685ae7416e3c9d2466ef7",
-      "datetime": 1791670286,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "3 Canadian Quality Stocks With ROE Over 29%",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=91c98adf9887a52702a9f38e273db5a581d41c6c5824b66e0e6bcf8586e9e6d3",
       "datetime": 1791666787,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Coupang vs. MercadoLibre: Which Consumer Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bc9df5f5fa0c7a96a75358f2cf8df6d73c0a296df3487e24bbb7179de9526bd0",
-      "datetime": 1791658202,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -156,10 +156,10 @@
     },
     {
       "ticker": "AVGO",
-      "headline": "Prediction: This Will Be the Next Big AI Gold Rush and This Company Will Be the Winner.",
+      "headline": "Why Nvidia\u2019s stock is dodging the AI credit scare that is crushing Broadcom and Oracle",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=692c79a463889d4c2a5d351152d508f81b1461df34e06aa088e3d1462ca3c9f7",
-      "datetime": 1791631501,
+      "url": "https://finnhub.io/api/news?id=ae5c23e11e55189b8ff7f9626c96e99e7f2c86283f348fa9aed5797d5e488eac",
+      "datetime": 1791635400,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-11T13:58:14.685625+00:00"
+  "updated_at": "2026-10-11T14:13:15.625227+00:00"
 }
