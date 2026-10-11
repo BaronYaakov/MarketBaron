@@ -75,6 +75,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "3 Canadian Quality Stocks With ROE Over 29%",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=91c98adf9887a52702a9f38e273db5a581d41c6c5824b66e0e6bcf8586e9e6d3",
+      "datetime": 1791666787,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Coupang vs. MercadoLibre: Which Consumer Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
@@ -248,14 +256,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c2fbb35a1ac26676bc732ad9890c60c061f2f1846fc3cbb317a7e47fce353da8",
       "datetime": 1791473640,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Shares of uranium and nuclear companies are trading lower amid growing concerns of escalating conflict in the Middle East and its impact on energy costs.",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=5b755f298e791de8ab4a15f4c9f6344006881753c4c9803889cf5edad4180425",
-      "datetime": 1791473157,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-11T00:28:15.689654+00:00"
+  "updated_at": "2026-10-11T00:43:16.609546+00:00"
 }
