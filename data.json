@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Amazon and Alphabet Just Committed $420 Billion to Data Centers. 1 Stock Is the Better Buy.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=01a786a0f135b8e34ae002f5c662d8c407607d5e071fa680ed969b0df4cb99ef",
+      "datetime": 1791742680,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "It Now Takes $4.4B To Make the Forbes 400: See America's 10 Richest People",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=efeecc16c57e17c46d04074221da4494af5c4c2acfc5edb20566d9cdfd57eaf9",
@@ -83,6 +91,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "How Broadcom\u2019s $42 Billion \u2018Loan\u2019 to Anthropic Is a Bet on a $2 Trillion IPO",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eed9826ba2d1b873583dc3468d8e0505b669f90bf777148dfac5a09a9561f449",
+      "datetime": 1791726315,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "S&P 500 Earnings Expected to Rise 31% in Q3 as AI-Related Companies Lead Growth",
       "source": "Yahoo",
@@ -104,14 +120,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fde51f1e9a72545fac31b00acc4fd783a16f72b6c5d0dd4659f8651bcd212ce8",
       "datetime": 1791721805,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "\u2018We\u2019re looking at a bubble here\u2019: Experts including Ray Dalio advise on how to protect your wealth as bond yields spike",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fe4d804901704c5e78d42167ae46ba168b237296b1077ebd358045abed71d7be",
-      "datetime": 1791715500,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -152,14 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=68732d7b100512ba66a9e1d1576c3a53bdde85d92e9fabdf16c8eaff993bb779",
       "datetime": 1791643200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "The Next Wave of AI Demand Could Send Broadcom, Marvell, and AMD Soaring",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f8f561ef84e3f719593cfc42dcd9d54da13246e2a9d11165b0479a57a97e02e6",
-      "datetime": 1791642657,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-11T19:58:16.570528+00:00"
+  "updated_at": "2026-10-11T20:13:17.967931+00:00"
 }
