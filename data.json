@@ -60,6 +60,22 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "It Now Takes $4.4B To Make the Forbes 400: See America's 10 Richest People",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=efeecc16c57e17c46d04074221da4494af5c4c2acfc5edb20566d9cdfd57eaf9",
+      "datetime": 1791738028,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Qualcomm Doesn't Look Cheap Next to Its AI Chip Peers. Here's Why.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ca42ae2de9ac21427d83ba65727f005cbeea4cac4b575476276bfd195d7167b8",
+      "datetime": 1791737400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Jeff Bezos makes surprising prediction for workers as Amazon cuts jobs",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=344489c6a57fd738213f28dae284ec7dcef0e542d000c419b2c1eb9c194af6ef",
@@ -96,14 +112,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fe4d804901704c5e78d42167ae46ba168b237296b1077ebd358045abed71d7be",
       "datetime": 1791715500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "China's AI Server Scheme, iPhone 18 Lead Times and More: This Week In Tech",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=3e947ae93dc014c2414707fae0a3620239f28160b2857d52deb00ad1998a9d1d",
-      "datetime": 1791709247,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -152,14 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f8f561ef84e3f719593cfc42dcd9d54da13246e2a9d11165b0479a57a97e02e6",
       "datetime": 1791642657,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Why Nvidia\u2019s stock is dodging the AI credit scare that is crushing Broadcom and Oracle",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ae5c23e11e55189b8ff7f9626c96e99e7f2c86283f348fa9aed5797d5e488eac",
-      "datetime": 1791635400,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-11T17:58:15.920674+00:00"
+  "updated_at": "2026-10-11T18:13:17.034867+00:00"
 }
