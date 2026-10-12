@@ -155,6 +155,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "ORLY",
+      "headline": "O'Reilly Automotive: High-Quality Compounder At A Reasonable Valuation",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4a5211544ca73a3f16fa91dea60143a71b0a7d306c3d407c60b90a2ade784a34",
+      "datetime": 1791799771,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "P",
       "headline": "Guggenheim Maintains Buy on Everpure, Raises Price Target to $215",
       "source": "Benzinga",
@@ -401,14 +409,6 @@
       "url": "https://finnhub.io/api/news?id=d78ffd39021735e4739cfbbd4e7ce2c89bcdbad94ff4f003fc44637d8d221831",
       "datetime": 1791212429,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "What is O\u2019Reilly Automotive\u2019s (ORLY) Economic Moat, and is it Widening or Narrowing?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a2e64797d878b4889bee724a448396ac39fcf8b0cf65ec3d594c42a56f0367ae",
-      "datetime": 1791172103,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     }
   ],
   "recent_posts": [],
@@ -467,12 +467,12 @@
       "market_cap_musd": 1725858.218029766,
       "country": "US",
       "currency": "USD",
-      "price": 356.21,
+      "price": 356.35,
       "open": 359.44,
       "day_high": 360.69,
-      "day_low": 355.9,
+      "day_low": 355.0,
       "prev_close": 361.54,
-      "day_change_pct": -1.47,
+      "day_change_pct": -1.44,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -486,12 +486,12 @@
       "market_cap_musd": 96333.611889,
       "country": "CA",
       "currency": "USD",
-      "price": 40.8,
+      "price": 40.83,
       "open": 40.69,
       "day_high": 40.98,
       "day_low": 40.59,
       "prev_close": 41.06,
-      "day_change_pct": -0.63,
+      "day_change_pct": -0.56,
       "week52_high": 74.0,
       "week52_low": 42.62
     },
@@ -505,12 +505,12 @@
       "market_cap_musd": 63885.366691,
       "country": "CA",
       "currency": "USD",
-      "price": 357.49,
+      "price": 360.19,
       "open": 360.07,
       "day_high": 364.0,
       "day_low": 351.33,
       "prev_close": 362.16,
-      "day_change_pct": -1.29,
+      "day_change_pct": -0.54,
       "week52_high": 655.5,
       "week52_low": 330.79
     },
@@ -524,12 +524,12 @@
       "market_cap_musd": 61799.383078449355,
       "country": "US",
       "currency": "USD",
-      "price": 325.67,
+      "price": 326.45,
       "open": 325.38,
       "day_high": 327.96,
       "day_low": 324.33,
       "prev_close": 323.85,
-      "day_change_pct": 0.56,
+      "day_change_pct": 0.8,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -543,12 +543,12 @@
       "market_cap_musd": 69934.6642306284,
       "country": "US",
       "currency": "USD",
-      "price": 86.18,
+      "price": 86.13,
       "open": 86.84,
       "day_high": 86.93,
       "day_low": 85.47,
       "prev_close": 86.45,
-      "day_change_pct": -0.31,
+      "day_change_pct": -0.37,
       "week52_high": 104.06,
       "week52_low": 82.59
     },
@@ -562,12 +562,12 @@
       "market_cap_musd": 6974.655647009307,
       "country": "US",
       "currency": "USD",
-      "price": 19.39,
+      "price": 19.38,
       "open": 19.18,
-      "day_high": 19.4,
+      "day_high": 19.43,
       "day_low": 19.02,
       "prev_close": 19.27,
-      "day_change_pct": 0.62,
+      "day_change_pct": 0.57,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -581,12 +581,12 @@
       "market_cap_musd": 51480.28258200559,
       "country": "US",
       "currency": "USD",
-      "price": 155.03,
+      "price": 153.44,
       "open": 154.78,
       "day_high": 155.35,
       "day_low": 152.33,
       "prev_close": 154.49,
-      "day_change_pct": 0.35,
+      "day_change_pct": -0.68,
       "week52_high": 157.05,
       "week52_low": 56.78
     },
@@ -600,12 +600,12 @@
       "market_cap_musd": 2830652.4747320856,
       "country": "US",
       "currency": "USD",
-      "price": 261.27,
+      "price": 261.51,
       "open": 262.51,
       "day_high": 263.7,
       "day_low": 260.11,
       "prev_close": 262.43,
-      "day_change_pct": -0.44,
+      "day_change_pct": -0.35,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-12T14:28:17.185773+00:00"
+  "updated_at": "2026-10-12T14:43:17.197835+00:00"
 }
