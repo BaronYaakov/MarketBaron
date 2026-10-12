@@ -60,6 +60,30 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Amazon in talks to acquire AI startup Decart for $7 bln- WSJ",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=268402ca4ba5360b71536086597da3438fd85a1c5b48d0b3d40093224f69ae0f",
+      "datetime": 1791762902,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Not Nvidia. Not Broadcom. This Little-Known Chip Supplier Could Be the AI Boom's Best-Kept Secret.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=48e3301fa687f34640b060c5a4135c07a2eb52670133fb68e27497a37c862e98",
+      "datetime": 1791762600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Forget Chasing Volume. Here's the Most Active Stock I'd Actually Hold for 5 Years.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2945336890d7786e356d796c62f2a4ac16657e67e077c716cf623d4d440deac2",
+      "datetime": 1791760800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Jeff Bezos has a blunt answer for why housing is so expensive",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6aaac42d1a9e191c064229668d2db079b1bbede83bb5617506a9ccdd1fbe0e3a",
@@ -68,42 +92,26 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "Amazon.com In Talks to Buy Software Start-Up Decart AI: WSJ",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2b5e9fa658cb07c1a96c9fb43e7615d6cc0c677252975be65fbecd9da5b79f14",
+      "datetime": 1791753960,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9ceacb7cef599d9f4a8e7f094f00b04b046876bcddbc71396900d398cc7fd22c",
+      "datetime": 1791751612,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Not Alphabet. Not Amazon. Microsoft Trades at Big Tech's Cheapest Valuation.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4e52232f63d589a8b81f66bf8d77a2f620fbd46fb151b456cacac026497cef4f",
       "datetime": 1791749640,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Michael Moritz Says Most Investors Can\u2019t Do the One Thing That Actually Makes Money",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=42b73efe4408426374350440e4062eca2b573ab7199baf45bf6180e40000928a",
-      "datetime": 1791748818,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon and Alphabet Just Committed $420 Billion to Data Centers. 1 Stock Is the Better Buy.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=01a786a0f135b8e34ae002f5c662d8c407607d5e071fa680ed969b0df4cb99ef",
-      "datetime": 1791742680,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "SpaceX, Telecom Sell-Off, Micron's A Grades, Steve Cress Origin Story",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c9a6f34ceccc5d3a3671098211168d4c8a87b81d898473c269c65300a40fb421",
-      "datetime": 1791741000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "It Now Takes $4.4B To Make the Forbes 400: See America's 10 Richest People",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=efeecc16c57e17c46d04074221da4494af5c4c2acfc5edb20566d9cdfd57eaf9",
-      "datetime": 1791738028,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -152,14 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8f9a6501dc3aab368ea41dc3d95a9558dbf736286a6558f981ff6d72a43e5bff",
       "datetime": 1791643423,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Here's What a $10,000 Investment in Broadcom Stock Could Be Worth in 5 Years. (Hint: It Could Be 1 of the Best AI Stocks to Buy Today.)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=68732d7b100512ba66a9e1d1576c3a53bdde85d92e9fabdf16c8eaff993bb779",
-      "datetime": 1791643200,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -491,7 +491,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.barrick.com/",
       "ipo_date": "1983-05-02",
-      "market_cap_musd": 93584.987955,
+      "market_cap_musd": 96333.611889,
       "country": "CA",
       "currency": "USD",
       "price": 41.06,
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-11T23:58:16.436838+00:00"
+  "updated_at": "2026-10-12T00:13:19.053943+00:00"
 }
