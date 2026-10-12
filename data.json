@@ -60,6 +60,46 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "AMZN Stock Inches Up Overnight: Amazon Reportedly Nears $7B Deal For Decart AI After Anthropic Walks Away",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b95eb2d2f47c3f58897ce6ab1a497520fca17d3ebd725496674a740df04420ee",
+      "datetime": 1791773662,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "SPCX, TSM,  APLD, AMZN, TSLA: Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=68ac22fff068edbd38e4f50bb1f20b289b4fc9740a4311a69f4b58ae2e1ed3c6",
+      "datetime": 1791771230,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Reportedly in Talks to Buy Decart for $7 Billion \u2014 Market Strategist Says It Is 'Effectively Buying Software Expertise'",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a367def9e13c86552b7d822a9a6e18d4c280eb5418fa1095bfa801cf0010cef9",
+      "datetime": 1791768776,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "$15 doorbell camera became Amazon's second-largest acquisition.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d61f2455a1058b45acfd9f69f2328ff39ca4f7ca91fece7169cd7a6b16bececf",
+      "datetime": 1791768725,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom (AVGO) To Launch AI Networking Platform At OCP Global Summit 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e83faa633008e64cff05f82fc875b2867eb642d4a19eff963ef7080901daa32a",
+      "datetime": 1791767494,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon in talks to acquire AI startup Decart for $7 bln- WSJ",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=268402ca4ba5360b71536086597da3438fd85a1c5b48d0b3d40093224f69ae0f",
@@ -91,38 +131,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Jeff Bezos has a blunt answer for why housing is so expensive",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6aaac42d1a9e191c064229668d2db079b1bbede83bb5617506a9ccdd1fbe0e3a",
-      "datetime": 1791754380,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon.com In Talks to Buy Software Start-Up Decart AI: WSJ",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2b5e9fa658cb07c1a96c9fb43e7615d6cc0c677252975be65fbecd9da5b79f14",
-      "datetime": 1791753960,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9ceacb7cef599d9f4a8e7f094f00b04b046876bcddbc71396900d398cc7fd22c",
-      "datetime": 1791751612,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Not Alphabet. Not Amazon. Microsoft Trades at Big Tech's Cheapest Valuation.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4e52232f63d589a8b81f66bf8d77a2f620fbd46fb151b456cacac026497cef4f",
-      "datetime": 1791749640,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Qualcomm Doesn't Look Cheap Next to Its AI Chip Peers. Here's Why.",
       "source": "Yahoo",
@@ -152,14 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b9ef3a927a71c6291bd6495d9e2aa92b06954eb1c40d4e989078877a4fe76410",
       "datetime": 1791648192,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom vs. Intel: Which Chip Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a07a1f0cae3dbe4e693111a1dd0253e8b8fdfe5e60cb9b6055d1b42fe8cbe862",
-      "datetime": 1791646502,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -409,14 +409,6 @@
       "url": "https://finnhub.io/api/news?id=a2e64797d878b4889bee724a448396ac39fcf8b0cf65ec3d594c42a56f0367ae",
       "datetime": 1791172103,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Amgen vs. Vertex Pharmaceuticals: Which Biotech Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=773d3787e684fba498bba3b49094c209329c0e46fcca5973e7c495eb6d0c1b89",
-      "datetime": 1791124497,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     }
   ],
   "recent_posts": [],
@@ -624,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-12T04:58:15.981849+00:00"
+  "updated_at": "2026-10-12T05:13:15.994956+00:00"
 }
