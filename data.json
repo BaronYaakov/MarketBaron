@@ -83,6 +83,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "CPI, PPI And Q3 Earnings Soon, October Could End Roughly",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=750a9ed51fb72337ccfdf7227a3b76ab93be93e58cda8d867b4bb687a5f81176",
+      "datetime": 1791756045,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Jeff Bezos has a blunt answer for why housing is so expensive",
       "source": "Yahoo",
@@ -152,14 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a07a1f0cae3dbe4e693111a1dd0253e8b8fdfe5e60cb9b6055d1b42fe8cbe862",
       "datetime": 1791646502,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom\u2019s AI Revenue Is Tripling, but the Stock Has Lagged. Is It Time to Load Up?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8f9a6501dc3aab368ea41dc3d95a9558dbf736286a6558f981ff6d72a43e5bff",
-      "datetime": 1791643423,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-12T02:13:17.732778+00:00"
+  "updated_at": "2026-10-12T02:28:18.224509+00:00"
 }
