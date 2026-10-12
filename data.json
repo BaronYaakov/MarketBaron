@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Uncover the latest developments among dow jones stocks in today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=2333ac8c91406bf34315edb5c62ab7e754d81f2a9f8505fec08c8fc60def9b8a",
+      "datetime": 1791823213,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Best Buy takes the fight to Amazon and Walmart",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4e3ea8e40e09d0089ffb4c98d1f77b8e5bc24b4491b866f7a2f2e596554d758b",
@@ -120,14 +128,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0917f624ea7c857b5d36ea6a86b915d970c7c1185475cb1f74e54609632a6d84",
       "datetime": 1791816482,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "I\u2019m Making a Contrarian Bet on Oracle at What Seems Like The Worst Moment Possible",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a37dd4da76a30ddf654063466b980983c3a0b619289780401b3f6db4bc42fa64",
-      "datetime": 1791816346,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -467,12 +467,12 @@
       "market_cap_musd": 1725858.218029766,
       "country": "US",
       "currency": "USD",
-      "price": 356.16,
+      "price": 357.09,
       "open": 359.44,
       "day_high": 360.69,
       "day_low": 355.0,
       "prev_close": 361.54,
-      "day_change_pct": -1.49,
+      "day_change_pct": -1.23,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -486,12 +486,12 @@
       "market_cap_musd": 96333.611889,
       "country": "CA",
       "currency": "USD",
-      "price": 40.89,
+      "price": 40.93,
       "open": 40.69,
       "day_high": 40.98,
       "day_low": 40.59,
       "prev_close": 41.06,
-      "day_change_pct": -0.41,
+      "day_change_pct": -0.32,
       "week52_high": 74.0,
       "week52_low": 42.62
     },
@@ -505,12 +505,12 @@
       "market_cap_musd": 63885.366691,
       "country": "CA",
       "currency": "USD",
-      "price": 349.52,
+      "price": 349.84,
       "open": 360.07,
       "day_high": 364.0,
       "day_low": 348.77,
       "prev_close": 362.16,
-      "day_change_pct": -3.49,
+      "day_change_pct": -3.4,
       "week52_high": 655.5,
       "week52_low": 330.79
     },
@@ -524,12 +524,12 @@
       "market_cap_musd": 61799.383078449355,
       "country": "US",
       "currency": "USD",
-      "price": 325.05,
+      "price": 324.54,
       "open": 325.38,
       "day_high": 327.96,
       "day_low": 323.64,
       "prev_close": 323.85,
-      "day_change_pct": 0.37,
+      "day_change_pct": 0.21,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -562,12 +562,12 @@
       "market_cap_musd": 6974.655647009307,
       "country": "US",
       "currency": "USD",
-      "price": 19.17,
+      "price": 19.15,
       "open": 19.18,
       "day_high": 19.43,
       "day_low": 19.02,
       "prev_close": 19.27,
-      "day_change_pct": -0.52,
+      "day_change_pct": -0.62,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -581,12 +581,12 @@
       "market_cap_musd": 51480.28258200559,
       "country": "US",
       "currency": "USD",
-      "price": 152.44,
+      "price": 153.31,
       "open": 154.78,
       "day_high": 155.35,
       "day_low": 151.4,
       "prev_close": 154.49,
-      "day_change_pct": -1.33,
+      "day_change_pct": -0.76,
       "week52_high": 157.05,
       "week52_low": 56.78
     },
@@ -600,12 +600,12 @@
       "market_cap_musd": 2830652.4747320856,
       "country": "US",
       "currency": "USD",
-      "price": 259.55,
+      "price": 259.7,
       "open": 262.51,
       "day_high": 263.7,
       "day_low": 259.3,
       "prev_close": 262.43,
-      "day_change_pct": -1.1,
+      "day_change_pct": -1.04,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-12T16:58:18.639659+00:00"
+  "updated_at": "2026-10-12T17:13:17.750024+00:00"
 }
