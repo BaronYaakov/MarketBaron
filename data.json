@@ -124,6 +124,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "Wall Street Breakfast Podcast: GTA 6 Threat Sends Token Up",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=acf62e6ab3db2b10d19d0586e7d937ad0765608bed357e06d6f59572d383fc18",
+      "datetime": 1791788100,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Sirius XM: This Living Dead Is Ready To Rise",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=3f3e8968fdc631a19cd7fe2ad54f9d2892529fa68528f9a6d336fd874f486043",
@@ -137,14 +145,6 @@
       "url": "https://finnhub.io/api/news?id=1edbf9494a9dc6fa9debd9ff4e22ca1b4d9899ab2fbf368e505ffb592f282888",
       "datetime": 1791775750,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "SCHG Vs. GARP: Ride Memory Now, Own The Hyperscalers Later",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=1edbf9494a9dc6fa9debd9ff4e22ca1b4d9899ab2fbf368e505ffb592f282888",
-      "datetime": 1791775750,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-12T10:58:15.727212+00:00"
+  "updated_at": "2026-10-12T11:13:16.154366+00:00"
 }
