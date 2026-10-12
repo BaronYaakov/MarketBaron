@@ -60,11 +60,91 @@
   "news": [
     {
       "ticker": "AMZN",
-      "headline": "Microsoft just reclaimed its $4T market cap, thanks to its Maia 300 AI chip",
+      "headline": "You Bought VOO to Own the S&P 500. On $500,000, One Chipmaker Is $40,400 of It",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=64c51f3f54e043b957468f170adb603ea220a9fee2556ac022c6f50494cea199",
-      "datetime": 1791834428,
+      "url": "https://finnhub.io/api/news?id=168c2e81b310c99e844075634ccb02350cf9070d35303be37bec2dcf182d63cd",
+      "datetime": 1791840812,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Is Walmart Stock Increasing Your Market Risk?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=341981556baa45defaad2499685c52f7bc1c52fa27a1f8317a9c01e46efd92cd",
+      "datetime": 1791839345,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "What Is The One Risk Every Home Depot Investor Should Know?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6d46c94f1085d978dfc1cf3692f7c5dc22d0032430e14f39480141c76ca0ae5c",
+      "datetime": 1791838459,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "3 Dividend Paying Stocks Offering AI Exposure",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f7ed4dedfe5bb54bff0a14f84566c034d1031cb47a76a82ad116d600395c80dd",
+      "datetime": 1791838020,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Nvidia (NVDA) vs. Broadcom (AVGO): Which AI Stock Is a Better Buy After the OpenAI Scare?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fe950936ca9c51e83747140fb2468e083a38eba8ede0d39917fc600b768f189c",
+      "datetime": 1791837668,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "ASML CEO Says AI Chip Boom Could Stretch Beyond 2028, but Broadcom Warns of Financing Bottleneck",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=03763869c9b37afc3b64c8a185a0158e0d0e75f9bc181bf6b35464ccab7a39e0",
+      "datetime": 1791837008,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "United Airlines is rapidly deploying Elon Musk's Starlink, giving it a 'head start' over other airlines: Analyst",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3c1e66f1ae0febde8a7d1f31800356d06a91b8d9adc7866e6e82736c654fe795",
+      "datetime": 1791836633,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Why Lumentum Sank Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6e4c664b3df278ab161df98c0003d6c569292e566c77bbc8e9beeca9a43299ba",
+      "datetime": 1791836458,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The Staggering Costs of a Single Data Center, From Land to Chips",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=97cf4c967938bdb17ea4804283408f6da58f929073c4ddf3e6e291eef01dd38c",
+      "datetime": 1791836232,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Better High-Yield Dividend Stock: UPS vs. Energy Transfer",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=171c5988c51edd8cadcce848f7796fe9d7da102e8ed23d171925afd294c88f71",
+      "datetime": 1791835724,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom CEO Says Many AI Investors Have \u2018No Clue,\u2019 Likens Boom to a Casino",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e53128b24f96d0c45924090f12eca71e0af1b636b936cdaf76128a8c6ed181f5",
+      "datetime": 1791833718,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -72,86 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f5da460903b120e03641777b69800bb4b912d7c703c7891759803f237b9626e0",
       "datetime": 1791833401,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Should You Buy Target Stock At This Price?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f0ed77ab805a7c8e1eab98efece0d8cb00ca29f19ee6a87a9f5ddc5374d7aa8e",
-      "datetime": 1791833337,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Better High-Yield Dividend Stock: UPS vs. General Mills",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3c364d1c048dd96b6575bb7813ff091bb51792765fdacf1d7e278f56bcfb14e5",
-      "datetime": 1791833219,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "What Does NVIDIA Offer That Marvell Does Not?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=71af332cd766ac84194a598e771bbea846f054fac024ac252deee52203b02464",
-      "datetime": 1791832299,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Uncover the latest developments among dow jones stocks in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=02ccc14928cac6b07e502b3a1349a262b04aa03aacb6c39874473bea74c00ca6",
-      "datetime": 1791832213,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "d-Matrix Announces Squadron Compute Clusters for AI Inference at Data Center Scale",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=79a7e39b02221b609187febb6a5349fb17166d82ae3867cef802be4e872ec372",
-      "datetime": 1791831600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "What Could Netflix Stock Be Worth In Three Years?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=35dbb6e5ea1790d14bcc8fe50eae814a50bc94068819bc4c1cb3bce02b7a6bbd",
-      "datetime": 1791831463,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The bull market\u2019s four-year run, EV demand, and interest rates threaten earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8cb5fd11bb4ae12914c588b87c2df09bb0737fecb4a99ebf5d0bc186c1f71f40",
-      "datetime": 1791828773,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Chip Stocks Fall As Broadcom, Intel CEOs Warn About AI Funding",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f9d85bdd79f60c654aee7a7394da95be0ce1ee39a675cb2a9e3cfadb95b24108",
-      "datetime": 1791827532,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Is Building an AI Business Unlike Nvidia\u2019s. Here\u2019s My Price Prediction",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0a26ce5cb2a02367879a1ab1d12bd53d8ab50899bcf85d0801ab934b64ac4cae",
-      "datetime": 1791826227,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Why the AI Trade Is Suddenly Struggling",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4dbacad6f1a9ef5b7fa46e86da2089356560fa8925a5993338e206d0532edfb2",
-      "datetime": 1791825076,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-12T21:58:22.334654+00:00"
+  "updated_at": "2026-10-12T22:13:36.317274+00:00"
 }
