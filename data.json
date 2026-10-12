@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "SCHG Vs. GARP: Ride Memory Now, Own The Hyperscalers Later",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1edbf9494a9dc6fa9debd9ff4e22ca1b4d9899ab2fbf368e505ffb592f282888",
+      "datetime": 1791775750,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "SCHG Vs. GARP: Ride Memory Now, Own The Hyperscalers Later",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1edbf9494a9dc6fa9debd9ff4e22ca1b4d9899ab2fbf368e505ffb592f282888",
+      "datetime": 1791775750,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "AMZN Stock Inches Up Overnight: Amazon Reportedly Nears $7B Deal For Decart AI After Anthropic Walks Away",
       "source": "Yahoo",
@@ -115,14 +131,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Forget Chasing Volume. Here's the Most Active Stock I'd Actually Hold for 5 Years.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2945336890d7786e356d796c62f2a4ac16657e67e077c716cf623d4d440deac2",
-      "datetime": 1791760800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "CPI, PPI And Q3 Earnings Soon, October Could End Roughly",
       "source": "SeekingAlpha",
@@ -153,14 +161,6 @@
       "url": "https://finnhub.io/api/news?id=91c98adf9887a52702a9f38e273db5a581d41c6c5824b66e0e6bcf8586e9e6d3",
       "datetime": 1791666787,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "3 Low-Cost ETFs Spreading Income Across Hundreds of Holdings. One Still Puts 7.35% Behind a Single Company",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b9ef3a927a71c6291bd6495d9e2aa92b06954eb1c40d4e989078877a4fe76410",
-      "datetime": 1791648192,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "B",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-12T07:43:14.891898+00:00"
+  "updated_at": "2026-10-12T07:58:15.174410+00:00"
 }
