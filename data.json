@@ -59,99 +59,99 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
-      "ticker": "AMZN",
-      "headline": "Salesforce Just Turned the Agent Allowlist Into a CRM Product",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=54a19565c2ac70a5de2a1b859e88466eddbda6abac3b22575f935acb9e23b223",
-      "datetime": 1791804810,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon in talks to acquire AI startup Decart for $7 billion",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d0dfbdbde4a1782452210173247d9b360bf2085295bb4f3615ac7935ee2f2aa0",
-      "datetime": 1791803821,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "What Projected Job Cuts at These Two Mag 7 Firms Says About AI in 2027",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0fa360b13baf1471febdee0366e7a186ff8bfd88fbecaabf835486fc5aa08fe7",
-      "datetime": 1791803739,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
-      "headline": "Adding Nvidia During The Current Uncertainty is How Fortunes Are Made",
+      "headline": "ChatGPT Sells Broadcom (AVGO) and Buys This Online Retailer",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4f9348bc043986474195c4e78c200db24f7c3e035ddeda08ee67eef43da0922a",
-      "datetime": 1791803713,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom CEO Hock Tan calls AI investors casino gamblers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3fb746ebd648a94cec914094f6c4f6604a1339accf58b5139d11ce8fec1f56ed",
-      "datetime": 1791803342,
+      "url": "https://finnhub.io/api/news?id=4d19658685e9fa6196b8409d1ca9245a62f957719a996789ed90d65ad9455201",
+      "datetime": 1791812640,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "From Brooklyn to Home Depot, Walmart and Amazon: Mitch Gould's Retail Journey",
+      "headline": "Microsoft unveils the Maia 300, its latest AI chip",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7236ca2e62050d6d09a64f4d69524934757f8221193b554985ab06e51f9ed9a5",
-      "datetime": 1791802800,
+      "url": "https://finnhub.io/api/news?id=cb72764c1c1ca869a42302399e3683560b0ee5bbe2b6e567a06295f4ac6a2b73",
+      "datetime": 1791811815,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Businesses Risk Wave of Democratic Probes on Costs, Corruption",
+      "headline": "Amazon Reportedly In Talks To Acquire AI Startup Decart For $7 Billion",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7df9c37db85faeab03dde576bff85fbb66b34f388dbb81a6ca3e46f373e13e30",
-      "datetime": 1791802800,
+      "url": "https://finnhub.io/api/news?id=edbb122282e878e2554a0ec9df2a296c4ccc79fa6ccbae36916b25f3d9f02754",
+      "datetime": 1791811796,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
-      "headline": "Broadcom CEO says many AI investors are gamblers",
+      "headline": "S&P 500 Just Hit Record High in October. History Stands Ready to Repeat Itself.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2f28c2ae04158f68f1f32c1d59684c728af18d223bb03c497717d262f0da382e",
-      "datetime": 1791802524,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom CEO Sees Capital as Main Constraint on AI Growth Despite Easing Chip Shortages",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=529ea7f75e454669c0464f32fd679e92d577a2abe98c7c938ac14de3d6e21fe0",
-      "datetime": 1791801265,
+      "url": "https://finnhub.io/api/news?id=b33bcf2cb97c5075230355f7950e9aac1f728a8d9ff85b29fe4851a652b2a5b5",
+      "datetime": 1791810332,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Sandisk, IREN, SK Hynix, Amazon, and More Stocks That Explain Today\u2019s Market",
+      "headline": "S&P 500 Just Hit Record High in October. History Stands Ready to Repeat Itself.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=33bfdb331a467406464adefca966731851bbf652bc96c5eb2f485ff6f2a17d66",
-      "datetime": 1791800880,
+      "url": "https://finnhub.io/api/news?id=b33bcf2cb97c5075230355f7950e9aac1f728a8d9ff85b29fe4851a652b2a5b5",
+      "datetime": 1791810332,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "58 Analysts, Zero Sells, 28% Upside: Amazon\u2019s Setup Right Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=712fdf8e61455769afdf7b956313c32f95a080023c176d029a4c8b2dfbb557e5",
+      "datetime": 1791810042,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Microsoft Unveils New Maia AI Chips. What to Know.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c684c41377f2aefb018ddd842830f2df1d4bf6248341166b9d8a4179b0375015",
+      "datetime": 1791810000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Negotiates $7 Billion Deal to Acquire AI Startup Decart",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5727c14986c22abb6ec223167d6f123254e07377eac49dece97962e2453297d1",
+      "datetime": 1791809948,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
-      "headline": "Broadcom CEO Likens Many AI Investors to Casino Gamblers",
+      "headline": "Broadcom Vs. Oracle: Whose AI Chip Debt Financing Scheme Looks Worse?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=badb847250fe70cdf1f6a8b1a793023a4109634af6f43de3dd0308b44f5939bd",
-      "datetime": 1791799132,
+      "url": "https://finnhub.io/api/news?id=4d17ccceb070fa276870ae7775c9b5dd1c7b938a3b865b673b2886c6f6d22e9f",
+      "datetime": 1791809133,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
-      "headline": "3 Australian Stocks Trading Up To 43% Below Fair Value",
+      "headline": "Zacks Investment Ideas feature highlights: Qualcomm, Alphabet, Tesla, AMD, Amazon, Taiwan Semiconductor, NVIDIA, Intel, Apple, Broadcom and SpaceX",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=51bb64bf7bb30646ef47b3541a273e37cec90a6af2d962c42fd156852877b032",
-      "datetime": 1791796307,
+      "url": "https://finnhub.io/api/news?id=2b32edb09e61822e1df182f7d813ab3b9a0b6ff19bb137bb5cda166ece4db10d",
+      "datetime": 1791806760,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "The AI Spending Boom Could Be Just Getting Started for This Company",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4264bd8a28920d454322dfa90bfde4e75aa2c01dce652fe06ae39f7bc4e54690",
+      "datetime": 1791806457,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Here is What to Know Beyond Why Broadcom Inc. (AVGO) is a Trending Stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=335e5e899371774a1ef44489607a5a882772b02dbd84bc48bb7da65b0e97208d",
+      "datetime": 1791806404,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -467,12 +467,12 @@
       "market_cap_musd": 1725858.218029766,
       "country": "US",
       "currency": "USD",
-      "price": 359.75,
+      "price": 356.55,
       "open": 359.44,
       "day_high": 360.69,
-      "day_low": 357.55,
+      "day_low": 356.38,
       "prev_close": 361.54,
-      "day_change_pct": -0.5,
+      "day_change_pct": -1.38,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -486,12 +486,12 @@
       "market_cap_musd": 96333.611889,
       "country": "CA",
       "currency": "USD",
-      "price": 40.9,
+      "price": 40.92,
       "open": 40.69,
-      "day_high": 40.94,
+      "day_high": 40.98,
       "day_low": 40.59,
       "prev_close": 41.06,
-      "day_change_pct": -0.39,
+      "day_change_pct": -0.34,
       "week52_high": 74.0,
       "week52_low": 42.62
     },
@@ -505,12 +505,12 @@
       "market_cap_musd": 63885.366691,
       "country": "CA",
       "currency": "USD",
-      "price": 362.71,
+      "price": 358.95,
       "open": 360.07,
       "day_high": 364.0,
       "day_low": 351.33,
       "prev_close": 362.16,
-      "day_change_pct": 0.15,
+      "day_change_pct": -0.89,
       "week52_high": 655.5,
       "week52_low": 330.79
     },
@@ -524,12 +524,12 @@
       "market_cap_musd": 61799.383078449355,
       "country": "US",
       "currency": "USD",
-      "price": 325.47,
+      "price": 326.21,
       "open": 325.38,
       "day_high": 327.96,
-      "day_low": 324.65,
+      "day_low": 324.33,
       "prev_close": 323.85,
-      "day_change_pct": 0.5,
+      "day_change_pct": 0.73,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -543,12 +543,12 @@
       "market_cap_musd": 69934.6642306284,
       "country": "US",
       "currency": "USD",
-      "price": 85.69,
+      "price": 86.04,
       "open": 86.84,
       "day_high": 86.93,
       "day_low": 85.47,
       "prev_close": 86.45,
-      "day_change_pct": -0.88,
+      "day_change_pct": -0.47,
       "week52_high": 104.06,
       "week52_low": 82.59
     },
@@ -562,12 +562,12 @@
       "market_cap_musd": 6974.655647009307,
       "country": "US",
       "currency": "USD",
-      "price": 19.21,
+      "price": 19.33,
       "open": 19.18,
-      "day_high": 19.31,
+      "day_high": 19.34,
       "day_low": 19.02,
       "prev_close": 19.27,
-      "day_change_pct": -0.31,
+      "day_change_pct": 0.31,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -581,12 +581,12 @@
       "market_cap_musd": 51480.28258200559,
       "country": "US",
       "currency": "USD",
-      "price": 154.53,
+      "price": 154.32,
       "open": 154.78,
       "day_high": 155.35,
       "day_low": 152.33,
       "prev_close": 154.49,
-      "day_change_pct": 0.03,
+      "day_change_pct": -0.11,
       "week52_high": 157.05,
       "week52_low": 56.78
     },
@@ -600,12 +600,12 @@
       "market_cap_musd": 2830652.4747320856,
       "country": "US",
       "currency": "USD",
-      "price": 261.29,
+      "price": 260.18,
       "open": 262.51,
       "day_high": 263.7,
-      "day_low": 260.65,
+      "day_low": 260.14,
       "prev_close": 262.43,
-      "day_change_pct": -0.43,
+      "day_change_pct": -0.86,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-12T13:58:17.111019+00:00"
+  "updated_at": "2026-10-12T14:13:17.495124+00:00"
 }
