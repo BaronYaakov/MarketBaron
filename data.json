@@ -60,6 +60,70 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "ACCA, SMU launch programme to prepare finance leaders for disruption",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d07b9d3c184ebe33a807d7e809a609d811dd0cb3bf3dd69a0eda673fe10eeadd",
+      "datetime": 1791797793,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon in talks to acquire Decart in potential $7bn deal",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0c29e0195c0946a25206d6f77d82a277d0a379d1c9e12e370526a741f636673a",
+      "datetime": 1791796975,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "3 Australian Stocks Trading Up To 43% Below Fair Value",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=51bb64bf7bb30646ef47b3541a273e37cec90a6af2d962c42fd156852877b032",
+      "datetime": 1791796307,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Elite AI Stocks To Own In October 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dcde6cf6281b44d8bc8e14106234853a9ed23da1df948fb8b68a6264f35ee5bd",
+      "datetime": 1791796295,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "DuLac Farmaceutici Takes Next Step in U.S. Retail Growth Following ECRM Meetings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d0f25526e7870b3f913e742b615c4b7bfb07807eb6f391c78cb2725b55e55ae6",
+      "datetime": 1791795600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "INTC, AMD, NVDA, MU: Chip Stocks Open Mixed Premarket After Worst Week In A Month",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f162837042780ff68cc2553a3fbba919f404df2acd023205126071f503566037",
+      "datetime": 1791795335,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "DAL Stock Edges Up Premarket: CEO Says 'We've Been Around Starlink For A Lot Of Years' Amid Elon Musk's Feud",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8ad02eba2c5b956385c21bcc4ec527cc8e73188a46dc270b6508e9de21389a39",
+      "datetime": 1791794494,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom CEO Flags Capital as AI\u2019s Biggest Constraint. Can Broadcom Fund Its $42 Billion Anthropic Loan Commitment?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ce75d06ffe0abe0590eb8141bf36cd75d462cd45894ef2354625f32f2ec2d5b1",
+      "datetime": 1791790912,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Sirius XM: This Living Dead Is Ready To Rise",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=3f3e8968fdc631a19cd7fe2ad54f9d2892529fa68528f9a6d336fd874f486043",
@@ -83,75 +147,11 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "AMZN Stock Inches Up Overnight: Amazon Reportedly Nears $7B Deal For Decart AI After Anthropic Walks Away",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b95eb2d2f47c3f58897ce6ab1a497520fca17d3ebd725496674a740df04420ee",
-      "datetime": 1791773662,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "SPCX, TSM,  APLD, AMZN, TSLA: Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=68ac22fff068edbd38e4f50bb1f20b289b4fc9740a4311a69f4b58ae2e1ed3c6",
-      "datetime": 1791771230,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Reportedly in Talks to Buy Decart for $7 Billion \u2014 Market Strategist Says It Is 'Effectively Buying Software Expertise'",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a367def9e13c86552b7d822a9a6e18d4c280eb5418fa1095bfa801cf0010cef9",
-      "datetime": 1791768776,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "$15 doorbell camera became Amazon's second-largest acquisition.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d61f2455a1058b45acfd9f69f2328ff39ca4f7ca91fece7169cd7a6b16bececf",
-      "datetime": 1791768725,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Broadcom (AVGO) To Launch AI Networking Platform At OCP Global Summit 2026",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e83faa633008e64cff05f82fc875b2867eb642d4a19eff963ef7080901daa32a",
       "datetime": 1791767494,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Not Nvidia. Not Broadcom. This Little-Known Chip Supplier Could Be the AI Boom's Best-Kept Secret.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=48e3301fa687f34640b060c5a4135c07a2eb52670133fb68e27497a37c862e98",
-      "datetime": 1791762600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "CPI, PPI And Q3 Earnings Soon, October Could End Roughly",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=750a9ed51fb72337ccfdf7227a3b76ab93be93e58cda8d867b4bb687a5f81176",
-      "datetime": 1791756045,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Qualcomm Doesn't Look Cheap Next to Its AI Chip Peers. Here's Why.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ca42ae2de9ac21427d83ba65727f005cbeea4cac4b575476276bfd195d7167b8",
-      "datetime": 1791737400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "How Broadcom\u2019s $42 Billion \u2018Loan\u2019 to Anthropic Is a Bet on a $2 Trillion IPO",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eed9826ba2d1b873583dc3468d8e0505b669f90bf777148dfac5a09a9561f449",
-      "datetime": 1791726315,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-12T09:58:15.190091+00:00"
+  "updated_at": "2026-10-12T10:13:15.255873+00:00"
 }
