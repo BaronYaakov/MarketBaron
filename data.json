@@ -60,19 +60,91 @@
   "news": [
     {
       "ticker": "AMZN",
-      "headline": "ACCA, SMU launch programme to prepare finance leaders for disruption",
+      "headline": "Salesforce Just Turned the Agent Allowlist Into a CRM Product",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d07b9d3c184ebe33a807d7e809a609d811dd0cb3bf3dd69a0eda673fe10eeadd",
-      "datetime": 1791797793,
+      "url": "https://finnhub.io/api/news?id=54a19565c2ac70a5de2a1b859e88466eddbda6abac3b22575f935acb9e23b223",
+      "datetime": 1791804810,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Amazon in talks to acquire Decart in potential $7bn deal",
+      "headline": "Amazon in talks to acquire AI startup Decart for $7 billion",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0c29e0195c0946a25206d6f77d82a277d0a379d1c9e12e370526a741f636673a",
-      "datetime": 1791796975,
+      "url": "https://finnhub.io/api/news?id=d0dfbdbde4a1782452210173247d9b360bf2085295bb4f3615ac7935ee2f2aa0",
+      "datetime": 1791803821,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "What Projected Job Cuts at These Two Mag 7 Firms Says About AI in 2027",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0fa360b13baf1471febdee0366e7a186ff8bfd88fbecaabf835486fc5aa08fe7",
+      "datetime": 1791803739,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Adding Nvidia During The Current Uncertainty is How Fortunes Are Made",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f9348bc043986474195c4e78c200db24f7c3e035ddeda08ee67eef43da0922a",
+      "datetime": 1791803713,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom CEO Hock Tan calls AI investors casino gamblers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3fb746ebd648a94cec914094f6c4f6604a1339accf58b5139d11ce8fec1f56ed",
+      "datetime": 1791803342,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "From Brooklyn to Home Depot, Walmart and Amazon: Mitch Gould's Retail Journey",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7236ca2e62050d6d09a64f4d69524934757f8221193b554985ab06e51f9ed9a5",
+      "datetime": 1791802800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Businesses Risk Wave of Democratic Probes on Costs, Corruption",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7df9c37db85faeab03dde576bff85fbb66b34f388dbb81a6ca3e46f373e13e30",
+      "datetime": 1791802800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom CEO says many AI investors are gamblers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2f28c2ae04158f68f1f32c1d59684c728af18d223bb03c497717d262f0da382e",
+      "datetime": 1791802524,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom CEO Sees Capital as Main Constraint on AI Growth Despite Easing Chip Shortages",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=529ea7f75e454669c0464f32fd679e92d577a2abe98c7c938ac14de3d6e21fe0",
+      "datetime": 1791801265,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Sandisk, IREN, SK Hynix, Amazon, and More Stocks That Explain Today\u2019s Market",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=33bfdb331a467406464adefca966731851bbf652bc96c5eb2f485ff6f2a17d66",
+      "datetime": 1791800880,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom CEO Likens Many AI Investors to Casino Gamblers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=badb847250fe70cdf1f6a8b1a793023a4109634af6f43de3dd0308b44f5939bd",
+      "datetime": 1791799132,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -80,78 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=51bb64bf7bb30646ef47b3541a273e37cec90a6af2d962c42fd156852877b032",
       "datetime": 1791796307,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Elite AI Stocks To Own In October 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dcde6cf6281b44d8bc8e14106234853a9ed23da1df948fb8b68a6264f35ee5bd",
-      "datetime": 1791796295,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "DuLac Farmaceutici Takes Next Step in U.S. Retail Growth Following ECRM Meetings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d0f25526e7870b3f913e742b615c4b7bfb07807eb6f391c78cb2725b55e55ae6",
-      "datetime": 1791795600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "INTC, AMD, NVDA, MU: Chip Stocks Open Mixed Premarket After Worst Week In A Month",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f162837042780ff68cc2553a3fbba919f404df2acd023205126071f503566037",
-      "datetime": 1791795335,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "DAL Stock Edges Up Premarket: CEO Says 'We've Been Around Starlink For A Lot Of Years' Amid Elon Musk's Feud",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8ad02eba2c5b956385c21bcc4ec527cc8e73188a46dc270b6508e9de21389a39",
-      "datetime": 1791794494,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom CEO Flags Capital as AI\u2019s Biggest Constraint. Can Broadcom Fund Its $42 Billion Anthropic Loan Commitment?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ce75d06ffe0abe0590eb8141bf36cd75d462cd45894ef2354625f32f2ec2d5b1",
-      "datetime": 1791790912,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Wall Street Breakfast Podcast: GTA 6 Threat Sends Token Up",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=acf62e6ab3db2b10d19d0586e7d937ad0765608bed357e06d6f59572d383fc18",
-      "datetime": 1791788100,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Sirius XM: This Living Dead Is Ready To Rise",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=3f3e8968fdc631a19cd7fe2ad54f9d2892529fa68528f9a6d336fd874f486043",
-      "datetime": 1791780913,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "SCHG Vs. GARP: Ride Memory Now, Own The Hyperscalers Later",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=1edbf9494a9dc6fa9debd9ff4e22ca1b4d9899ab2fbf368e505ffb592f282888",
-      "datetime": 1791775750,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom (AVGO) To Launch AI Networking Platform At OCP Global Summit 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e83faa633008e64cff05f82fc875b2867eb642d4a19eff963ef7080901daa32a",
-      "datetime": 1791767494,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-12T11:58:15.711780+00:00"
+  "updated_at": "2026-10-12T12:13:16.245903+00:00"
 }
