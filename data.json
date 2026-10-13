@@ -60,26 +60,58 @@
   "news": [
     {
       "ticker": "AMZN",
-      "headline": "Apple may have a way to dominate the smart home space",
+      "headline": "Are consumer budgets in for a fright this Halloween season?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c0b714d07ac3ac243ef9849e9a95fc14d7ba5989951f0209a8ec4188790e057c",
-      "datetime": 1791920812,
+      "url": "https://finnhub.io/api/news?id=92e5ef642b3e01604898f87669531d0f7ee8f00bb861284347287fa0fed7f058",
+      "datetime": 1791924752,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Is Snowflake Stock Riskier Than It Looks?",
+      "headline": "Has IBM Stock Become A Different Bet?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c8cbac5682ddf94c74e3bb1ed5204b3fba5b0e217fbc754b361211c319b8f7e5",
-      "datetime": 1791918746,
+      "url": "https://finnhub.io/api/news?id=7a60e94db7d4232b90f6724f2239f5bf44333ccb2643e04f5658315d3100a673",
+      "datetime": 1791923706,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=239f1ec0bd6003c75b83346777ebb77ec584c75f68f4c78fd3f43f5a7e2d2574",
-      "datetime": 1791918616,
+      "headline": "Data Reveals Next Big AI Robotics Stock Investments",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac16810eee766376c7b99fe73d6bc4b25bc151644337d4557392f19999c3228e",
+      "datetime": 1791922339,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Chips' Sixth Straight Loss Drags Nasdaq Into the Red",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=14c88032d0fdbe056165625ddc6d0141325a2a4ffad3d3780ea52492e44e99e9",
+      "datetime": 1791921825,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Investors Are Paying More for Walmart Than Amazon. Here\u2019s Why That Doesn\u2019t Add Up.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7d5833004d7cd7aaa4733e999550228cc1b8c3aff811ae6827d3ad5c5a30297d",
+      "datetime": 1791921675,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Sector Update: Consumer Stocks Mixed Late Afternoon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9facc16aee4d077951240eb797c85956524cc928ec51e653db637ddf317b746d",
+      "datetime": 1791921359,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Can You Make Money Off Netflix Stock Now?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0d0badd83ba3f3a760eb27dcfc404b41c82c4cd93009b793044fd870a4b7496a",
+      "datetime": 1791920990,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -99,12 +131,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "The Five Largest Holdings in the RANK ETF After Its Latest Rebalance",
+      "ticker": "AVGO",
+      "headline": "Is Microsoft\u2019s New Maia 300 Chip a Threat to Nvidia\u2019s Dominance? What the Stock Says.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=567de157dc5959bc72fbaf24453fcb5b90c56837a4b89a235c014dfebf7272d6",
-      "datetime": 1791918000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "url": "https://finnhub.io/api/news?id=e67d59ef9ae19bd1c121ff2f62e09b58bab2fa9d89aec7cbc6d20720cf1e3f17",
+      "datetime": 1791917580,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -115,44 +147,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "What Would Weak iPhone Demand Do To Apple Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=143da93740e1bfd14960f73e897a2d8c288256a01ff3cbce8ff207d71a36a19c",
-      "datetime": 1791916480,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Why Micron (MU) Shares Are Falling Today",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b0fbb9b4c04f22a15648590b9c63df5ef738d4b9694356343428fed9d98114d0",
       "datetime": 1791916024,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Marvell Technology, Kulicke and Soffa, Vishay Intertechnology, Allegro MicroSystems, and Amkor Shares Plummet, What You Need To Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fc6f976a96f61f4e41b0b08ec30a893de644b7887f43b5ad79218aab749186c6",
-      "datetime": 1791915544,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Does The Drop In Credo Stock Change Anything?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fb0fe02073760f19520f8731fa4d5ebb03a50af168813042635e340054fd5361",
-      "datetime": 1791914710,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Sector Update: Tech Stocks Fall Tuesday Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0681dcc8a28f3bf36d10478580df4b09ef1a9f7aca10fb09e6b1832a05606fe5",
-      "datetime": 1791914094,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "ORLY",
@@ -632,5 +632,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-13T21:58:18.155372+00:00"
+  "updated_at": "2026-10-13T22:13:18.146705+00:00"
 }
