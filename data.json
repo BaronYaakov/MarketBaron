@@ -59,6 +59,46 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "AAOI, LITE, COHR Extend Sell-Off Overnight: AI Funding Fears Hit Optical Networking Trade, But Retail Bulls Eye Rebound",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=135979aeff99ad364c027b25218b0fc7cdd62e58e59471b65c1f43c1e358537d",
+      "datetime": 1791860176,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon.com vs. Alibaba: Which Consumer Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=48064109132f58a040e930be8cd887eecbf5682e9e48558ac5c1be87580d5f18",
+      "datetime": 1791859102,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom CEO follows a proven blueprint for labs buying its chips",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=13402e82611099856264c262b5dbab7ae626bcab94b85cea4f2b34b180414a45",
+      "datetime": 1791857040,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "SNDK, MU, INTC, AMD, SKHY: Chip Stocks Extend Slide As AI Funding Concerns, China Competition Weigh On Sector",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4da3ace9fd7e6c35d1f9538b6e30923a81a5306ec3d5a4fcb00fc2f2264beb9d",
+      "datetime": 1791855748,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Groupe Dynamite And 2 Canadian Undervalued Stocks To Own",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aeeb38ed8434094382afce2747b2ab7fb3ef5a565b418dc9625630a11fe14942",
+      "datetime": 1791855009,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "COR",
       "headline": "AbbVie vs. Eli Lilly: Which Healthcare Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
@@ -131,44 +171,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Is Walmart Stock Increasing Your Market Risk?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=341981556baa45defaad2499685c52f7bc1c52fa27a1f8317a9c01e46efd92cd",
-      "datetime": 1791839345,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "3 Dividend Paying Stocks Offering AI Exposure",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f7ed4dedfe5bb54bff0a14f84566c034d1031cb47a76a82ad116d600395c80dd",
-      "datetime": 1791838020,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "Celestica (CLS) Registers a Bigger Fall Than the Market: Important Facts to Note",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=67c7c5f2ec5ffe769357d5c5417507fea9e273e8fbafcb42d3774530ca60ed28",
       "datetime": 1791837903,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia (NVDA) vs. Broadcom (AVGO): Which AI Stock Is a Better Buy After the OpenAI Scare?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fe950936ca9c51e83747140fb2468e083a38eba8ede0d39917fc600b768f189c",
-      "datetime": 1791837668,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "ASML CEO Says AI Chip Boom Could Stretch Beyond 2028, but Broadcom Warns of Financing Bottleneck",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=03763869c9b37afc3b64c8a185a0158e0d0e75f9bc181bf6b35464ccab7a39e0",
-      "datetime": 1791837008,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -225,14 +233,6 @@
       "url": "https://finnhub.io/api/news?id=a9e08a34916c021d54f7051ceac4ae33a0c389a965d8b157da5c7d537fa4ce3e",
       "datetime": 1791796964,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "3 Canadian Quality Stocks With ROE Over 29%",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=91c98adf9887a52702a9f38e273db5a581d41c6c5824b66e0e6bcf8586e9e6d3",
-      "datetime": 1791666787,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "B",
@@ -393,30 +393,6 @@
       "url": "https://finnhub.io/api/news?id=d11344c10f5ec7aaa66a54cfe75864bb6d79d9cffc1b3aad8016ddc425868a66",
       "datetime": 1791258499,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Sherwin-Williams (SHW): Is Its Pro-Painter Distribution Moat Underappreciated?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d087c27a7738fd60352ab74ad3cbd2fdfbcaaed555edb1864d093cb2719d0f36",
-      "datetime": 1791233382,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "O\u2019Reilly Automotive (ORLY) vs. AZO and GPC: Why Auto Parts Stocks Are No Longer Safe Havens",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8b170d2546eb8e514b6e0745d65478aa6cdde39726ce93e8e81b6c2afd7235e3",
-      "datetime": 1791225018,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Nasdaq 100 Records Have Rarely Been This Narrow, 55 Stocks Are Still Below 50-Day Average",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=d78ffd39021735e4739cfbbd4e7ce2c89bcdbad94ff4f003fc44637d8d221831",
-      "datetime": 1791212429,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     }
   ],
   "recent_posts": [],
@@ -624,5 +600,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-13T04:58:15.250991+00:00"
+  "updated_at": "2026-10-13T05:13:15.534812+00:00"
 }
