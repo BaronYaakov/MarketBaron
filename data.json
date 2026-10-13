@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "B",
+      "headline": "Barrick Mining Corp (NYSE:B) Offers a GARP Case With Reasonable Valuation and Strong Fundamentals",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=41b022d123edf1cbcd66804f7a58fe833d9f26391c8f27b33f9dfb2583d3fdfa",
+      "datetime": 1791879667,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom\u2019s AI Durability Warning Triggers Sharp Drop In SK Hynix, Samsung In Korea; Nvidia's China AI Chip Share Falls As Huawei Closes In",
       "source": "Yahoo",
@@ -371,14 +379,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     },
     {
-      "ticker": "B",
-      "headline": "Barrick Mining Secures 15-Year Renewal for Tanzania's North Mara Mine",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5bd228ce2cb97068dfccba503cda75ceab774f8ce363e8a21de768413cacbce2",
-      "datetime": 1791293940,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Eli Lilly and vs. Novo Nordisk A/S: Which Healthcare Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-13T08:28:15.356445+00:00"
+  "updated_at": "2026-10-13T08:43:15.227060+00:00"
 }
