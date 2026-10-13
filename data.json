@@ -60,11 +60,67 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Tech Selloff Deepens as Bank Earnings Fuel Stock Market Rotation",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9328fa0cab3286cc651f7448b00e2e8188e5e7ff7ac8ffa01eda5c724ff2fe91",
+      "datetime": 1791892140,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom vs. Nvidia: The AI Revolution Is Big Enough for Both. Here's the Better Buy.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f017172f3754b7d9bb8941ae11d299585b4b14a8254ec529ec0b50f5c376a04f",
+      "datetime": 1791891240,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Microsoft Could Be Worth Far More as Its Cloud and AI Businesses Scale",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ea626f314a57fab5059aee5e249e5c1cd242b21c8704667dc21e83ca41c88e2a",
+      "datetime": 1791890101,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Seoul, Tokyo stocks plunge as Asia suffers fresh tech rout",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5e0368ab9f2b55a223267289c1a9b825b98e87c71cfa9aa70d00ae9523345d27",
+      "datetime": 1791887605,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Stock Market Today: Micron, Sandisk Fall on China Memory News",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=ef29d9aa212ac6aeeb8f660273fca1c93daa065808d32fd189ccc501783f66b3",
       "datetime": 1791887050,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "The Deep Value Play for Growth Investors Isn't Artificial Intelligence, It's This Forgotten Industry",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=733446fa3f6f5f043891a3db28057e36a7e5b3d99e4548540a18ac9059d60d40",
+      "datetime": 1791886802,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Nvidia Stock Slips. How Broadcom and Microsoft Are Shaking the Chip Sector.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f7eeeef73b2ec848a2b41f7811e8787998222fd240d3bb998c8ac3e3bb759c70",
+      "datetime": 1791886800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "e.l.f. Beauty vs. Monster Beverage: Which Consumer Goods Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6afa99142a6b9a1b2019e85fb94241248c320ae1cfddc7a3246d452cd66eebc6",
+      "datetime": 1791886453,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
@@ -75,28 +131,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Global chip selloff deepens as AI worries, China competition weigh",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4356f889a346c8843869c7c35ddcd81cd93172e0da24dccfce19285c5f2e427d",
-      "datetime": 1791881817,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "B",
       "headline": "Barrick Mining Corp (NYSE:B) Offers a GARP Case With Reasonable Valuation and Strong Fundamentals",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=41b022d123edf1cbcd66804f7a58fe833d9f26391c8f27b33f9dfb2583d3fdfa",
       "datetime": 1791879667,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "AI stocks plunge as tech chief calls market a \u2018casino\u2019",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=838b9c0a9732f1a50e9db0d86b6e225a92cf1ff5aaa24d9002b8259c6eb6286a",
-      "datetime": 1791879341,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -107,20 +147,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Broadcom\u2019s AI Durability Warning Triggers Sharp Drop In SK Hynix, Samsung In Korea; Nvidia's China AI Chip Share Falls As Huawei Closes In",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ce213edbafba98c415a3d70fc97558ca898768c8114e37c645dd5734d7100b39",
-      "datetime": 1791876069,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Introduces VMware HyperArmor, Expanding Hypervisor Security and Protections for VMware Cloud Foundation",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7d9535df10317edaa615feaab665e769a8f4c194da1e90aee633004dfb72de93",
-      "datetime": 1791874800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+      "ticker": "AMZN",
+      "headline": "Middle Coast Investing Q1 2026 Portfolio Activity",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9dd5256eea8402c2dc6faeb3554ff674f530b2a60ffdfc143e11e31551f5e79e",
+      "datetime": 1791877260,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "P",
@@ -147,28 +179,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Broadcom: The More Google Designs, The More It May Need Hock Tan",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=6ab4acfbe3a24f9b76a8557b4de7422423170c23dd3acfb7ceec9b24409b7158",
-      "datetime": 1791868772,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "PRMB",
       "headline": "Greenlight Capital Q2 2026 Portfolio Update",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=2a243fee7c3c34cafa725c45c5e33dbf14f20ffe4d4f5b39ef9dd78a39ddc173",
       "datetime": 1791859800,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon.com vs. Alibaba: Which Consumer Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=48064109132f58a040e930be8cd887eecbf5682e9e48558ac5c1be87580d5f18",
-      "datetime": 1791859102,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "CLS",
@@ -185,22 +201,6 @@
       "url": "https://finnhub.io/api/news?id=5c26291ca92708763cb3875dc9ab591493dcebb54023a277eefc0cab5d20c7fa",
       "datetime": 1791849061,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Is Meta's Next Big Thing Already Here?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=43af6a05122dda33755ff1e245f9e8d3f98bd5b9a2e834efad4024ff57ba4d82",
-      "datetime": 1791844720,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Kroger to cut 3K corporate jobs over the next 3 years",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8a522d896a912dae34dd0aade5bb246a2c485f7b23f74e31da38bd4919f3d687",
-      "datetime": 1791843771,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "CLS",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-13T11:58:16.043615+00:00"
+  "updated_at": "2026-10-13T12:13:17.322478+00:00"
 }
