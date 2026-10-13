@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "ORLY",
+      "headline": "1 Consumer Stock to Target This Week and 2 We Brush Off",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=229f6d622bc1b4da692a7b1431324478981fb0d42f30dd4e9d9591599274676d",
+      "datetime": 1791892504,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Tech Selloff Deepens as Bank Earnings Fuel Stock Market Rotation",
       "source": "Yahoo",
@@ -608,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-13T12:13:17.322478+00:00"
+  "updated_at": "2026-10-13T12:28:17.035957+00:00"
 }
