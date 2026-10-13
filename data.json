@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Stock Market Today: Micron, Sandisk Fall on China Memory News",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=ef29d9aa212ac6aeeb8f660273fca1c93daa065808d32fd189ccc501783f66b3",
+      "datetime": 1791887050,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Generac Entered a Massive Deal With Amazon. Is It Time to Buy the Stock?",
       "source": "Yahoo",
@@ -115,6 +123,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "P",
+      "headline": "Everpure Could Almost Double Its Profit, But Valuation Remains High",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=68ee7896773f739e220ca8d34827cf74fb7f7e1d3741ce1aa900bdb8d0f8b76c",
+      "datetime": 1791873850,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "S&P Hits All-Time Highs, AI Trade Does All The Work",
       "source": "SeekingAlpha",
@@ -136,14 +152,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=6ab4acfbe3a24f9b76a8557b4de7422423170c23dd3acfb7ceec9b24409b7158",
       "datetime": 1791868772,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "AAOI, LITE, COHR Extend Sell-Off Overnight: AI Funding Fears Hit Optical Networking Trade, But Retail Bulls Eye Rebound",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=135979aeff99ad364c027b25218b0fc7cdd62e58e59471b65c1f43c1e358537d",
-      "datetime": 1791860176,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -296,14 +304,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=647d46c9e0bdf91b7908545a7ede013fffde7b4e561f04a8c2c6c81e3b78da62",
       "datetime": 1791539400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "What Are Everpure Investors Betting On?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=85a2f70411db67a50bbd7df7bcc3d4774dae50d6cdf68a0c04690dcadcd839e9",
-      "datetime": 1791510451,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-13T10:58:15.437775+00:00"
+  "updated_at": "2026-10-13T11:13:16.295047+00:00"
 }
