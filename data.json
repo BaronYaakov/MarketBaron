@@ -92,6 +92,14 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "Broadcom: The More Google Designs, The More It May Need Hock Tan",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6ab4acfbe3a24f9b76a8557b4de7422423170c23dd3acfb7ceec9b24409b7158",
+      "datetime": 1791868772,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "AAOI, LITE, COHR Extend Sell-Off Overnight: AI Funding Fears Hit Optical Networking Trade, But Retail Bulls Eye Rebound",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=135979aeff99ad364c027b25218b0fc7cdd62e58e59471b65c1f43c1e358537d",
@@ -145,14 +153,6 @@
       "url": "https://finnhub.io/api/news?id=5c26291ca92708763cb3875dc9ab591493dcebb54023a277eefc0cab5d20c7fa",
       "datetime": 1791849061,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom vs. Qualcomm: Which Chip Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ec4d56eebd1e30e3510ad274efc17621d59bfae4f1bf5e3515e2389cbe5f2fe9",
-      "datetime": 1791845461,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-13T09:28:15.344701+00:00"
+  "updated_at": "2026-10-13T09:43:15.473868+00:00"
 }
