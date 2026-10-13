@@ -59,36 +59,12 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
-      "ticker": "AVGO",
-      "headline": "AAOI, LITE, COHR Extend Sell-Off Overnight: AI Funding Fears Hit Optical Networking Trade, But Retail Bulls Eye Rebound",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=135979aeff99ad364c027b25218b0fc7cdd62e58e59471b65c1f43c1e358537d",
-      "datetime": 1791860176,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "AMZN",
       "headline": "Amazon.com vs. Alibaba: Which Consumer Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=48064109132f58a040e930be8cd887eecbf5682e9e48558ac5c1be87580d5f18",
       "datetime": 1791859102,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom CEO follows a proven blueprint for labs buying its chips",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=13402e82611099856264c262b5dbab7ae626bcab94b85cea4f2b34b180414a45",
-      "datetime": 1791857040,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "SNDK, MU, INTC, AMD, SKHY: Chip Stocks Extend Slide As AI Funding Concerns, China Competition Weigh On Sector",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4da3ace9fd7e6c35d1f9538b6e30923a81a5306ec3d5a4fcb00fc2f2264beb9d",
-      "datetime": 1791855748,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -99,36 +75,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
-      "ticker": "COR",
-      "headline": "AbbVie vs. Eli Lilly: Which Healthcare Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5c26291ca92708763cb3875dc9ab591493dcebb54023a277eefc0cab5d20c7fa",
-      "datetime": 1791849061,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom vs. Qualcomm: Which Chip Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ec4d56eebd1e30e3510ad274efc17621d59bfae4f1bf5e3515e2389cbe5f2fe9",
-      "datetime": 1791845461,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "AMZN",
       "headline": "Is Meta's Next Big Thing Already Here?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=43af6a05122dda33755ff1e245f9e8d3f98bd5b9a2e834efad4024ff57ba4d82",
       "datetime": 1791844720,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Does Dynatrace Stock's Valuation Make Sense?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ec85d85d38a6cade3c60cc92f77318d1982412312c45f39c22bc59007acb2923",
-      "datetime": 1791843848,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -145,14 +97,6 @@
       "url": "https://finnhub.io/api/news?id=9a8df028aa67ce205bbc123b28f4dd137d5259648224248c95c64e738943dee8",
       "datetime": 1791842522,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "What Changed In Qualcomm's Story?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6afe84101ea0e1efed23e9ffd5218fc023196c0032534d0b301d9c440c428be9",
-      "datetime": 1791842137,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -187,14 +131,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
-      "ticker": "P",
-      "headline": "2 S&P 500 Stocks for Long-Term Investors and 1 We Ignore",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fea21928c9d69983f3f23ef2f64b52e32d47d42c4076c595450d494a2809b524",
-      "datetime": 1791814503,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "Celestica (CLS): Initiating a Stake Following the Summer AI Capex Pullback",
       "source": "Yahoo",
@@ -217,182 +153,6 @@
       "url": "https://finnhub.io/api/news?id=22e7b491b171435f5e8f2a1aecbf77e3dd6f0324f74028c232be727ecf4929ea",
       "datetime": 1791806400,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "O'Reilly Automotive: High-Quality Compounder At A Reasonable Valuation",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=4a5211544ca73a3f16fa91dea60143a71b0a7d306c3d407c60b90a2ade784a34",
-      "datetime": 1791799771,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Guggenheim Maintains Buy on Everpure, Raises Price Target to $215",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=a9e08a34916c021d54f7051ceac4ae33a0c389a965d8b157da5c7d537fa4ce3e",
-      "datetime": 1791796964,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% Plus (October 2026)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d4f1fad9ff4940b69bbf8baed8448ad3d1454460013668fccccbcd262f2b0de5",
-      "datetime": 1791621300,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Everpure Stock Surges 147% in Six Months: Is It Still a Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c5da707e90215f545b6567e3a86156c2cbbe9fa70d1c97819f7fb83f2adee056",
-      "datetime": 1791564960,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "What to Expect From O\u2019Reilly Automotive\u2019s Q3 2026 Earnings Report",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0972b702b0b8e47b8105ddbdbc8d3b3f6d25a5e93b73c245eaac76e3518a1b5e",
-      "datetime": 1791551395,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Barrick to Report Third Quarter 2026 Results on November 9",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3de419b58d65e613191d0ec4ecc4ae22e654d67d5fb4b6d3ae5fc674b8d02eb2",
-      "datetime": 1791543600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Top Storage Stock to Buy With $500 Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=647d46c9e0bdf91b7908545a7ede013fffde7b4e561f04a8c2c6c81e3b78da62",
-      "datetime": 1791539400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "What Are Everpure Investors Betting On?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=85a2f70411db67a50bbd7df7bcc3d4774dae50d6cdf68a0c04690dcadcd839e9",
-      "datetime": 1791510451,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Primo Brands' Spring Water Sales Increase 4.1%: What's Driving Growth?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=91174189a0bf3e08412eee1b8497c4d2b5f76c04b05bd051e15b7b3ed72b968a",
-      "datetime": 1791476580,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Gold Just Fell to a Two-Month Low as the Fed Signals Another Hike",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8af85d61930b2addb848db2274031e7dbe943c6effbcb9c843bd0c555688a29f",
-      "datetime": 1791470741,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "1 Growth Stock with Explosive Upside and 2 That Underwhelm",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=38b87fee1e9b1c8d19c3b12e11ceeb76c41016f18f3100a324bfa35133a6a7b9",
-      "datetime": 1791464169,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "If You Invested $1000 In Cencora Stock 10 Years Ago, You Would Have This Much Today",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=1a523b781ea1cee0545f7636823dfa2b6dac0f8dda8f814a620ee34c0ae52a2d",
-      "datetime": 1791462628,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Cencora Q3 2026 Earnings Call Transcript",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=53319798fa49c05ae6ed79b7b62a4f1103c6e733ae092d29854fdbea50b44a0b",
-      "datetime": 1791438829,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Transcript: Primo Brands Q2 2026 Earnings Conference Call",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=f7f8c0bfa3fdd3ef181e0fe7a8269988e49e7f23f4ecbd5beb005386778fa1b5",
-      "datetime": 1791433942,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Gold Mining Stocks: Winners And Losers At The Beginning Of Q4 2026",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=a7a9559a95a5a0aa28f9946c6d3cef61252074db3931e4e0186bf6fc6531673d",
-      "datetime": 1791414749,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Leerink Partners Maintains Outperform on Cencora, Raises Price Target to $388",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=983b64903304cbc8987abdbc4b5b92b8bda18628430e143487e03ffa3d4ce7ac",
-      "datetime": 1791377796,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Barrick Mining Corp (NYSE:B): High-Growth Leadership and Momentum Potential",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=80b5ced599608f957c1fac4001f92a2af11102d833fd5ac86a1e89856d0d8ee5",
-      "datetime": 1791366670,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Primo Brands Announces Date for 2026 Third Quarter Earnings Release and Conference Call",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f67ab5fc54c4248ec90872f101bd6823b401b377562e8c00aed1e9ddd70b42d9",
-      "datetime": 1791317700,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Barrick Mining Secures 15-Year Renewal for Tanzania's North Mara Mine",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5bd228ce2cb97068dfccba503cda75ceab774f8ce363e8a21de768413cacbce2",
-      "datetime": 1791293940,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Eli Lilly and vs. Novo Nordisk A/S: Which Healthcare Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a79264aca14b600f8fd73874c113158161ffe44d0b27110d763f44af3d82f8bc",
-      "datetime": 1791293401,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "3 S&P 500 Stocks to Consider Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b3d42ebcd936b7400012ece3ba67335d61f1a7e935c1e4ca6416e04c6a71f384",
-      "datetime": 1791279394,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Cencora Remains A Buy At These Prices, As Healthcare Supply-Chain Needs Grow",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d11344c10f5ec7aaa66a54cfe75864bb6d79d9cffc1b3aad8016ddc425868a66",
-      "datetime": 1791258499,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     }
   ],
   "recent_posts": [],
@@ -600,5 +360,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-13T06:43:15.343043+00:00"
+  "updated_at": "2026-10-13T06:58:15.614698+00:00"
 }
