@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "COR",
+      "headline": "AbbVie vs. Eli Lilly: Which Healthcare Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5c26291ca92708763cb3875dc9ab591493dcebb54023a277eefc0cab5d20c7fa",
+      "datetime": 1791849061,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom vs. Qualcomm: Which Chip Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
@@ -616,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-13T00:13:21.396477+00:00"
+  "updated_at": "2026-10-13T00:28:17.245077+00:00"
 }
