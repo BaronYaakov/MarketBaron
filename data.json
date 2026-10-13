@@ -147,6 +147,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Celestica (CLS) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=67c7c5f2ec5ffe769357d5c5417507fea9e273e8fbafcb42d3774530ca60ed28",
+      "datetime": 1791837903,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Nvidia (NVDA) vs. Broadcom (AVGO): Which AI Stock Is a Better Buy After the OpenAI Scare?",
       "source": "Yahoo",
@@ -163,12 +171,44 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "How Much Have Buybacks Lifted Sanmina\u2019s Earnings Per Share?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a70f352eb2bd4a9db77fd262c36a4764306d029dcfbaa574d933a026793bfa79",
+      "datetime": 1791818773,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "P",
       "headline": "2 S&P 500 Stocks for Long-Term Investors and 1 We Ignore",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fea21928c9d69983f3f23ef2f64b52e32d47d42c4076c595450d494a2809b524",
       "datetime": 1791814503,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica (CLS): Initiating a Stake Following the Summer AI Capex Pullback",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0519734fd906e4ad02fd7044a1cd75d50a63439c15969c673e356478a1ecfdb0",
+      "datetime": 1791809204,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica Introduces the DS6005 Data Center Switch with Co-Packaged Optics to Enable Power-Efficient AI Fabrics",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5cb46fc8e8a98c86bf841774b1ebd49b9d67135acaebf55da4c6b120eca66299",
+      "datetime": 1791806400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "USITC Institutes Investigation of Vertical Power Delivery (VPD) Modules and Computing Systems Infringing a Vicor Patent",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=22e7b491b171435f5e8f2a1aecbf77e3dd6f0324f74028c232be727ecf4929ea",
+      "datetime": 1791806400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "ORLY",
@@ -219,22 +259,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "Celestica, Inc. (CLS) is Attracting Investor Attention: Here is What You Should Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=24f8c5d3af6cc05a1c9303423b1937b18c017ecfa1cde7ea08d045f4b7a4d85d",
-      "datetime": 1791547202,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "3 Canadian Growth Stocks With Earnings Growth Up To 67%",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9be9936a66817b740b86edaf6917de888e3a5cedbad59622adcd8275dfe67949",
-      "datetime": 1791544553,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "B",
       "headline": "Barrick to Report Third Quarter 2026 Results on November 9",
       "source": "Yahoo",
@@ -259,36 +283,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "Celestica: $3B SPO Dip Unlocks A 65% Upside",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=05c18bcff22bb74945744d68068feb9a2a81949699778c4df31ff40a92308136",
-      "datetime": 1791478449,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "PRMB",
       "headline": "Primo Brands' Spring Water Sales Increase 4.1%: What's Driving Growth?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=91174189a0bf3e08412eee1b8497c4d2b5f76c04b05bd051e15b7b3ed72b968a",
       "datetime": 1791476580,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Jabil's FY27 AI Revenue Surge Could Redefine Its Growth Story in 2027",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=151f9c78f3c7bd8dec3fd3aa03d97d7056d11373a082faaefa635f45fa5edf35",
-      "datetime": 1791474120,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Is Jabil a Buy After AI Growth as Valuation Stays Above Its Median?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c2fbb35a1ac26676bc732ad9890c60c061f2f1846fc3cbb317a7e47fce353da8",
-      "datetime": 1791473640,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "B",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-13T01:58:17.415636+00:00"
+  "updated_at": "2026-10-13T02:13:20.180415+00:00"
 }
