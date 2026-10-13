@@ -115,6 +115,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "S&P Hits All-Time Highs, AI Trade Does All The Work",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=66560ff9f3f37bf54fdf7009dcfee55437ea1d91b6ce9ebd018012482868e7b8",
+      "datetime": 1791873000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "P",
       "headline": "3 AI Infrastructure Stocks With Real Revenue Tied To Data Center Spending",
       "source": "Yahoo",
@@ -184,14 +192,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8a522d896a912dae34dd0aade5bb246a2c485f7b23f74e31da38bd4919f3d687",
       "datetime": 1791843771,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Why Every Snap Investor Is Looking At This One Number",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9a8df028aa67ce205bbc123b28f4dd137d5259648224248c95c64e738943dee8",
-      "datetime": 1791842522,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-13T10:43:15.331166+00:00"
+  "updated_at": "2026-10-13T10:58:15.437775+00:00"
 }
