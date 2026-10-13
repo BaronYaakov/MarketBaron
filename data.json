@@ -75,6 +75,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "P",
+      "headline": "3 AI Infrastructure Stocks With Real Revenue Tied To Data Center Spending",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=61f994a9ac9328d8bb8db6e4873bac9982d2a14fd6f1c14d8f2bfc58461a1e47",
+      "datetime": 1791871803,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "AAOI, LITE, COHR Extend Sell-Off Overnight: AI Funding Fears Hit Optical Networking Trade, But Retail Bulls Eye Rebound",
       "source": "Yahoo",
@@ -305,14 +313,6 @@
       "url": "https://finnhub.io/api/news?id=8af85d61930b2addb848db2274031e7dbe943c6effbcb9c843bd0c555688a29f",
       "datetime": 1791470741,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "1 Growth Stock with Explosive Upside and 2 That Underwhelm",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=38b87fee1e9b1c8d19c3b12e11ceeb76c41016f18f3100a324bfa35133a6a7b9",
-      "datetime": 1791464169,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "COR",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-13T08:13:15.111814+00:00"
+  "updated_at": "2026-10-13T08:28:15.356445+00:00"
 }
