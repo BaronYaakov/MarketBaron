@@ -99,76 +99,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Charles Gasparino Defends Jeff Bezos, Elon Musk \u2014 Says America Needs \u2018More Bezos\u2019 and a Tax System That Rewards Risk-Taking",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3c05e2254902d243f382bcdc4dd4b5a7cb51427f470ef34e3f5c64523ad6db05",
-      "datetime": 1791934206,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Can Phinia Stock Compound Your Money?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f7841fb59d6c4756f11d6afbd3f2912f8fb9bb8d7dab549c2a855b203ed1ef2f",
-      "datetime": 1791931030,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Franklin Templeton CEO says AI is hiding a bigger tech story",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d7ed3bee94c38a60709d4e669c0ec386c32df9defc21054c492309d8c002a485",
-      "datetime": 1791930780,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "What Could Go Wrong At UPS From Here?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0a23d75df8d1009aaf10408d89802f56f9e9e656a7d92ba6562c3851bf069b1d",
-      "datetime": 1791929404,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Former Berkshire Manager Combs Has Made $5 Billion of Investments at JP Morgan",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b453b374bb988eb0c876795a1ed93a86a8de67236577a99e1fcb7060f65195b2",
-      "datetime": 1791926700,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Jeff Bezos Aims for the Moon But Advises Retirees to Stick With Index Funds",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d9116dc3707f7af1fb965e18360e707d7cb314a3fd431203fce7d4c2ae829a3a",
-      "datetime": 1791926017,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Are consumer budgets in for a fright this Halloween season?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=92e5ef642b3e01604898f87669531d0f7ee8f00bb861284347287fa0fed7f058",
-      "datetime": 1791924752,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Chips' Sixth Straight Loss Drags Nasdaq Into the Red",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=14c88032d0fdbe056165625ddc6d0141325a2a4ffad3d3780ea52492e44e99e9",
       "datetime": 1791921825,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Will O'Reilly Automotive (ORLY) Beat Estimates Again in Its Next Earnings Report?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=82d808a3c4ed9d339f0f29f8ec6a7a84b87d0fdd216ae5a0015574dc4828d7e4",
-      "datetime": 1791904203,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "CLS",
@@ -187,36 +123,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "PRMB",
-      "headline": "Can Primo Brands' Purified Water Sales Accelerate Further?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=34321dd2adef99d7da718c69d54f22ff511b6877c21e4010be0480cb436511e0",
-      "datetime": 1791897000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "1 Consumer Stock to Target This Week and 2 We Brush Off",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=229f6d622bc1b4da692a7b1431324478981fb0d42f30dd4e9d9591599274676d",
-      "datetime": 1791892504,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
       "ticker": "B",
       "headline": "StrikePoint Gold Strengthens Its Team with Hiring of Keith Wood as Exploration Manager and Appointment of Stephen Quin as a Strategic Advisor",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=bb5bb9656ce6550e5a543c7e2573127af37480a22543d6218fe8014b42ccd269",
       "datetime": 1791891000,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Heartland Value Plus Fund Q3 2026 Portfolio Activity",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=33e75f36ee5cbe99f674ac175421616d58f8c6a5829a8d0a0ac941b171884e5a",
-      "datetime": 1791886200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     },
     {
       "ticker": "P",
@@ -251,28 +163,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "PRMB",
-      "headline": "Greenlight Capital Q2 2026 Portfolio Update",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=2a243fee7c3c34cafa725c45c5e33dbf14f20ffe4d4f5b39ef9dd78a39ddc173",
-      "datetime": 1791859800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "Groupe Dynamite And 2 Canadian Undervalued Stocks To Own",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=aeeb38ed8434094382afce2747b2ab7fb3ef5a565b418dc9625630a11fe14942",
       "datetime": 1791855009,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "AbbVie vs. Eli Lilly: Which Healthcare Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5c26291ca92708763cb3875dc9ab591493dcebb54023a277eefc0cab5d20c7fa",
-      "datetime": 1791849061,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "CLS",
@@ -315,14 +211,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
-      "ticker": "ORLY",
-      "headline": "O'Reilly Automotive: High-Quality Compounder At A Reasonable Valuation",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=4a5211544ca73a3f16fa91dea60143a71b0a7d306c3d407c60b90a2ade784a34",
-      "datetime": 1791799771,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
       "ticker": "P",
       "headline": "Guggenheim Maintains Buy on Everpure, Raises Price Target to $215",
       "source": "Benzinga",
@@ -339,28 +227,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "ORLY",
-      "headline": "What to Expect From O\u2019Reilly Automotive\u2019s Q3 2026 Earnings Report",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0972b702b0b8e47b8105ddbdbc8d3b3f6d25a5e93b73c245eaac76e3518a1b5e",
-      "datetime": 1791551395,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
       "ticker": "B",
       "headline": "Barrick to Report Third Quarter 2026 Results on November 9",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3de419b58d65e613191d0ec4ecc4ae22e654d67d5fb4b6d3ae5fc674b8d02eb2",
       "datetime": 1791543600,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Primo Brands' Spring Water Sales Increase 4.1%: What's Driving Growth?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=91174189a0bf3e08412eee1b8497c4d2b5f76c04b05bd051e15b7b3ed72b968a",
-      "datetime": 1791476580,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     },
     {
       "ticker": "B",
@@ -371,44 +243,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "COR",
-      "headline": "If You Invested $1000 In Cencora Stock 10 Years Ago, You Would Have This Much Today",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=1a523b781ea1cee0545f7636823dfa2b6dac0f8dda8f814a620ee34c0ae52a2d",
-      "datetime": 1791462628,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Cencora Q3 2026 Earnings Call Transcript",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=53319798fa49c05ae6ed79b7b62a4f1103c6e733ae092d29854fdbea50b44a0b",
-      "datetime": 1791438829,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Transcript: Primo Brands Q2 2026 Earnings Conference Call",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=f7f8c0bfa3fdd3ef181e0fe7a8269988e49e7f23f4ecbd5beb005386778fa1b5",
-      "datetime": 1791433942,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
       "ticker": "B",
       "headline": "Gold Mining Stocks: Winners And Losers At The Beginning Of Q4 2026",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=a7a9559a95a5a0aa28f9946c6d3cef61252074db3931e4e0186bf6fc6531673d",
       "datetime": 1791414749,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Leerink Partners Maintains Outperform on Cencora, Raises Price Target to $388",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=983b64903304cbc8987abdbc4b5b92b8bda18628430e143487e03ffa3d4ce7ac",
-      "datetime": 1791377796,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     }
   ],
   "recent_posts": [],
@@ -616,5 +456,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-14T06:43:15.444375+00:00"
+  "updated_at": "2026-10-14T06:58:15.855009+00:00"
 }
