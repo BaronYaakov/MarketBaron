@@ -179,6 +179,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
+      "ticker": "PRMB",
+      "headline": "Can Primo Brands' Purified Water Sales Accelerate Further?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=34321dd2adef99d7da718c69d54f22ff511b6877c21e4010be0480cb436511e0",
+      "datetime": 1791897000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+    },
+    {
       "ticker": "ORLY",
       "headline": "1 Consumer Stock to Target This Week and 2 We Brush Off",
       "source": "Yahoo",
@@ -640,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-14T00:58:18.888521+00:00"
+  "updated_at": "2026-10-14T01:13:18.772575+00:00"
 }
