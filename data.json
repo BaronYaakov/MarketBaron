@@ -92,6 +92,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "Former Berkshire Manager Combs Has Made $5 Billion of Investments at JP Morgan",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b453b374bb988eb0c876795a1ed93a86a8de67236577a99e1fcb7060f65195b2",
+      "datetime": 1791926700,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Jeff Bezos Aims for the Moon But Advises Retirees to Stick With Index Funds",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d9116dc3707f7af1fb965e18360e707d7cb314a3fd431203fce7d4c2ae829a3a",
@@ -104,14 +112,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=92e5ef642b3e01604898f87669531d0f7ee8f00bb861284347287fa0fed7f058",
       "datetime": 1791924752,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Has IBM Stock Become A Different Bet?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7a60e94db7d4232b90f6724f2239f5bf44333ccb2643e04f5658315d3100a673",
-      "datetime": 1791923706,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -648,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-14T03:58:16.658194+00:00"
+  "updated_at": "2026-10-14T04:13:15.832934+00:00"
 }
