@@ -187,6 +187,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
+      "ticker": "B",
+      "headline": "StrikePoint Gold Strengthens Its Team with Hiring of Keith Wood as Exploration Manager and Appointment of Stephen Quin as a Strategic Advisor",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bb5bb9656ce6550e5a543c7e2573127af37480a22543d6218fe8014b42ccd269",
+      "datetime": 1791891000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "PRMB",
       "headline": "Heartland Value Plus Fund Q3 2026 Portfolio Activity",
       "source": "SeekingAlpha",
@@ -393,14 +401,6 @@
       "url": "https://finnhub.io/api/news?id=983b64903304cbc8987abdbc4b5b92b8bda18628430e143487e03ffa3d4ce7ac",
       "datetime": 1791377796,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Barrick Mining Corp (NYSE:B): High-Growth Leadership and Momentum Potential",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=80b5ced599608f957c1fac4001f92a2af11102d833fd5ac86a1e89856d0d8ee5",
-      "datetime": 1791366670,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "PRMB",
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-14T00:28:19.944062+00:00"
+  "updated_at": "2026-10-14T00:43:20.154564+00:00"
 }
