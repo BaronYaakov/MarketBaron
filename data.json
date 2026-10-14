@@ -60,10 +60,34 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "IonQ vs. Nebius Group: Which Technology Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac37d2f420ed8a1958c8705720887c4bcc79e46407cdc8ad40ca2319873d6f24",
+      "datetime": 1792006805,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Better High-Yield Dividend Stock: Pfizer vs. UPS",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6749c3c62359b0a0c47f0efb52a4867735713390da08de110f47958dedfd4031",
+      "datetime": 1792005178,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Discover which dow jones stocks are making waves on Wednesday.",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=0da62e5b5741f2c815f6c9d71ebb7308149769088a6488e233b3825b4510e5a1",
       "datetime": 1792005015,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "What Changed For Trade Desk Stock, And What Did Not?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=de2b34e86f818a07f93565eda570064b6b7df5d237c15fa3cbdb5bb51fe185ce",
+      "datetime": 1792004948,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -76,35 +100,27 @@
     },
     {
       "ticker": "AMZN",
-      "headline": "Liberty All-Star\u00ae Equity Fund September 2026 Monthly Update",
+      "headline": "Citi Says the S&P 500 Hits 8,100. Half the Market Has to Cooperate First.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2093733503ba38e5acb28367b5efa2fab0d59af01d9e7999ea00606697588c6f",
-      "datetime": 1792000200,
+      "url": "https://finnhub.io/api/news?id=e402caca7390f2b01d7bf10159f468d2948818a646e3348ab5269ca1cb99c945",
+      "datetime": 1792003691,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Amazon customers could be eligible for payments in $309.5M lawsuit",
+      "headline": "Amazon (AMZN) Has a $25B Chip Business. Is the Cash Burn Worth It?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=66ffaf3f9fb2494a46c22c16dada291a50d8034fbe818ab3169263e9052ae51a",
-      "datetime": 1792000093,
+      "url": "https://finnhub.io/api/news?id=a74f0d8dce6c1f5995c5d52cdd099f4cf2f864b9ec79975b15099c88de355a1d",
+      "datetime": 1792003577,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Amazon\u2019s $550 tablet breaks its oldest hardware rule",
+      "ticker": "AVGO",
+      "headline": "TSM Earnings Tomorrow: Can Strong AI Demand Boost Q3 Results?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9faf6396d210d6e4ebf8ff4785f381838e545aa197f0ed9b6788ae2f0183e26e",
-      "datetime": 1791999180,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Synopsys (SNPS) Stock Looks Cheap Relative To Future Cash Flow",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dbf69dd546676bb51b0c79351dd6285827958046ae396d48361fd266bb0a0f1b",
-      "datetime": 1791998146,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "url": "https://finnhub.io/api/news?id=58628f64fcde2bbc075557a107d63d015efd2f40174ce566d161c785ce5e5298",
+      "datetime": 1792000800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -121,14 +137,6 @@
       "url": "https://finnhub.io/api/news?id=71268d67dfa2714a9ef00b773b27546cde22038d6528d1ffda49d1979f7e024e",
       "datetime": 1791996335,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Berkshire Hathaway Quietly Built a $37.4 Billion Stake in Alphabet, Making It the Portfolio's Third-Largest Position",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ff75278af5cfa144cef73a76561c0d3dfdf17d17b1b01983d250d2ecb4aaa797",
-      "datetime": 1791996180,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -160,14 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fd15c3264e2f6eec0383c406ef37822d5afa0a9fdbbd627b97023c37813b45cb",
       "datetime": 1791991200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom And 2 Cash Flow Stocks To Watch",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3eb230faa29fdb27f98ba3a58efe4b703914411763e1cf7ba96fbcb6339486af",
-      "datetime": 1791990931,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -475,12 +475,12 @@
       "market_cap_musd": 1673682.3617766968,
       "country": "US",
       "currency": "USD",
-      "price": 346.32,
-      "open": 352.2,
+      "price": 346.25,
+      "open": 352.19,
       "day_high": 354.25,
       "day_low": 342.82,
       "prev_close": 357.31,
-      "day_change_pct": -3.08,
+      "day_change_pct": -3.1,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -494,12 +494,12 @@
       "market_cap_musd": 94934.61266,
       "country": "CA",
       "currency": "USD",
-      "price": 38.84,
-      "open": 39.61,
+      "price": 38.89,
+      "open": 39.6,
       "day_high": 39.79,
       "day_low": 38.36,
       "prev_close": 40.52,
-      "day_change_pct": -4.15,
+      "day_change_pct": -4.02,
       "week52_high": 74.0,
       "week52_low": 42.62
     },
@@ -513,12 +513,12 @@
       "market_cap_musd": 64050.575792,
       "country": "CA",
       "currency": "USD",
-      "price": 324.0,
-      "open": 349.93,
+      "price": 323.32,
+      "open": 349.92,
       "day_high": 351.1,
       "day_low": 320.5,
       "prev_close": 357.44,
-      "day_change_pct": -9.36,
+      "day_change_pct": -9.55,
       "week52_high": 655.5,
       "week52_low": 330.79
     },
@@ -532,12 +532,12 @@
       "market_cap_musd": 63598.87938044893,
       "country": "US",
       "currency": "USD",
-      "price": 335.66,
-      "open": 332.09,
-      "day_high": 335.83,
+      "price": 336.17,
+      "open": 332.08,
+      "day_high": 336.33,
       "day_low": 330.82,
       "prev_close": 330.11,
-      "day_change_pct": 1.68,
+      "day_change_pct": 1.84,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -551,12 +551,12 @@
       "market_cap_musd": 69554.4499238024,
       "country": "US",
       "currency": "USD",
-      "price": 86.66,
-      "open": 86.04,
-      "day_high": 86.91,
+      "price": 86.69,
+      "open": 86.03,
+      "day_high": 86.9,
       "day_low": 85.89,
       "prev_close": 86.03,
-      "day_change_pct": 0.73,
+      "day_change_pct": 0.77,
       "week52_high": 104.06,
       "week52_low": 82.59
     },
@@ -571,7 +571,7 @@
       "country": "US",
       "currency": "USD",
       "price": 18.78,
-      "open": 18.76,
+      "open": 18.75,
       "day_high": 19.0,
       "day_low": 18.59,
       "prev_close": 18.9,
@@ -589,12 +589,12 @@
       "market_cap_musd": 49857.46368759636,
       "country": "US",
       "currency": "USD",
-      "price": 141.1,
-      "open": 152.51,
+      "price": 141.49,
+      "open": 152.5,
       "day_high": 154.04,
       "day_low": 140.66,
       "prev_close": 156.97,
-      "day_change_pct": -10.11,
+      "day_change_pct": -9.86,
       "week52_high": 157.57,
       "week52_low": 56.78
     },
@@ -608,12 +608,12 @@
       "market_cap_musd": 2797106.918733823,
       "country": "US",
       "currency": "USD",
-      "price": 253.72,
-      "open": 258.02,
+      "price": 254.08,
+      "open": 258.01,
       "day_high": 259.65,
       "day_low": 252.66,
       "prev_close": 258.58,
-      "day_change_pct": -1.88,
+      "day_change_pct": -1.74,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-14T19:58:16.305009+00:00"
+  "updated_at": "2026-10-14T20:13:16.826083+00:00"
 }
