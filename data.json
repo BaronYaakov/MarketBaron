@@ -59,6 +59,46 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "ASML, TSMC Report This Week: What Traders Are Watching After A 6-Day Chip Stock Slide",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5ab9d359689c3b8e9c5da0fd43ce3db56b4dc72fd52af70f8fbdc1a038f394a7",
+      "datetime": 1791948613,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom CEO echoes Warren Buffett with warning for investors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b000aec042d222515e60e8145fca20e0d8a8cf0e8233aead5274cd051512b5d2",
+      "datetime": 1791947220,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Asian markets mixed as tech firms claw back some losses",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=88411100d5e97109ee5b7adc139fa9096f16ce8fa09c4956e554e3b15bd53f93",
+      "datetime": 1791946579,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "U.S. stock futures muted after chip losses drag Wall Street; CPI data awaited",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a72142bc836b21ae48dd9b6edfbddc02e726ada46a6711619241ebec7805291d",
+      "datetime": 1791941065,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Was There Any Sign Coherent Stock Would Run?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8257c512a2309d74c08c248bdaaa7d205c7292944c9876117703ac9625f2d4b1",
+      "datetime": 1791937178,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Charles Gasparino Defends Jeff Bezos, Elon Musk \u2014 Says America Needs \u2018More Bezos\u2019 and a Tax System That Rewards Risk-Taking",
       "source": "Yahoo",
@@ -120,46 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=14c88032d0fdbe056165625ddc6d0141325a2a4ffad3d3780ea52492e44e99e9",
       "datetime": 1791921825,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Marvell Is Up 214% in 2026 While Broadcom Is Only Up 3%: Take Profits on MRVL Stock, or Hold On for the Ride?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=af07cd734a7b14d9bed832d5fb9445710fad8ea2bc841e5998a4204959ada643",
-      "datetime": 1791918011,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "The Five Largest Holdings in the RANK ETF After Its Latest Rebalance",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=567de157dc5959bc72fbaf24453fcb5b90c56837a4b89a235c014dfebf7272d6",
-      "datetime": 1791918000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Is Microsoft\u2019s New Maia 300 Chip a Threat to Nvidia\u2019s Dominance? What the Stock Says.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e67d59ef9ae19bd1c121ff2f62e09b58bab2fa9d89aec7cbc6d20720cf1e3f17",
-      "datetime": 1791917580,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Seagate and Western Digital Shares Plummet, What You Need To Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=31083b2ceaa142ed7dd3a1b9d595819e8fb4fe156d0ed64f80f2bf654bead588",
-      "datetime": 1791916504,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Why Micron (MU) Shares Are Falling Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b0fbb9b4c04f22a15648590b9c63df5ef738d4b9694356343428fed9d98114d0",
-      "datetime": 1791916024,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -409,38 +409,6 @@
       "url": "https://finnhub.io/api/news?id=983b64903304cbc8987abdbc4b5b92b8bda18628430e143487e03ffa3d4ce7ac",
       "datetime": 1791377796,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Primo Brands Announces Date for 2026 Third Quarter Earnings Release and Conference Call",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f67ab5fc54c4248ec90872f101bd6823b401b377562e8c00aed1e9ddd70b42d9",
-      "datetime": 1791317700,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Eli Lilly and vs. Novo Nordisk A/S: Which Healthcare Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a79264aca14b600f8fd73874c113158161ffe44d0b27110d763f44af3d82f8bc",
-      "datetime": 1791293401,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "3 S&P 500 Stocks to Consider Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b3d42ebcd936b7400012ece3ba67335d61f1a7e935c1e4ca6416e04c6a71f384",
-      "datetime": 1791279394,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Cencora Remains A Buy At These Prices, As Healthcare Supply-Chain Needs Grow",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d11344c10f5ec7aaa66a54cfe75864bb6d79d9cffc1b3aad8016ddc425868a66",
-      "datetime": 1791258499,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     }
   ],
   "recent_posts": [],
@@ -648,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-14T04:58:15.750623+00:00"
+  "updated_at": "2026-10-14T05:13:15.588098+00:00"
 }
