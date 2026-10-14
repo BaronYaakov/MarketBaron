@@ -60,11 +60,75 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Liberty All-Star\u00ae Equity Fund September 2026 Monthly Update",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2093733503ba38e5acb28367b5efa2fab0d59af01d9e7999ea00606697588c6f",
+      "datetime": 1792000200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon customers could be eligible for payments in $309.5M lawsuit",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=66ffaf3f9fb2494a46c22c16dada291a50d8034fbe818ab3169263e9052ae51a",
+      "datetime": 1792000093,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon\u2019s $550 tablet breaks its oldest hardware rule",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9faf6396d210d6e4ebf8ff4785f381838e545aa197f0ed9b6788ae2f0183e26e",
+      "datetime": 1791999180,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Synopsys (SNPS) Stock Looks Cheap Relative To Future Cash Flow",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dbf69dd546676bb51b0c79351dd6285827958046ae396d48361fd266bb0a0f1b",
+      "datetime": 1791998146,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "TSMC Earnings Will Surge but Terafab and Texas Talks Are in Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2d38641dcff10e1d2f743ca9c2a32aa644a2df0cc922abdfe23bcab0fb646064",
+      "datetime": 1791997200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom is The Steady Hand The Market Keeps Discounting",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=71268d67dfa2714a9ef00b773b27546cde22038d6528d1ffda49d1979f7e024e",
+      "datetime": 1791996335,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Berkshire Hathaway Quietly Built a $37.4 Billion Stake in Alphabet, Making It the Portfolio's Third-Largest Position",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ff75278af5cfa144cef73a76561c0d3dfdf17d17b1b01983d250d2ecb4aaa797",
+      "datetime": 1791996180,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "These dow jones stocks are moving in today's session",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=0e4a0f899d47f594522938c4a59506903cbb4ca15d3de14660f12bd82568ba62",
       "datetime": 1791996018,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Applied Optoelectronics Dives 9% as AI Funding Fears Hit Optical Stocks; Coherent Slides 7%, Lumentum Drops 7%",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=405e0bf2467d0f5c8354ba12268c0e6364e75009e3569490781e86560ef649fd",
+      "datetime": 1791995758,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -83,22 +147,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Not Microsoft. Not Alphabet. Here's the Cloud Giant I'm Most Bullish About.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=925af316340840495a8eb45fd24a81b58061cf5584a484c271e9548c763df585",
-      "datetime": 1791992580,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Nectar Launches Customer Atlas, Extending Amazon Marketing Cloud Audience Targeting From Display Into Search Bidding",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b3ce9a793f70f3b3dfd1b9355c0995caa496f56e9711ca51cb876db74c53c2c4",
-      "datetime": 1791991680,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Broadcom vs. Nvidia: If I Could Only Own One for the Next 5 Years, It Would Be This One",
       "source": "Yahoo",
@@ -115,30 +163,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "The Real AI\u00a0Opportunity at Marvell\u00a0Is Just Starting\u00a0to Emerge",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ccbb49f8157a1d77d0a285772b023b120c51a78991c9302268a662a4505aaf46",
-      "datetime": 1791990011,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "OcNOS Goes 102.4T: IP Infusion Announces Support for Broadcom Tomahawk 6 Platforms",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cd508787e073a86ca23c40801bd379cee8607933d3deb07ed3657a20e2ab89aa",
-      "datetime": 1791990000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Qualcomm Vs. Intel: The Market is Refuting Both AI Rebrand Attempts",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4d2b4c06379e3ead5f76623ada846e19b84e347076c89ef1ce3dc79a77342f8b",
-      "datetime": 1791989152,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "P",
       "headline": "VNT vs. P: Which Stock Is the Better Value Option?",
       "source": "Yahoo",
@@ -147,36 +171,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Amazon to close grocery partner storefronts",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d0491ad2e3175d343c67e299dbdf6922216c72098f98979d954101ae179b573a",
-      "datetime": 1791988773,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "P",
       "headline": "These S&P500 stocks are gapping in today's session",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=a78342fabdb99b41234efe2b802c0c5151f1ccfe807efcaaede744a50c74596b",
       "datetime": 1791988501,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "AWS Backlog Hits $496 Billion While Cloud Margins Surge to 39% Making Amazon a Must-Own Growth Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fb4a20a6636f12c4e8e604d555b5b303ea09c9b85a2eab570c4ac366f5441249",
-      "datetime": 1791985800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Advanced Micro Devices Stock Surges 183% YTD: Time to Hold or Exit?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=884e5768a7ca52db241134ed633a61e8c30c3ae20c4bc1f738be22d772ec6daa",
-      "datetime": 1791985020,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "COR",
@@ -475,12 +475,12 @@
       "market_cap_musd": 1673682.3617766968,
       "country": "US",
       "currency": "USD",
-      "price": 345.44,
+      "price": 345.01,
       "open": 352.2,
       "day_high": 354.25,
-      "day_low": 345.27,
+      "day_low": 344.71,
       "prev_close": 357.31,
-      "day_change_pct": -3.32,
+      "day_change_pct": -3.44,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -494,12 +494,12 @@
       "market_cap_musd": 94934.61266,
       "country": "CA",
       "currency": "USD",
-      "price": 38.42,
+      "price": 38.53,
       "open": 39.61,
       "day_high": 39.79,
-      "day_low": 38.41,
+      "day_low": 38.36,
       "prev_close": 40.52,
-      "day_change_pct": -5.18,
+      "day_change_pct": -4.91,
       "week52_high": 74.0,
       "week52_low": 42.62
     },
@@ -513,12 +513,12 @@
       "market_cap_musd": 64050.575792,
       "country": "CA",
       "currency": "USD",
-      "price": 321.95,
+      "price": 321.83,
       "open": 349.93,
       "day_high": 351.1,
       "day_low": 320.5,
       "prev_close": 357.44,
-      "day_change_pct": -9.93,
+      "day_change_pct": -9.96,
       "week52_high": 655.5,
       "week52_low": 330.79
     },
@@ -532,12 +532,12 @@
       "market_cap_musd": 63598.87938044893,
       "country": "US",
       "currency": "USD",
-      "price": 333.71,
+      "price": 333.99,
       "open": 332.09,
       "day_high": 335.55,
       "day_low": 330.82,
       "prev_close": 330.11,
-      "day_change_pct": 1.09,
+      "day_change_pct": 1.18,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -551,12 +551,12 @@
       "market_cap_musd": 69554.4499238024,
       "country": "US",
       "currency": "USD",
-      "price": 86.83,
+      "price": 86.75,
       "open": 86.04,
       "day_high": 86.91,
       "day_low": 85.89,
       "prev_close": 86.03,
-      "day_change_pct": 0.93,
+      "day_change_pct": 0.84,
       "week52_high": 104.06,
       "week52_low": 82.59
     },
@@ -570,12 +570,12 @@
       "market_cap_musd": 6855.214024732276,
       "country": "US",
       "currency": "USD",
-      "price": 18.76,
+      "price": 18.75,
       "open": 18.76,
       "day_high": 19.0,
       "day_low": 18.61,
       "prev_close": 18.9,
-      "day_change_pct": -0.74,
+      "day_change_pct": -0.79,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -589,12 +589,12 @@
       "market_cap_musd": 49857.46368759636,
       "country": "US",
       "currency": "USD",
-      "price": 142.14,
+      "price": 142.39,
       "open": 152.51,
       "day_high": 154.04,
-      "day_low": 142.02,
+      "day_low": 141.94,
       "prev_close": 156.97,
-      "day_change_pct": -9.45,
+      "day_change_pct": -9.29,
       "week52_high": 157.57,
       "week52_low": 56.78
     },
@@ -608,12 +608,12 @@
       "market_cap_musd": 2797106.918733823,
       "country": "US",
       "currency": "USD",
-      "price": 253.53,
+      "price": 253.43,
       "open": 258.02,
       "day_high": 259.65,
-      "day_low": 253.45,
+      "day_low": 253.02,
       "prev_close": 258.58,
-      "day_change_pct": -1.95,
+      "day_change_pct": -1.99,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-14T17:58:16.664121+00:00"
+  "updated_at": "2026-10-14T18:13:15.774946+00:00"
 }
