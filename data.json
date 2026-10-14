@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "ORLY",
+      "headline": "Can Phinia Stock Compound Your Money?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f7841fb59d6c4756f11d6afbd3f2912f8fb9bb8d7dab549c2a855b203ed1ef2f",
+      "datetime": 1791931030,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Franklin Templeton CEO says AI is hiding a bigger tech story",
       "source": "Yahoo",
@@ -632,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-14T00:13:19.991427+00:00"
+  "updated_at": "2026-10-14T00:28:19.944062+00:00"
 }
