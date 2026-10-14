@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Charles Gasparino Defends Jeff Bezos, Elon Musk \u2014 Says America Needs \u2018More Bezos\u2019 and a Tax System That Rewards Risk-Taking",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3c05e2254902d243f382bcdc4dd4b5a7cb51427f470ef34e3f5c64523ad6db05",
+      "datetime": 1791934206,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "ORLY",
       "headline": "Can Phinia Stock Compound Your Money?",
       "source": "Yahoo",
@@ -104,14 +112,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7a60e94db7d4232b90f6724f2239f5bf44333ccb2643e04f5658315d3100a673",
       "datetime": 1791923706,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Data Reveals Next Big AI Robotics Stock Investments",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ac16810eee766376c7b99fe73d6bc4b25bc151644337d4557392f19999c3228e",
-      "datetime": 1791922339,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -648,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-14T01:58:32.667209+00:00"
+  "updated_at": "2026-10-14T02:13:24.991889+00:00"
 }
