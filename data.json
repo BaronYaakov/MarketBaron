@@ -171,6 +171,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Celestica vs. SpaceX: Which Aerospace Stock is the Better Buy Now?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=54b01c6935f9bdd304ea30ad7296a857972a41bd531f0d2b6c92c72ebe75c567",
+      "datetime": 1791900060,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "P",
       "headline": "Will NetApp's Strong Balance Sheet Support Its AI Expansion Strategy?",
       "source": "Yahoo",
@@ -303,14 +311,6 @@
       "headline": "Celestica Introduces the DS6005 Data Center Switch with Co-Packaged Optics to Enable Power-Efficient AI Fabrics",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5cb46fc8e8a98c86bf841774b1ebd49b9d67135acaebf55da4c6b120eca66299",
-      "datetime": 1791806400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "USITC Institutes Investigation of Vertical Power Delivery (VPD) Modules and Computing Systems Infringing a Vicor Patent",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=22e7b491b171435f5e8f2a1aecbf77e3dd6f0324f74028c232be727ecf4929ea",
       "datetime": 1791806400,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
@@ -648,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-14T01:13:18.772575+00:00"
+  "updated_at": "2026-10-14T01:28:24.291847+00:00"
 }
