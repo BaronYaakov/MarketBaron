@@ -60,10 +60,26 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Should you Buy Amazon Stock Before October 29? History Has a Clear Answer.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c98b0b0deb299418c06b083375294a1579ee705dab2a479bc07d7b5c9ce840f2",
+      "datetime": 1792262820,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Discount grocery chain closing all stores as bargain grocers struggle",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c92b0ec586b198d340fba90990d47fcae50d8995f1f9da9129b96e5b8b147a62",
       "datetime": 1792259814,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Level Up Your Life In 2026 | Shaan Puri",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3a61d239e11e7d14344bc867f216691d1879c37b9804870835f1272570407bec",
+      "datetime": 1792258298,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -115,14 +131,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "The Correction Is Healthy; The Next Move Is Yours",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=17bd471ebe532927fd54ba02b3174315468a676bb8365e8c83c5e1ee26657da6",
-      "datetime": 1792226700,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Broadcom: Trading At A 37% Discount To My Fair Value",
       "source": "SeekingAlpha",
@@ -137,14 +145,6 @@
       "url": "https://finnhub.io/api/news?id=5722824035d1917292ff4d4e40f7308d3a403a43dc80ec4cb139fb94982c7c30",
       "datetime": 1792219587,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Could Shopify Stock Repeat Amazon's Run Since 2007?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c9f7a1c8769542a541064afb4f98d1f48eabb8436fc7d220dfdba49982660a8b",
-      "datetime": 1792214222,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -648,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-17T19:58:19.988314+00:00"
+  "updated_at": "2026-10-17T20:28:15.589990+00:00"
 }
