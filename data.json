@@ -123,6 +123,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=7e2b0937b27bee019f942ad8c025e6800b66f24381cab2d9911dcc1076244abd",
+      "datetime": 1792310401,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "The Data Center Doomsday Scenario",
       "source": "SeekingAlpha",
@@ -144,14 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4fab5b29e55cda6db90ed65aa2008bf7eca391442a5226e0c97ac8719b586924",
       "datetime": 1792278819,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Should you Buy Amazon Stock Before October 29? History Has a Clear Answer.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c98b0b0deb299418c06b083375294a1579ee705dab2a479bc07d7b5c9ce840f2",
-      "datetime": 1792262820,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-18T17:28:16.505116+00:00"
+  "updated_at": "2026-10-18T17:43:16.538270+00:00"
 }
