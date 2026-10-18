@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Anthropic's Junk Rating Sparks a Bigger Bitcoin Debate",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=86d25d9d5f837db3b09230e1dc3a1a3a6673bacd17fbe16b74ac5f176af58e59",
+      "datetime": 1792285875,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eccb3290658773cf73b2e97e864fe97d851b64b9a96ebbb996cbf9e6377e4d60",
+      "datetime": 1792282800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Amazon.com (AMZN) Received An FDA Warning Over Unapproved STI Drug Listings",
       "source": "Yahoo",
@@ -131,28 +147,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Here's What $10,000 Invested in Broadcom Will Be Worth by 2028",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=45a3448716324098d8e591a655907a4334752a37a76b822f4a93cfd1075a0b82",
-      "datetime": 1792253280,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "AMZN",
       "headline": "Ring founder Jamie Siminoff: 'I still have my email on every box' \u2014 here's why",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d6657391624f36ac4713a719210890a5bfcca85bca325939620d08e333b65c4b",
       "datetime": 1792247498,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia\u2019s CEO Says \u201cAll of This Is Going to Pass\u201d After Tech Lost $1 Trillion in a Day",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1bfea888cc709b0e748fdc8e86dfb642734641995b777747e1d4bb25e0edade8",
-      "datetime": 1792235715,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "B",
@@ -433,14 +433,6 @@
       "url": "https://finnhub.io/api/news?id=5c26291ca92708763cb3875dc9ab591493dcebb54023a277eefc0cab5d20c7fa",
       "datetime": 1791849061,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% Plus (October 2026)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d4f1fad9ff4940b69bbf8baed8448ad3d1454460013668fccccbcd262f2b0de5",
-      "datetime": 1791621300,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     }
   ],
   "recent_posts": [],
@@ -648,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-18T04:58:17.393674+00:00"
+  "updated_at": "2026-10-18T05:13:17.815818+00:00"
 }
