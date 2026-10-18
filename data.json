@@ -59,6 +59,30 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Amazon (AMZN) Is A Proven Capital Allocator. But Can it Pass Its $220 Billion Test?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6d5512142e8f774ce7ec04d0a2c6b5309839367273e6287db8788cd1370ab948",
+      "datetime": 1792334301,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom (AVGO) Went Nowhere for a Year. Analysts Think It Is Worth 50% More",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1532391aa5c0969c751fa1194019116d039c167e1aee3cf8d61c122e45fa5420",
+      "datetime": 1792334088,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Taiwan Semiconductor\u2019s (TSM) Profit Rose 69% Last Quarter. Is the Stock Still Cheap?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=95ffac3e554a60ea084b112a2ab80b6599dc625942d23a70c55c3cabc1479544",
+      "datetime": 1792334061,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Own VGT? Here's How Much of It Is Really Nvidia, Apple, Microsoft, and Broadcom.",
       "source": "Yahoo",
@@ -107,28 +131,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "AI Investment Impact Understated In U.S. 'It' Market: Texas Reveals",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=03fd4bc2999d901f5bc2e52183f24910137f24e6e0bdaed3e6c5c60e0fd0eeab",
-      "datetime": 1792303200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "AMZN",
       "headline": "AI Investment Impact Understated In U.S. 'It' Market: Texas Reveals",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=03fd4bc2999d901f5bc2e52183f24910137f24e6e0bdaed3e6c5c60e0fd0eeab",
       "datetime": 1792303200,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Anthropic's Junk Rating Sparks a Bigger Bitcoin Debate",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=86d25d9d5f837db3b09230e1dc3a1a3a6673bacd17fbe16b74ac5f176af58e59",
-      "datetime": 1792285875,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -144,14 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c98b0b0deb299418c06b083375294a1579ee705dab2a479bc07d7b5c9ce840f2",
       "datetime": 1792262820,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Discount grocery chain closing all stores as bargain grocers struggle",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c92b0ec586b198d340fba90990d47fcae50d8995f1f9da9129b96e5b8b147a62",
-      "datetime": 1792259814,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-18T15:58:17.274488+00:00"
+  "updated_at": "2026-10-18T16:13:17.662738+00:00"
 }
