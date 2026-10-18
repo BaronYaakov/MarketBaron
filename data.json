@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Nine Companies, Including Broadcom and Verizon, Object to Their Shares Being Tokenized. Can They Stop It?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=57f743c8f642271987dae6f5e86d7fcda59985d7b89227a395e3cb591f5c0007",
+      "datetime": 1792348229,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "What Does Broadcom (AVGO) Face As AI Chip Supply Turns Into A Bottleneck?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=99ada1d69d367f1bd75eb62c3b665b465fed7b42122097d0c519a376c3167313",
@@ -128,14 +136,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=5be722a85534f3248fdd33e32be423c77cc5a1c50938f94d39b5196c51f7c1cd",
       "datetime": 1792317273,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Crashed From $495 To $328 - I'm Buying The Sell-Off",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c72a64cee9d02ca00eaf8393e83bb0e8ed2baa1ba469e9ea3ee579c7bb68bd9f",
-      "datetime": 1792315800,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-18T19:58:15.901482+00:00"
+  "updated_at": "2026-10-18T20:13:15.268919+00:00"
 }
