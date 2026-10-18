@@ -76,6 +76,14 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "The Data Center Doomsday Scenario",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d733269d580b8f457fbc381c431850ac865267f6f47bd6dfb7175a21c0285369",
+      "datetime": 1792310400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "AI Investment Impact Understated In U.S. 'It' Market: Texas Reveals",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=03fd4bc2999d901f5bc2e52183f24910137f24e6e0bdaed3e6c5c60e0fd0eeab",
@@ -128,14 +136,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8c65da6be8fb66f8cf600d35fd44cdadba29a61d8ed6271236ef9db1ff55766f",
       "datetime": 1792275080,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Why Broadcom Stock Is a Good Buy Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7b8b38b7b5dea8ced7c1a606a1e7bf0731c51ba71238788bc7d5c8236de8d9f1",
-      "datetime": 1792265402,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-18T12:13:16.249481+00:00"
+  "updated_at": "2026-10-18T12:28:16.027279+00:00"
 }
