@@ -76,6 +76,14 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "Broadcom Crashed From $495 To $328 - I'm Buying The Sell-Off",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c72a64cee9d02ca00eaf8393e83bb0e8ed2baa1ba469e9ea3ee579c7bb68bd9f",
+      "datetime": 1792315800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "The Data Center Doomsday Scenario",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=d733269d580b8f457fbc381c431850ac865267f6f47bd6dfb7175a21c0285369",
@@ -128,14 +136,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=45874ec2a8d88972a2800dd7d1d9e9281d36da8a4ebac778d3d5190bb73e7028",
       "datetime": 1792276540,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom\u2019s $29 Billion AI Backstop: How Much Risk Does the Cash Flow Cover?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8c65da6be8fb66f8cf600d35fd44cdadba29a61d8ed6271236ef9db1ff55766f",
-      "datetime": 1792275080,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-18T13:43:16.762370+00:00"
+  "updated_at": "2026-10-18T13:58:16.527624+00:00"
 }
