@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Own VGT? Here's How Much of It Is Really Nvidia, Apple, Microsoft, and Broadcom.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=997c82bec29b639e1cac57a3bdc3156b75a04e58d14b2b935bca4a0e3da0bab0",
+      "datetime": 1792330080,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "2 Retail Stocks to Buy Before the Holiday Shopping Season",
       "source": "Yahoo",
@@ -73,6 +81,14 @@
       "url": "https://finnhub.io/api/news?id=4426b4cfdc3e8ca9cab9314c511bda73d20d05614c496b90d220e747bd179ab4",
       "datetime": 1792318307,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom: Market Misunderstanding Is Baffling, But Don't Be Fooled",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5be722a85534f3248fdd33e32be423c77cc5a1c50938f94d39b5196c51f7c1cd",
+      "datetime": 1792317273,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -115,28 +131,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eccb3290658773cf73b2e97e864fe97d851b64b9a96ebbb996cbf9e6377e4d60",
-      "datetime": 1792282800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "AMZN",
       "headline": "Amazon.com (AMZN) Received An FDA Warning Over Unapproved STI Drug Listings",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4fab5b29e55cda6db90ed65aa2008bf7eca391442a5226e0c97ac8719b586924",
       "datetime": 1792278819,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Jim Cramer Sees a Telling Change in Broadcom\u2019s (AVGO) Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=45874ec2a8d88972a2800dd7d1d9e9281d36da8a4ebac778d3d5190bb73e7028",
-      "datetime": 1792276540,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-18T13:58:16.527624+00:00"
+  "updated_at": "2026-10-18T14:13:16.598542+00:00"
 }
