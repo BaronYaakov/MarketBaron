@@ -68,6 +68,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "UTES Vs. UTG: Why I Prefer The ETF As Rates Rise.",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e61831d34030ae481e8eb85df48f4bd2c7200c325497ba845f3bc118b4a43bab",
+      "datetime": 1792337515,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon (AMZN) Is A Proven Capital Allocator. But Can it Pass Its $220 Billion Test?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6d5512142e8f774ce7ec04d0a2c6b5309839367273e6287db8788cd1370ab948",
@@ -144,14 +152,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=03fd4bc2999d901f5bc2e52183f24910137f24e6e0bdaed3e6c5c60e0fd0eeab",
       "datetime": 1792303200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon.com (AMZN) Received An FDA Warning Over Unapproved STI Drug Listings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4fab5b29e55cda6db90ed65aa2008bf7eca391442a5226e0c97ac8719b586924",
-      "datetime": 1792278819,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-18T19:43:15.057746+00:00"
+  "updated_at": "2026-10-18T19:58:15.901482+00:00"
 }
