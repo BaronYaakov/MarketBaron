@@ -139,20 +139,20 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "Pinterest Stock Is Down 18% This Year. Buy, Sell or Hold?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=309b2394259d7824f2a14eda87adab35f8282ac3261b2d748795b3ecb3ff381d",
+      "datetime": 1792255923,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Chip Stocks Just Fell 8 Days in a Row, Their Longest Losing Streak Since 2008",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b0308c55fd23bc832f262feec8d6517334c5036b1d4acba500cbd84b186e5b08",
       "datetime": 1792253720,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Ring founder Jamie Siminoff: 'I still have my email on every box' \u2014 here's why",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d6657391624f36ac4713a719210890a5bfcca85bca325939620d08e333b65c4b",
-      "datetime": 1792247498,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "B",
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-18T09:58:15.911962+00:00"
+  "updated_at": "2026-10-18T10:13:16.204888+00:00"
 }
