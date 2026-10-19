@@ -83,6 +83,22 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "What Would Stop The AI Selloff",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f81e56ca69a5fcfaacd77d3a9630d96359897268651205c32cb90015cce769d2",
+      "datetime": 1792374806,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "What Would Stop The AI Selloff",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f81e56ca69a5fcfaacd77d3a9630d96359897268651205c32cb90015cce769d2",
+      "datetime": 1792374806,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "How much Amazon stock does CEO Andy Jassy actually own?",
       "source": "Yahoo",
@@ -123,14 +139,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "UTES Vs. UTG: Why I Prefer The ETF As Rates Rise.",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=e61831d34030ae481e8eb85df48f4bd2c7200c325497ba845f3bc118b4a43bab",
-      "datetime": 1792337515,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Broadcom (AVGO) Went Nowhere for a Year. Analysts Think It Is Worth 50% More",
       "source": "Yahoo",
@@ -144,14 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=95ffac3e554a60ea084b112a2ab80b6599dc625942d23a70c55c3cabc1479544",
       "datetime": 1792334061,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Own VGT? Here's How Much of It Is Really Nvidia, Apple, Microsoft, and Broadcom.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=997c82bec29b639e1cac57a3bdc3156b75a04e58d14b2b935bca4a0e3da0bab0",
-      "datetime": 1792330080,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-19T05:58:15.877538+00:00"
+  "updated_at": "2026-10-19T06:13:16.755078+00:00"
 }
