@@ -68,6 +68,14 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "Intel vs. AMD: The CPU Comeback Has Become a 2-Stock Fight, But 1 Is the Better Buy",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1c5493f31d7a8440cb57020dd3d892c227f46315cab9124903f86b99cdf53f63",
+      "datetime": 1792356386,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Nine Companies, Including Broadcom and Verizon, Object to Their Shares Being Tokenized. Can They Stop It?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=57f743c8f642271987dae6f5e86d7fcda59985d7b89227a395e3cb591f5c0007",
@@ -137,14 +145,6 @@
       "url": "https://finnhub.io/api/news?id=4426b4cfdc3e8ca9cab9314c511bda73d20d05614c496b90d220e747bd179ab4",
       "datetime": 1792318307,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom: Market Misunderstanding Is Baffling, But Don't Be Fooled",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=5be722a85534f3248fdd33e32be423c77cc5a1c50938f94d39b5196c51f7c1cd",
-      "datetime": 1792317273,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-19T03:58:16.503739+00:00"
+  "updated_at": "2026-10-19T04:13:16.431399+00:00"
 }
