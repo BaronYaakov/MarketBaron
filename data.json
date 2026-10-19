@@ -60,6 +60,38 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Global Nuclear Energy Renaissance and Small Modular Reactor (SMR) Market Strategic Outlook, 2026-2031 | AI Data Center Demand Drives 9.5% CAGR and USD 206.9 Billion by 2031",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=70af1876972539d63f02463bc8576f7bba77adf75e2c718c25b316cc87462600",
+      "datetime": 1792402920,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The Trillion-Dollar AI Bet: What It Means for Hyperscaler Investors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b3720a354b25f26a0e8fd26ee7835dc50348d8fcfe8000aaffc9e2cc461722d1",
+      "datetime": 1792401540,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Update: Microsoft's Business Software Proposed to Receive Increased UK Regulatory Scrutiny",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e1165cc07d46503327480257cf375752da1201ad763def651f060e74346350ef",
+      "datetime": 1792400133,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Should You Buy, Sell, or Hold META Stock Before Q3 Earnings Release?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=88590bd39fbfe6742e5476825234c2fb0b511495598eff1d05cf251184c15f61",
+      "datetime": 1792399020,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon.com And 2 Other Undervalued Stocks",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e7a17dae73f5c96c60a7a65f8969b572409d5f7aa5f34c163e9ab8ee978c34c1",
@@ -75,44 +107,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Amazon.com vs. Walmart: Which Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8b19d1717a0d909f6363222d686863c3f4fb2b1cff6f51dc036eeabdb9f7537c",
-      "datetime": 1792380002,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "CoreWeave, Oracle have an interest rate problem",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c17003935bf1124cabd573194be1f91c91ed2b180d26b06a704951188042e8b6",
-      "datetime": 1792378020,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "What Would Stop The AI Selloff",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=f81e56ca69a5fcfaacd77d3a9630d96359897268651205c32cb90015cce769d2",
       "datetime": 1792374806,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "What Would Stop The AI Selloff",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=f81e56ca69a5fcfaacd77d3a9630d96359897268651205c32cb90015cce769d2",
-      "datetime": 1792374806,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "How much Amazon stock does CEO Andy Jassy actually own?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3d6ba59891643845fa7ec14cc904b4de3ad3adfc7ced63aefc992c6713d4c52e",
-      "datetime": 1792372140,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-19T09:58:15.831722+00:00"
+  "updated_at": "2026-10-19T10:13:15.799401+00:00"
 }
