@@ -75,6 +75,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Stock Market Today: Chip Selloff Hits Day Eight as Nasdaq Logs Its Worst Week Since June",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=7813c90551bed2a1596a8d1552963cf3cc125b7182c3e4c82dc3b7c6f5ac0807",
+      "datetime": 1792400393,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Update: Microsoft's Business Software Proposed to Receive Increased UK Regulatory Scrutiny",
       "source": "Yahoo",
@@ -144,14 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1532391aa5c0969c751fa1194019116d039c167e1aee3cf8d61c122e45fa5420",
       "datetime": 1792334088,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Taiwan Semiconductor\u2019s (TSM) Profit Rose 69% Last Quarter. Is the Stock Still Cheap?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=95ffac3e554a60ea084b112a2ab80b6599dc625942d23a70c55c3cabc1479544",
-      "datetime": 1792334061,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-19T10:13:15.799401+00:00"
+  "updated_at": "2026-10-19T10:28:15.959477+00:00"
 }
