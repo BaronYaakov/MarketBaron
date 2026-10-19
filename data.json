@@ -108,10 +108,10 @@
     },
     {
       "ticker": "AMZN",
-      "headline": "Prediction: Amazon Stock Will Soar After Oct. 29",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8b69def7e68853c334725234bf7dd16b9393022b4dee0bbda9f2dbd52e29a622",
-      "datetime": 1792383600,
+      "headline": "The Market Has 1999-Like Valuations, 2007-Like Credit Issues",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=edfad3c74cf986abb114d7043ae6db480a40853c3d916b6b0104e7f70941a6ee",
+      "datetime": 1792391262,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-19T10:28:15.959477+00:00"
+  "updated_at": "2026-10-19T10:43:16.065182+00:00"
 }
