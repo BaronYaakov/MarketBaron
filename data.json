@@ -60,6 +60,30 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Alphabet Looks Better By The Day for This One AI Strategy",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5e290b485999d98c5ceb089cb41e95516a3cdcd702f6fdf01af4b3b8dd75ce35",
+      "datetime": 1792408517,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Objections to ICE and OKX\u2019s Tokenized Stock Venue Climb to Nine as Broadcom, Verizon Opt Out",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bca012de5ecd32d01dc42e0fdcd54b83444df57889c4ed6d608df881eb680bf5",
+      "datetime": 1792404950,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "\u2018I run a caf\u00e9 in a park \u2013 I\u2019ll never get rich selling coffee, but I love it\u2019",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a798a591536601355c5b3c6d6bf8d642f72b320546924a32d30c15090b3032f6",
+      "datetime": 1792404240,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Global Nuclear Energy Renaissance and Small Modular Reactor (SMR) Market Strategic Outlook, 2026-2031 | AI Data Center Demand Drives 9.5% CAGR and USD 206.9 Billion by 2031",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=70af1876972539d63f02463bc8576f7bba77adf75e2c718c25b316cc87462600",
@@ -99,22 +123,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Amazon.com And 2 Other Undervalued Stocks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e7a17dae73f5c96c60a7a65f8969b572409d5f7aa5f34c163e9ab8ee978c34c1",
-      "datetime": 1792393788,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The Market Has 1999-Like Valuations, 2007-Like Credit Issues",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=edfad3c74cf986abb114d7043ae6db480a40853c3d916b6b0104e7f70941a6ee",
-      "datetime": 1792391262,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "What Would Stop The AI Selloff",
       "source": "SeekingAlpha",
@@ -144,14 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=99ada1d69d367f1bd75eb62c3b665b465fed7b42122097d0c519a376c3167313",
       "datetime": 1792339773,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom (AVGO) Went Nowhere for a Year. Analysts Think It Is Worth 50% More",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1532391aa5c0969c751fa1194019116d039c167e1aee3cf8d61c122e45fa5420",
-      "datetime": 1792334088,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-19T11:58:15.900756+00:00"
+  "updated_at": "2026-10-19T12:13:16.395168+00:00"
 }
