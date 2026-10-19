@@ -60,6 +60,30 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Amazon.com vs. Walmart: Which Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8b19d1717a0d909f6363222d686863c3f4fb2b1cff6f51dc036eeabdb9f7537c",
+      "datetime": 1792380002,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "CoreWeave, Oracle have an interest rate problem",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c17003935bf1124cabd573194be1f91c91ed2b180d26b06a704951188042e8b6",
+      "datetime": 1792378020,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "How much Amazon stock does CEO Andy Jassy actually own?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3d6ba59891643845fa7ec14cc904b4de3ad3adfc7ced63aefc992c6713d4c52e",
+      "datetime": 1792372140,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Bonds Already Discounted A 3rd Hike, Stocks Have Followed, Stay Long",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=f639953768fbbd69bdc4fa4baffb34746c56adb4a5f8894e3effe2572f294a4b",
@@ -129,30 +153,6 @@
       "url": "https://finnhub.io/api/news?id=997c82bec29b639e1cac57a3bdc3156b75a04e58d14b2b935bca4a0e3da0bab0",
       "datetime": 1792330080,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "2 Retail Stocks to Buy Before the Holiday Shopping Season",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1e2270f61245e1a5dee919fd217d62d610790904193d657283a334cb8bfcd1c8",
-      "datetime": 1792319941,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "3 Cash Flow Stocks To Watch In October 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4426b4cfdc3e8ca9cab9314c511bda73d20d05614c496b90d220e747bd179ab4",
-      "datetime": 1792318307,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=7e2b0937b27bee019f942ad8c025e6800b66f24381cab2d9911dcc1076244abd",
-      "datetime": 1792310401,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "B",
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-19T04:58:15.539868+00:00"
+  "updated_at": "2026-10-19T05:13:16.698405+00:00"
 }
