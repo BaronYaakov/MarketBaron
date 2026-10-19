@@ -60,10 +60,50 @@
   "news": [
     {
       "ticker": "AMZN",
-      "headline": "Netflix stock is down roughly 25% in 2026 as Q3 earnings loom",
+      "headline": "Stock Market Today: Dow Up, Nasdaq Rallies; Sandisk Surges As This Biotech Play Tests Entry (Live Coverage)",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d6a59230ac4b0d8b5c4fe4b682ad2e65a8c4c9b18e09e3f769d44f856e559adf",
-      "datetime": 1792418210,
+      "url": "https://finnhub.io/api/news?id=01243f9ad6f9f1e8a4bf7c8d4aac3b5b0b0cd185ae9be10474e6beb2c606846a",
+      "datetime": 1792424693,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Morgan Stanley names Amazon \"Top Pick\" amid AWS strength",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8222fa6baa72ad145ecac137ed00ab98a17298cd1902db2ee15f5e85627142b6",
+      "datetime": 1792423533,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Prediction: Amazon\u2019s Next Chapter Could Be Its Most Important One Yet",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6525f075bacad28942a26061223f0bf8b8a64f164878454805c1543119499079",
+      "datetime": 1792422011,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Billion Dollar Boy Group bets B2B is creator marketing\u2019s next big wave",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2c4d56acad4f4236a93ffb62206fa8df70e54a6809f8834b1888580a24e8fd29",
+      "datetime": 1792422000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Musk: Starlink Will Be a \u201cMust-Have for Airlines\u201d as United Races to Install It. Delta Takes the Under.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d81d0528a9331d20ff5c46e63d986a86cbc99760e01c625ddc224eb968c99779",
+      "datetime": 1792421773,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "X-Energy Stock Rises on Amazon Nuclear Power Plans After Post-IPO Slump",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e66fd286f0b607b6caaebe0ad4426ee5a38b7a8d1a448ffb8d2dc82ae0627f04",
+      "datetime": 1792419600,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -73,14 +113,6 @@
       "url": "https://finnhub.io/api/news?id=d810ce0786966a425c423763c1cd4aa0ae7db215c9b67d6845d5913ede82f28f",
       "datetime": 1792417803,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Microsoft vs. Amazon: Is AMZN\u2019s AI Growth Being Undervalued by Investors?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=af9f985fb0e6b4ac71d751ad4591e5b84d88a58eb40a40daed7c5a3b949f62e7",
-      "datetime": 1792416968,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -97,38 +129,6 @@
       "url": "https://finnhub.io/api/news?id=53bfdc1deb3f7f4dd9680e222ef8c1f08cb131e84a4899a25904c7ca233cab30",
       "datetime": 1792416674,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Can AI hyperscalers afford to build the infrastructure to meet long-term demand?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ce600073aa202e655571b54335ea13f2f030b4ceaf058ad9a4d62eae1da14707",
-      "datetime": 1792415321,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Kimberly-Clark Launches Big Dreams\u2122 Diapers and Wipes, exclusively in Amazon's stores",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=20d06d6489d137cbaaa3bbdfdc55a3511bd4c5e514c8c9e4fc119f8078c974d3",
-      "datetime": 1792415100,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Prediction: Oracle\u2019s Next Chapter Could Be Huge for Shareholders",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a00d0c1c3af0c6f9b1b341ab525ba5b84277b860c1685500baed3380cd304b21",
-      "datetime": 1792414802,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "What Has The Market Missed In Netflix Stock's Drop?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=19530acf3c2902edc81a411eb1393429ac84201decf27f071abcf4eae6c674fb",
-      "datetime": 1792414559,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -491,12 +491,12 @@
       "market_cap_musd": 1569330.7627760798,
       "country": "US",
       "currency": "USD",
-      "price": 339.77,
+      "price": 339.31,
       "open": 337.36,
       "day_high": 340.2,
       "day_low": 333.82,
       "prev_close": 328.75,
-      "day_change_pct": 3.35,
+      "day_change_pct": 3.21,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -510,12 +510,12 @@
       "market_cap_musd": 94737.108291,
       "country": "CA",
       "currency": "USD",
-      "price": 40.43,
+      "price": 40.34,
       "open": 40.64,
       "day_high": 40.92,
       "day_low": 40.23,
       "prev_close": 40.82,
-      "day_change_pct": -0.96,
+      "day_change_pct": -1.18,
       "week52_high": 74.0,
       "week52_low": 42.62
     },
@@ -529,12 +529,12 @@
       "market_cap_musd": 56333.836387,
       "country": "CA",
       "currency": "USD",
-      "price": 312.86,
+      "price": 313.37,
       "open": 312.97,
       "day_high": 315.25,
       "day_low": 303.27,
       "prev_close": 303.81,
-      "day_change_pct": 2.98,
+      "day_change_pct": 3.15,
       "week52_high": 655.5,
       "week52_low": 330.79
     },
@@ -548,12 +548,12 @@
       "market_cap_musd": 65056.802547308864,
       "country": "US",
       "currency": "USD",
-      "price": 337.08,
+      "price": 337.34,
       "open": 339.29,
       "day_high": 342.18,
-      "day_low": 337.0,
+      "day_low": 336.47,
       "prev_close": 340.92,
-      "day_change_pct": -1.13,
+      "day_change_pct": -1.05,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -586,12 +586,12 @@
       "market_cap_musd": 7137.530096476291,
       "country": "US",
       "currency": "USD",
-      "price": 19.89,
+      "price": 19.83,
       "open": 19.54,
       "day_high": 19.95,
       "day_low": 19.22,
       "prev_close": 19.72,
-      "day_change_pct": 0.86,
+      "day_change_pct": 0.56,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -605,12 +605,12 @@
       "market_cap_musd": 41323.51116838366,
       "country": "US",
       "currency": "USD",
-      "price": 129.57,
+      "price": 129.45,
       "open": 127.88,
       "day_high": 130.36,
       "day_low": 127.41,
       "prev_close": 124.01,
-      "day_change_pct": 4.48,
+      "day_change_pct": 4.39,
       "week52_high": 157.57,
       "week52_low": 56.78
     },
@@ -624,12 +624,12 @@
       "market_cap_musd": 2696578.5551371886,
       "country": "US",
       "currency": "USD",
-      "price": 263.32,
+      "price": 263.1,
       "open": 254.02,
       "day_high": 263.44,
       "day_low": 254.02,
       "prev_close": 250.0,
-      "day_change_pct": 5.33,
+      "day_change_pct": 5.24,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-19T15:58:16.398826+00:00"
+  "updated_at": "2026-10-19T16:13:16.566557+00:00"
 }
