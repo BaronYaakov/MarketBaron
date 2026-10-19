@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Bonds Already Discounted A 3rd Hike, Stocks Have Followed, Stay Long",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f639953768fbbd69bdc4fa4baffb34746c56adb4a5f8894e3effe2572f294a4b",
+      "datetime": 1792360102,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Nine Companies, Including Broadcom and Verizon, Object to Their Shares Being Tokenized. Can They Stop It?",
       "source": "Yahoo",
@@ -144,14 +152,6 @@
       "source": "CNBC",
       "url": "https://finnhub.io/api/news?id=7e2b0937b27bee019f942ad8c025e6800b66f24381cab2d9911dcc1076244abd",
       "datetime": 1792310401,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "AI Investment Impact Understated In U.S. 'It' Market: Texas Reveals",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=03fd4bc2999d901f5bc2e52183f24910137f24e6e0bdaed3e6c5c60e0fd0eeab",
-      "datetime": 1792303200,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-19T01:58:17.523117+00:00"
+  "updated_at": "2026-10-19T02:13:18.576846+00:00"
 }
