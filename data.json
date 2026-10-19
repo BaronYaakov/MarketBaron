@@ -60,42 +60,50 @@
   "news": [
     {
       "ticker": "AMZN",
-      "headline": "3 Unstoppable Dow Stocks to Buy Before October Ends",
+      "headline": "Amazon vs. Home Depot: Which Consumer Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a568826caf6f56c7b6846d96216767a93e1ccc12283b7ff1be516d340a310a8f",
-      "datetime": 1792439400,
+      "url": "https://finnhub.io/api/news?id=cdd82e73a1da9aaf37a8c8a1c11c9146b4a3b71beba373f2128cd098501abbf2",
+      "datetime": 1792446254,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Sector Update: Tech Stocks Rise Late Afternoon",
+      "headline": "3M stock rises 3% on $6B Amazon data center deal",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3de7006c404a02abe84ed0a390bbfeb500e86b524026545c03a4ca76a719f421",
-      "datetime": 1792439214,
+      "url": "https://finnhub.io/api/news?id=e75de35de6be342fe1869437d181965da4fd651d652bf8a2d0e54adc200a1b27",
+      "datetime": 1792445792,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Amazon (AMZN) Stock Costs $250 a Share. Here's Why I'd Still Buy It.",
+      "headline": "Advertisers Must Find the Friend Who Pays for Everyone: PayPal Ads\u2019 Asaf Davidov",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a47c0239d66477228f31d9c8526cdee7e3557a3bd12625f96f15015a8c20faa8",
-      "datetime": 1792437900,
+      "url": "https://finnhub.io/api/news?id=cdc35ca2bbb6a4626b5037ad49908ee38154b03976170e93bd3f5cf70c360a58",
+      "datetime": 1792445495,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Amazon Just Made Its AI Chips Easier to Use. Should Nvidia Investors Be Worried?",
+      "headline": "Stock Market Today, Oct. 19: Amazon Surges on Morgan Stanley Top Pick and $350 Price Target",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b41f28cc0a73a424d42c101b27ec7db523ea3301721cb171375df9189c631c1f",
-      "datetime": 1792437542,
+      "url": "https://finnhub.io/api/news?id=8d26cb2e50be12ae4d197bd0b1114222355d33d7018d7035cb33b8f9740cade6",
+      "datetime": 1792445463,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Amazon Soars 5% as Morgan Stanley Names It a Top Pick: AWS Runway \u201cUnder-Appreciated\u201d",
+      "headline": "Amazon Rallies as Morgan Stanley Sees Major AI Upside | Closing Bell",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6db590e253a0d2be5da4a8c2a956052210c92a7f1b04c6fe6b2cc7b7efaaf2eb",
-      "datetime": 1792437532,
+      "url": "https://finnhub.io/api/news?id=428628ab6b67bd3d6e0372a58d28a4dcd6513e69ba789ab02a5358de4ffe4900",
+      "datetime": 1792443560,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Why Amazon (AMZN) Stock Is Up Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=10b023130e696b5540bec7f564fc49db6d3c464bc0ffa2eda9ad72597d925172",
+      "datetime": 1792443415,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -131,12 +139,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Stock Market Today: Nasdaq Hits Resistance As Oil Jumps; CoreWeave Falls Despite This (Live Coverage)",
+      "ticker": "AVGO",
+      "headline": "Morgan Stanley\u2019s favorite AI stock is 92% exposed to the $1.6 trillion build-out it\u2019s bullish on",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=16d79616601e69ee55e06947603e29aad45d60c5a51635c57da9f8a8f3e67585",
-      "datetime": 1792435330,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "url": "https://finnhub.io/api/news?id=d27b5b736dc8bcdccd3acb1b216792153a2bba70bd019db1b06f8c2ceddfc221",
+      "datetime": 1792434601,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -144,14 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=cf786414d2e744acf0a7e5831f39d8a96e20bb8b7ef04ed5fbd51e3213e83ec0",
       "datetime": 1792434532,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "What Just Happened To Marvell Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f6b17263c2c2e4315ce60178c169671be83f8394d388727646b1e11f979ed042",
-      "datetime": 1792433180,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-19T21:58:17.242345+00:00"
+  "updated_at": "2026-10-19T22:13:17.984032+00:00"
 }
