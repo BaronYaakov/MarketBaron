@@ -59,52 +59,12 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
-      "ticker": "AMZN",
-      "headline": "Amazon Stock to Top $300 in October? Prediction Market Punters Trade the Odds as Morgan Stanley Raises Near-Term Target",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=746d90013dea92e8929f6f393f529c4743062798bce16068bfd50629e1ddb8d8",
-      "datetime": 1792474616,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Dow, S&P 500, Nasdaq Edge Higher Amid Tech Rebound As Q3 Earnings Season Forges Ahead: DJT, AMZN, CBRS, CRWV Stocks In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=16e5bc7a300093ae230836abdc7cafb5c4cf229188872e8713eb6684efdf28f0",
-      "datetime": 1792467116,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "AVGO Stock Edges Up Overnight After 10-Year Docomo Deal, But Retail Stays On Edge Over CEO\u2019s AI \u2018Casino\u2019 Remarks",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=830600d0ab1059368bebd62f0917350abcd36044def65619d3975d1db6c77e19",
       "datetime": 1792465702,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Jeff Bezos\u2019 Florida Real Estate Empire Could Be Growing With $69 Million Golden Beach Mansion: Report",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7005e301c6b1c7f5a71fed1d4009edaa7998d361a5edfaf982ea338baccad252",
-      "datetime": 1792463409,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "MMM Stock Jumps Overnight: Amazon Could Own A Piece Of 3M If It Spends $6B On Its Data Center Products",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e74b531e89ef7af2922fba2beb11ecbfb482b11e12672af124e18844fc2bd03b",
-      "datetime": 1792460827,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Gets Warrant to Buy $521.4 Million of 3M Stock in Expanded Data Center Partnership: MMM Rises Over 5% After Hours",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ecd1af9cf2c3406b4af22abcb96b91424fd304fa192b786d4793423e9792f94a",
-      "datetime": 1792460428,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -129,14 +89,6 @@
       "url": "https://finnhub.io/api/news?id=7d38600daaccb8cac1e69e758978cc8482db7f8c5704bb7debd44abb2597d2d7",
       "datetime": 1792458000,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "3M Jumps On Expanded Amazon Data Center Deal; Earnings On Tap",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=99948ae409f4bfc0c5f82e6f9a308a530fdcd477695f1c3b1466542a975d89f1",
-      "datetime": 1792453149,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "CLS",
@@ -211,14 +163,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
-      "ticker": "P",
-      "headline": "S&P 500 Gap Downs on October 16: MRNA, TWLO and COHR Lead Declines",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=35d2528b6f45127bfd2262dd5afe7c59219686e8daef1a82ac77cbc7871d0c8e",
-      "datetime": 1792161400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "Research Frontiers shares are trading higher after the company reported a year-over-year increase in Q3 sales results.",
       "source": "Benzinga",
@@ -251,14 +195,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "P",
-      "headline": "Insider Transaction: Ajay Singh Sells $2.84M Worth Of Everpure Shares",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=18029b1318ddc2d2121edca9fa46f19982dc6287eac9ca52be9a6d48c0436976",
-      "datetime": 1792148441,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "$1000 Invested In O'Reilly Automotive 5 Years Ago Would Be Worth This Much Today",
       "source": "Benzinga",
@@ -281,38 +217,6 @@
       "url": "https://finnhub.io/api/news?id=d53e28b06f7488209f528a5cfd6633fd4c2f7edae757a82e174b72a941b01dbb",
       "datetime": 1792105362,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Which S&P500 stocks are moving on Thursday?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=0a55e4262ba83c57add2dd4522f58e0401ec7c209d2260b3cb61b9795f28f103",
-      "datetime": 1792091102,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Everpure Revenues Surge 38% in Q2: Can Growth Momentum Last?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=11d254223ac11b5d95e74e183affb7a255c64d472cd52cc58a85e310ff6b3047",
-      "datetime": 1792087440,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Here's How Much $1000 Invested In Everpure 10 Years Ago Would Be Worth Today",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=658f55137549d695a3867cae10f2c88f36e95032b009735c31bac7fcd6ef5ca1",
-      "datetime": 1792084533,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Discover which S&P500 stocks are making waves on Thursday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=5f62ae2ffc34d09948943f0a9e59acd49547181c65388b6c0146533f57da300c",
-      "datetime": 1792082102,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "COR",
@@ -640,5 +544,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-20T06:43:15.856496+00:00"
+  "updated_at": "2026-10-20T06:58:16.108644+00:00"
 }
