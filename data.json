@@ -107,6 +107,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Celestica (CLS) Stock Dips While Market Gains: Key Facts",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=16078e521d954059050d241a61fef69c2f2ab4f7cca502e4923f4d8fafc4639d",
+      "datetime": 1792442704,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Companies object to tokenized listings on OKX-ICE platform",
       "source": "Yahoo",
@@ -353,14 +361,6 @@
       "url": "https://finnhub.io/api/news?id=8bd072d5041492ad40b6edd7a7f22e1079366d52fa2b2833690acab808cbadfa",
       "datetime": 1792038637,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Lightspeed Commerce Heads These 3 Canadian Undervalued Tech Stocks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d545f842ca65d59d43583e7772757e6925814d5b0199450644d5d30f3487c6b0",
-      "datetime": 1792015955,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "PRMB",
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-20T00:43:16.458164+00:00"
+  "updated_at": "2026-10-20T00:58:16.224604+00:00"
 }
