@@ -227,6 +227,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
+      "ticker": "P",
+      "headline": "The AI Sell-Off Continues\u2014These 3 Stocks Keep Raising Guidance Anyway",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c322a9facf7f89195703d41951b147c652cc49912c70e425b6bb210a1dc61edb",
+      "datetime": 1792432800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "PRMB",
       "headline": "Primo Brands opens first new factory post merger",
       "source": "Yahoo",
@@ -352,14 +360,6 @@
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=0a55e4262ba83c57add2dd4522f58e0401ec7c209d2260b3cb61b9795f28f103",
       "datetime": 1792091102,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Everpure Revenues Surge 38% in Q2: Can Growth Momentum Last?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=11d254223ac11b5d95e74e183affb7a255c64d472cd52cc58a85e310ff6b3047",
-      "datetime": 1792087440,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
@@ -648,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-20T20:13:17.503331+00:00"
+  "updated_at": "2026-10-20T20:28:17.820222+00:00"
 }
