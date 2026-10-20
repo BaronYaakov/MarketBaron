@@ -163,6 +163,22 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "PRMB",
+      "headline": "Primo Brands opens first new factory post merger",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a24df20b37d567c05f80c4a05a98aa268713e8fa8117e8a37dca73ea82e66f6f",
+      "datetime": 1792423200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+    },
+    {
+      "ticker": "B",
+      "headline": "These 2 Gold Miners Just Flashed Golden Crosses\u2014Is a Breakout Coming?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=495cb1fa1089985d8381e4201997fa846f5d17839ac3c340bac0c84a9b9e6f01",
+      "datetime": 1792326600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "B",
       "headline": "$1000 Invested In Barrick Mining 5 Years Ago Would Be Worth This Much Today",
       "source": "Benzinga",
@@ -368,14 +384,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=cd3eee28609492e187068cb36f445646b3370a13ed6dcb673f7c5a671f0f65af",
       "datetime": 1791993600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Coca-Cola Stock Breaks Above 50-Day Moving Average: Is It Time to Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=413c089d038c8e4cbf9e2eca04c1408d711469e6d2fdf3b3f09a39db454ad315",
-      "datetime": 1791987960,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     },
     {
@@ -640,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-20T00:58:16.224604+00:00"
+  "updated_at": "2026-10-20T01:13:18.499027+00:00"
 }
