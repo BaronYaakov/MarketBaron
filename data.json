@@ -60,6 +60,62 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Dow, S&P 500, Nasdaq Edge Higher Amid Tech Rebound As Q3 Earnings Season Forges Ahead: DJT, AMZN, CBRS, CRWV Stocks In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=16e5bc7a300093ae230836abdc7cafb5c4cf229188872e8713eb6684efdf28f0",
+      "datetime": 1792467116,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "AVGO Stock Edges Up Overnight After 10-Year Docomo Deal, But Retail Stays On Edge Over CEO\u2019s AI \u2018Casino\u2019 Remarks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=830600d0ab1059368bebd62f0917350abcd36044def65619d3975d1db6c77e19",
+      "datetime": 1792465702,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Jeff Bezos\u2019 Florida Real Estate Empire Could Be Growing With $69 Million Golden Beach Mansion: Report",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7005e301c6b1c7f5a71fed1d4009edaa7998d361a5edfaf982ea338baccad252",
+      "datetime": 1792463409,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "MMM Stock Jumps Overnight: Amazon Could Own A Piece Of 3M If It Spends $6B On Its Data Center Products",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e74b531e89ef7af2922fba2beb11ecbfb482b11e12672af124e18844fc2bd03b",
+      "datetime": 1792460827,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Gets Warrant to Buy $521.4 Million of 3M Stock in Expanded Data Center Partnership: MMM Rises Over 5% After Hours",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ecd1af9cf2c3406b4af22abcb96b91424fd304fa192b786d4793423e9792f94a",
+      "datetime": 1792460428,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "An Oil Refiner Is Beating Nvidia This Year: Analyst Thinks It Can Rally 16% More From Here",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8bd16c6044fa1014bb4ea1e19865e533faa1a25bfb227c44b287ed069fe05bb0",
+      "datetime": 1792459256,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom to Advance NTT DOCOMO\u2019s Private Cloud with VMware Cloud Foundation",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7d38600daaccb8cac1e69e758978cc8482db7f8c5704bb7debd44abb2597d2d7",
+      "datetime": 1792458000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "3M Jumps On Expanded Amazon Data Center Deal; Earnings On Tap",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=99948ae409f4bfc0c5f82e6f9a308a530fdcd477695f1c3b1466542a975d89f1",
@@ -72,38 +128,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c8c2402d57a74fff0719c5e06f25469d35fb750eca078d74ef5b9638ccb4a618",
       "datetime": 1792452057,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Nasdaq 100 Sees Best Day In Nearly A Month As AI Rout Cools \u2014 AMZN, BE, CRWV, AAPL, PLTR In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b2c49c35a756adb72db9233d431d447e8200033fa768a6a031f1d0857617d958",
-      "datetime": 1792450823,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Billionaire David Tepper\u2019s Appaloosa Management Has 31% of its portfolio Invested in These 2 Artificial Intelligence (AI) Stocks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3fcf3398f7a92fbb0d0d6dcd6c13a460da60dcebdf669d516fafd9766a4eb6a4",
-      "datetime": 1792447441,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon vs. Home Depot: Which Consumer Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cdd82e73a1da9aaf37a8c8a1c11c9146b4a3b71beba373f2128cd098501abbf2",
-      "datetime": 1792446254,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "3M stock rises 3% on $6B Amazon data center deal",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e75de35de6be342fe1869437d181965da4fd651d652bf8a2d0e54adc200a1b27",
-      "datetime": 1792445792,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -136,30 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=990bb730158de625359e55ca897d8e70bc3f9aa916e94bc4c5447511b2e2a1d1",
       "datetime": 1792436232,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Why Some of America\u2019s Biggest Companies Are Objecting to Tokenized Shares",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6b696838ce199f88a1f3bdc8550aedad41ae9110c59d1cfc5aa9169fc5568371",
-      "datetime": 1792435565,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Morgan Stanley\u2019s favorite AI stock is 92% exposed to the $1.6 trillion build-out it\u2019s bullish on",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d27b5b736dc8bcdccd3acb1b216792153a2bba70bd019db1b06f8c2ceddfc221",
-      "datetime": 1792434601,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom (AVGO) Sees AI Chip Sales Up 236%, but Who Is Paying?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cf786414d2e744acf0a7e5831f39d8a96e20bb8b7ef04ed5fbd51e3213e83ec0",
-      "datetime": 1792434532,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -433,14 +433,6 @@
       "url": "https://finnhub.io/api/news?id=41b022d123edf1cbcd66804f7a58fe833d9f26391c8f27b33f9dfb2583d3fdfa",
       "datetime": 1791879667,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "AbbVie vs. Eli Lilly: Which Healthcare Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5c26291ca92708763cb3875dc9ab591493dcebb54023a277eefc0cab5d20c7fa",
-      "datetime": 1791849061,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     }
   ],
   "recent_posts": [],
@@ -648,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-20T04:58:17.195835+00:00"
+  "updated_at": "2026-10-20T05:13:16.805487+00:00"
 }
