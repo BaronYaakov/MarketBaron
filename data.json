@@ -59,12 +59,36 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "The Best Trillion-Dollar Stock to Buy Right Now, According to Wall Street",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1dd710132ef2037f3b69f851a3ed32f3917cd63d6a25ae8c365b843aa3b3cf3f",
+      "datetime": 1792487281,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "3 Undervalued Stocks Trading Up To 45% Below Fair Value",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=13f287b5ab2f7bf3524735782c61c119d5e529eea383b44c0a9ee1d5514fae27",
+      "datetime": 1792484037,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "P",
       "headline": "Everpure (P) Stock May Trade At A Premium On Recurring Revenue",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1cac7ffea22384d55d0e9de11e0603d493a6857ed8b23cbff511029ed5f5f50b",
       "datetime": 1792480306,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Netflix Needs an Earnings Win to Turn the Stock Around",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0c13278e75fbab96688977c40efb8c87168657bc68944cf26ba1dd9bf832b62c",
+      "datetime": 1792479600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
@@ -107,22 +131,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Jeff Bezos\u2019 Florida Real Estate Empire Could Be Growing With $69 Million Golden Beach Mansion: Report",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7005e301c6b1c7f5a71fed1d4009edaa7998d361a5edfaf982ea338baccad252",
-      "datetime": 1792463409,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "MMM Stock Jumps Overnight: Amazon Could Own A Piece Of 3M If It Spends $6B On Its Data Center Products",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e74b531e89ef7af2922fba2beb11ecbfb482b11e12672af124e18844fc2bd03b",
-      "datetime": 1792460827,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "An Oil Refiner Is Beating Nvidia This Year: Analyst Thinks It Can Rally 16% More From Here",
       "source": "Yahoo",
@@ -160,14 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1fadcc65cffb60276d17ee821d38e56f29d490f1ae2d51475fa46665722b8ae4",
       "datetime": 1792436400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom (AVGO) vs. Texas Instruments (TXN): Higher Income or Stronger Dividend Coverage?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=454e47d91d5fd21acf448868707b822ffa0c1b22fb0316e68a661209dd03da96",
-      "datetime": 1792436276,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-20T09:58:15.269567+00:00"
+  "updated_at": "2026-10-20T10:13:15.836392+00:00"
 }
