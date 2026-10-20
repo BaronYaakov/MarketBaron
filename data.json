@@ -148,6 +148,14 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "Broadcom: Once-In-A-Decade Opportunity",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5965881d7c50704e5c24498318084e1c9a4389f2c8e4b623ce59492943c6b21b",
+      "datetime": 1792486918,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Blackstone: Expectations Sit Low Going Into Q3 Earnings While The Yield Approaches 5%",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=db2248ba2e3be4a2df681ce460b8be99161aa47d5df05b2ef0bb9fc809f68dd8",
@@ -161,14 +169,6 @@
       "url": "https://finnhub.io/api/news?id=1cac7ffea22384d55d0e9de11e0603d493a6857ed8b23cbff511029ed5f5f50b",
       "datetime": 1792480306,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "AVGO Stock Edges Up Overnight After 10-Year Docomo Deal, But Retail Stays On Edge Over CEO\u2019s AI \u2018Casino\u2019 Remarks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=830600d0ab1059368bebd62f0917350abcd36044def65619d3975d1db6c77e19",
-      "datetime": 1792465702,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-20T13:13:16.483594+00:00"
+  "updated_at": "2026-10-20T13:28:16.369738+00:00"
 }
