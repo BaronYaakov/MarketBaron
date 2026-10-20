@@ -115,6 +115,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "ORLY",
+      "headline": "Genuine Parts (GPC) Q3 Earnings Lag Estimates",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=33cdc64f2b1c31ec7f1fef9b8283465542425b2d21ffec18aae553354334870c",
+      "datetime": 1792494302,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Jim Cramer sees something Wall Street may be missing in Broadcom",
       "source": "Yahoo",
@@ -411,14 +419,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "ORLY",
-      "headline": "1 Consumer Stock to Target This Week and 2 We Brush Off",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=229f6d622bc1b4da692a7b1431324478981fb0d42f30dd4e9d9591599274676d",
-      "datetime": 1791892504,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
       "ticker": "B",
       "headline": "StrikePoint Gold Strengthens Its Team with Hiring of Keith Wood as Exploration Manager and Appointment of Stephen Quin as a Strategic Advisor",
       "source": "Yahoo",
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-20T12:58:16.022374+00:00"
+  "updated_at": "2026-10-20T13:13:16.483594+00:00"
 }
