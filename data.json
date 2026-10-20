@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Stock Market Today: Amazon and Chipmakers Lift the Nasdaq as the 10-Year Yield Climbs Above 5.1%",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=b966dbb00d17593a80a8ddd13fa3680f2ec768cf6308e000361ddb3bdc0b8fc4",
+      "datetime": 1792497246,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Stock Market Today: Amazon and Chipmakers Lift the Nasdaq as the 10-Year Yield Climbs Above 5.1%",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=b966dbb00d17593a80a8ddd13fa3680f2ec768cf6308e000361ddb3bdc0b8fc4",
+      "datetime": 1792497246,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Anthropic sets aside 5% stake for public benefit fund ahead of November IPO",
       "source": "Yahoo",
@@ -96,14 +112,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6f73c4f86747de4baf37f1f4ce480da8477187e45b62e90ef9adab10061e3059",
       "datetime": 1792494720,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The Access Tax Amazon Imposed on Shopping Agents Just Arrived at Your Bank",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e7916fa0d890f44f55e68547226e6803d3494287a30688acea96fbfb0e732d4d",
-      "datetime": 1792494647,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -152,14 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8bd16c6044fa1014bb4ea1e19865e533faa1a25bfb227c44b287ed069fe05bb0",
       "datetime": 1792459256,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "15 Undervalued Stocks: Yield Up To 7.8% And 15 Overvalued Not To Pursue Now",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=5cc767b9143d7093cf8d07efb52939d79cc2dd4f555b5fa8a896fb2d81c14981",
-      "datetime": 1792458299,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-20T12:13:15.916090+00:00"
+  "updated_at": "2026-10-20T12:28:15.973644+00:00"
 }
