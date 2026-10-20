@@ -59,6 +59,70 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Anthropic sets aside 5% stake for public benefit fund ahead of November IPO",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9b6e65b920b2b71484f31dcd664fdb3225b678bd0a5cc3472e9c48de9a2c5d2e",
+      "datetime": 1792496724,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Dow Giant 3M Reports Mixed Earnings, Expanded Amazon Data Center Deal",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=de4b9beeda919d92aea3f7a06cf56883f53fe38fd14a93084c2d7d150b42f37c",
+      "datetime": 1792496095,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "GURU Organic Energy Sets New Amazon Records During October Prime Big Deal Days",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7660c27e2e9c46968fb1d484150b9e0ea2b821e5cc8784a7af6aaffaf4eb8bd0",
+      "datetime": 1792495800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "3M Stock Jumps on Amazon Warrant: What the $6 Billion Really Means",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9cca1170f5abb65bc304b9460f02a7004ee506af987a181c26b6bde20122ed37",
+      "datetime": 1792495073,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "10,000 Hours of Continuous Cook Time and a New Standard for Home Cooking: Anova Unveils the New Precision\u00ae Cooker Pro 3.0",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6f73c4f86747de4baf37f1f4ce480da8477187e45b62e90ef9adab10061e3059",
+      "datetime": 1792494720,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The Access Tax Amazon Imposed on Shopping Agents Just Arrived at Your Bank",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e7916fa0d890f44f55e68547226e6803d3494287a30688acea96fbfb0e732d4d",
+      "datetime": 1792494647,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Jim Cramer sees something Wall Street may be missing in Broadcom",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7bb948cd82619478d60cdab51ff6a48571ece5ddbeb13edb3d9730ba63b5c8dc",
+      "datetime": 1792494180,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "8 \u2018Safe\u2019 Stocks That Are Much Riskier Than They Look",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c7e136bec1b3062ba72d113487f12d101330588189a088cac7664e8355f41345",
+      "datetime": 1792491900,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "The Best Trillion-Dollar Stock to Buy Right Now, According to Wall Street",
       "source": "Yahoo",
@@ -67,60 +131,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "3 Undervalued Stocks Trading Up To 45% Below Fair Value",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=13f287b5ab2f7bf3524735782c61c119d5e529eea383b44c0a9ee1d5514fae27",
-      "datetime": 1792484037,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "P",
       "headline": "Everpure (P) Stock May Trade At A Premium On Recurring Revenue",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1cac7ffea22384d55d0e9de11e0603d493a6857ed8b23cbff511029ed5f5f50b",
       "datetime": 1792480306,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Netflix Needs an Earnings Win to Turn the Stock Around",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0c13278e75fbab96688977c40efb8c87168657bc68944cf26ba1dd9bf832b62c",
-      "datetime": 1792479600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "UPS Yields 6.7% After Firing Amazon. Here's Whether the Dividend Survives 2027.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0453ffebd41b6a2f6d6abd72e05768ae09872105fbb2a986a04d8e93575d0506",
-      "datetime": 1792477500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "What Could X-Energy (XE) Gain From Its 960MW Indiana Nuclear Project?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0bdd0076db01d854414a4de374d3eff8cdc0df628c30269a9a4d2a7b0f5e9fcf",
-      "datetime": 1792476827,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Stock to Top $300 in October? Prediction Market Punters Trade the Odds as Morgan Stanley Raises Near-Term Target",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=746d90013dea92e8929f6f393f529c4743062798bce16068bfd50629e1ddb8d8",
-      "datetime": 1792474616,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Dow, S&P 500, Nasdaq Edge Higher Amid Tech Rebound As Q3 Earnings Season Forges Ahead: DJT, AMZN, CBRS, CRWV Stocks In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=16e5bc7a300093ae230836abdc7cafb5c4cf229188872e8713eb6684efdf28f0",
-      "datetime": 1792467116,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -147,28 +163,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Broadcom to Advance NTT DOCOMO\u2019s Private Cloud with VMware Cloud Foundation",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7d38600daaccb8cac1e69e758978cc8482db7f8c5704bb7debd44abb2597d2d7",
-      "datetime": 1792458000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "Celestica (CLS) Stock Dips While Market Gains: Key Facts",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=16078e521d954059050d241a61fef69c2f2ab4f7cca502e4923f4d8fafc4639d",
       "datetime": 1792442704,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Companies object to tokenized listings on OKX-ICE platform",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1fadcc65cffb60276d17ee821d38e56f29d490f1ae2d51475fa46665722b8ae4",
-      "datetime": 1792436400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "PRMB",
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-20T11:58:15.894006+00:00"
+  "updated_at": "2026-10-20T12:13:15.916090+00:00"
 }
