@@ -179,6 +179,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
+      "ticker": "COR",
+      "headline": "Argus Research Maintains Buy on Cencora, Raises Price Target to $380",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=845910517fa8d6fa9f593fc86ffb4d980f5b403555eb2dcc779fe42b0f98e029",
+      "datetime": 1792487348,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
       "ticker": "P",
       "headline": "Everpure (P) Stock May Trade At A Premium On Recurring Revenue",
       "source": "Yahoo",
@@ -491,12 +499,12 @@
       "market_cap_musd": 1597208.8224906318,
       "country": "US",
       "currency": "USD",
-      "price": 338.29,
+      "price": 336.84,
       "open": 333.56,
       "day_high": 341.1,
       "day_low": 330.8,
       "prev_close": 334.59,
-      "day_change_pct": 1.11,
+      "day_change_pct": 0.67,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -529,12 +537,12 @@
       "market_cap_musd": 54134.458243,
       "country": "CA",
       "currency": "USD",
-      "price": 307.91,
+      "price": 305.04,
       "open": 296.64,
-      "day_high": 307.92,
+      "day_high": 308.32,
       "day_low": 286.35,
       "prev_close": 300.35,
-      "day_change_pct": 2.52,
+      "day_change_pct": 1.56,
       "week52_high": 655.5,
       "week52_low": 330.79
     },
@@ -548,12 +556,12 @@
       "market_cap_musd": 64881.24340044585,
       "country": "US",
       "currency": "USD",
-      "price": 342.02,
+      "price": 342.41,
       "open": 343.52,
       "day_high": 345.0,
       "day_low": 339.53,
       "prev_close": 340.0,
-      "day_change_pct": 0.59,
+      "day_change_pct": 0.71,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -567,12 +575,12 @@
       "market_cap_musd": 72054.13712099764,
       "country": "US",
       "currency": "USD",
-      "price": 90.18,
+      "price": 90.24,
       "open": 89.78,
       "day_high": 90.74,
       "day_low": 89.45,
       "prev_close": 89.07,
-      "day_change_pct": 1.25,
+      "day_change_pct": 1.31,
       "week52_high": 102.71,
       "week52_low": 82.59
     },
@@ -586,12 +594,12 @@
       "market_cap_musd": 7162.866079908723,
       "country": "US",
       "currency": "USD",
-      "price": 20.26,
+      "price": 20.24,
       "open": 19.82,
-      "day_high": 20.28,
+      "day_high": 20.29,
       "day_low": 19.77,
       "prev_close": 19.79,
-      "day_change_pct": 2.37,
+      "day_change_pct": 2.27,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -605,12 +613,12 @@
       "market_cap_musd": 42349.8537630545,
       "country": "US",
       "currency": "USD",
-      "price": 127.39,
+      "price": 125.99,
       "open": 124.91,
       "day_high": 127.48,
       "day_low": 121.4,
       "prev_close": 127.09,
-      "day_change_pct": 0.24,
+      "day_change_pct": -0.87,
       "week52_high": 157.57,
       "week52_low": 56.78
     },
@@ -624,12 +632,12 @@
       "market_cap_musd": 2830868.2282223934,
       "country": "US",
       "currency": "USD",
-      "price": 264.37,
+      "price": 264.29,
       "open": 263.56,
       "day_high": 265.34,
       "day_low": 260.42,
       "prev_close": 262.45,
-      "day_change_pct": 0.73,
+      "day_change_pct": 0.7,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -640,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-20T14:58:16.804838+00:00"
+  "updated_at": "2026-10-20T15:13:16.965740+00:00"
 }
