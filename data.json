@@ -60,26 +60,74 @@
   "news": [
     {
       "ticker": "AMZN",
-      "headline": "Amazon stockpiles Nvidia AI hardware ahead of power availability -Business Insider",
+      "headline": "What Are Walmart Investors Betting On?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ab574575bc56dcfc0cd06ef844851b998d5564737e945aab4859e7d98b0587f1",
-      "datetime": 1792525575,
+      "url": "https://finnhub.io/api/news?id=40935840c66c6d761ad929cdbd4277d933d14ade3ab58acb6fbeaa720f201c7c",
+      "datetime": 1792532418,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "AbbVie vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e49558c555026b92434592fdc119c2a0057ebb415679b659eb4a3f1b8bd61926",
+      "datetime": 1792532102,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Did The Market Read Texas Instruments Stock Right?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9ce0e58746633c410ba484248fb19cbad755b58b229ecf7b39be2d531c41fee5",
+      "datetime": 1792531857,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Major gold holder backs NVIDIA challenger",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=051c6dd9f8f62ceba74591218953033eb7b944ec3cc7cbeac9777e83d0458be7",
+      "datetime": 1792531680,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Amazon\u2019s $350 target rests on an AI bet beyond the cloud",
+      "headline": "Stock Market Today, Oct. 20: Netflix Q3 Revenue Rises 12% on Pricing Power",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=37c90875b4c69045a7db5958cc4e5234cea6ef3bb1a2da6e9e97121822cf6d52",
-      "datetime": 1792525020,
+      "url": "https://finnhub.io/api/news?id=29db8c608bc49c86d044f828c322bc624ae16969af39d5cca43e69734bc74a0d",
+      "datetime": 1792530541,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Market Chatter: Amazon is Buying More Nvidia AI Hardware Than It Can Power Up",
+      "headline": "Small caps pops as market rally broadens beyond Big Tech",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=af5b78cf3bc72ee40b61c9f88597575013b276cf78183bbb30a4005d404291c0",
-      "datetime": 1792524552,
+      "url": "https://finnhub.io/api/news?id=01d44bae4113a6f983cb1fa1539024539ab713f271a6ee4d6cadae9e501d1b5a",
+      "datetime": 1792527636,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ff421581c018f3402bb5ad1299329d569d3dd4c647b80838d83c89620729be28",
+      "datetime": 1792527364,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "3M: 3 Key Takeaways for Long-Term Investors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7f5c46bcfc0ffe3825f8ad0e157422fc0e3a37e45564b7f57ac25a6bed6c911b",
+      "datetime": 1792526966,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Stock Costs More Than the Market. I'd Still Buy It for the Next 5 Years.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f305e5b89864b4f6220b4b09b6945905a9f9c4a50e0f106a25a1bf726152583d",
+      "datetime": 1792526821,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -89,30 +137,6 @@
       "url": "https://finnhub.io/api/news?id=eb33510996c9c7086cb736662e61c8ea526eeebbfa662967092ccbdbcccb8aa5",
       "datetime": 1792523102,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Rising Amazon demand brings 14,000 seasonal jobs to Tennessee",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cb34196bddcf2732bf16b842fdd0732d6e3f662ec552dfff5713242e88542a40",
-      "datetime": 1792522621,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "CrowdStrike vs. Docusign: Which Technology Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1bdd2df814494e4e5ac7bf6e6337e85a7e1d252bb7516a938a70d64bc2ac8f94",
-      "datetime": 1792522535,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Creates Over 300,000 New U.S. Jobs This Holiday Season with Increased Pay and Expanded Benefits",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=54a21daafd7a0b52e66b81d42b2d0a77d8982a630ca75175559a40fcb355a5dc",
-      "datetime": 1792521060,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -144,22 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=abb646f9fe56abfb916c90c915a77b677a88710432c0ca94327faed9d8cb1e3e",
       "datetime": 1792506960,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "AMD Stock Price Prediction: Is the AI Chip Opportunity Bigger Than Wall Street Thinks?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fd103074693584e6a8a99232d4210bd09568507729f2a7036d4470dc1ebf3536",
-      "datetime": 1792506619,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom (AVGO), What Is Behind The Fresh Attention?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3b54eb9f205667cff2e2d1521575cf2210e5a4d1b592c6896a7d12aeeac85dcf",
-      "datetime": 1792505328,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -419,14 +427,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     },
     {
-      "ticker": "COR",
-      "headline": "AI Disruption May Benefit Cencora More Than Hims & Hers",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=181be57b6bd04ed5f324d33297f4398bd509e3b656e20cac98fdef262ec7f580",
-      "datetime": 1791970680,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
       "ticker": "B",
       "headline": "StrikePoint Gold Strengthens Its Team with Hiring of Keith Wood as Exploration Manager and Appointment of Stephen Quin as a Strategic Advisor",
       "source": "Yahoo",
@@ -648,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-20T21:58:18.613199+00:00"
+  "updated_at": "2026-10-20T22:13:18.887645+00:00"
 }
