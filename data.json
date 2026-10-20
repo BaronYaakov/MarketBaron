@@ -131,6 +131,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "P",
+      "headline": "Are Business Services Stocks Lagging  Clean Harbors (CLH) This Year?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e28bb57ab779358e0e1d98580ddb67bcfdfd29940346dc7093569ea9d0c852dc",
+      "datetime": 1792500004,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "NVIDIA Keeps Falling and Wall Street Won\u2019t Move Its Target. Is It Time To Buy?",
       "source": "Yahoo",
@@ -160,6 +168,14 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=33cdc64f2b1c31ec7f1fef9b8283465542425b2d21ffec18aae553354334870c",
       "datetime": 1792494302,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "RBC Capital Maintains Outperform on O'Reilly Automotive, Raises Price Target to $111",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=5b0191c45ae6651b9d6caac2930d2825df34096b44060535560ce2a95fc872b1",
+      "datetime": 1792487718,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
@@ -323,14 +339,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "P",
-      "headline": "Here's How Much $1000 Invested In Everpure 10 Years Ago Would Be Worth Today",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=658f55137549d695a3867cae10f2c88f36e95032b009735c31bac7fcd6ef5ca1",
-      "datetime": 1792084533,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
       "ticker": "COR",
       "headline": "AbbVie vs. Pfizer: Which Healthcare Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
@@ -411,14 +419,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "ORLY",
-      "headline": "Will O'Reilly Automotive (ORLY) Beat Estimates Again in Its Next Earnings Report?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=82d808a3c4ed9d339f0f29f8ec6a7a84b87d0fdd216ae5a0015574dc4828d7e4",
-      "datetime": 1791904203,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
       "ticker": "B",
       "headline": "StrikePoint Gold Strengthens Its Team with Hiring of Keith Wood as Exploration Manager and Appointment of Stephen Quin as a Strategic Advisor",
       "source": "Yahoo",
@@ -491,12 +491,12 @@
       "market_cap_musd": 1597208.8224906318,
       "country": "US",
       "currency": "USD",
-      "price": 337.49,
+      "price": 339.79,
       "open": 333.56,
-      "day_high": 338.29,
+      "day_high": 340.03,
       "day_low": 330.8,
       "prev_close": 334.59,
-      "day_change_pct": 0.87,
+      "day_change_pct": 1.55,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -510,12 +510,12 @@
       "market_cap_musd": 95033.367985,
       "country": "CA",
       "currency": "USD",
-      "price": 40.43,
+      "price": 40.94,
       "open": 39.9,
-      "day_high": 40.49,
+      "day_high": 40.94,
       "day_low": 39.67,
       "prev_close": 40.44,
-      "day_change_pct": -0.02,
+      "day_change_pct": 1.24,
       "week52_high": 74.0,
       "week52_low": 42.62
     },
@@ -529,12 +529,12 @@
       "market_cap_musd": 54134.458243,
       "country": "CA",
       "currency": "USD",
-      "price": 299.53,
+      "price": 305.27,
       "open": 296.64,
-      "day_high": 300.6,
+      "day_high": 305.31,
       "day_low": 286.35,
       "prev_close": 300.35,
-      "day_change_pct": -0.27,
+      "day_change_pct": 1.64,
       "week52_high": 655.5,
       "week52_low": 330.79
     },
@@ -548,12 +548,12 @@
       "market_cap_musd": 64881.24340044585,
       "country": "US",
       "currency": "USD",
-      "price": 340.97,
+      "price": 341.14,
       "open": 343.52,
       "day_high": 345.0,
       "day_low": 340.1,
       "prev_close": 340.0,
-      "day_change_pct": 0.29,
+      "day_change_pct": 0.34,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -567,12 +567,12 @@
       "market_cap_musd": 72054.13712099764,
       "country": "US",
       "currency": "USD",
-      "price": 89.72,
+      "price": 89.98,
       "open": 89.78,
       "day_high": 90.74,
       "day_low": 89.45,
       "prev_close": 89.07,
-      "day_change_pct": 0.73,
+      "day_change_pct": 1.02,
       "week52_high": 102.71,
       "week52_low": 82.59
     },
@@ -586,12 +586,12 @@
       "market_cap_musd": 7162.866079908723,
       "country": "US",
       "currency": "USD",
-      "price": 19.94,
+      "price": 19.98,
       "open": 19.82,
       "day_high": 20.22,
       "day_low": 19.77,
       "prev_close": 19.79,
-      "day_change_pct": 0.76,
+      "day_change_pct": 0.96,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -605,12 +605,12 @@
       "market_cap_musd": 42349.8537630545,
       "country": "US",
       "currency": "USD",
-      "price": 124.65,
+      "price": 126.79,
       "open": 124.91,
-      "day_high": 125.52,
+      "day_high": 126.95,
       "day_low": 121.4,
       "prev_close": 127.09,
-      "day_change_pct": -1.92,
+      "day_change_pct": -0.24,
       "week52_high": 157.57,
       "week52_low": 56.78
     },
@@ -624,12 +624,12 @@
       "market_cap_musd": 2830868.2282223934,
       "country": "US",
       "currency": "USD",
-      "price": 262.85,
+      "price": 263.51,
       "open": 263.56,
       "day_high": 265.34,
       "day_low": 260.42,
       "prev_close": 262.45,
-      "day_change_pct": 0.15,
+      "day_change_pct": 0.4,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-20T14:13:16.875414+00:00"
+  "updated_at": "2026-10-20T14:28:16.828895+00:00"
 }
