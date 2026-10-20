@@ -108,6 +108,14 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "15 Undervalued Stocks: Yield Up To 7.8% And 15 Overvalued Not To Pursue Now",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5cc767b9143d7093cf8d07efb52939d79cc2dd4f555b5fa8a896fb2d81c14981",
+      "datetime": 1792458299,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Broadcom to Advance NTT DOCOMO\u2019s Private Cloud with VMware Cloud Foundation",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7d38600daaccb8cac1e69e758978cc8482db7f8c5704bb7debd44abb2597d2d7",
@@ -152,14 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=454e47d91d5fd21acf448868707b822ffa0c1b22fb0316e68a661209dd03da96",
       "datetime": 1792436276,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom vs. Applied Materials: Which Buybacks Are Actually Shrinking the Share Count?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=990bb730158de625359e55ca897d8e70bc3f9aa916e94bc4c5447511b2e2a1d1",
-      "datetime": 1792436232,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-20T05:13:16.805487+00:00"
+  "updated_at": "2026-10-20T05:28:16.331824+00:00"
 }
