@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Amazon Stock Rises on Morgan Stanley Top Pick: What the $350 Target Needs",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=760c6eb9175adc6c96225d582675e3b33ddd711e4f2116a85354b90723f2b93e",
+      "datetime": 1792499257,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Olifant Digital Addresses Amazon Sellers' AI Search Concerns in DesignRush Feature",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=faa8725de1e5e767b7f7e9faac1f5d889941e023dd47e814d28047c679053c54",
+      "datetime": 1792497600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Stock Market Today: Amazon and Chipmakers Lift the Nasdaq as the 10-Year Yield Climbs Above 5.1%",
       "source": "ChartMill",
@@ -76,42 +92,26 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "Which Stocks Are Paying For $4.33 Gas?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4c294c2186f68de6d35c76536ee6b21b4d81b3621db570d25c5ea79d0970fcb6",
+      "datetime": 1792496962,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Inflation Is Back. Is A Stock Market Crash Next?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f45f67b09edc64c802da58ba40dced9202917d46e71c711bc00f38ed4c475e93",
+      "datetime": 1792496960,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Anthropic sets aside 5% stake for public benefit fund ahead of November IPO",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=9b6e65b920b2b71484f31dcd664fdb3225b678bd0a5cc3472e9c48de9a2c5d2e",
       "datetime": 1792496724,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Dow Giant 3M Reports Mixed Earnings, Expanded Amazon Data Center Deal",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=de4b9beeda919d92aea3f7a06cf56883f53fe38fd14a93084c2d7d150b42f37c",
-      "datetime": 1792496095,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "GURU Organic Energy Sets New Amazon Records During October Prime Big Deal Days",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7660c27e2e9c46968fb1d484150b9e0ea2b821e5cc8784a7af6aaffaf4eb8bd0",
-      "datetime": 1792495800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "3M Stock Jumps on Amazon Warrant: What the $6 Billion Really Means",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9cca1170f5abb65bc304b9460f02a7004ee506af987a181c26b6bde20122ed37",
-      "datetime": 1792495073,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "10,000 Hours of Continuous Cook Time and a New Standard for Home Cooking: Anova Unveils the New Precision\u00ae Cooker Pro 3.0",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6f73c4f86747de4baf37f1f4ce480da8477187e45b62e90ef9adab10061e3059",
-      "datetime": 1792494720,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -153,6 +153,14 @@
       "url": "https://finnhub.io/api/news?id=830600d0ab1059368bebd62f0917350abcd36044def65619d3975d1db6c77e19",
       "datetime": 1792465702,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica Heads These 3 Canadian Undervalued Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9903a6e1095b8aa4ca67f48a92dda9d2d96b485a81b93454b7f84bf64525bfd9",
+      "datetime": 1792462499,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "AVGO",
@@ -337,14 +345,6 @@
       "url": "https://finnhub.io/api/news?id=45e466476d944aaa59304ce5e17b91f9de13abdc33bda39579f837d9a3c671e3",
       "datetime": 1792067701,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Is Celestica (CLS) a Buy as Wall Street Analysts Look Optimistic?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=de1b6eaf80cbe104be93400624b174da00530b775e9a0cfc059ebeff757d9dbd",
-      "datetime": 1792067404,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "PRMB",
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-20T12:28:15.973644+00:00"
+  "updated_at": "2026-10-20T12:43:16.442019+00:00"
 }
