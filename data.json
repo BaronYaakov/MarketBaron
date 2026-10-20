@@ -59,6 +59,30 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "P",
+      "headline": "Everpure (P) Stock May Trade At A Premium On Recurring Revenue",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1cac7ffea22384d55d0e9de11e0603d493a6857ed8b23cbff511029ed5f5f50b",
+      "datetime": 1792480306,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "UPS Yields 6.7% After Firing Amazon. Here's Whether the Dividend Survives 2027.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0453ffebd41b6a2f6d6abd72e05768ae09872105fbb2a986a04d8e93575d0506",
+      "datetime": 1792477500,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "What Could X-Energy (XE) Gain From Its 960MW Indiana Nuclear Project?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0bdd0076db01d854414a4de374d3eff8cdc0df628c30269a9a4d2a7b0f5e9fcf",
+      "datetime": 1792476827,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Amazon Stock to Top $300 in October? Prediction Market Punters Trade the Odds as Morgan Stanley Raises Near-Term Target",
       "source": "Yahoo",
@@ -99,14 +123,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Amazon Gets Warrant to Buy $521.4 Million of 3M Stock in Expanded Data Center Partnership: MMM Rises Over 5% After Hours",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ecd1af9cf2c3406b4af22abcb96b91424fd304fa192b786d4793423e9792f94a",
-      "datetime": 1792460428,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "An Oil Refiner Is Beating Nvidia This Year: Analyst Thinks It Can Rally 16% More From Here",
       "source": "Yahoo",
@@ -129,14 +145,6 @@
       "url": "https://finnhub.io/api/news?id=7d38600daaccb8cac1e69e758978cc8482db7f8c5704bb7debd44abb2597d2d7",
       "datetime": 1792458000,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "3M Jumps On Expanded Amazon Data Center Deal; Earnings On Tap",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=99948ae409f4bfc0c5f82e6f9a308a530fdcd477695f1c3b1466542a975d89f1",
-      "datetime": 1792453149,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "CLS",
@@ -304,14 +312,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=658f55137549d695a3867cae10f2c88f36e95032b009735c31bac7fcd6ef5ca1",
       "datetime": 1792084533,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Discover which S&P500 stocks are making waves on Thursday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=5f62ae2ffc34d09948943f0a9e59acd49547181c65388b6c0146533f57da300c",
-      "datetime": 1792082102,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-20T07:58:15.825155+00:00"
+  "updated_at": "2026-10-20T08:13:16.130067+00:00"
 }
