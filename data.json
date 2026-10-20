@@ -60,6 +60,38 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "3M Jumps On Expanded Amazon Data Center Deal; Earnings On Tap",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=99948ae409f4bfc0c5f82e6f9a308a530fdcd477695f1c3b1466542a975d89f1",
+      "datetime": 1792453149,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Elite Nuclear Stocks To Own In October 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8c2402d57a74fff0719c5e06f25469d35fb750eca078d74ef5b9638ccb4a618",
+      "datetime": 1792452057,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Nasdaq 100 Sees Best Day In Nearly A Month As AI Rout Cools \u2014 AMZN, BE, CRWV, AAPL, PLTR In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b2c49c35a756adb72db9233d431d447e8200033fa768a6a031f1d0857617d958",
+      "datetime": 1792450823,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Billionaire David Tepper\u2019s Appaloosa Management Has 31% of its portfolio Invested in These 2 Artificial Intelligence (AI) Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3fcf3398f7a92fbb0d0d6dcd6c13a460da60dcebdf669d516fafd9766a4eb6a4",
+      "datetime": 1792447441,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon vs. Home Depot: Which Consumer Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=cdd82e73a1da9aaf37a8c8a1c11c9146b4a3b71beba373f2128cd098501abbf2",
@@ -72,38 +104,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e75de35de6be342fe1869437d181965da4fd651d652bf8a2d0e54adc200a1b27",
       "datetime": 1792445792,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Advertisers Must Find the Friend Who Pays for Everyone: PayPal Ads\u2019 Asaf Davidov",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cdc35ca2bbb6a4626b5037ad49908ee38154b03976170e93bd3f5cf70c360a58",
-      "datetime": 1792445495,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Stock Market Today, Oct. 19: Amazon Surges on Morgan Stanley Top Pick and $350 Price Target",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8d26cb2e50be12ae4d197bd0b1114222355d33d7018d7035cb33b8f9740cade6",
-      "datetime": 1792445463,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Rallies as Morgan Stanley Sees Major AI Upside | Closing Bell",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=428628ab6b67bd3d6e0372a58d28a4dcd6513e69ba789ab02a5358de4ffe4900",
-      "datetime": 1792443560,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Why Amazon (AMZN) Stock Is Up Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=10b023130e696b5540bec7f564fc49db6d3c464bc0ffa2eda9ad72597d925172",
-      "datetime": 1792443415,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -488,7 +488,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1569330.7627760798,
+      "market_cap_musd": 1597208.8224906318,
       "country": "US",
       "currency": "USD",
       "price": 334.59,
@@ -507,7 +507,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.barrick.com/",
       "ipo_date": "1983-05-02",
-      "market_cap_musd": 94737.108291,
+      "market_cap_musd": 95033.367985,
       "country": "CA",
       "currency": "USD",
       "price": 40.44,
@@ -526,7 +526,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.celestica.com/",
       "ipo_date": "1998-07-01",
-      "market_cap_musd": 56333.836387,
+      "market_cap_musd": 54134.458243,
       "country": "CA",
       "currency": "USD",
       "price": 300.35,
@@ -545,7 +545,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 65056.802547308864,
+      "market_cap_musd": 64881.24340044585,
       "country": "US",
       "currency": "USD",
       "price": 340.0,
@@ -564,7 +564,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 72215.93199388498,
+      "market_cap_musd": 72054.13712099764,
       "country": "US",
       "currency": "USD",
       "price": 89.07,
@@ -583,7 +583,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 7137.530096476291,
+      "market_cap_musd": 7162.866079908723,
       "country": "US",
       "currency": "USD",
       "price": 19.79,
@@ -602,7 +602,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 41323.51116838366,
+      "market_cap_musd": 42349.8537630545,
       "country": "US",
       "currency": "USD",
       "price": 127.09,
@@ -621,7 +621,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2696578.5551371886,
+      "market_cap_musd": 2830868.2282223934,
       "country": "US",
       "currency": "USD",
       "price": 262.45,
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-19T23:58:16.054560+00:00"
+  "updated_at": "2026-10-20T00:13:16.683351+00:00"
 }
