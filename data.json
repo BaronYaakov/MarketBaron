@@ -59,6 +59,62 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Trump\u2019s FTC Subpoenas OpenAI and Anthropic. Inside the $500 Billion Threat Faced by Microsoft, Amazon, and Google",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d2f13b36616f1cedc53c7ffd3f32d14c4768a2cb3a23fd85100c5d1232a76f74",
+      "datetime": 1792518461,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "3 Great AI Stocks To Own In October 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=06d3f7b7a284e08f2f25458622d9b0c94b142cf058d98aceb5fb5a709be22dbd",
+      "datetime": 1792516193,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Pops on a Target Raise. 59 Analysts, Zero Sells",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3dfc4a17b5c7a137e5e255618bf31c3a9a9b1f084752914145306ed25a603334",
+      "datetime": 1792515655,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Stock Market Midday, Oct. 20: Blue Chips Rally, Eli Lilly Gains 5%",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c165cf0f59070f1e06017cadb6cea5a7b447abbbc6409e0c2b7ace2a95e69e2",
+      "datetime": 1792514278,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Is Amazon still sending FTC refunds to Prime customers?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5736e6d1dda15edb59f57b1c5cffc5379752ff05f7d7d8ff0f5eab3445533a98",
+      "datetime": 1792514258,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "What Meta\u2019s Quarter Has to Show to Justify Wall Street\u2019s Highest Targets",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=06fc12e1d9f3a8789bb9db31cd221b1b40723099b548d23c0c3390659858954b",
+      "datetime": 1792513830,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Walmart enlists Sam\u2019s Club in latest challenge to Amazon Prime",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fd77b7b0a3efc797c6bffc4e6712cca3c7b3d7a54baca9ee5e5153dd0700ce75",
+      "datetime": 1792513560,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Photonic Integrated Circuit (PIC) - Global Strategic Business Report: Capitalize on 19.7% CAGR to US$5.5 Billion by 2030 as Broadcom, Intel, Ciena, Infinera and Acacia Reshape the Market",
       "source": "Yahoo",
@@ -67,52 +123,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "The $1 Trillion AI Spending Boom Could Force the Fed to Raise Rates \u2014 and You and I May Pay the Price",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=005f47b6d216c3c11b925cc7f9978f447a61e2924b3755272311c22827b64249",
-      "datetime": 1792510844,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "Auto Care Association raises double-pay issue in Colorado EPR suit",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5645231bf50baa5f02e72f2681e984b458789748438d92c77f3c0190ab1bcfbb",
       "datetime": 1792509780,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Investors pledge 230 billion euros at German summit: Merz",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=53cdbdf5b0082db6d62fb84784063f0a8cbc60319cb9985a7218e81d0d69c34b",
-      "datetime": 1792509275,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "3M Jumps 6% on Expanded Amazon Data Center Deal and Earnings Beat; Coherent Edges Higher, Corning Stays Flat",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6129f56cc87faa8ab520b296dffab50edcea140b5d320765804380efcaa18679",
-      "datetime": 1792508325,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Boosts Holiday Hiring Plans As Its Stock Adds To A Rebound",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9b686baf5f62f3b3136104d4deb2ed57198db75be82a62b39f0976d03d5ead6e",
-      "datetime": 1792507597,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Q3 TrendsSuggest Amazon Will Rise on Oct. 29 But That\u2019s Not Why I\u2019m Buying",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7845826757d32bab1c5bff5c297b4b1d07ff82d82e1e9c36ca7affdb36dbedcd",
-      "datetime": 1792507537,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -139,27 +155,11 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Amazon to hire over 300,000 holiday workers, up 20% from last year",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=25c64221a5f07ee0d6fc6902515bef7754d67949a32a4e537cced3e3231c4bfd",
-      "datetime": 1792504340,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Broadcom (AVGO): Can VMware Remain a Durable Cash Engine as Customers Reassess Private Clouds?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=00e505bf28e4a58eaa86850fe0ce6fa9418ab6f3f091f77c5b7dfc42f35a6bbb",
       "datetime": 1792503887,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "NVIDIA Gets the Attention, but Broadcom Could Deliver the Bigger Surprise",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b5af670081a927e2468e1d3008c68af70dc5c3e2b902101d7d6a313edf2a67a2",
-      "datetime": 1792503017,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -499,12 +499,12 @@
       "market_cap_musd": 1597208.8224906318,
       "country": "US",
       "currency": "USD",
-      "price": 335.51,
+      "price": 335.34,
       "open": 333.56,
       "day_high": 341.1,
       "day_low": 330.8,
       "prev_close": 334.59,
-      "day_change_pct": 0.28,
+      "day_change_pct": 0.22,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -518,12 +518,12 @@
       "market_cap_musd": 95033.367985,
       "country": "CA",
       "currency": "USD",
-      "price": 40.68,
+      "price": 40.74,
       "open": 39.9,
       "day_high": 41.23,
       "day_low": 39.67,
       "prev_close": 40.44,
-      "day_change_pct": 0.59,
+      "day_change_pct": 0.74,
       "week52_high": 74.0,
       "week52_low": 42.62
     },
@@ -537,12 +537,12 @@
       "market_cap_musd": 54134.458243,
       "country": "CA",
       "currency": "USD",
-      "price": 302.22,
+      "price": 302.78,
       "open": 296.64,
       "day_high": 308.32,
       "day_low": 286.35,
       "prev_close": 300.35,
-      "day_change_pct": 0.62,
+      "day_change_pct": 0.81,
       "week52_high": 655.5,
       "week52_low": 330.79
     },
@@ -556,12 +556,12 @@
       "market_cap_musd": 64881.24340044585,
       "country": "US",
       "currency": "USD",
-      "price": 342.55,
+      "price": 342.44,
       "open": 343.52,
       "day_high": 345.0,
       "day_low": 339.53,
       "prev_close": 340.0,
-      "day_change_pct": 0.75,
+      "day_change_pct": 0.72,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -575,12 +575,12 @@
       "market_cap_musd": 72054.13712099764,
       "country": "US",
       "currency": "USD",
-      "price": 90.06,
+      "price": 90.14,
       "open": 89.78,
       "day_high": 90.74,
       "day_low": 89.45,
       "prev_close": 89.07,
-      "day_change_pct": 1.11,
+      "day_change_pct": 1.2,
       "week52_high": 102.71,
       "week52_low": 82.59
     },
@@ -594,12 +594,12 @@
       "market_cap_musd": 7162.866079908723,
       "country": "US",
       "currency": "USD",
-      "price": 20.16,
+      "price": 20.15,
       "open": 19.82,
       "day_high": 20.3,
       "day_low": 19.77,
       "prev_close": 19.79,
-      "day_change_pct": 1.87,
+      "day_change_pct": 1.82,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -613,12 +613,12 @@
       "market_cap_musd": 42349.8537630545,
       "country": "US",
       "currency": "USD",
-      "price": 126.69,
+      "price": 126.92,
       "open": 124.91,
       "day_high": 127.48,
       "day_low": 121.4,
       "prev_close": 127.09,
-      "day_change_pct": -0.31,
+      "day_change_pct": -0.13,
       "week52_high": 157.57,
       "week52_low": 56.78
     },
@@ -632,12 +632,12 @@
       "market_cap_musd": 2830868.2282223934,
       "country": "US",
       "currency": "USD",
-      "price": 262.47,
+      "price": 262.85,
       "open": 263.56,
       "day_high": 265.34,
       "day_low": 260.42,
       "prev_close": 262.45,
-      "day_change_pct": 0.01,
+      "day_change_pct": 0.15,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -648,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-20T17:58:17.593602+00:00"
+  "updated_at": "2026-10-20T18:13:17.459811+00:00"
 }
