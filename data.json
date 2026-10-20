@@ -139,6 +139,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Blackstone: Expectations Sit Low Going Into Q3 Earnings While The Yield Approaches 5%",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=db2248ba2e3be4a2df681ce460b8be99161aa47d5df05b2ef0bb9fc809f68dd8",
+      "datetime": 1792485000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "P",
       "headline": "Everpure (P) Stock May Trade At A Premium On Recurring Revenue",
       "source": "Yahoo",
@@ -161,14 +169,6 @@
       "url": "https://finnhub.io/api/news?id=9903a6e1095b8aa4ca67f48a92dda9d2d96b485a81b93454b7f84bf64525bfd9",
       "datetime": 1792462499,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "An Oil Refiner Is Beating Nvidia This Year: Analyst Thinks It Can Rally 16% More From Here",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8bd16c6044fa1014bb4ea1e19865e533faa1a25bfb227c44b287ed069fe05bb0",
-      "datetime": 1792459256,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-20T12:43:16.442019+00:00"
+  "updated_at": "2026-10-20T12:58:16.022374+00:00"
 }
