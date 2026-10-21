@@ -195,6 +195,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Can EPC Power Acquisition Boost Flex's AI Infrastructure Growth?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6d9c6ee62f18450d554d64cf63afb745b41f12b9f4fe72ad8e73da90ff0f71ec",
+      "datetime": 1792501440,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "P",
       "headline": "Are Business Services Stocks Lagging  Clean Harbors (CLH) This Year?",
       "source": "Yahoo",
@@ -361,14 +369,6 @@
       "url": "https://finnhub.io/api/news?id=5603485b55e3bbdcdff933b509d877c30daf8c59c841ffed9afca069bada09c7",
       "datetime": 1792145730,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Broadcom Stock Is Down 28%, And The Bar To Hit Its Target Is Lower Than You Think",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=be96a79dc4d7a69e284d44a1b699837684e83f84c7c1b80001770b86dda85ceb",
-      "datetime": 1792135511,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "ORLY",
@@ -648,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-21T01:28:16.020169+00:00"
+  "updated_at": "2026-10-21T01:43:16.415367+00:00"
 }
