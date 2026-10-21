@@ -60,18 +60,50 @@
   "news": [
     {
       "ticker": "AMZN",
-      "headline": "Amazon or Alphabet: If I Could Only Own One for the Next Decade, It Would Be This One",
+      "headline": "Amazon logistics automation offers long-term margin gains, Jefferies says",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=02cf2847c4e279da41791771f54cac60db898b106e5eff2381797663c9234341",
-      "datetime": 1792605000,
+      "url": "https://finnhub.io/api/news?id=cbefd013412e5c74ca19d4e09e4ccd2b7cca791d58366392af7481e08516344e",
+      "datetime": 1792611780,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Why is Amazon still sending settlement checks? FTC refunds explained",
+      "headline": "AI Boom Boosts Fortunes of Several Tech Leaders as Elon Musk Leads Gains, BestBrokers.com Says",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b9358a105d7fe5be1dd6934db3bc488385f96de27e7e7eb908beb0b4b2f9fe1b",
-      "datetime": 1792603487,
+      "url": "https://finnhub.io/api/news?id=7bee8b8b72294183be84d0a06ea82450890bb0644cb95d5b1e10a36b54ab7738",
+      "datetime": 1792610657,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Anthropic Has Over $600 Billion in Compute Contracts \u2014 And It's Not Enough",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f6c339943a493b4279318bfa9e808ab7ec79016770015c624cb93fb59f48374f",
+      "datetime": 1792608925,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Steve Ballmer Is Worth $164 Billion, After Being Kicked Out Of Microsoft",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=684c170a8af7eb567f99eb3901ed2614de11e7fd938138bb53463cdfeccbf327",
+      "datetime": 1792608719,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon's Nvidia Chips Are Sitting in Warehouses Without Power as AI Spending Soars, Business Insider Reports",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=78c4e490733d27a611dce0061a3627906f98e2deb129a6c145edacd2624b0577",
+      "datetime": 1792605990,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "With Amazon Earnings On Tap, Here's How To Ride Out The Volatility",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=03a64ec99a79dfc3cd0900cfb4bfc9261d2efb9d08b061cba6e1c49f245aae58",
+      "datetime": 1792605516,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -89,38 +121,6 @@
       "url": "https://finnhub.io/api/news?id=7b7a13bb7395e984127f526ba7b55b8067c73eca28ae35b3886fae566912fa90",
       "datetime": 1792601940,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Wall Street Continues to Systematically Undervalue Alphabet, So I Continue to Buy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6bb44211e358b35ea4d104882a787e6a7779d75233c933805b2f9fe928ec3f47",
-      "datetime": 1792601146,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon eyes 300K holiday hires",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=419c8037b5d4e2ce52c2c88299031c0115f4b3078f23b41f921dd820b5ddb0e0",
-      "datetime": 1792600800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Alphabet Has Lost About $860 Billion Since Its Peak, Nearly a Whole Walmart. Apple Has Avoided the AI Race and Is Near All-Time Highs.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=38f1ac5655414ebb9f503108f276a5e1b66747bba211d0fc9a6c65815630b771",
-      "datetime": 1792598778,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "AI Hyperscalers Have an Energy Problem",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6692a6dd940d52ced606d96f4c52a9405098ada79dab1613604d936ae66cacdf",
-      "datetime": 1792598579,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -156,10 +156,10 @@
     },
     {
       "ticker": "AVGO",
-      "headline": "Making sense of Anthropic's $750 billion compute bet",
+      "headline": "Anthropic's Draft S-1 Reveals $450 Billion in Non-Cancelable Cloud Commitments \u2014 and That's Not Even the Scariest Number",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=25e1a6ebcf432eee9a4728ce1bb740c0f7806c03bb23858ca4bbdb54f8649e50",
-      "datetime": 1792587879,
+      "url": "https://finnhub.io/api/news?id=e1930ebe9e3799b780a1b67db8d52a8c581b94e5aa4f4eb5d3f134fefe5738c0",
+      "datetime": 1792588316,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -491,12 +491,12 @@
       "market_cap_musd": 1603247.440879457,
       "country": "US",
       "currency": "USD",
-      "price": 337.97,
-      "open": 338.44,
+      "price": 337.8,
+      "open": 338.02,
       "day_high": 339.24,
       "day_low": 332.29,
       "prev_close": 334.37,
-      "day_change_pct": 1.08,
+      "day_change_pct": 1.03,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -511,7 +511,7 @@
       "country": "CA",
       "currency": "USD",
       "price": 40.76,
-      "open": 40.62,
+      "open": 40.82,
       "day_high": 40.9,
       "day_low": 40.23,
       "prev_close": 40.43,
@@ -529,12 +529,12 @@
       "market_cap_musd": 53246.634919,
       "country": "CA",
       "currency": "USD",
-      "price": 305.32,
-      "open": 310.19,
+      "price": 304.61,
+      "open": 311.1,
       "day_high": 314.45,
       "day_low": 300.21,
       "prev_close": 299.69,
-      "day_change_pct": 1.88,
+      "day_change_pct": 1.64,
       "week52_high": 655.5,
       "week52_low": 330.79
     },
@@ -548,12 +548,12 @@
       "market_cap_musd": 65488.069177443824,
       "country": "US",
       "currency": "USD",
-      "price": 340.45,
-      "open": 338.69,
+      "price": 340.43,
+      "open": 343.05,
       "day_high": 344.44,
       "day_low": 338.34,
       "prev_close": 343.27,
-      "day_change_pct": -0.82,
+      "day_change_pct": -0.83,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -567,12 +567,12 @@
       "market_cap_musd": 72377.72145710763,
       "country": "US",
       "currency": "USD",
-      "price": 89.1,
-      "open": 89.58,
-      "day_high": 89.77,
+      "price": 89.2,
+      "open": 89.56,
+      "day_high": 89.76,
       "day_low": 88.61,
       "prev_close": 90.02,
-      "day_change_pct": -1.02,
+      "day_change_pct": -0.91,
       "week52_high": 102.46,
       "week52_low": 82.59
     },
@@ -586,12 +586,12 @@
       "market_cap_musd": 7144.769143343999,
       "country": "US",
       "currency": "USD",
-      "price": 20.0,
+      "price": 20.03,
       "open": 20.0,
       "day_high": 20.1,
       "day_low": 19.62,
       "prev_close": 20.0,
-      "day_change_pct": 0.0,
+      "day_change_pct": 0.15,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -605,12 +605,12 @@
       "market_cap_musd": 43749.406383041896,
       "country": "US",
       "currency": "USD",
-      "price": 131.01,
-      "open": 130.65,
+      "price": 130.93,
+      "open": 131.24,
       "day_high": 133.0,
       "day_low": 129.73,
       "prev_close": 126.52,
-      "day_change_pct": 3.55,
+      "day_change_pct": 3.49,
       "week52_high": 157.57,
       "week52_low": 56.78
     },
@@ -624,12 +624,12 @@
       "market_cap_musd": 2813394.451115403,
       "country": "US",
       "currency": "USD",
-      "price": 262.65,
-      "open": 263.22,
+      "price": 262.37,
+      "open": 262.71,
       "day_high": 264.36,
       "day_low": 259.29,
       "prev_close": 262.63,
-      "day_change_pct": 0.01,
+      "day_change_pct": -0.1,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-21T19:58:17.637394+00:00"
+  "updated_at": "2026-10-21T20:13:17.929771+00:00"
 }
