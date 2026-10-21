@@ -187,6 +187,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
+      "ticker": "B",
+      "headline": "SA Expands U.S. Gold Search With Slaughterhouse Project Acquisition",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=094f95406c5ac75d28aabb6a682a10a81b5b0168f0fa7e9b9e94472b893f8f1d",
+      "datetime": 1792501800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "P",
       "headline": "Are Business Services Stocks Lagging  Clean Harbors (CLH) This Year?",
       "source": "Yahoo",
@@ -433,14 +441,6 @@
       "url": "https://finnhub.io/api/news?id=bb5bb9656ce6550e5a543c7e2573127af37480a22543d6218fe8014b42ccd269",
       "datetime": 1791891000,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Barrick Mining Corp (NYSE:B) Offers a GARP Case With Reasonable Valuation and Strong Fundamentals",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=41b022d123edf1cbcd66804f7a58fe833d9f26391c8f27b33f9dfb2583d3fdfa",
-      "datetime": 1791879667,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     }
   ],
   "recent_posts": [],
@@ -648,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-21T00:58:15.934089+00:00"
+  "updated_at": "2026-10-21T01:13:16.076597+00:00"
 }
