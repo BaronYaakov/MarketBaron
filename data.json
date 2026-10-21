@@ -60,6 +60,46 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Analysts revamp Super Micro stock price targets after 10% surge on revenue boost",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6b7d508e8a8debf73050e38018fb2a2c69e6c37877c2f8fa746b832a5f984ab2",
+      "datetime": 1792615331,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Here Are 5 ETFs Retirees Use to Get Paid Without Leaning on the Magnificent Seven",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fb91f3c8488283334bc1ab635ee4c4641751361ec1d9c08c640fc498b9e305de",
+      "datetime": 1792614797,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "$4,000 in These 4 Non-Nvidia Chip Stocks Could Be Worth This Much by 2030",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d0c759bc0b2734f12369419546688171c3fab1c4552fbb7f0ba0210ecd512734",
+      "datetime": 1792613100,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Retail Comebacks Are Rare. History Says These Stocks Could Be AI Winners.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b485f9fe28a7a7f891c0d9505ea7eb9b26bd2584838c20386993a44e378b5222",
+      "datetime": 1792612920,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Endeavor closes $210M private equity raise to fuel Texas expansion",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=710bc9e95250f45e8c714c38bb0ac5da07e9dc9db74852b51fba797cbd27da12",
+      "datetime": 1792612800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon logistics automation offers long-term margin gains, Jefferies says",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=cbefd013412e5c74ca19d4e09e4ccd2b7cca791d58366392af7481e08516344e",
@@ -75,36 +115,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Anthropic Has Over $600 Billion in Compute Contracts \u2014 And It's Not Enough",
+      "ticker": "AVGO",
+      "headline": "Microsoft and Alphabet opt out of tokenized stocks in latest blow to ambitious plan from OKK and NYSE parent firm",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f6c339943a493b4279318bfa9e808ab7ec79016770015c624cb93fb59f48374f",
-      "datetime": 1792608925,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Steve Ballmer Is Worth $164 Billion, After Being Kicked Out Of Microsoft",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=684c170a8af7eb567f99eb3901ed2614de11e7fd938138bb53463cdfeccbf327",
-      "datetime": 1792608719,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon's Nvidia Chips Are Sitting in Warehouses Without Power as AI Spending Soars, Business Insider Reports",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=78c4e490733d27a611dce0061a3627906f98e2deb129a6c145edacd2624b0577",
-      "datetime": 1792605990,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "With Amazon Earnings On Tap, Here's How To Ride Out The Volatility",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=03a64ec99a79dfc3cd0900cfb4bfc9261d2efb9d08b061cba6e1c49f245aae58",
-      "datetime": 1792605516,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "url": "https://finnhub.io/api/news?id=713ef4752a76965c5b1fdf5a33d63d62336e22e1062899b8e5d65030cb6d74a1",
+      "datetime": 1792602501,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -144,22 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f281f75d8103112e8efc93838bccba670b84753ff4ccf98f9918a0b16d117f8d",
       "datetime": 1792593904,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Has Buying Broadcom Stock's Dips Paid Off?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=685b44bf28a50e3ff8521bfdc8a066377d4e4a32441f80c702c96fde77cd79b8",
-      "datetime": 1792590953,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Anthropic's Draft S-1 Reveals $450 Billion in Non-Cancelable Cloud Commitments \u2014 and That's Not Even the Scariest Number",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e1930ebe9e3799b780a1b67db8d52a8c581b94e5aa4f4eb5d3f134fefe5738c0",
-      "datetime": 1792588316,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-21T21:58:18.216274+00:00"
+  "updated_at": "2026-10-21T22:13:18.051660+00:00"
 }
