@@ -59,6 +59,46 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "OpenAI Is Reportedly Raising $30 Billion. Which Chip Stock Gains the Most?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c12dfbb55ebbaef6a4380e4d97cf7ad1e7058b5f095a885011fe2c294e2c77b8",
+      "datetime": 1792537992,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Why Is 3M (MMM) Stock Rocketing Higher Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=32954933b3c1bc5a180288d4fe841dcb56f1897138e6887a71c1190dd63e4532",
+      "datetime": 1792535390,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon vs Alphabet: Which \"Magnificent Seven\" Stock Is the Better Buy Right Now?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d48ac5d0639424d1a7b3caec6ecf5b2b7ddf99ab2287fbc0de0ea40172572acb",
+      "datetime": 1792534502,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Amgen vs. Bristol Myers Squibb: Which Healthcare Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=368b52ae880d338df7083cf25002b08ab35a8b7af679d3bdc20ca460ccb310e3",
+      "datetime": 1792533902,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Pinterest Just Gained 20% in a Month: Take Profits, or Buy More?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=57afeb7d174b249b92248aba22c09b095e974afb4855296e473e16bc2189f6b4",
+      "datetime": 1792533679,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "What Are Walmart Investors Betting On?",
       "source": "Yahoo",
@@ -99,36 +139,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Small caps pops as market rally broadens beyond Big Tech",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=01d44bae4113a6f983cb1fa1539024539ab713f271a6ee4d6cadae9e501d1b5a",
-      "datetime": 1792527636,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ff421581c018f3402bb5ad1299329d569d3dd4c647b80838d83c89620729be28",
       "datetime": 1792527364,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "3M: 3 Key Takeaways for Long-Term Investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7f5c46bcfc0ffe3825f8ad0e157422fc0e3a37e45564b7f57ac25a6bed6c911b",
-      "datetime": 1792526966,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Stock Costs More Than the Market. I'd Still Buy It for the Next 5 Years.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f305e5b89864b4f6220b4b09b6945905a9f9c4a50e0f106a25a1bf726152583d",
-      "datetime": 1792526821,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -161,14 +177,6 @@
       "url": "https://finnhub.io/api/news?id=5645231bf50baa5f02e72f2681e984b458789748438d92c77f3c0190ab1bcfbb",
       "datetime": 1792509780,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Microsoft, Alphabet Bar Their Tokenized Shares From OKX-ICE Venue as Objections Hit 16",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=abb646f9fe56abfb916c90c915a77b677a88710432c0ca94327faed9d8cb1e3e",
-      "datetime": 1792506960,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -369,14 +377,6 @@
       "url": "https://finnhub.io/api/news?id=0a55e4262ba83c57add2dd4522f58e0401ec7c209d2260b3cb61b9795f28f103",
       "datetime": 1792091102,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "AbbVie vs. Pfizer: Which Healthcare Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9b4dc5f84549fc23cc11e827e82d6faa97d78cdf14ce8f97fa48caaeb3957450",
-      "datetime": 1792074965,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "ORLY",
@@ -648,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-21T00:13:16.546644+00:00"
+  "updated_at": "2026-10-21T00:28:16.629187+00:00"
 }
