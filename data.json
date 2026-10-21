@@ -179,6 +179,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
+      "ticker": "PRMB",
+      "headline": "Primo Brands Receives International Bottled Water Association's 2026 Environmental Stewardship Award",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=482afe68e5c14c7b49db255ffd25646e76587e690d6aa37849586f4f1be3b25b",
+      "datetime": 1792508400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+    },
+    {
       "ticker": "CLS",
       "headline": "Celestica: Broadcom Just Fired A $350 Billion Warning Shot",
       "source": "SeekingAlpha",
@@ -427,14 +435,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     },
     {
-      "ticker": "PRMB",
-      "headline": "PRIMO BRANDS OPENS NEW MOUNTAIN VALLEY FACTORY AS DEMAND GROWS",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cd3eee28609492e187068cb36f445646b3370a13ed6dcb673f7c5a671f0f65af",
-      "datetime": 1791993600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
       "ticker": "B",
       "headline": "StrikePoint Gold Strengthens Its Team with Hiring of Keith Wood as Exploration Manager and Appointment of Stephen Quin as a Strategic Advisor",
       "source": "Yahoo",
@@ -648,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-21T01:58:16.524071+00:00"
+  "updated_at": "2026-10-21T02:13:16.669416+00:00"
 }
