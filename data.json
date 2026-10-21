@@ -59,6 +59,30 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Ken Fisher and Jim Cramer Like This Bank Stock. Is It a Buy After Earnings?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d8ceaec37f3d977b1ed29ca91dc6d74a1ed94cead7761d58d8750822d6f8e2f2",
+      "datetime": 1792575982,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "UK Outdoor Structures Market Report 2026 - Consumer and Home Category Data | Price-Led Demand and Omnichannel Shopping Signal Retail Growth Opportunities",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c64e614a1f9ba392d092d7cea94d431018351c0ca6de4b4cd23a4b772d9fac38",
+      "datetime": 1792575180,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "IBM Has a Chance to Rewrite Its Narrative. Can Earnings Spark a Comeback?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fda6fffd039aed8d57da3076b093681ca7fa47b8a5249d1e15908738d23ea82c",
+      "datetime": 1792570500,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Top 3 Growth Stocks To Watch In October 2026",
       "source": "Yahoo",
@@ -91,14 +115,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Tech Giants May Spend $7 Trillion on AI. His $250,000 Paycheck Still Has a $65,500 Social Security Blind Spot",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f12a7d52bfcc2b364da7eb0b868e032385cbad3bb8a9caca1ed2384c1746b1dc",
-      "datetime": 1792548751,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "Is AutoZone Stock Ready For A Year Of Flat Store Sales?",
       "source": "Yahoo",
@@ -115,14 +131,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Are You Overpaying For Costco Stock Versus Its Rivals?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c3c20d8cb3159ad5f7364eb652f4f5950eb01ce62f9ed557efc12bd664cf0bfd",
-      "datetime": 1792542697,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "P",
       "headline": "3 Cloud Infrastructure Stocks Investors May Watch After The London Outage",
       "source": "Yahoo",
@@ -137,14 +145,6 @@
       "url": "https://finnhub.io/api/news?id=c12dfbb55ebbaef6a4380e4d97cf7ad1e7058b5f095a885011fe2c294e2c77b8",
       "datetime": 1792537992,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Why Is 3M (MMM) Stock Rocketing Higher Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=32954933b3c1bc5a180288d4fe841dcb56f1897138e6887a71c1190dd63e4532",
-      "datetime": 1792535390,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "COR",
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-21T09:58:16.960309+00:00"
+  "updated_at": "2026-10-21T10:13:17.598152+00:00"
 }
