@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Top 3 Growth Stocks To Watch In October 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bc62bcf883b00e92761fcedd5d9f4de98567200097da58a4871d27493b21bd19",
+      "datetime": 1792559751,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "SpaceX Can't Find Spare Nvidia, Google or Amazon Chips Despite Billions to Spend, Strategist Terms It 'Pretty Insane'",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2fa5987668ee03a2a98431e0ad01d481197f07069fe17eea2d90e8882186b13c",
+      "datetime": 1792556049,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "What Is The Case For Waiting On CoreWeave Stock?",
       "source": "Yahoo",
@@ -139,14 +155,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Pinterest Just Gained 20% in a Month: Take Profits, or Buy More?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=57afeb7d174b249b92248aba22c09b095e974afb4855296e473e16bc2189f6b4",
-      "datetime": 1792533679,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "COR",
       "headline": "AbbVie vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
@@ -176,14 +184,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=eb33510996c9c7086cb736662e61c8ea526eeebbfa662967092ccbdbcccb8aa5",
       "datetime": 1792523102,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "3 Great AI Stocks To Own In October 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=06d3f7b7a284e08f2f25458622d9b0c94b142cf058d98aceb5fb5a709be22dbd",
-      "datetime": 1792516193,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-21T05:58:16.112157+00:00"
+  "updated_at": "2026-10-21T06:13:16.753783+00:00"
 }
