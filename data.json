@@ -59,6 +59,54 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "What Is The Case For Waiting On CoreWeave Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=780c69b390085de5003c48f238a4e73af6a3513198a21abb7039a1096a9b66af",
+      "datetime": 1792549211,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Tech Giants May Spend $7 Trillion on AI. His $250,000 Paycheck Still Has a $65,500 Social Security Blind Spot",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f12a7d52bfcc2b364da7eb0b868e032385cbad3bb8a9caca1ed2384c1746b1dc",
+      "datetime": 1792548751,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "Is AutoZone Stock Ready For A Year Of Flat Store Sales?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3953d29069559807076ef4b4546b69e38e3beb7672a010fe3ff171069eafd96b",
+      "datetime": 1792548461,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom fought AT&T over VMware: Now a telecom giant is all in",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5e3d12ead082ff22f46c14758e72de1796e9ecd69185bbf80464338587ab6dd4",
+      "datetime": 1792548180,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Are You Overpaying For Costco Stock Versus Its Rivals?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c3c20d8cb3159ad5f7364eb652f4f5950eb01ce62f9ed557efc12bd664cf0bfd",
+      "datetime": 1792542697,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "3 Cloud Infrastructure Stocks Investors May Watch After The London Outage",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=db09204d35ab45b598b8e583cb5601715970a4cc2e2c4f6d5509eff83efb075e",
+      "datetime": 1792542029,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "OpenAI Is Reportedly Raising $30 Billion. Which Chip Stock Gains the Most?",
       "source": "Yahoo",
@@ -99,14 +147,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "What Are Walmart Investors Betting On?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=40935840c66c6d761ad929cdbd4277d933d14ade3ab58acb6fbeaa720f201c7c",
-      "datetime": 1792532418,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "COR",
       "headline": "AbbVie vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
@@ -121,22 +161,6 @@
       "url": "https://finnhub.io/api/news?id=9ce0e58746633c410ba484248fb19cbad755b58b229ecf7b39be2d531c41fee5",
       "datetime": 1792531857,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Major gold holder backs NVIDIA challenger",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=051c6dd9f8f62ceba74591218953033eb7b944ec3cc7cbeac9777e83d0458be7",
-      "datetime": 1792531680,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Stock Market Today, Oct. 20: Netflix Q3 Revenue Rises 12% on Pricing Power",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=29db8c608bc49c86d044f828c322bc624ae16969af39d5cca43e69734bc74a0d",
-      "datetime": 1792530541,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -160,14 +184,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=06d3f7b7a284e08f2f25458622d9b0c94b142cf058d98aceb5fb5a709be22dbd",
       "datetime": 1792516193,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Photonic Integrated Circuit (PIC) - Global Strategic Business Report: Capitalize on 19.7% CAGR to US$5.5 Billion by 2030 as Broadcom, Intel, Ciena, Infinera and Acacia Reshape the Market",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e9fbcbbf889a1d30c09c9def430bb49c061554c9320f310a611b4f043365dfb0",
-      "datetime": 1792511220,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -387,22 +403,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "P",
-      "headline": "Which S&P500 stocks are moving on Thursday?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=0a55e4262ba83c57add2dd4522f58e0401ec7c209d2260b3cb61b9795f28f103",
-      "datetime": 1792091102,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "These S&P500 stocks that are showing activity before the opening bell on Thursday.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=45e466476d944aaa59304ce5e17b91f9de13abdc33bda39579f837d9a3c671e3",
-      "datetime": 1792067701,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
       "ticker": "PRMB",
       "headline": "Is Primo Brands (PRMB) Undervalued As Its New Water Facility Comes Online?",
       "source": "Yahoo",
@@ -433,14 +433,6 @@
       "url": "https://finnhub.io/api/news?id=8bd072d5041492ad40b6edd7a7f22e1079366d52fa2b2833690acab808cbadfa",
       "datetime": 1792038637,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "StrikePoint Gold Strengthens Its Team with Hiring of Keith Wood as Exploration Manager and Appointment of Stephen Quin as a Strategic Advisor",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bb5bb9656ce6550e5a543c7e2573127af37480a22543d6218fe8014b42ccd269",
-      "datetime": 1791891000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     }
   ],
   "recent_posts": [],
@@ -648,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-21T04:58:16.198126+00:00"
+  "updated_at": "2026-10-21T05:13:17.160243+00:00"
 }
