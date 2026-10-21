@@ -59,6 +59,54 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "This Week In AI Chips - Advancing AI Network Management Through Enhanced GigaSMART Technology",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cc6089198c834d28c241ed7e69e6a1136396c39960fd1e6fc35dcf37c2e41308",
+      "datetime": 1792582667,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Cencora to Acquire American Oncology Network to Strengthen Support of Community Oncology",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5b6b8c8559f3d51f02d762c22910a4f456d323012de4dd671db3ba22be4ee11d",
+      "datetime": 1792582200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon to recruit over 300,000 US workers for holiday season",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c76f687af22b86d7a36b91536dcb4d6f80b690bae17e62a394657090ea4a595",
+      "datetime": 1792581137,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "CoreWeave's crash looks like 2008. Here's why it isn't.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=20bdb7ffb93b0df31a83ddc248e2bf9b706a7d36fb196992c86224952b2410b4",
+      "datetime": 1792580400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Advance Auto Parts vs. Coupang: Which Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=df1a7e8d717b8cf84ec0ea395ac353f3a8a0a07758caf75f68beb14ea6ff0885",
+      "datetime": 1792577801,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "2 Brilliant Stocks to Buy Now and Hold Forever",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=57e97c142958643f797487c729bb4250279e7a1920bf62edec4711dfb803ac11",
+      "datetime": 1792576800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Ken Fisher and Jim Cramer Like This Bank Stock. Is It a Buy After Earnings?",
       "source": "Yahoo",
@@ -68,18 +116,10 @@
     },
     {
       "ticker": "AMZN",
-      "headline": "UK Outdoor Structures Market Report 2026 - Consumer and Home Category Data | Price-Led Demand and Omnichannel Shopping Signal Retail Growth Opportunities",
+      "headline": "Netflix Stock Drops. Why Wall Street Is Still Worried After Earnings Beat.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c64e614a1f9ba392d092d7cea94d431018351c0ca6de4b4cd23a4b772d9fac38",
-      "datetime": 1792575180,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "IBM Has a Chance to Rewrite Its Narrative. Can Earnings Spark a Comeback?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fda6fffd039aed8d57da3076b093681ca7fa47b8a5249d1e15908738d23ea82c",
-      "datetime": 1792570500,
+      "url": "https://finnhub.io/api/news?id=4c431e61f9537e848124030bdfaa5fa4c05d975260555861a1ad5da7af75ed63",
+      "datetime": 1792575480,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -89,30 +129,6 @@
       "url": "https://finnhub.io/api/news?id=bc62bcf883b00e92761fcedd5d9f4de98567200097da58a4871d27493b21bd19",
       "datetime": 1792559751,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Ahead Of Schedule: Meta's Early Earnings Shift Driven By Muse AI Enthusiasm",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d99e978a958d43d3b5e0f3939271d88cde072ac381ec4c6a199854fe7c992064",
-      "datetime": 1792556400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "SpaceX Can't Find Spare Nvidia, Google or Amazon Chips Despite Billions to Spend, Strategist Terms It 'Pretty Insane'",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2fa5987668ee03a2a98431e0ad01d481197f07069fe17eea2d90e8882186b13c",
-      "datetime": 1792556049,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "What Is The Case For Waiting On CoreWeave Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=780c69b390085de5003c48f238a4e73af6a3513198a21abb7039a1096a9b66af",
-      "datetime": 1792549211,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "ORLY",
@@ -176,14 +192,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ff421581c018f3402bb5ad1299329d569d3dd4c647b80838d83c89620729be28",
       "datetime": 1792527364,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "3 Artificial Intelligence (AI) Stocks That Look Like Great Buys Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eb33510996c9c7086cb736662e61c8ea526eeebbfa662967092ccbdbcccb8aa5",
-      "datetime": 1792523102,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -353,14 +361,6 @@
       "url": "https://finnhub.io/api/news?id=d964c763d7c6487cdfb247f741aa98e76aac77ecdccd7875354627fbbfc074a0",
       "datetime": 1792161256,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "UBS Maintains Buy on Cencora, Lowers Price Target to $400",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=7f5aa537edf957e5ae129b21b7bb6acbdb98451671dbdce532f28031683d4453",
-      "datetime": 1792158903,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "CLS",
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-21T11:58:16.063037+00:00"
+  "updated_at": "2026-10-21T12:13:16.433638+00:00"
 }
