@@ -59,6 +59,54 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Ulta Beauty's website traffic just surged a whopping 48%",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=939341cf51a40e88b754c5ea3f95740dfa5c755fe923a9bf0172cf4e59cf3a7b",
+      "datetime": 1792690380,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "How much MSFT stock does Microsoft CEO Satya Nadella actually own?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=403878c8709158c7d342bc584981ffcbb2fc097f0d3e44f269154f936792a7e3",
+      "datetime": 1792688822,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Is Elon Musk About to Create the Next Amazon? Don\u2019t Rule It Out!",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8c3a0a681cefe266ba57005986ecea4952211894b655460da30fa9afc0dfebf9",
+      "datetime": 1792687627,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Alibaba Stock Slips as China Renews Regulatory Pressure",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7093e370b3688fa1f2398695c63104e7a7a79f7e4a348a380db8317e789e1ae5",
+      "datetime": 1792686600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Walmart's Combined Membership Likely Strengthens 'Value Proposition,' Oppenheimer Says",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b434cdf1f058ff37987137af4459ee9c8f8d9fe5ae40835a5319e71dd2101a2d",
+      "datetime": 1792685135,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Famous Billionaire Calls AI a Bubble \u2014 But That Is Not What His Money Says",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9473266a750966f0852a25211c09f9348a2f53e148191858f3886a71ff3ea713",
+      "datetime": 1792684994,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Applied Materials Sinks 7% on Lam\u2019s Outlook: \u201cA Bit Higher\u201d Wasn\u2019t Enough",
       "source": "Yahoo",
@@ -67,60 +115,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Microsoft Stock Could Be Closer to Its Next Big Breakout Than Investors Think",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=98a0ed47a8ae2e6507baa2d7359ffa52fc66941019b3c7fbbe73216f8af19e80",
-      "datetime": 1792683056,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Broadcom Has Lost 35% From Its High: Tigress Sees 83% Upside",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=786503d6f1a9cf8351b1a173a08fa8a5b1c8a27c2603bfb6784012413faffc1f",
       "datetime": 1792682409,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "If You Invest $1,000 in Amazon Each Month Starting Now, This is What You\u2019d Have in 5 Years",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cdc74f4c4a012c78bb26e98ac37273e942633ad3ba2041855255b04d37120c34",
-      "datetime": 1792681235,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Alliance for Open Media Sees Rapid AV2 Adoption Across the Video Ecosystem Just Four Months After Release",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0849194a2bce0d93d4d6f93fd6a20a9a646113d815edad1362dc209d2059fc51",
-      "datetime": 1792681200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The Biggest Price Hike in 49 Years Just Hit a Christmas Staple \u2014 and Families Could Feel It This Holiday Season",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aabdd78d6301cb95e43b10903984e88eacdd88e9662bbf84111fa45250bc50ba",
-      "datetime": 1792679710,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Should You Buy Jim Cramer and Ken Fisher\u2019s Top AI Stock Pick Ahead of Earnings?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a6d0240bd8eca4e72d16b5838066a41646fd7dc5b9ef0ea8a38f7e2859db0a90",
-      "datetime": 1792678940,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Is UBER Stock Worth Betting on Now, Riding on Its Expansion Drive?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4fbc6a12e8ddc3bf35a2cf25e8a4ba14038cf3e11d35a4eeff351bb87cd3597a",
-      "datetime": 1792678320,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -499,12 +499,12 @@
       "market_cap_musd": 1568208.9642817911,
       "country": "US",
       "currency": "USD",
-      "price": 324.45,
+      "price": 324.85,
       "open": 328.63,
       "day_high": 330.82,
       "day_low": 322.02,
       "prev_close": 337.8,
-      "day_change_pct": -3.95,
+      "day_change_pct": -3.83,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -518,12 +518,12 @@
       "market_cap_musd": 94177.507344,
       "country": "CA",
       "currency": "USD",
-      "price": 38.48,
+      "price": 38.35,
       "open": 39.59,
       "day_high": 39.59,
       "day_low": 38.31,
       "prev_close": 40.76,
-      "day_change_pct": -5.59,
+      "day_change_pct": -5.91,
       "week52_high": 74.0,
       "week52_low": 42.62
     },
@@ -537,12 +537,12 @@
       "market_cap_musd": 54008.347128,
       "country": "CA",
       "currency": "USD",
-      "price": 270.61,
+      "price": 270.96,
       "open": 291.56,
       "day_high": 291.99,
-      "day_low": 269.9,
+      "day_low": 268.7,
       "prev_close": 304.61,
-      "day_change_pct": -11.16,
+      "day_change_pct": -11.05,
       "week52_high": 655.5,
       "week52_low": 330.79
     },
@@ -556,12 +556,12 @@
       "market_cap_musd": 64993.82748197592,
       "country": "US",
       "currency": "USD",
-      "price": 339.87,
+      "price": 339.47,
       "open": 343.21,
       "day_high": 344.43,
-      "day_low": 339.35,
+      "day_low": 339.02,
       "prev_close": 340.43,
-      "day_change_pct": -0.16,
+      "day_change_pct": -0.28,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -575,12 +575,12 @@
       "market_cap_musd": 72555.69305400133,
       "country": "US",
       "currency": "USD",
-      "price": 91.48,
+      "price": 91.59,
       "open": 89.59,
-      "day_high": 91.52,
+      "day_high": 91.62,
       "day_low": 89.2,
       "prev_close": 89.2,
-      "day_change_pct": 2.56,
+      "day_change_pct": 2.68,
       "week52_high": 102.46,
       "week52_low": 82.59
     },
@@ -594,12 +594,12 @@
       "market_cap_musd": 7249.733072,
       "country": "US",
       "currency": "USD",
-      "price": 20.17,
+      "price": 20.13,
       "open": 19.95,
       "day_high": 20.32,
       "day_low": 19.86,
       "prev_close": 20.03,
-      "day_change_pct": 0.7,
+      "day_change_pct": 0.5,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -613,12 +613,12 @@
       "market_cap_musd": 41996.62978375193,
       "country": "US",
       "currency": "USD",
-      "price": 121.88,
+      "price": 121.78,
       "open": 126.12,
       "day_high": 127.23,
       "day_low": 120.27,
       "prev_close": 130.93,
-      "day_change_pct": -6.91,
+      "day_change_pct": -6.99,
       "week52_high": 157.57,
       "week52_low": 56.78
     },
@@ -632,12 +632,12 @@
       "market_cap_musd": 2747544.97657092,
       "country": "US",
       "currency": "USD",
-      "price": 250.54,
+      "price": 250.07,
       "open": 258.29,
       "day_high": 258.41,
-      "day_low": 250.41,
+      "day_low": 249.85,
       "prev_close": 262.37,
-      "day_change_pct": -4.51,
+      "day_change_pct": -4.69,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -648,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-22T17:58:16.972216+00:00"
+  "updated_at": "2026-10-22T18:13:17.687680+00:00"
 }
