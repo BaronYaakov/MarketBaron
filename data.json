@@ -107,6 +107,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "ORLY",
+      "headline": "Does Earnings Preview Change The Bull Case For O'Reilly Stock (ORLY)?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d5773ac9327e33871800afef5d9f7b409c69ebbb84776d1ed22e7b62e3edf59e",
+      "datetime": 1792699893,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Google Is Paying SpaceX $11 Billion a Year for Compute. Here's the Concentration Risk Nobody Is Pricing In.",
       "source": "Yahoo",
@@ -321,14 +329,6 @@
       "url": "https://finnhub.io/api/news?id=e49558c555026b92434592fdc119c2a0057ebb415679b659eb4a3f1b8bd61926",
       "datetime": 1792532102,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Auto Care Association raises double-pay issue in Colorado EPR suit",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5645231bf50baa5f02e72f2681e984b458789748438d92c77f3c0190ab1bcfbb",
-      "datetime": 1792509780,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "PRMB",
@@ -648,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-22T22:13:16.825434+00:00"
+  "updated_at": "2026-10-22T22:28:16.465606+00:00"
 }
