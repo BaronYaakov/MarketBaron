@@ -75,6 +75,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "B",
+      "headline": "This $40 Gold Mining Stock Could Turn $5,000 Into a Fortune",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5a13e37cb3ff395af6878be498273122f868c65549bb5fb5beac42378fe7a6f3",
+      "datetime": 1792619400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "IBM Stock Rallies as Earnings Offer Glimmer of Recovery",
       "source": "Yahoo",
@@ -129,6 +137,14 @@
       "url": "https://finnhub.io/api/news?id=710bc9e95250f45e8c714c38bb0ac5da07e9dc9db74852b51fba797cbd27da12",
       "datetime": 1792612800,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "B",
+      "headline": "Barrick Mining (B) Earnings Rose 50%, but Is Cash Flow Keeping Up?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3206c6bcde168e25e09dbb10c1094cfcd68e98ac6b70bea357e406b8481a0ece",
+      "datetime": 1792603663,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "AVGO",
@@ -411,14 +427,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     },
     {
-      "ticker": "B",
-      "headline": "Gold Slump Is Masking a $20 Billion Miner Cash Pile",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=056eacd8c1ec90ef9ac37793cd4dd6e9f765bc3c29762367dd0baf3d5caba9f4",
-      "datetime": 1792044026,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
       "ticker": "PRMB",
       "headline": "Primo Brands (PRMB) Stock Looks About Right Following New Factory Opening",
       "source": "Yahoo",
@@ -640,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-22T01:28:17.945707+00:00"
+  "updated_at": "2026-10-22T01:43:17.184399+00:00"
 }
