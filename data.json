@@ -84,6 +84,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "Dow Jones Top Movers Today: PG and JNJ Lead Gainers, CAT and AMZN Lead Losers",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=6ba6eb21e59fd6c1286d6cd915cb82479246b421181b0793bf608366b363e3b8",
+      "datetime": 1792696274,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Meta, AI Stocks Tumble As AI Spending Fears Reignite",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b2d13986b6ba08633a0952821918a8c2ffdd91b2df4527f4e8b2d73e77c61000",
@@ -121,14 +129,6 @@
       "url": "https://finnhub.io/api/news?id=1550f03d0e6d5c5fcf4c18f942947334d46dbafb1c9868987b45ac01020ecf03",
       "datetime": 1792689949,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "How much MSFT stock does Microsoft CEO Satya Nadella actually own?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=403878c8709158c7d342bc584981ffcbb2fc097f0d3e44f269154f936792a7e3",
-      "datetime": 1792688822,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -648,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-22T21:13:18.447816+00:00"
+  "updated_at": "2026-10-22T21:28:17.584740+00:00"
 }
