@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Kohl's and Target just gave stock investors something to watch",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6be184d2ff006863e825823ff8058660613033d67572ae5e6ee63e8bfe42d59d",
+      "datetime": 1792641780,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom (AVGO) Debuts Arcot Scam Defense For Real Time Payment Fraud Detection",
       "source": "Yahoo",
@@ -129,14 +137,6 @@
       "url": "https://finnhub.io/api/news?id=5a13e37cb3ff395af6878be498273122f868c65549bb5fb5beac42378fe7a6f3",
       "datetime": 1792619400,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "IBM Stock Rallies as Earnings Offer Glimmer of Recovery",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=82d8721ba2fbae1f66f8610d0a0be0bf6af12e0c18ce314838129e487bbd5b7a",
-      "datetime": 1792619340,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -648,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-22T05:58:16.833664+00:00"
+  "updated_at": "2026-10-22T06:13:16.921413+00:00"
 }
