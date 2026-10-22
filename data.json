@@ -60,6 +60,30 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Logical Position Rebrands as LP, Reflecting 16 Years of Growth Beyond Paid Search",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d8cac419abf14f5a9b68ee8caeb1137f1d345000ae1a4ac417c30a86cbb56c18",
+      "datetime": 1792622040,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "IBM Stock Rallies as Earnings Offer Glimmer of Recovery",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=82d8721ba2fbae1f66f8610d0a0be0bf6af12e0c18ce314838129e487bbd5b7a",
+      "datetime": 1792619340,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "What Has The Market Missed In Credo Technology Stock's Drop?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4620f567a5d7a2cffa0709599de20d4e9cf2e500f5e38e9630a479f5c21562b1",
+      "datetime": 1792619124,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Analysts revamp Super Micro stock price targets after 10% surge on revenue boost",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6b7d508e8a8debf73050e38018fb2a2c69e6c37877c2f8fa746b832a5f984ab2",
@@ -96,22 +120,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=710bc9e95250f45e8c714c38bb0ac5da07e9dc9db74852b51fba797cbd27da12",
       "datetime": 1792612800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon logistics automation offers long-term margin gains, Jefferies says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cbefd013412e5c74ca19d4e09e4ccd2b7cca791d58366392af7481e08516344e",
-      "datetime": 1792611780,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "AI Boom Boosts Fortunes of Several Tech Leaders as Elon Musk Leads Gains, BestBrokers.com Says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7bee8b8b72294183be84d0a06ea82450890bb0644cb95d5b1e10a36b54ab7738",
-      "datetime": 1792610657,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -152,14 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0012155834be525b8a850f462178c65e761fbbb694ced7dea88fea7b37211fb4",
       "datetime": 1792594530,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Credo Technology Crumbled By 15% Over 3 Months But Has 80% Gains In Store According to Two Wall Street Firms",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f281f75d8103112e8efc93838bccba670b84753ff4ccf98f9918a0b16d117f8d",
-      "datetime": 1792593904,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -488,7 +488,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1603247.440879457,
+      "market_cap_musd": 1612532.1508659406,
       "country": "US",
       "currency": "USD",
       "price": 337.8,
@@ -545,7 +545,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 65488.069177443824,
+      "market_cap_musd": 64963.29445211609,
       "country": "US",
       "currency": "USD",
       "price": 340.43,
@@ -564,7 +564,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 72377.72145710763,
+      "market_cap_musd": 72159.30204508777,
       "country": "US",
       "currency": "USD",
       "price": 89.2,
@@ -583,7 +583,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 7144.769143343999,
+      "market_cap_musd": 7249.732823767999,
       "country": "US",
       "currency": "USD",
       "price": 20.03,
@@ -602,7 +602,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 43749.406383041896,
+      "market_cap_musd": 43629.44457103874,
       "country": "US",
       "currency": "USD",
       "price": 130.93,
@@ -621,7 +621,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2813394.451115403,
+      "market_cap_musd": 2830005.375682047,
       "country": "US",
       "currency": "USD",
       "price": 262.37,
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-21T23:58:17.048791+00:00"
+  "updated_at": "2026-10-22T00:13:17.766503+00:00"
 }
