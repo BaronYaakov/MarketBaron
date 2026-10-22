@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "P",
+      "headline": "Everpure (P) stock trades up, here is why",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f4330fb8c144fa6ac135fcbebefe112c3f37e8c4afb58bb02e17182f90a4bd5f",
+      "datetime": 1792623759,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Logical Position Rebrands as LP, Reflecting 16 Years of Growth Beyond Paid Search",
       "source": "Yahoo",
@@ -169,6 +177,14 @@
       "url": "https://finnhub.io/api/news?id=816c9abf613a15d9686045c7da06f3facdc60418c1db15e5d89a8a5bcf7d43dd",
       "datetime": 1792587621,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Is Trending Stock Celestica, Inc. (CLS) a Buy Now?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=772db43a99463b1d63cf9df2ea876c35355781d683d1ba6841ee8703657790ad",
+      "datetime": 1792584003,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "ORLY",
@@ -379,28 +395,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "Research Frontiers shares are trading higher after the company reported a year-over-year increase in Q3 sales results.",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=d964c763d7c6487cdfb247f741aa98e76aac77ecdccd7875354627fbbfc074a0",
-      "datetime": 1792161256,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "B",
       "headline": "Here Are Friday\u2019s Top Wall Street Analyst Research Calls: Barrick Mining, Brinker International, Constellation Energy, Equifax, Fox Corporation, JPMorgan Chase, Klaviyo, Toll Brothers, Workday, and More",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6b7ef0528b7a53d040db130a37843195c9ca387aa90dc16c1d375754198d1d90",
       "datetime": 1792151729,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Insider Transaction: Ajay Singh Sells $2.84M Worth Of Everpure Shares",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=18029b1318ddc2d2121edca9fa46f19982dc6287eac9ca52be9a6d48c0436976",
-      "datetime": 1792148441,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "PRMB",
@@ -640,5 +640,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-22T00:13:17.766503+00:00"
+  "updated_at": "2026-10-22T00:28:16.439521+00:00"
 }
