@@ -60,6 +60,54 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Is eBay's Next Big Thing Already Here?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=21f122ac27ef014be3b52f39a800d07941fe93512646497619f4e6f44c7d3659",
+      "datetime": 1792668685,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "What Could Surprise Costco Stock Investors On The Upside?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a2dbb1a4104c4a89e30fe0738ba011b25585769ca2b68e023f297646e53cb0c2",
+      "datetime": 1792667605,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Should You Trim Or Add To Your Intel Position Now?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c2db46b151533de950aebf22a235917384f0fc1e6789f9e69c62d63811c963fe",
+      "datetime": 1792667547,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Replit Expands Government Business Worldwide, Taps Former Amazon Executive to Lead Corporate Affairs",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8babee0a0a8c4cf2735f5a925f60475d201792be45f6d8fd8867da21afa87fab",
+      "datetime": 1792667400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "AI just saved SpaceX: record $14.6B quarter, possible merger",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=42fe9eb5deb82ea56b55b03c61ea85a4a93ff67a8e82b6415fe305e4034c44dd",
+      "datetime": 1792666800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "3 AI Stocks That Could Split in 2027",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=edf2872b58c26e180eb3a83bae94b8c1b24fd14899400e1b3f70993816c109b9",
+      "datetime": 1792666381,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "IBM Earnings Offer a Glimmer of Recovery",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d17fc0ebaff0d194f6cf1c69e6a23249aa39154d6c573bfe929bd2ae849da576",
@@ -80,38 +128,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0d4dc3065332fe29f2cac69c24272305b2189cf93c48aba86887a445e6c70c00",
       "datetime": 1792659900,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "1 Analyst Says Amazon Stock Has 30% Upside. What's the Bull Case for Buying Amazon Right Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=723594e8d193fec60cbd76b3ddafc9beb591f90d3915da9651cf54e8d6dfc4f0",
-      "datetime": 1792658820,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Will Alphabet Stock Soar After Oct. 28? History Offers an Answer That\u2019s Strikingly Clear.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=be1fe4fa87f05a9d1c45526eba150c4986ab57f8fdbb0034a4e4fc64554c812b",
-      "datetime": 1792656902,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Wall Street Firm Names Amazon Its Top Pick With More Than 30% Upside. Is the Stock a Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4c5572864bd19c9c6292a970002b59561a66518ed3b02d75272aaa431658f90d",
-      "datetime": 1792653900,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Is Amazon.com (AMZN) Reasonable After Its AI Spending Push?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5fb113b8073c3187ae47c900afc1640dd27655f2c4ad860d3574ac9bbb3cb804",
-      "datetime": 1792653325,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -168,22 +184,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4620f567a5d7a2cffa0709599de20d4e9cf2e500f5e38e9630a479f5c21562b1",
       "datetime": 1792619124,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom's M&A Strategy Is A Value Play",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=e6949068111808fdec574e3ebd6e83b89c0a026b45908b876456e1ea6172d103",
-      "datetime": 1792618429,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "$4,000 in These 4 Non-Nvidia Chip Stocks Could Be Worth This Much by 2030",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d0c759bc0b2734f12369419546688171c3fab1c4552fbb7f0ba0210ecd512734",
-      "datetime": 1792613100,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -648,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-22T11:58:16.994516+00:00"
+  "updated_at": "2026-10-22T12:13:17.382420+00:00"
 }
