@@ -59,12 +59,44 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Kohl's and Target just gave stock investors something to watch",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6be184d2ff006863e825823ff8058660613033d67572ae5e6ee63e8bfe42d59d",
+      "datetime": 1792641780,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom (AVGO) Debuts Arcot Scam Defense For Real Time Payment Fraud Detection",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6ecf45a263095c1249be959c88ca0315ab8adf211e4ee2b6eb0798b2ee9f5047",
       "datetime": 1792638891,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Did The Market Read Target Stock Right?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2a8de06533f187271303695feb0f326e899d5229315809e7309a3ebad37ea220",
+      "datetime": 1792637761,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Was There Any Sign Snap Stock Would Run?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=43233b64d7da8fe64bcd94302e873c538f9458faaaa38da419e0bbbbde9dea0a",
+      "datetime": 1792635776,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon vs. Target: Where Should Long-Term Investors Put Their Money?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e73cd924c0f88f6ba82af2e9a1d0059d9d8eb92323d40703349dc6e15c14606e",
+      "datetime": 1792635602,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -75,12 +107,28 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "What Would It Take For Rumble Stock To Reach Its High Again?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f4055d25e70217518b50b311c4bea14d37c4cc2d05bc0af93838309ce1bddbb2",
+      "datetime": 1792632914,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "P",
       "headline": "Everpure (P) stock trades up, here is why",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f4330fb8c144fa6ac135fcbebefe112c3f37e8c4afb58bb02e17182f90a4bd5f",
       "datetime": 1792623759,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Logical Position Rebrands as LP, Reflecting 16 Years of Growth Beyond Paid Search",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d8cac419abf14f5a9b68ee8caeb1137f1d345000ae1a4ac417c30a86cbb56c18",
+      "datetime": 1792622040,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "B",
@@ -219,6 +267,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
+      "ticker": "PRMB",
+      "headline": "Primo Brands Receives International Bottled Water Association's 2026 Environmental Stewardship Award",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=482afe68e5c14c7b49db255ffd25646e76587e690d6aa37849586f4f1be3b25b",
+      "datetime": 1792508400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+    },
+    {
       "ticker": "CLS",
       "headline": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session",
       "source": "Benzinga",
@@ -307,6 +363,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
+      "ticker": "PRMB",
+      "headline": "Primo Brands opens first new factory post merger",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a24df20b37d567c05f80c4a05a98aa268713e8fa8117e8a37dca73ea82e66f6f",
+      "datetime": 1792423200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+    },
+    {
       "ticker": "B",
       "headline": "These 2 Gold Miners Just Flashed Golden Crosses\u2014Is a Breakout Coming?",
       "source": "Yahoo",
@@ -331,6 +395,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
+      "ticker": "PRMB",
+      "headline": "Barclays Maintains Overweight on Primo Brands, Lowers Price Target to $26",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=501463531946f15aa3c9b470b672867dad8bb9cf9b15d83e2c5db988835a140a",
+      "datetime": 1792163726,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+    },
+    {
       "ticker": "P",
       "headline": "S&P 500 Gap Downs on October 16: MRNA, TWLO and COHR Lead Declines",
       "source": "ChartMill",
@@ -345,6 +417,30 @@
       "url": "https://finnhub.io/api/news?id=6b7ef0528b7a53d040db130a37843195c9ca387aa90dc16c1d375754198d1d90",
       "datetime": 1792151729,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
+      "ticker": "PRMB",
+      "headline": "Is Primo Brands (PRMB) Undervalued As Its New Water Facility Comes Online?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f67d886a9c6365ddab0e7184a8720a33ed7dbcb67073cf190ddec192962a58f4",
+      "datetime": 1792066267,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+    },
+    {
+      "ticker": "PRMB",
+      "headline": "Primo Brands (PRMB) Stock Looks About Right Following New Factory Opening",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=10fd72bddd8e95f121a18bc799c06b278b9893163ffb2287472f63d651ff0eb4",
+      "datetime": 1792041479,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+    },
+    {
+      "ticker": "PRMB",
+      "headline": "Primo Brands (PRMB) Opens 200,000 Square Foot Arkansas Factory After 2024 Merger",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8bd072d5041492ad40b6edd7a7f22e1079366d52fa2b2833690acab808cbadfa",
+      "datetime": 1792038637,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     }
   ],
   "recent_posts": [],
@@ -552,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-22T06:58:16.939783+00:00"
+  "updated_at": "2026-10-22T07:13:16.938563+00:00"
 }
