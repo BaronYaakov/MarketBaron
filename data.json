@@ -67,6 +67,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Is Product Launches And US Supply Deals Altering The Investment Case For Apple (AAPL)?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bd0f6da674a6ee3d6dcffb01e7f3f17e88573eb48b3e4f4f58b6d45ee9470dca",
+      "datetime": 1792660641,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "If a Market Correction Is Coming, History Says This Is the Smartest Investing Move You Can Make",
       "source": "Yahoo",
@@ -185,14 +193,6 @@
       "url": "https://finnhub.io/api/news?id=3206c6bcde168e25e09dbb10c1094cfcd68e98ac6b70bea357e406b8481a0ece",
       "datetime": 1792603663,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Microsoft and Alphabet opt out of tokenized stocks in latest blow to ambitious plan from OKK and NYSE parent firm",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=713ef4752a76965c5b1fdf5a33d63d62336e22e1062899b8e5d65030cb6d74a1",
-      "datetime": 1792602501,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "ORLY",
@@ -648,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-22T10:13:17.247266+00:00"
+  "updated_at": "2026-10-22T10:28:17.390902+00:00"
 }
