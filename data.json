@@ -59,6 +59,54 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Broadcom (AVGO) Debuts Arcot Scam Defense For Real Time Payment Fraud Detection",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6ecf45a263095c1249be959c88ca0315ab8adf211e4ee2b6eb0798b2ee9f5047",
+      "datetime": 1792638891,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Did The Market Read Target Stock Right?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2a8de06533f187271303695feb0f326e899d5229315809e7309a3ebad37ea220",
+      "datetime": 1792637761,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Was There Any Sign Snap Stock Would Run?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=43233b64d7da8fe64bcd94302e873c538f9458faaaa38da419e0bbbbde9dea0a",
+      "datetime": 1792635776,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon vs. Target: Where Should Long-Term Investors Put Their Money?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e73cd924c0f88f6ba82af2e9a1d0059d9d8eb92323d40703349dc6e15c14606e",
+      "datetime": 1792635602,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Arista Networks vs. CrowdStrike: Which Tech Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2808c6e25b307bbc086f99021375af7f6b17296a37bf0a9bbf131017a43e3bf2",
+      "datetime": 1792634222,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "What Would It Take For Rumble Stock To Reach Its High Again?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f4055d25e70217518b50b311c4bea14d37c4cc2d05bc0af93838309ce1bddbb2",
+      "datetime": 1792632914,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "P",
       "headline": "Everpure (P) stock trades up, here is why",
       "source": "Yahoo",
@@ -107,44 +155,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Analysts revamp Super Micro stock price targets after 10% surge on revenue boost",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6b7d508e8a8debf73050e38018fb2a2c69e6c37877c2f8fa746b832a5f984ab2",
-      "datetime": 1792615331,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Here Are 5 ETFs Retirees Use to Get Paid Without Leaning on the Magnificent Seven",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fb91f3c8488283334bc1ab635ee4c4641751361ec1d9c08c640fc498b9e305de",
-      "datetime": 1792614797,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "$4,000 in These 4 Non-Nvidia Chip Stocks Could Be Worth This Much by 2030",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d0c759bc0b2734f12369419546688171c3fab1c4552fbb7f0ba0210ecd512734",
       "datetime": 1792613100,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Retail Comebacks Are Rare. History Says These Stocks Could Be AI Winners.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b485f9fe28a7a7f891c0d9505ea7eb9b26bd2584838c20386993a44e378b5222",
-      "datetime": 1792612920,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Endeavor closes $210M private equity raise to fuel Texas expansion",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=710bc9e95250f45e8c714c38bb0ac5da07e9dc9db74852b51fba797cbd27da12",
-      "datetime": 1792612800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "B",
@@ -163,28 +179,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "The Cheapest NVIDIA Has Looked All Month: What the Price Target Says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7b73d9ea8d3c7531c399c4ca2de9558dbfa0b53ade2748f795f360a230778882",
-      "datetime": 1792602036,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "What Could Lift AutoZone Stock After Its Fall?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7b7a13bb7395e984127f526ba7b55b8067c73eca28ae35b3886fae566912fa90",
       "datetime": 1792601940,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom\u2019s AI Revenue Surges 221%, But is Growth Becoming Too Dependent on AI Spending?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1510f10c435ddefb59be5174e1d52338665809481f833ac0dab4fe5732ef73e3",
-      "datetime": 1792596333,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "ORLY",
@@ -648,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-22T04:58:16.874554+00:00"
+  "updated_at": "2026-10-22T05:13:16.868786+00:00"
 }
