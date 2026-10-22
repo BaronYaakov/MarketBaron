@@ -99,6 +99,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Broadcom's M&A Strategy Is A Value Play",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e6949068111808fdec574e3ebd6e83b89c0a026b45908b876456e1ea6172d103",
+      "datetime": 1792618429,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Analysts revamp Super Micro stock price targets after 10% surge on revenue boost",
       "source": "Yahoo",
@@ -176,14 +184,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1510f10c435ddefb59be5174e1d52338665809481f833ac0dab4fe5732ef73e3",
       "datetime": 1792596333,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "The World\u2019s Greatest Hedge Fund Investor Ken Griffin Just Said AI Is \u2018Almost Certainly\u2019 a Bubble. But He\u2019s Not Betting Against it Long Term",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0012155834be525b8a850f462178c65e761fbbb694ced7dea88fea7b37211fb4",
-      "datetime": 1792594530,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -648,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-22T02:58:18.845532+00:00"
+  "updated_at": "2026-10-22T03:13:18.204415+00:00"
 }
