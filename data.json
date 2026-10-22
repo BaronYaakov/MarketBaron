@@ -60,6 +60,30 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "IBM Earnings Offer a Glimmer of Recovery",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d17fc0ebaff0d194f6cf1c69e6a23249aa39154d6c573bfe929bd2ae849da576",
+      "datetime": 1792660740,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "If a Market Correction Is Coming, History Says This Is the Smartest Investing Move You Can Make",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0d4dc3065332fe29f2cac69c24272305b2189cf93c48aba86887a445e6c70c00",
+      "datetime": 1792659900,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "1 Analyst Says Amazon Stock Has 30% Upside. What's the Bull Case for Buying Amazon Right Now?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=723594e8d193fec60cbd76b3ddafc9beb591f90d3915da9651cf54e8d6dfc4f0",
+      "datetime": 1792658820,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Will Alphabet Stock Soar After Oct. 28? History Offers an Answer That\u2019s Strikingly Clear.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=be1fe4fa87f05a9d1c45526eba150c4986ab57f8fdbb0034a4e4fc64554c812b",
@@ -99,36 +123,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Kohl's and Target just gave stock investors something to watch",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6be184d2ff006863e825823ff8058660613033d67572ae5e6ee63e8bfe42d59d",
-      "datetime": 1792641780,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Broadcom (AVGO) Debuts Arcot Scam Defense For Real Time Payment Fraud Detection",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6ecf45a263095c1249be959c88ca0315ab8adf211e4ee2b6eb0798b2ee9f5047",
       "datetime": 1792638891,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Did The Market Read Target Stock Right?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2a8de06533f187271303695feb0f326e899d5229315809e7309a3ebad37ea220",
-      "datetime": 1792637761,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Was There Any Sign Snap Stock Would Run?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=43233b64d7da8fe64bcd94302e873c538f9458faaaa38da419e0bbbbde9dea0a",
-      "datetime": 1792635776,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -648,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-22T09:58:16.923039+00:00"
+  "updated_at": "2026-10-22T10:13:17.247266+00:00"
 }
