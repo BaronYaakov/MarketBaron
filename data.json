@@ -60,6 +60,70 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Broadcom Inc. (AVGO) Suffers a Larger Drop Than the General Market: Key Insights",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0b460043e15e048f3c1c7c210937e919c79034d7bf8722b58b03a9db6f3dcac7",
+      "datetime": 1792701902,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon (AMZN) Suffers a Larger Drop Than the General Market: Key Insights",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=42afa085ef7540188b744a7dc7a6d5eefb1ce5c34adf3ac7e4cd8a4304684d19",
+      "datetime": 1792701902,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Top Research Reports for Amazon, GE Aerospace & TotalEnergies",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b65ed159d0347058548ca8fc0b1c1dd58e59e4091310d78e9cd1e8fed1a9545b",
+      "datetime": 1792701660,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Stock Market Today: Nasdaq Hit As Meta, Alphabet Slide Below Key Levels (Live Coverage)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3ad6fac4998feaf7a3cce36de4f079b979912e8ef0c1d8452532ab163439766d",
+      "datetime": 1792701485,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Alphabet (GOOGL) vs. MSFT and AMZN: Can AI Investments and Google Cloud Growth Unlock a 26% Upside?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=76c1bd26b5efefa54a8a958e66f717ce5ce0aa2140eca2591ecdad295e7ba06b",
+      "datetime": 1792700784,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Duke Energy (DUK) Stock Could Be 19% Overvalued Despite Data Center Cost Deal",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1f134043806d5e39b837192509b3b37835602c60307bd9bf5f9bcb507e6eac0b",
+      "datetime": 1792700047,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Google Is Paying SpaceX $11 Billion a Year for Compute. Here's the Concentration Risk Nobody Is Pricing In.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2ea940cce4c769226bc004eef1d6ce0b25762f1748ff1989c83ce7075c3bd518",
+      "datetime": 1792699800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "AI Selloff Takes These Data Center Stocks With It. How They Can Blunt the Pain.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=37ec44f8635f70ca35a2886751c07356a5314be40eb0bbe85e6c0633f24495b5",
+      "datetime": 1792699380,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Stock Market Today: Nasdaq-100 Drop Tops 3%; FirstCash, Southern Copper, Meta Lead Sell-Off (Live Coverage)",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a28a1706345bc9a53f7e6e82ee8c36e6e1a40add7558e2547dfe0eb9119e1dec",
@@ -75,54 +139,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "One Number That Makes Home Depot A Buy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6efb4eecf8cba4c614fdb39461f0af91c548807a82cb71120853549024c2fa55",
-      "datetime": 1792696770,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Dow Jones Top Movers Today: PG and JNJ Lead Gainers, CAT and AMZN Lead Losers",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=6ba6eb21e59fd6c1286d6cd915cb82479246b421181b0793bf608366b363e3b8",
-      "datetime": 1792696274,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Meta, AI Stocks Tumble As AI Spending Fears Reignite",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b2d13986b6ba08633a0952821918a8c2ffdd91b2df4527f4e8b2d73e77c61000",
-      "datetime": 1792693760,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "TEAMSTERS RALLY FOR DELIVERY PROTECTION ACT AT NEW YORK CITY HALL",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d5e7adff9028d4261a0286f9aac1e6d6a71410153a971c1db2d77f6b2884da2c",
-      "datetime": 1792693440,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Are You Overpaying For Target Stock Versus Its Rivals?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fc275aa4891c16cc779518be1163fd16a9ca11b5879eff894acd2f029d056f90",
-      "datetime": 1792691943,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Ulta Beauty's website traffic just surged a whopping 48%",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=939341cf51a40e88b754c5ea3f95740dfa5c755fe923a9bf0172cf4e59cf3a7b",
-      "datetime": 1792690380,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Could Intel be the next trillion-dollar company?",
       "source": "Yahoo",
@@ -136,22 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=813a9bc2b32a950c1567cf8e4bd8fe728ff3bb0ff22b2873748fc5f43417b938",
       "datetime": 1792688709,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Prediction: Broadcom Stock Could Crush the S&P 500 Through 2030",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=89ce37ec866bcf199ea3ed2602915347fe32ce04c2654e741b2851851df0d2e6",
-      "datetime": 1792684847,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Applied Materials Sinks 7% on Lam\u2019s Outlook: \u201cA Bit Higher\u201d Wasn\u2019t Enough",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4163b4752abaaf377d35a2b032ddba793a9675a45b4cef4ab7cc07325d2a9bb6",
-      "datetime": 1792683154,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -648,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-22T21:58:17.108061+00:00"
+  "updated_at": "2026-10-22T22:13:16.825434+00:00"
 }
