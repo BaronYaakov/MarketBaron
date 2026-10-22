@@ -60,6 +60,30 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Wall Street Firm Names Amazon Its Top Pick With More Than 30% Upside. Is the Stock a Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4c5572864bd19c9c6292a970002b59561a66518ed3b02d75272aaa431658f90d",
+      "datetime": 1792653900,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Is Amazon.com (AMZN) Reasonable After Its AI Spending Push?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5fb113b8073c3187ae47c900afc1640dd27655f2c4ad860d3574ac9bbb3cb804",
+      "datetime": 1792653325,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "O'Reilly Automotive (ORLY) Stock Could Be 25% Overvalued On Cash Flow",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aa1dafa19ba003a1ec11724ffdb697acf2ad0b9f669d2402904410c0d2912eec",
+      "datetime": 1792653209,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Kohl's and Target just gave stock investors something to watch",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6be184d2ff006863e825823ff8058660613033d67572ae5e6ee63e8bfe42d59d",
@@ -107,28 +131,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "What Would It Take For Rumble Stock To Reach Its High Again?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f4055d25e70217518b50b311c4bea14d37c4cc2d05bc0af93838309ce1bddbb2",
-      "datetime": 1792632914,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "P",
       "headline": "Everpure (P) stock trades up, here is why",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f4330fb8c144fa6ac135fcbebefe112c3f37e8c4afb58bb02e17182f90a4bd5f",
       "datetime": 1792623759,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Logical Position Rebrands as LP, Reflecting 16 Years of Growth Beyond Paid Search",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d8cac419abf14f5a9b68ee8caeb1137f1d345000ae1a4ac417c30a86cbb56c18",
-      "datetime": 1792622040,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "B",
@@ -185,6 +193,14 @@
       "url": "https://finnhub.io/api/news?id=7b7a13bb7395e984127f526ba7b55b8067c73eca28ae35b3886fae566912fa90",
       "datetime": 1792601940,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "S&P 500 Gap Movers: Oct. 21, 2026 Session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=d74c0b1d6183970ddb0214699a48237d62e527c352455b0eeb268c354bcfe056",
+      "datetime": 1792593363,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "ORLY",
@@ -315,14 +331,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "ORLY",
-      "headline": "Genuine Parts (GPC) Q3 Earnings Lag Estimates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=33cdc64f2b1c31ec7f1fef9b8283465542425b2d21ffec18aae553354334870c",
-      "datetime": 1792494302,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Argus Research Maintains Buy on Cencora, Raises Price Target to $380",
       "source": "Benzinga",
@@ -401,14 +409,6 @@
       "url": "https://finnhub.io/api/news?id=501463531946f15aa3c9b470b672867dad8bb9cf9b15d83e2c5db988835a140a",
       "datetime": 1792163726,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "S&P 500 Gap Downs on October 16: MRNA, TWLO and COHR Lead Declines",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=35d2528b6f45127bfd2262dd5afe7c59219686e8daef1a82ac77cbc7871d0c8e",
-      "datetime": 1792161400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "B",
@@ -648,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-22T07:58:17.017955+00:00"
+  "updated_at": "2026-10-22T08:13:17.202018+00:00"
 }
