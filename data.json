@@ -187,6 +187,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Is CLS Stock a Smart Investment Option Before Q3 Earnings Release?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5d688c6c602277065a94b3ab8b0df0fae67d8b3263f64fbd648380788a6a34d6",
+      "datetime": 1792674660,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "COR",
       "headline": "Baird Maintains Outperform on Cencora, Raises Price Target to $375",
       "source": "Benzinga",
@@ -377,14 +385,6 @@
       "url": "https://finnhub.io/api/news?id=e28bb57ab779358e0e1d98580ddb67bcfdfd29940346dc7093569ea9d0c852dc",
       "datetime": 1792500004,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica Heads These 3 Canadian Undervalued Stocks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9903a6e1095b8aa4ca67f48a92dda9d2d96b485a81b93454b7f84bf64525bfd9",
-      "datetime": 1792462499,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "PRMB",
@@ -648,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-23T00:28:16.956464+00:00"
+  "updated_at": "2026-10-23T00:43:17.335266+00:00"
 }
