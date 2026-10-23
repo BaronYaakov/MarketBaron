@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "S&P 500 best performers: Zero mag 7 stocks past 13 weeks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=201dc3e3782a2d9fafb0e7c3e964347533b2afb44d55ea3f7b721097c0708489",
+      "datetime": 1792728180,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon caught hackers probing a PHP flaw 4 days before the fix",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fa4d6a801e81f28e694a5fdc5602323fba7eeee21704c18b1c91575dfbcec96f",
@@ -112,14 +120,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0edba9b37369d5e684cea7d7c9f54675ad5f80ae2ed9fe5e017aa12c63d725de",
       "datetime": 1792704702,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Citadel's Ken Griffin Says AI is in a Bubble Right Now. Billionaire Data Center Backer Jon Gray of Blackstone Disagrees.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3194f3f8f7ddd719fbc8a845a404fb53694487618ac4a7926160a796b597dfe4",
-      "datetime": 1792703661,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-23T05:58:16.662066+00:00"
+  "updated_at": "2026-10-23T06:13:16.455471+00:00"
 }
