@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "COR",
+      "headline": "Amgen vs. Eli Lilly: Does the GLP-1 Mania Make LLY Stock a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=68912985e6181c5af1f0f4733f4e9cf76968ea496b24d3b31b30d00f23a6b40f",
+      "datetime": 1792707302,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "SpaceX in Talks to Access 80,000 Cell Sites for Wireless Network",
       "source": "Yahoo",
@@ -320,14 +328,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=368b52ae880d338df7083cf25002b08ab35a8b7af679d3bdc20ca460ccb310e3",
       "datetime": 1792533902,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "AbbVie vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e49558c555026b92434592fdc119c2a0057ebb415679b659eb4a3f1b8bd61926",
-      "datetime": 1792532102,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
@@ -648,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-23T00:13:16.490267+00:00"
+  "updated_at": "2026-10-23T00:28:16.956464+00:00"
 }
