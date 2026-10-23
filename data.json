@@ -60,6 +60,54 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "OpenAI Just Cut Its Valuation Target by $150 Billion",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c30730525b6b95435c1333510759a4ff7303d7b31f1d403e826f3d520c0f952",
+      "datetime": 1792755923,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "AI Chips Today - Boosting AI Compute Efficiency Without Extra Power Consumption",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6cdbcd5221a763b96870ab8dc5dfb8b464a8d7a2c73b0e50389e4531201ddbe6",
+      "datetime": 1792755452,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Apple Is Just $42 Billion Away From Passing Nvidia as the World\u2019s Most Valuable Company",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cad8ba691c56aa10c19e18b4ea348d1d5da4d5b1e0ba290409c2dd73b52fafd0",
+      "datetime": 1792755052,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Should You Buy Amazon Stock Before Oct. 29?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=60d4860966204d258cec6856816c22e5c569d5e8d6739a2b4caf5b4c5534c97c",
+      "datetime": 1792754520,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Microsoft Has a $1 Trillion Opportunity Hiding in Plain Sight",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6fb95c865bd2c74d559dbc605bf94ab9112f464d85b7b6c0776ff2f765a66d87",
+      "datetime": 1792754152,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Two Critical Nvidia Stock Flaws and Other Reasons This Analyst Says Sell",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8c52ce7a59f3e6edd08af306e094ba8007883e58a6013bf05580f9fe56f6458",
+      "datetime": 1792753560,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Stock Market Today: Meta\u2019s Spending Plans Reignite AI Bubble Fears as the Nasdaq Sinks 2.6% and Money Runs to Defensives",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=a7f610ce5e8bbb9cda6098e6a68e424b2918cc730765a29428a90a3f42c03b56",
@@ -67,12 +115,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "AI stock bears probably just missed this point on Tesla in their run for the exits",
+      "ticker": "AVGO",
+      "headline": "Is Texas Instruments Stock Really Expensive?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=581439e0b96ce18fe4837cafb51f2bd19a57d17e00b04ebcb72d95496fc01373",
-      "datetime": 1792749061,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "url": "https://finnhub.io/api/news?id=4a30b9ad53ff5798f63f0dca9d68ba404861a6abe65a00caf20ed4ad8b29a813",
+      "datetime": 1792751706,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -81,38 +129,6 @@
       "url": "https://finnhub.io/api/news?id=ba53e6f05664d62315d14a0c51ee1f1e419e0c19d18202c93a5778abfc2e0a61",
       "datetime": 1792746120,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Could You Have Seen The Run In Microsoft Stock Coming?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d2b1c0af1de2ab92b38536d7cce6f82fae6ce2b9cf8d500ccaeb0ae964669ea2",
-      "datetime": 1792746113,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Can Netflix Stock Fall 50%?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f43fb890181016bac2b9d1cb8b4461e6b9ed9d19cefcbb87f3bfaa6eac102618",
-      "datetime": 1792742561,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "What Could Go Wrong With Amazon Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=159a0e936032fb8049c2cbee82ce1c1eea7b2e67f320f7c6fd3c3cce09ce525f",
-      "datetime": 1792742448,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The Zacks Analyst Blog Highlights Amazon.com, GE Aerospace and TotalEnergies",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=84acd8e6669cb52f20bc9a5dc3412f3420a76d94fd14442acc1e9a1f7fad8e59",
-      "datetime": 1792739640,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -147,28 +163,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Stock Market Today: Nasdaq Hit As Meta, Alphabet Slide Below Key Levels (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3ad6fac4998feaf7a3cce36de4f079b979912e8ef0c1d8452532ab163439766d",
-      "datetime": 1792701485,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "Does Earnings Preview Change The Bull Case For O'Reilly Stock (ORLY)?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d5773ac9327e33871800afef5d9f7b409c69ebbb84776d1ed22e7b62e3edf59e",
       "datetime": 1792699893,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Stock Market Today: Nasdaq-100 Drop Tops 3%; FirstCash, Southern Copper, Meta Lead Sell-Off (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a28a1706345bc9a53f7e6e82ee8c36e6e1a40add7558e2547dfe0eb9119e1dec",
-      "datetime": 1792698600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "B",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-23T11:58:16.271326+00:00"
+  "updated_at": "2026-10-23T12:13:16.859685+00:00"
 }
