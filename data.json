@@ -60,34 +60,58 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "AI stock bears probably just missed this point on Tesla in their run for the exits",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=581439e0b96ce18fe4837cafb51f2bd19a57d17e00b04ebcb72d95496fc01373",
+      "datetime": 1792749061,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "What Would It Take For Qualcomm Stock To Move Higher?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ba53e6f05664d62315d14a0c51ee1f1e419e0c19d18202c93a5778abfc2e0a61",
+      "datetime": 1792746120,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Could You Have Seen The Run In Microsoft Stock Coming?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d2b1c0af1de2ab92b38536d7cce6f82fae6ce2b9cf8d500ccaeb0ae964669ea2",
+      "datetime": 1792746113,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Can Netflix Stock Fall 50%?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f43fb890181016bac2b9d1cb8b4461e6b9ed9d19cefcbb87f3bfaa6eac102618",
+      "datetime": 1792742561,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "What Could Go Wrong With Amazon Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=159a0e936032fb8049c2cbee82ce1c1eea7b2e67f320f7c6fd3c3cce09ce525f",
+      "datetime": 1792742448,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The Zacks Analyst Blog Highlights Amazon.com, GE Aerospace and TotalEnergies",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=84acd8e6669cb52f20bc9a5dc3412f3420a76d94fd14442acc1e9a1f7fad8e59",
+      "datetime": 1792739640,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Stocktwits AI Roundup: Meta\u2019s Capex, Lam\u2019s Supply Warning Hit Tech Stocks As Netflix Disappoints",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5e1e3d36c8fe2045e4e58c1aa3a9799c513a26848abfa5aeab802511c0ddcf10",
       "datetime": 1792735311,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "S&P 500 best performers: Zero mag 7 stocks past 13 weeks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=201dc3e3782a2d9fafb0e7c3e964347533b2afb44d55ea3f7b721097c0708489",
-      "datetime": 1792728180,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon caught hackers probing a PHP flaw 4 days before the fix",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fa4d6a801e81f28e694a5fdc5602323fba7eeee21704c18b1c91575dfbcec96f",
-      "datetime": 1792725420,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Tax loophole fears cloud UK marketplace VAT reform",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f1c31626b7f010aa1915232fc2b9361cd2bf8383ae47c2c677011426a7ed24ba",
-      "datetime": 1792723012,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -99,28 +123,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "3 Undervalued Stocks With At Least 33% Fair Value Upside",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=32f6bf95a7167446e02a3cd63c856eff8de8032c16d5623ab656e088000f6bd8",
-      "datetime": 1792717991,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Broadcom (AVGO) Stock Could Be A Bargain Following Its 5.7x Run",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8b682a5d5d17efcaa5a797dad8125cb609e6e673b3135ee726a81a1145e17c68",
       "datetime": 1792717839,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Review & Preview: The Problem With Meta\u2019s Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0efb46871d5910e4db5c7d99e15fcf21918e03748295841e14b62a36122dee1d",
-      "datetime": 1792713300,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "COR",
@@ -160,14 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a28a1706345bc9a53f7e6e82ee8c36e6e1a40add7558e2547dfe0eb9119e1dec",
       "datetime": 1792698600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Is Ciena Stock Really Expensive?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8af625d7b45b9ca754600deba47ab3c744b3dc4d4f6dbb495f4ec8f9829be73c",
-      "datetime": 1792697768,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-23T09:58:16.232582+00:00"
+  "updated_at": "2026-10-23T10:13:16.010879+00:00"
 }
