@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Stocktwits AI Roundup: Meta\u2019s Capex, Lam\u2019s Supply Warning Hit Tech Stocks As Netflix Disappoints",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5e1e3d36c8fe2045e4e58c1aa3a9799c513a26848abfa5aeab802511c0ddcf10",
+      "datetime": 1792735311,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "S&P 500 best performers: Zero mag 7 stocks past 13 weeks",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=201dc3e3782a2d9fafb0e7c3e964347533b2afb44d55ea3f7b721097c0708489",
@@ -81,6 +89,14 @@
       "url": "https://finnhub.io/api/news?id=f1c31626b7f010aa1915232fc2b9361cd2bf8383ae47c2c677011426a7ed24ba",
       "datetime": 1792723012,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom Stock Fell 4% as Chip Stocks Slid Days After a 10-Year VMware Deal. Here\u2019s What Wall Street\u2019s Targets Say",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=25924971557454c65f4a79283c5c7f91dc242612787f2f184a8a70a61f49dada",
+      "datetime": 1792718977,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -113,14 +129,6 @@
       "url": "https://finnhub.io/api/news?id=68912985e6181c5af1f0f4733f4e9cf76968ea496b24d3b31b30d00f23a6b40f",
       "datetime": 1792707302,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "SpaceX in Talks to Access 80,000 Cell Sites for Wireless Network",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0edba9b37369d5e684cea7d7c9f54675ad5f80ae2ed9fe5e017aa12c63d725de",
-      "datetime": 1792704702,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -160,14 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8af625d7b45b9ca754600deba47ab3c744b3dc4d4f6dbb495f4ec8f9829be73c",
       "datetime": 1792697768,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Could Intel be the next trillion-dollar company?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1550f03d0e6d5c5fcf4c18f942947334d46dbafb1c9868987b45ac01020ecf03",
-      "datetime": 1792689949,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-23T07:58:17.057279+00:00"
+  "updated_at": "2026-10-23T08:13:16.484442+00:00"
 }
