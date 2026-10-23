@@ -59,11 +59,59 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "This Company Behind the World\u2019s AI Chips Could Be a Huge Winner",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e6ff685ef7cd08fe24d977725b52c0895b6538d2f4be0014bbebc8b0157cc1ff",
+      "datetime": 1792762226,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Same Playbook, Different Silicon: Broadcom Holds the Throne, Marvell Plays the AMD Challenger.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bdbc592301e26d867ac10077a02cac0747c960de442e10ee4e4d1bd10f32b4ee",
+      "datetime": 1792759558,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Arm\u2019s Ready-Made Blueprints: The Blueprint Attack on Marvell\u2019s Challenger Crown",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6422e624202293c818b0014a49a90c6a1b51a77fac351d07cbfe06c3c660f3aa",
+      "datetime": 1792759557,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Alphabet Solves the AI Infrastructure Bottlenecks Competitors Can\u2019t Buy with Debt",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6264ccb84378cf7b9f07b0bbba3586ea3d89010337fb5ad216fbde9ab55d5b98",
+      "datetime": 1792759555,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Prediction: Oracle Could Become a Much Bigger AI Winner Than Investors Expect",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=388d8e963499928304d42e7adef8ebdc6acaca72f56166de8009485588991a0c",
+      "datetime": 1792759545,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "OpenAI Just Cut Its Valuation Target by $150 Billion",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7c30730525b6b95435c1333510759a4ff7303d7b31f1d403e826f3d520c0f952",
       "datetime": 1792755923,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Stock Market Reels From 2 World-Changing Factors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3a402816244c9b23e4ca0b8ee23de4fec223567ee98c868e0a7ab6187912a4df",
+      "datetime": 1792755660,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -91,30 +139,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Microsoft Has a $1 Trillion Opportunity Hiding in Plain Sight",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6fb95c865bd2c74d559dbc605bf94ab9112f464d85b7b6c0776ff2f765a66d87",
-      "datetime": 1792754152,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Two Critical Nvidia Stock Flaws and Other Reasons This Analyst Says Sell",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c8c52ce7a59f3e6edd08af306e094ba8007883e58a6013bf05580f9fe56f6458",
-      "datetime": 1792753560,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Stock Market Today: Meta\u2019s Spending Plans Reignite AI Bubble Fears as the Nasdaq Sinks 2.6% and Money Runs to Defensives",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=a7f610ce5e8bbb9cda6098e6a68e424b2918cc730765a29428a90a3f42c03b56",
-      "datetime": 1792753272,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Is Texas Instruments Stock Really Expensive?",
       "source": "Yahoo",
@@ -139,36 +163,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Broadcom Stock Fell 4% as Chip Stocks Slid Days After a 10-Year VMware Deal. Here\u2019s What Wall Street\u2019s Targets Say",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=25924971557454c65f4a79283c5c7f91dc242612787f2f184a8a70a61f49dada",
-      "datetime": 1792718977,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom (AVGO) Stock Could Be A Bargain Following Its 5.7x Run",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8b682a5d5d17efcaa5a797dad8125cb609e6e673b3135ee726a81a1145e17c68",
-      "datetime": 1792717839,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Amgen vs. Eli Lilly: Does the GLP-1 Mania Make LLY Stock a Better Buy in 2026?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=68912985e6181c5af1f0f4733f4e9cf76968ea496b24d3b31b30d00f23a6b40f",
       "datetime": 1792707302,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Inc. (AVGO) Suffers a Larger Drop Than the General Market: Key Insights",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0b460043e15e048f3c1c7c210937e919c79034d7bf8722b58b03a9db6f3dcac7",
-      "datetime": 1792701902,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "ORLY",
@@ -475,12 +475,12 @@
       "market_cap_musd": 1543028.076703,
       "country": "US",
       "currency": "USD",
-      "price": 324.67,
+      "price": 322.8,
       "open": 323.37,
       "day_high": 325.98,
       "day_low": 320.23,
       "prev_close": 323.24,
-      "day_change_pct": 0.44,
+      "day_change_pct": -0.14,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -494,12 +494,12 @@
       "market_cap_musd": 89009.431334,
       "country": "CA",
       "currency": "USD",
-      "price": 37.99,
+      "price": 37.56,
       "open": 38.4,
       "day_high": 38.59,
-      "day_low": 37.95,
+      "day_low": 37.46,
       "prev_close": 38.65,
-      "day_change_pct": -1.71,
+      "day_change_pct": -2.82,
       "week52_high": 74.0,
       "week52_low": 42.62
     },
@@ -513,12 +513,12 @@
       "market_cap_musd": 47504.79603,
       "country": "CA",
       "currency": "USD",
-      "price": 262.08,
+      "price": 263.04,
       "open": 271.11,
       "day_high": 271.11,
       "day_low": 253.71,
       "prev_close": 269.01,
-      "day_change_pct": -2.58,
+      "day_change_pct": -2.22,
       "week52_high": 655.5,
       "week52_low": 330.79
     },
@@ -532,12 +532,12 @@
       "market_cap_musd": 64591.18562900001,
       "country": "US",
       "currency": "USD",
-      "price": 335.21,
+      "price": 335.77,
       "open": 336.98,
       "day_high": 338.07,
       "day_low": 334.0,
       "prev_close": 338.48,
-      "day_change_pct": -0.97,
+      "day_change_pct": -0.8,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -551,12 +551,12 @@
       "market_cap_musd": 74424.39502,
       "country": "US",
       "currency": "USD",
-      "price": 91.11,
+      "price": 90.71,
       "open": 91.55,
       "day_high": 92.42,
-      "day_low": 90.78,
+      "day_low": 90.58,
       "prev_close": 92.0,
-      "day_change_pct": -0.97,
+      "day_change_pct": -1.4,
       "week52_high": 102.46,
       "week52_low": 82.59
     },
@@ -570,12 +570,12 @@
       "market_cap_musd": 7289.546411999999,
       "country": "US",
       "currency": "USD",
-      "price": 19.84,
+      "price": 19.7,
       "open": 19.82,
       "day_high": 19.92,
       "day_low": 19.64,
       "prev_close": 20.14,
-      "day_change_pct": -1.49,
+      "day_change_pct": -2.18,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -589,12 +589,12 @@
       "market_cap_musd": 40387.14342900001,
       "country": "US",
       "currency": "USD",
-      "price": 122.29,
+      "price": 122.97,
       "open": 122.47,
-      "day_high": 122.98,
+      "day_high": 123.07,
       "day_low": 119.15,
       "prev_close": 121.2,
-      "day_change_pct": 0.9,
+      "day_change_pct": 1.46,
       "week52_high": 157.57,
       "week52_low": 56.78
     },
@@ -608,12 +608,12 @@
       "market_cap_musd": 2700677.465441,
       "country": "US",
       "currency": "USD",
-      "price": 248.42,
+      "price": 247.96,
       "open": 249.62,
       "day_high": 249.65,
       "day_low": 246.45,
       "prev_close": 250.38,
-      "day_change_pct": -0.78,
+      "day_change_pct": -0.97,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-23T14:13:16.713536+00:00"
+  "updated_at": "2026-10-23T14:28:16.486714+00:00"
 }
