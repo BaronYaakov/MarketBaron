@@ -59,6 +59,38 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "S&P 500 best performers: Zero mag 7 stocks past 13 weeks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=201dc3e3782a2d9fafb0e7c3e964347533b2afb44d55ea3f7b721097c0708489",
+      "datetime": 1792728180,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon caught hackers probing a PHP flaw 4 days before the fix",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fa4d6a801e81f28e694a5fdc5602323fba7eeee21704c18b1c91575dfbcec96f",
+      "datetime": 1792725420,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Tax loophole fears cloud UK marketplace VAT reform",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f1c31626b7f010aa1915232fc2b9361cd2bf8383ae47c2c677011426a7ed24ba",
+      "datetime": 1792723012,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "3 Undervalued Stocks With At Least 33% Fair Value Upside",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=32f6bf95a7167446e02a3cd63c856eff8de8032c16d5623ab656e088000f6bd8",
+      "datetime": 1792717991,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom (AVGO) Stock Could Be A Bargain Following Its 5.7x Run",
       "source": "Yahoo",
@@ -67,12 +99,28 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "Review & Preview: The Problem With Meta\u2019s Earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0efb46871d5910e4db5c7d99e15fcf21918e03748295841e14b62a36122dee1d",
+      "datetime": 1792713300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "COR",
       "headline": "Amgen vs. Eli Lilly: Does the GLP-1 Mania Make LLY Stock a Better Buy in 2026?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=68912985e6181c5af1f0f4733f4e9cf76968ea496b24d3b31b30d00f23a6b40f",
       "datetime": 1792707302,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "SpaceX in Talks to Access 80,000 Cell Sites for Wireless Network",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0edba9b37369d5e684cea7d7c9f54675ad5f80ae2ed9fe5e017aa12c63d725de",
+      "datetime": 1792704702,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -576,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-23T06:58:16.607638+00:00"
+  "updated_at": "2026-10-23T07:13:16.696085+00:00"
 }
