@@ -171,6 +171,22 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "B",
+      "headline": "Barrick Sinks 5.7% as Freedom Broker Cuts Gold Majors to Hold, Slashes Target to $46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b6151fe8b324e10b1e4e911fc5c058cfb31735a60348c66f76e11e28b11af54e",
+      "datetime": 1792688667,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
+      "ticker": "B",
+      "headline": "Agnico, Barrick, and Newmont fall following broad Freedom Broker downgrades",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bfa839c972884e7019e442d810da388516a77db971c6744c546daaa61801872e",
+      "datetime": 1792682629,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "P",
       "headline": "Everpure (P) Upgraded to Buy: Here's What You Should Know",
       "source": "Yahoo",
@@ -393,22 +409,6 @@
       "url": "https://finnhub.io/api/news?id=a24df20b37d567c05f80c4a05a98aa268713e8fa8117e8a37dca73ea82e66f6f",
       "datetime": 1792423200,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "These 2 Gold Miners Just Flashed Golden Crosses\u2014Is a Breakout Coming?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=495cb1fa1089985d8381e4201997fa846f5d17839ac3c340bac0c84a9b9e6f01",
-      "datetime": 1792326600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "$1000 Invested In Barrick Mining 5 Years Ago Would Be Worth This Much Today",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=7e452d82d8c4b4e6488b4168d139dd3d6efe5af001d89b67268de674facc86c0",
-      "datetime": 1792176348,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "PRMB",
@@ -648,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-23T01:13:16.571463+00:00"
+  "updated_at": "2026-10-23T01:28:17.405384+00:00"
 }
