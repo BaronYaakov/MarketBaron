@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Stock Market Today: Meta\u2019s Spending Plans Reignite AI Bubble Fears as the Nasdaq Sinks 2.6% and Money Runs to Defensives",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=a7f610ce5e8bbb9cda6098e6a68e424b2918cc730765a29428a90a3f42c03b56",
+      "datetime": 1792753272,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "AI stock bears probably just missed this point on Tesla in their run for the exits",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=581439e0b96ce18fe4837cafb51f2bd19a57d17e00b04ebcb72d95496fc01373",
@@ -104,14 +112,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=84acd8e6669cb52f20bc9a5dc3412f3420a76d94fd14442acc1e9a1f7fad8e59",
       "datetime": 1792739640,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Stocktwits AI Roundup: Meta\u2019s Capex, Lam\u2019s Supply Warning Hit Tech Stocks As Netflix Disappoints",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5e1e3d36c8fe2045e4e58c1aa3a9799c513a26848abfa5aeab802511c0ddcf10",
-      "datetime": 1792735311,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-23T11:28:16.228690+00:00"
+  "updated_at": "2026-10-23T11:43:18.953224+00:00"
 }
