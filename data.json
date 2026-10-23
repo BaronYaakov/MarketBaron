@@ -60,6 +60,38 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Amazon caught hackers probing a PHP flaw 4 days before the fix",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fa4d6a801e81f28e694a5fdc5602323fba7eeee21704c18b1c91575dfbcec96f",
+      "datetime": 1792725420,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Tax loophole fears cloud UK marketplace VAT reform",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f1c31626b7f010aa1915232fc2b9361cd2bf8383ae47c2c677011426a7ed24ba",
+      "datetime": 1792723012,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "3 Undervalued Stocks With At Least 33% Fair Value Upside",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=32f6bf95a7167446e02a3cd63c856eff8de8032c16d5623ab656e088000f6bd8",
+      "datetime": 1792717991,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom (AVGO) Stock Could Be A Bargain Following Its 5.7x Run",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8b682a5d5d17efcaa5a797dad8125cb609e6e673b3135ee726a81a1145e17c68",
+      "datetime": 1792717839,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Review & Preview: The Problem With Meta\u2019s Earnings",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0efb46871d5910e4db5c7d99e15fcf21918e03748295841e14b62a36122dee1d",
@@ -99,36 +131,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Amazon (AMZN) Suffers a Larger Drop Than the General Market: Key Insights",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=42afa085ef7540188b744a7dc7a6d5eefb1ce5c34adf3ac7e4cd8a4304684d19",
-      "datetime": 1792701902,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Top Research Reports for Amazon, GE Aerospace & TotalEnergies",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b65ed159d0347058548ca8fc0b1c1dd58e59e4091310d78e9cd1e8fed1a9545b",
-      "datetime": 1792701660,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Stock Market Today: Nasdaq Hit As Meta, Alphabet Slide Below Key Levels (Live Coverage)",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3ad6fac4998feaf7a3cce36de4f079b979912e8ef0c1d8452532ab163439766d",
       "datetime": 1792701485,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Alphabet (GOOGL) vs. MSFT and AMZN: Can AI Investments and Google Cloud Growth Unlock a 26% Upside?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=76c1bd26b5efefa54a8a958e66f717ce5ce0aa2140eca2591ecdad295e7ba06b",
-      "datetime": 1792700784,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "ORLY",
@@ -160,14 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1550f03d0e6d5c5fcf4c18f942947334d46dbafb1c9868987b45ac01020ecf03",
       "datetime": 1792689949,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "What Blackstone (BX) Said on Its Q3 Earnings Call",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=813a9bc2b32a950c1567cf8e4bd8fe728ff3bb0ff22b2873748fc5f43417b938",
-      "datetime": 1792688709,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -417,30 +417,6 @@
       "url": "https://finnhub.io/api/news?id=501463531946f15aa3c9b470b672867dad8bb9cf9b15d83e2c5db988835a140a",
       "datetime": 1792163726,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Is Primo Brands (PRMB) Undervalued As Its New Water Facility Comes Online?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f67d886a9c6365ddab0e7184a8720a33ed7dbcb67073cf190ddec192962a58f4",
-      "datetime": 1792066267,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Primo Brands (PRMB) Stock Looks About Right Following New Factory Opening",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=10fd72bddd8e95f121a18bc799c06b278b9893163ffb2287472f63d651ff0eb4",
-      "datetime": 1792041479,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Primo Brands (PRMB) Opens 200,000 Square Foot Arkansas Factory After 2024 Merger",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8bd072d5041492ad40b6edd7a7f22e1079366d52fa2b2833690acab808cbadfa",
-      "datetime": 1792038637,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     }
   ],
   "recent_posts": [],
@@ -648,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-23T04:58:17.107425+00:00"
+  "updated_at": "2026-10-23T05:13:16.654410+00:00"
 }
