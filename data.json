@@ -83,6 +83,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "Citadel's Ken Griffin Says AI is in a Bubble Right Now. Billionaire Data Center Backer Jon Gray of Blackstone Disagrees.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3194f3f8f7ddd719fbc8a845a404fb53694487618ac4a7926160a796b597dfe4",
+      "datetime": 1792703661,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom Inc. (AVGO) Suffers a Larger Drop Than the General Market: Key Insights",
       "source": "Yahoo",
@@ -120,14 +128,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=76c1bd26b5efefa54a8a958e66f717ce5ce0aa2140eca2591ecdad295e7ba06b",
       "datetime": 1792700784,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Duke Energy (DUK) Stock Could Be 19% Overvalued Despite Data Center Cost Deal",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1f134043806d5e39b837192509b3b37835602c60307bd9bf5f9bcb507e6eac0b",
-      "datetime": 1792700047,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -648,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-23T03:58:18.553940+00:00"
+  "updated_at": "2026-10-23T04:13:17.390762+00:00"
 }
