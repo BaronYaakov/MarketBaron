@@ -60,6 +60,46 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Affirm Lost Walmart to Klarna in 2025. Now It Has Sam\u2019s Club. Here\u2019s What Moves the Stock Before November 5",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b9ab6b73419535d2499825ffd64140fda73461d6fc63a6273723c8b93c5c9f1b",
+      "datetime": 1792790190,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Prediction: Nvidia Will Outperform Broadcom Over the Next 5 Years",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=66256381411d99cd7083b0b026b36dd3034d7e8981ef344027c64ed2a7d2c1a2",
+      "datetime": 1792789501,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Dow Jones Futures: Microsoft, Google, Amazon Lead Earnings Wave; What To Do In Mixed Market",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4d9ac0f0ede03f93ff45478ef4561b47f6f4dc5c9377770d6f6ddb9145f9c10a",
+      "datetime": 1792788577,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Big Tech's AI spending has Wall Street worried",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bd580916fea8916a69426fbe4cae2d825c05b002511a2afe82e1a7c9bd7d81ab",
+      "datetime": 1792786592,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Will AI Fiber Demand Change Corning (GLW) Narrative",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1f11ccf007456c6a5ce3b5a7b327f31205036d46e5589bbbe80663c94d8adf0d",
+      "datetime": 1792786535,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Post-it Notes maker 3M eyes AI gold rush in major Amazon deal",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=bda1f3e7e7e0d3eedc776f170bf5c181bc393017908c4d1feab41a24a755ce28",
@@ -75,44 +115,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Amazon CEO Andy Jassy Says AI Inference Is Still 10 Times Too Expensive, Claims Amazon Chips Offer Answer",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9cc2c365f4e89e57ee28f3769117b36329832578322e91e7cdf59bedfd3013e4",
-      "datetime": 1792780104,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Taiwan Semiconductor (TSMC) Posted Record Profit and the Stock Still Fell. Here's What the Market Is Worried About.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=bbc49cb5517d4801b8399f740d13de056ad70ebea77ddefb967c8866f3281ab6",
       "datetime": 1792776900,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The More Muse Grows, the More It\u2019s Going to Cost Meta",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4d7882ed1f4b611286e0317a66a28d1357a8da81dc9f4e45fc00822338bf5ad8",
-      "datetime": 1792775940,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Walmart Launches AI Shopping Tools To Drive Customer Transactions",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3ce127ee1305cd569ed5a99eac583735a54eaf40930345f7b4ab7af2e6c5db6f",
-      "datetime": 1792775361,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Stock Market Today: Dow Slumps 500 Points On Rising Oil Prices; 3 Oil Stocks To Watch (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=086a546be66af90a9920f02f05e5a3f4028ee01f0a72f4aeb2ed842494bc6682",
-      "datetime": 1792775360,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -144,14 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f8da924de3c3166add7f29053d92bd0b1de20ea187b4e388d2f7d24b4ef45b6b",
       "datetime": 1792767645,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Ignore Near-Term Friction: Nvidia\u2019s Unmatched Scale and CUDA Ecosystem Lock-In Make Every Pullback a Buying Opportunity for Years to Come",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ad1974e754e59904673975f1eded357d9cc1b1008ba0d7ca271fa21c3ac6c30d",
-      "datetime": 1792766702,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-23T21:58:17.750242+00:00"
+  "updated_at": "2026-10-23T22:13:17.709044+00:00"
 }
