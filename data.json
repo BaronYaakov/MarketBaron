@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Amazon Just Walked Away From a $427 Million Data Center Plan After Neighbors Fought Back",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=de51b213f235fa3a997f8ba4fb6aee0a14bf3b261d0f10e4a9ccafcd8ba7d072",
+      "datetime": 1792847566,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon Spent More on Data Centers Last Quarter Than AWS Earned in Revenue. Should Investors Worry?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4617dfd0827df2553d31a9ed63ea15e07d92a4690d1ea9d3d77321ab1a2795ff",
@@ -128,14 +136,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=634bf953dddc277a9bb6aa89e74779c6a639c71b4a3adc6344ed4f540f9f4c95",
       "datetime": 1792799700,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Looters hit 3,000 French businesses. Within hours, the haul was trending on Vinted under the riot\u2019s date",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e80a28762d359bf50f24078b3dcec083cded8842bd3caebb09230c5607eda27c",
-      "datetime": 1792798539,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-24T13:58:16.636078+00:00"
+  "updated_at": "2026-10-24T14:13:16.531044+00:00"
 }
