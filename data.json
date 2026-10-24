@@ -59,6 +59,30 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Broadcom stock gets massive $600 call even as AI fears grow",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=68d8e2e92d239d54f5dfe5af5ad4a7af595d9df9defc9c95920e3166f84fdae3",
+      "datetime": 1792812780,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Is American Oncology Network (AONC) Fully Valued Following Cencora's $2.4b Buyout Deal?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=336a26bc6d06569bdfa3ffa12f202410ed7bce97a657cae7b56a44f4ec0fc8be",
+      "datetime": 1792801272,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Stock And Other Mega Cap Tech Names For The AI Infrastructure Reset",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5d9cfa3db05e84304826567e2a3eb67c61a31aa6f37b389438a18388db476246",
+      "datetime": 1792801184,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Review & Preview: The Dow\u2019s Turn",
       "source": "Yahoo",
@@ -115,14 +139,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Big Tech's AI spending has Wall Street worried",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bd580916fea8916a69426fbe4cae2d825c05b002511a2afe82e1a7c9bd7d81ab",
-      "datetime": 1792786592,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Taiwan Semiconductor (TSMC) Posted Record Profit and the Stock Still Fell. Here's What the Market Is Worried About.",
       "source": "Yahoo",
@@ -160,14 +176,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2e843060d2c10ea262cf0f3e2ba757c1b8084bd6d5f7b6864913fa96743e3478",
       "datetime": 1792768800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "AMD Stock Price Prediction: One Growth Opportunity Could Push Shares Much Higher",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f8da924de3c3166add7f29053d92bd0b1de20ea187b4e388d2f7d24b4ef45b6b",
-      "datetime": 1792767645,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -387,14 +395,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "COR",
-      "headline": "Amgen vs. Bristol Myers Squibb: Which Healthcare Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=368b52ae880d338df7083cf25002b08ab35a8b7af679d3bdc20ca460ccb310e3",
-      "datetime": 1792533902,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
       "ticker": "PRMB",
       "headline": "Primo Brands Receives International Bottled Water Association's 2026 Environmental Stewardship Award",
       "source": "Yahoo",
@@ -408,14 +408,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a24df20b37d567c05f80c4a05a98aa268713e8fa8117e8a37dca73ea82e66f6f",
       "datetime": 1792423200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Barclays Maintains Overweight on Primo Brands, Lowers Price Target to $26",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=501463531946f15aa3c9b470b672867dad8bb9cf9b15d83e2c5db988835a140a",
-      "datetime": 1792163726,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     }
   ],
@@ -624,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-24T04:58:16.965420+00:00"
+  "updated_at": "2026-10-24T05:13:17.114127+00:00"
 }
