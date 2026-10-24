@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Broadcom Stock Is Down 7% in a Year. Cheap for a Reason or Too Cheap to Ignore?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7b7a02c5e2d96788542778e3db38bff7062b38eb3cc1e82e81eada4fabc9b5bd",
+      "datetime": 1792864453,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Broadcom vs. Dell Technologies: Which Stock Is AI Powering to Be a Better Buy in 2026?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=95a5e9f09f9e4e6b6b9ca6f4f4af28515ec08ea91b72c0c1767a009d6001c1a1",
@@ -193,14 +201,6 @@
       "url": "https://finnhub.io/api/news?id=ea5fc4a6c8285d054b0cbdaf0108150bb965975b94a07372a006b50195102aae",
       "datetime": 1792776505,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Marvell Technology Faces a Multi-Front War Against Taiwan\u2019s Custom Silicon Ecosystem",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=72bda33fa34a1a399917ea1cd84f4e7e0e44c6793edc57c665f6cf3cfe8b03b9",
-      "datetime": 1792773903,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-24T19:58:16.903510+00:00"
+  "updated_at": "2026-10-24T20:13:18.663796+00:00"
 }
