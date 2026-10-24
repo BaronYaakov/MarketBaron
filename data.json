@@ -472,7 +472,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1543028.076703,
+      "market_cap_musd": 1535581.214310794,
       "country": "US",
       "currency": "USD",
       "price": 321.68,
@@ -529,7 +529,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 64591.18562900001,
+      "market_cap_musd": 63163.79828409065,
       "country": "US",
       "currency": "USD",
       "price": 331.0,
@@ -548,7 +548,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 74424.39502,
+      "market_cap_musd": 72741.75652389566,
       "country": "US",
       "currency": "USD",
       "price": 89.92,
@@ -567,7 +567,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 7289.546411999999,
+      "market_cap_musd": 7126.671740430982,
       "country": "US",
       "currency": "USD",
       "price": 19.69,
@@ -586,7 +586,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 40387.14342900001,
+      "market_cap_musd": 41096.917484311634,
       "country": "US",
       "currency": "USD",
       "price": 123.33,
@@ -605,7 +605,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2700677.465441,
+      "market_cap_musd": 2675006.036541928,
       "country": "US",
       "currency": "USD",
       "price": 248.0,
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-23T23:58:17.122392+00:00"
+  "updated_at": "2026-10-24T00:13:16.909447+00:00"
 }
