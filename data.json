@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Amazon Spent More on Data Centers Last Quarter Than AWS Earned in Revenue. Should Investors Worry?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4617dfd0827df2553d31a9ed63ea15e07d92a4690d1ea9d3d77321ab1a2795ff",
+      "datetime": 1792841701,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "3 Key Things to Monitor When Tech Giants Report Earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2cc210c91662fdb57b6dc07c2747408f4720d25b8fcdd934a132a0479237a982",
+      "datetime": 1792836300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "2 Unloved Stocks of 2026 to Consider Buying Now",
       "source": "Yahoo",
@@ -120,22 +136,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e80a28762d359bf50f24078b3dcec083cded8842bd3caebb09230c5607eda27c",
       "datetime": 1792798539,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Why 3M\u2019s Amazon Deal Could Be a Big Game Changer for MMM Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a32d02413c97e6bf08d6954759efbc6292d0fc8576a1f630a4b2abd90c8d4b46",
-      "datetime": 1792791348,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Affirm Lost Walmart to Klarna in 2025. Now It Has Sam\u2019s Club. Here\u2019s What Moves the Stock Before November 5",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b9ab6b73419535d2499825ffd64140fda73461d6fc63a6273723c8b93c5c9f1b",
-      "datetime": 1792790190,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-24T11:58:16.420900+00:00"
+  "updated_at": "2026-10-24T12:13:16.731937+00:00"
 }
