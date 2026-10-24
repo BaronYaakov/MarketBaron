@@ -116,18 +116,18 @@
     },
     {
       "ticker": "AMZN",
-      "headline": "Can AI Fiber Still Deliver? Corning Faces High-Stakes Q3 Earnings Test Oct. 27 as Valuation Stretches",
+      "headline": "Microsoft May Be the Only Hyperscaler to Stay Cash-Flow Positive. What It Means for MSFT Stock",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cb66459059ab4564f8498976c276e36465a96f998822f65e4843a28df6d172aa",
-      "datetime": 1792855783,
+      "url": "https://finnhub.io/api/news?id=b3ef631d801c19758df861dc47a4fc51adf4c2184b6a54e5d174b2c7ce746590",
+      "datetime": 1792855802,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Some of Amazon\u2019s New AI Servers Are Reportedly Waiting on Power. Here\u2019s What October 29 Has to Prove",
+      "headline": "Can AI Fiber Still Deliver? Corning Faces High-Stakes Q3 Earnings Test Oct. 27 as Valuation Stretches",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=58c3ae5d20400d8d31d65c566c13ef22c6fcea68be68ed8ed8382fdbbb8c79dd",
-      "datetime": 1792854737,
+      "url": "https://finnhub.io/api/news?id=cb66459059ab4564f8498976c276e36465a96f998822f65e4843a28df6d172aa",
+      "datetime": 1792855783,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -137,6 +137,14 @@
       "url": "https://finnhub.io/api/news?id=f622962e3bfd3a3e595ee6b97e3c4e57f04a99de2df77b628f0c2f871248d6c8",
       "datetime": 1792854647,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Nvidia vs. Broadcom: One Grew AI Revenue 221% Last Quarter. The Other Grew 117%.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=333f629ab2ad33b78906cd2112abae5994ae5eb964b3dfd7336557d728d54545",
+      "datetime": 1792852202,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -185,14 +193,6 @@
       "url": "https://finnhub.io/api/news?id=0ea5b5cb651d5dc49ec9fe3d0a43f4e1fc9ad538803254abc4df0896fadb07c2",
       "datetime": 1792788704,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Taiwan Semiconductor (TSMC) Posted Record Profit and the Stock Still Fell. Here's What the Market Is Worried About.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bbc49cb5517d4801b8399f740d13de056ad70ebea77ddefb967c8866f3281ab6",
-      "datetime": 1792776900,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-24T21:58:16.678977+00:00"
+  "updated_at": "2026-10-24T22:13:16.644429+00:00"
 }
