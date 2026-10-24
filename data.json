@@ -75,6 +75,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "ORLY",
+      "headline": "O\u2019Reilly Gears Up for Q3 on Oct. 28: Can DIFM Growth Outrun a Heavy $10B Acquisition Overhang?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f622962e3bfd3a3e595ee6b97e3c4e57f04a99de2df77b628f0c2f871248d6c8",
+      "datetime": 1792854647,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Stock Market Action Plan: A Preelection Week Primer",
       "source": "Yahoo",
@@ -100,10 +108,10 @@
     },
     {
       "ticker": "AMZN",
-      "headline": "Amazon Spent More on Data Centers Last Quarter Than AWS Earned in Revenue. Should Investors Worry?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4617dfd0827df2553d31a9ed63ea15e07d92a4690d1ea9d3d77321ab1a2795ff",
-      "datetime": 1792841701,
+      "headline": "Fed Decision, Microsoft, Alphabet Earnings Highlight Blockbuster Week",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=53ac13576c8631a6302c4fb020ea5d83e6e1c2e792591ef99f429680b275bace",
+      "datetime": 1792843247,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -352,14 +360,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=816c9abf613a15d9686045c7da06f3facdc60418c1db15e5d89a8a5bcf7d43dd",
       "datetime": 1792587621,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Gabelli Releases Agenda for 50th Annual Automotive Symposium",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6d97773dc3d79c928194f257ea1aaf9c1c4745c40369b711655ae82ef2ff4eaa",
-      "datetime": 1792584000,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-24T16:13:16.433094+00:00"
+  "updated_at": "2026-10-24T16:28:16.711375+00:00"
 }
