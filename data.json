@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Review & Preview: The Dow\u2019s Turn",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=634bf953dddc277a9bb6aa89e74779c6a639c71b4a3adc6344ed4f540f9f4c95",
+      "datetime": 1792799700,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Affirm Lost Walmart to Klarna in 2025. Now It Has Sam\u2019s Club. Here\u2019s What Moves the Stock Before November 5",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b9ab6b73419535d2499825ffd64140fda73461d6fc63a6273723c8b93c5c9f1b",
@@ -73,6 +81,14 @@
       "url": "https://finnhub.io/api/news?id=66256381411d99cd7083b0b026b36dd3034d7e8981ef344027c64ed2a7d2c1a2",
       "datetime": 1792789501,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Is Celestica Stock Safer Or Riskier Than A Year Ago?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0ea5b5cb651d5dc49ec9fe3d0a43f4e1fc9ad538803254abc4df0896fadb07c2",
+      "datetime": 1792788704,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "AMZN",
@@ -107,20 +123,20 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Amazon Survived a 50% Crash. Here\u2019s What a $1,000 Investment Became",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e753bff91a6049a6b0d5781611603af2c84d3bef66a84fa86105692297390015",
-      "datetime": 1792781104,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Taiwan Semiconductor (TSMC) Posted Record Profit and the Stock Still Fell. Here's What the Market Is Worried About.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=bbc49cb5517d4801b8399f740d13de056ad70ebea77ddefb967c8866f3281ab6",
       "datetime": 1792776900,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Carrier Plans $600M Fort Worth Advanced Manufacturing Hub",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ea5fc4a6c8285d054b0cbdaf0108150bb965975b94a07372a006b50195102aae",
+      "datetime": 1792776505,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "AVGO",
@@ -155,6 +171,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "3 Canadian Growth Stocks With At Least 31% Revenue Growth",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=599b0f6f6ad64ea8c34bb94dc672b43439f0d4ef08365331bacf3b7a6cc057b9",
+      "datetime": 1792765368,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "ORLY",
       "headline": "Unveiling O'Reilly Automotive (ORLY) Q3 Outlook: Wall Street Estimates for Key Metrics",
       "source": "Yahoo",
@@ -163,12 +187,28 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Canadian Stock Market Today: TSX Futures Ease On Hotter Producer Inflation And Retail Test",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fb36aba9dd12d369bdaa9e8286feca4e6dcd85493ff0c8229cbde6eba9ebe6ef",
+      "datetime": 1792757321,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "P",
       "headline": "How Everpure Is Winning Over Hyperscalers In The AI Data Center Race",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=bf69818b3aaf6915d22d0bed6369f1444649041b3066873e073e59e4f33a1a80",
       "datetime": 1792756827,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "TSX futures drop amid gold price fall, AI anxieties",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b93723a714b2c043d7ced1bcb5a27e951ccff5f4828fb316cbec1c9aea5a2f73",
+      "datetime": 1792755138,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "B",
@@ -251,14 +291,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "3 Canadian Undervalued Tech Stocks To Watch In October 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=26d8be9c5dc60ee0b8018bebfcf4ef2dbe0b605a7f921609691e7a5047d08900",
-      "datetime": 1792650067,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "P",
       "headline": "Everpure (P) stock trades up, here is why",
       "source": "Yahoo",
@@ -305,14 +337,6 @@
       "url": "https://finnhub.io/api/news?id=816c9abf613a15d9686045c7da06f3facdc60418c1db15e5d89a8a5bcf7d43dd",
       "datetime": 1792587621,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Is Trending Stock Celestica, Inc. (CLS) a Buy Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=772db43a99463b1d63cf9df2ea876c35355781d683d1ba6841ee8703657790ad",
-      "datetime": 1792584003,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "ORLY",
@@ -377,30 +401,6 @@
       "url": "https://finnhub.io/api/news?id=482afe68e5c14c7b49db255ffd25646e76587e690d6aa37849586f4f1be3b25b",
       "datetime": 1792508400,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=04205d51ca35cc091d9ae5f59f00ab34c9f4a4aa1a8bf945d3223ca9d5cf1e25",
-      "datetime": 1792503310,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica: Broadcom Just Fired A $350 Billion Warning Shot",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=fd42c51a4a8e39d2d446bb787188df98db4822a4023aeb88773490bda9eb1602",
-      "datetime": 1792502872,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Can EPC Power Acquisition Boost Flex's AI Infrastructure Growth?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6d9c6ee62f18450d554d64cf63afb745b41f12b9f4fe72ad8e73da90ff0f71ec",
-      "datetime": 1792501440,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "PRMB",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-24T01:58:17.752285+00:00"
+  "updated_at": "2026-10-24T02:13:16.654014+00:00"
 }
