@@ -68,6 +68,22 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "Looters hit 3,000 French businesses. Within hours, the haul was trending on Vinted under the riot\u2019s date",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e80a28762d359bf50f24078b3dcec083cded8842bd3caebb09230c5607eda27c",
+      "datetime": 1792798539,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Why 3M\u2019s Amazon Deal Could Be a Big Game Changer for MMM Stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a32d02413c97e6bf08d6954759efbc6292d0fc8576a1f630a4b2abd90c8d4b46",
+      "datetime": 1792791348,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Affirm Lost Walmart to Klarna in 2025. Now It Has Sam\u2019s Club. Here\u2019s What Moves the Stock Before November 5",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b9ab6b73419535d2499825ffd64140fda73461d6fc63a6273723c8b93c5c9f1b",
@@ -104,22 +120,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=bd580916fea8916a69426fbe4cae2d825c05b002511a2afe82e1a7c9bd7d81ab",
       "datetime": 1792786592,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Will AI Fiber Demand Change Corning (GLW) Narrative",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1f11ccf007456c6a5ce3b5a7b327f31205036d46e5589bbbe80663c94d8adf0d",
-      "datetime": 1792786535,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Post-it Notes maker 3M eyes AI gold rush in major Amazon deal",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bda1f3e7e7e0d3eedc776f170bf5c181bc393017908c4d1feab41a24a755ce28",
-      "datetime": 1792784220,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-24T03:58:16.515794+00:00"
+  "updated_at": "2026-10-24T04:13:17.304209+00:00"
 }
