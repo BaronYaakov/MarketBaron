@@ -76,6 +76,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "Setbacks Mounting On The AI Data Center Front",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=891776cbeeed0d6092d102a7561bf6e66a2de8552b9362f35ebfe4db1191747a",
+      "datetime": 1792839092,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "3 Key Things to Monitor When Tech Giants Report Earnings",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2cc210c91662fdb57b6dc07c2747408f4720d25b8fcdd934a132a0479237a982",
@@ -128,14 +136,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5d9cfa3db05e84304826567e2a3eb67c61a31aa6f37b389438a18388db476246",
       "datetime": 1792801184,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Review & Preview: The Dow\u2019s Turn",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=634bf953dddc277a9bb6aa89e74779c6a639c71b4a3adc6344ed4f540f9f4c95",
-      "datetime": 1792799700,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-24T14:58:16.419605+00:00"
+  "updated_at": "2026-10-24T15:13:16.313527+00:00"
 }
