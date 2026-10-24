@@ -59,6 +59,46 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Broadcom vs. Dell Technologies: Which Stock Is AI Powering to Be a Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=95a5e9f09f9e4e6b6b9ca6f4f4af28515ec08ea91b72c0c1767a009d6001c1a1",
+      "datetime": 1792863644,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Bro went from a 700-person village in Slovakia to Google then built an app that makes $2k/day",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=522babba2cb0e50f874d039b5d843e5320736608ca235ccf745872ba57df436c",
+      "datetime": 1792863083,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Amgen vs. Johnson & Johnson: Which Healthcare Giant Has the Better Stock to Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=352f3c23d139442045486e4ee957da337f5b851133d28320bdebba8e3b4e1f02",
+      "datetime": 1792859461,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Chamath: \u201c$0.70-75 of Every Dollar\u201d of AI Spend Is VC Money. The Real Winners Are Already Publicly Traded",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c5ef94a85d3a914d0e0f4672b802279beee2eb6fe82d63d5e27c5cd332a81b8c",
+      "datetime": 1792858696,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon\u2019s AWS Has Already Sold \u201ca Good Chunk\u201d of 2028 Capacity",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a10be731883a4757811e3b41c1e7114d6600a64584744b0174b35f33c3a8ff10",
+      "datetime": 1792858550,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Can Amazon Take Market Share From Nvidia in the AI Chip Race?",
       "source": "Yahoo",
@@ -75,44 +115,20 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "Some of Amazon\u2019s New AI Servers Are Reportedly Waiting on Power. Here\u2019s What October 29 Has to Prove",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=58c3ae5d20400d8d31d65c566c13ef22c6fcea68be68ed8ed8382fdbbb8c79dd",
+      "datetime": 1792854737,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "ORLY",
       "headline": "O\u2019Reilly Gears Up for Q3 on Oct. 28: Can DIFM Growth Outrun a Heavy $10B Acquisition Overhang?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f622962e3bfd3a3e595ee6b97e3c4e57f04a99de2df77b628f0c2f871248d6c8",
       "datetime": 1792854647,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Stock Market Action Plan: A Preelection Week Primer",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f4d5aa35ae37d1eb55bc1dcf3e14d465ec49d53aabc0884425b01bd180630a35",
-      "datetime": 1792852122,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Newmont And 2 Other Great Undervalued Stocks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5c5756fbc3d3db91dc56d515753f7ee4286bed80fc3b3f331c1753942d33552a",
-      "datetime": 1792851022,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Just Walked Away From a $427 Million Data Center Plan After Neighbors Fought Back",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=de51b213f235fa3a997f8ba4fb6aee0a14bf3b261d0f10e4a9ccafcd8ba7d072",
-      "datetime": 1792847566,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Fed Decision, Microsoft, Alphabet Earnings Highlight Blockbuster Week",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=53ac13576c8631a6302c4fb020ea5d83e6e1c2e792591ef99f429680b275bace",
-      "datetime": 1792843247,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -184,14 +200,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=72bda33fa34a1a399917ea1cd84f4e7e0e44c6793edc57c665f6cf3cfe8b03b9",
       "datetime": 1792773903,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "3 Magnificent AI Chip Stocks That Could Help Set You Up for Life",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9277118bcf4c0e7ed3fc38e27c469b17bc40133f333bfe598d8a21d5de4972c7",
-      "datetime": 1792773300,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -368,14 +376,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5b6b8c8559f3d51f02d762c22910a4f456d323012de4dd671db3ba22be4ee11d",
       "datetime": 1792582200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Here\u2019s How Much You Would Have Made Owning Cencora Stock In The Last 5 Years",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=e0799ecb30e654d79a1f9daad18b0234596ebe9e59a6e5388de6a1932922a262",
-      "datetime": 1792580424,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-24T17:58:16.836062+00:00"
+  "updated_at": "2026-10-24T18:13:16.798848+00:00"
 }
