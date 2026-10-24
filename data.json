@@ -60,6 +60,22 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "2 Unloved Stocks of 2026 to Consider Buying Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e8c0e3e93b8389eb3ec947af95880dbf0029eefa141288a8bc98b46ce1c6855",
+      "datetime": 1792834982,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Billionaire Ken Griffin Says We May Be in a Bubble. Here\u2019s What History Says Happens Next.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d94cb68b89d4269b47f38a20a48c19634c53b951418fd5968385492a971d6c3c",
+      "datetime": 1792834202,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Broadcom stock gets massive $600 call even as AI fears grow",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=68d8e2e92d239d54f5dfe5af5ad4a7af595d9df9defc9c95920e3166f84fdae3",
@@ -139,14 +155,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Dow Jones Futures: Microsoft, Google, Amazon Lead Earnings Wave; What To Do In Mixed Market",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4d9ac0f0ede03f93ff45478ef4561b47f6f4dc5c9377770d6f6ddb9145f9c10a",
-      "datetime": 1792788577,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Taiwan Semiconductor (TSMC) Posted Record Profit and the Stock Still Fell. Here's What the Market Is Worried About.",
       "source": "Yahoo",
@@ -176,14 +184,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=9277118bcf4c0e7ed3fc38e27c469b17bc40133f333bfe598d8a21d5de4972c7",
       "datetime": 1792773300,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "AMD or Broadcom: If I Could Only Own 1 AI Chip Stock Through 2030, Here's My Pick",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2e843060d2c10ea262cf0f3e2ba757c1b8084bd6d5f7b6864913fa96743e3478",
-      "datetime": 1792768800,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-24T09:58:16.067706+00:00"
+  "updated_at": "2026-10-24T10:13:16.459287+00:00"
 }
