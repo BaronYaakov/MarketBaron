@@ -68,6 +68,14 @@
     },
     {
       "ticker": "COR",
+      "headline": "Cencora's Q4 2026 Earnings: What to Expect",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=98deff20668ec3b8bdd1f20d8f9e2e5f8a649f690e54a40ba95d5e528be4b39d",
+      "datetime": 1792805299,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "COR",
       "headline": "Is American Oncology Network (AONC) Fully Valued Following Cencora's $2.4b Buyout Deal?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=336a26bc6d06569bdfa3ffa12f202410ed7bce97a657cae7b56a44f4ec0fc8be",
@@ -379,14 +387,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "COR",
-      "headline": "Cencora Agrees To Acquire Remaining Stake In American Oncology Network For $2.4B",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=3bbe0aa0681dc0e2c039f37533a1cadd05cca86cc56b7b9f9326837c082102d0",
-      "datetime": 1792568056,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
       "ticker": "P",
       "headline": "3 Cloud Infrastructure Stocks Investors May Watch After The London Outage",
       "source": "Yahoo",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-24T07:58:16.311497+00:00"
+  "updated_at": "2026-10-24T08:13:16.219977+00:00"
 }
