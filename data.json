@@ -116,18 +116,18 @@
     },
     {
       "ticker": "AMZN",
-      "headline": "Wall Street Week Ahead",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c445e63593ddae017438db65d785f64622a4901f01875a722b3d91243f3cb4d5",
-      "datetime": 1792911546,
+      "headline": "Earnings Volatility Watch: SanDisk and 11 Other Stocks Are Priced for at Least 10% Swings This Week",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a5bb0281be2cfc896610787f104b38ffd410d5d4596e2e43f709b9ca31b155c6",
+      "datetime": 1792917019,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Should Aggregators block AI Agents?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d0542948f61c8b7142a9426927fa3d7d9a80e0bb789e4c185e840de1528991bf",
-      "datetime": 1792909853,
+      "headline": "Wall Street Week Ahead",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c445e63593ddae017438db65d785f64622a4901f01875a722b3d91243f3cb4d5",
+      "datetime": 1792911546,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -169,6 +169,14 @@
       "url": "https://finnhub.io/api/news?id=f622962e3bfd3a3e595ee6b97e3c4e57f04a99de2df77b628f0c2f871248d6c8",
       "datetime": 1792854647,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica Stock Dips as the AI Trade Unwinds: Can Earnings Turn It Around?",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=38633952eb5fe19aba9aee5400307fb3c19efb5e6ef43568a2bb2c7b9e8a8900",
+      "datetime": 1792844122,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "COR",
@@ -297,14 +305,6 @@
       "url": "https://finnhub.io/api/news?id=01330d0d1d5f9043ed11e84d3da2904225bc876858cd820c2d049ea8f5b714d4",
       "datetime": 1792676632,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Is CLS Stock a Smart Investment Option Before Q3 Earnings Release?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5d688c6c602277065a94b3ab8b0df0fae67d8b3263f64fbd648380788a6a34d6",
-      "datetime": 1792674660,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "COR",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-25T14:58:14.331452+00:00"
+  "updated_at": "2026-10-25T15:13:14.297042+00:00"
 }
