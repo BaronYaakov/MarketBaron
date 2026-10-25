@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Amazon.com (AMZN) Cancels $427 Million Loudoun County Data Center Project",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f4fb7bedc9d357ab56d45a6eaa5665beefbc82ed8fa07aa3eda69844d7fa6229",
+      "datetime": 1792879914,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Nvidia and 3 AI Infrastructure Stocks Backed by Hyperscaler Data Center Spending",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e5eb8ff929642a161384ce5f573d37c26db6ac7b4dd2cfa34e034206ae5525d",
+      "datetime": 1792879882,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom Stock Is Down 7% in a Year. Cheap for a Reason or Too Cheap to Ignore?",
       "source": "Yahoo",
@@ -123,14 +139,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Can AI Fiber Still Deliver? Corning Faces High-Stakes Q3 Earnings Test Oct. 27 as Valuation Stretches",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cb66459059ab4564f8498976c276e36465a96f998822f65e4843a28df6d172aa",
-      "datetime": 1792855783,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "O\u2019Reilly Gears Up for Q3 on Oct. 28: Can DIFM Growth Outrun a Heavy $10B Acquisition Overhang?",
       "source": "Yahoo",
@@ -177,14 +185,6 @@
       "url": "https://finnhub.io/api/news?id=336a26bc6d06569bdfa3ffa12f202410ed7bce97a657cae7b56a44f4ec0fc8be",
       "datetime": 1792801272,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Prediction: Nvidia Will Outperform Broadcom Over the Next 5 Years",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=66256381411d99cd7083b0b026b36dd3034d7e8981ef344027c64ed2a7d2c1a2",
-      "datetime": 1792789501,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -493,7 +493,7 @@
       "prev_close": 38.65,
       "day_change_pct": -1.32,
       "week52_high": 74.0,
-      "week52_low": 42.62
+      "week52_low": 43.33
     },
     "CLS": {
       "name": "Celestica Inc",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-24T23:58:16.646727+00:00"
+  "updated_at": "2026-10-25T00:13:16.949498+00:00"
 }
