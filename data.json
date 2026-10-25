@@ -60,6 +60,30 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "What Does American Electric Power Company (AEP) Gain From Its 960 MW Nuclear Plan?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eb00bb2ac80129325e68946f51d4c270f70d686b711aa31daf5954fae3e5d0f1",
+      "datetime": 1792898076,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "FitLife Brands Eyes Acquisitions, Margin Gains to Offset Organic Growth Headwinds",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac0c9d9044497bde4fd34ecaf42438bc2d322d418efc583873d70ed1d3b29ad6",
+      "datetime": 1792897323,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Top 3 Grid Infrastructure Stocks To Watch In October 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=343745d0ccf97c5afd812a2b689afa709876c0ead46b42b3517ed1cf64d43193",
+      "datetime": 1792890817,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon.com (AMZN) Cancels $427 Million Loudoun County Data Center Project",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f4fb7bedc9d357ab56d45a6eaa5665beefbc82ed8fa07aa3eda69844d7fa6229",
@@ -123,22 +147,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Can Amazon Take Market Share From Nvidia in the AI Chip Race?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3d8c7fc5d68ce864e5bb7b70b720cf4c6a4627c3d45bd895034a71d6cf740cb7",
-      "datetime": 1792856100,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Microsoft May Be the Only Hyperscaler to Stay Cash-Flow Positive. What It Means for MSFT Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b3ef631d801c19758df861dc47a4fc51adf4c2184b6a54e5d174b2c7ce746590",
-      "datetime": 1792855802,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "O\u2019Reilly Gears Up for Q3 on Oct. 28: Can DIFM Growth Outrun a Heavy $10B Acquisition Overhang?",
       "source": "Yahoo",
@@ -160,14 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3e8c0e3e93b8389eb3ec947af95880dbf0029eefa141288a8bc98b46ce1c6855",
       "datetime": 1792834982,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom stock gets massive $600 call even as AI fears grow",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=68d8e2e92d239d54f5dfe5af5ad4a7af595d9df9defc9c95920e3166f84fdae3",
-      "datetime": 1792812780,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-25T04:58:17.689627+00:00"
+  "updated_at": "2026-10-25T05:13:16.389652+00:00"
 }
