@@ -60,6 +60,46 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "'The world's super company': Wall Street weighs SpaceX earnings, company's likely Tesla tie-up",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bd47ebc11459ee739b5b5e3989cb1390d6760cf307068cee0ff7f6b4f8e4add0",
+      "datetime": 1792949989,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=db7acea0797338438a6dd246b871843c590e068f95fe8f16c8dc429f2dcbcb84",
+      "datetime": 1792947452,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Can Walmart's New Bundled Subscription Beat Amazon?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6b057c865b0e3e5df74efba55ab596316f8c6c40b7b7d637102c5251f6316b65",
+      "datetime": 1792946820,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5163ce18942b895f4e4b097d7595eb2c4b40eccba1b2953b30ce4795c2fbca01",
+      "datetime": 1792944063,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Does enough capital exist to finance everyone\u2019s ambitious AI spending plans?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ffdbd0659b514bbb7acd64327012a1f799f98b5682b669581e4f64e802f4d945",
+      "datetime": 1792943852,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "The Hidden $496 Billion Catalyst Waiting to Ignite Amazon Stock on Oct. 29",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=10187a79977d4acbf854087795bdc83210ab8356095addc7a8b0c165e001910e",
@@ -83,36 +123,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Generac Q3 Earnings Preview: Can The Amazon AI Deal Deliver A Major Beat?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=28a2786c4aae985daaadede27a6f5e004875d7c3756e2ec2760009aa958aa1f7",
-      "datetime": 1792939353,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Halloween Candy Sales Check: Here's what Amazon is selling",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7d14a74ba8ae1d9fce14837e94a3dfb92d627d6ec717cb5c6cb72e29093017e0",
-      "datetime": 1792937820,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Here's What $10,000 Invested Equally in Nvidia, AMD, and Broadcom Could Be Worth by 2030",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e79f7f843040d301b578346a1e7f88a5d68bfd0ca166081ed49d7be1c1b07875",
       "datetime": 1792935300,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Wall Street Brunch: Fed And Hyperscaler Earnings",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=6962ebb4fab13ae73fe11416102ce1a0b5784fca3805599ef698b09bb25c46c1",
-      "datetime": 1792932720,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -136,22 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=343745d0ccf97c5afd812a2b689afa709876c0ead46b42b3517ed1cf64d43193",
       "datetime": 1792890817,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia and 3 AI Infrastructure Stocks Backed by Hyperscaler Data Center Spending",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3e5eb8ff929642a161384ce5f573d37c26db6ac7b4dd2cfa34e034206ae5525d",
-      "datetime": 1792879882,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Stock Is Down 7% in a Year. Cheap for a Reason or Too Cheap to Ignore?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7b7a02c5e2d96788542778e3db38bff7062b38eb3cc1e82e81eada4fabc9b5bd",
-      "datetime": 1792864453,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-25T17:58:15.246856+00:00"
+  "updated_at": "2026-10-25T18:13:14.749148+00:00"
 }
