@@ -107,20 +107,20 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "Wall Street Brunch: Fed And Hyperscaler Earnings",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6962ebb4fab13ae73fe11416102ce1a0b5784fca3805599ef698b09bb25c46c1",
+      "datetime": 1792932720,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Why Are Investors Buying Credit Default Swaps to Hedge AI-Related Debt?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0f07b3bb71cb7ad4df26075bdd3b189372543cf57ddc750b3f5adb1471da88d5",
       "datetime": 1792929240,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Why Are Investors Buying Credit Default Swaps to Hedge AI-Related Debt?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0f07b3bb71cb7ad4df26075bdd3b189372543cf57ddc750b3f5adb1471da88d5",
-      "datetime": 1792929240,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-25T16:58:15.035642+00:00"
+  "updated_at": "2026-10-25T17:13:15.729870+00:00"
 }
