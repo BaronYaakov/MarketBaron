@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Should Aggregators block AI Agents?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d0542948f61c8b7142a9426927fa3d7d9a80e0bb789e4c185e840de1528991bf",
+      "datetime": 1792909853,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "What Does American Electric Power Company (AEP) Gain From Its 960 MW Nuclear Plan?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=eb00bb2ac80129325e68946f51d4c270f70d686b711aa31daf5954fae3e5d0f1",
@@ -136,14 +144,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c5ef94a85d3a914d0e0f4672b802279beee2eb6fe82d63d5e27c5cd332a81b8c",
       "datetime": 1792858696,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon\u2019s AWS Has Already Sold \u201ca Good Chunk\u201d of 2028 Capacity",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a10be731883a4757811e3b41c1e7114d6600a64584744b0174b35f33c3a8ff10",
-      "datetime": 1792858550,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-25T07:58:16.308111+00:00"
+  "updated_at": "2026-10-25T08:13:16.181810+00:00"
 }
