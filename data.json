@@ -60,6 +60,30 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Dow Jones Futures Loom; Microsoft, Google, Amazon Earnings Due In Doom-And-Bloom Market",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f5336236e700318c2cf2666aa031fed703571756ed421fb993e4d3861ee39af8",
+      "datetime": 1792928909,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Heineken (ENXTAM:HEIA) Stock May Be A Bargain On Greece Damages Ruling",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0fd5743ef9231da2de20da7f7b64854dcaed6b45cc666906db6e0186be375400",
+      "datetime": 1792926486,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Where Will Broadcom Stock Be in 5 Years?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cb4a3ebf0fd7d7fb36399de700af5127aafd61052b2d04deb948a0459cd9ce78",
+      "datetime": 1792926000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Prediction: Amazon Stock Will Skyrocket After Oct. 29 Thanks to AWS Growth",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e04180e1efd8cffcaa3e53fcae6fe055c0b890ed61efec4cde3855bca252aa9a",
@@ -91,28 +115,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "FitLife Brands Eyes Acquisitions, Margin Gains to Offset Organic Growth Headwinds",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ac0c9d9044497bde4fd34ecaf42438bc2d322d418efc583873d70ed1d3b29ad6",
-      "datetime": 1792897323,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Top 3 Grid Infrastructure Stocks To Watch In October 2026",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=343745d0ccf97c5afd812a2b689afa709876c0ead46b42b3517ed1cf64d43193",
       "datetime": 1792890817,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon.com (AMZN) Cancels $427 Million Loudoun County Data Center Project",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f4fb7bedc9d357ab56d45a6eaa5665beefbc82ed8fa07aa3eda69844d7fa6229",
-      "datetime": 1792879914,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -160,14 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=333f629ab2ad33b78906cd2112abae5994ae5eb964b3dfd7336557d728d54545",
       "datetime": 1792852202,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "2 Unloved Stocks of 2026 to Consider Buying Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3e8c0e3e93b8389eb3ec947af95880dbf0029eefa141288a8bc98b46ce1c6855",
-      "datetime": 1792834982,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-25T11:58:14.973725+00:00"
+  "updated_at": "2026-10-25T12:13:14.928075+00:00"
 }
