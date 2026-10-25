@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Prediction: Amazon Stock Will Skyrocket After Oct. 29 Thanks to AWS Growth",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e04180e1efd8cffcaa3e53fcae6fe055c0b890ed61efec4cde3855bca252aa9a",
+      "datetime": 1792917180,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Should Aggregators block AI Agents?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d0542948f61c8b7142a9426927fa3d7d9a80e0bb789e4c185e840de1528991bf",
@@ -137,14 +145,6 @@
       "url": "https://finnhub.io/api/news?id=352f3c23d139442045486e4ee957da337f5b851133d28320bdebba8e3b4e1f02",
       "datetime": 1792859461,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Chamath: \u201c$0.70-75 of Every Dollar\u201d of AI Spend Is VC Money. The Real Winners Are Already Publicly Traded",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c5ef94a85d3a914d0e0f4672b802279beee2eb6fe82d63d5e27c5cd332a81b8c",
-      "datetime": 1792858696,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "ORLY",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-25T09:58:16.325686+00:00"
+  "updated_at": "2026-10-25T10:13:16.455398+00:00"
 }
