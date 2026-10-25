@@ -68,6 +68,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "Wall Street Week Ahead",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c445e63593ddae017438db65d785f64622a4901f01875a722b3d91243f3cb4d5",
+      "datetime": 1792911546,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Should Aggregators block AI Agents?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d0542948f61c8b7142a9426927fa3d7d9a80e0bb789e4c185e840de1528991bf",
@@ -129,14 +137,6 @@
       "url": "https://finnhub.io/api/news?id=95a5e9f09f9e4e6b6b9ca6f4f4af28515ec08ea91b72c0c1767a009d6001c1a1",
       "datetime": 1792863644,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Bro went from a 700-person village in Slovakia to Google then built an app that makes $2k/day",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=522babba2cb0e50f874d039b5d843e5320736608ca235ccf745872ba57df436c",
-      "datetime": 1792863083,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "COR",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-25T11:13:16.467529+00:00"
+  "updated_at": "2026-10-25T11:28:16.572048+00:00"
 }
