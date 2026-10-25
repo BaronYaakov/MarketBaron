@@ -60,10 +60,34 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Amazon's $75 AI wearable hides a bigger $144-a-year bet",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7216e89168daf36d1a40db69d31d3a33c400d9911c9e2ba70d71838859781100",
+      "datetime": 1792959780,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Stock Futures Set to Trade Ahead of Fed Decision",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=173172ff5d2a75821b4875bd8106545496bb430cf1e6a15336d69c3bc516d53c",
+      "datetime": 1792957440,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Dow Jones Futures Due With Microsoft, Google, Amazon Ahead; Will Doom Or Bloom Control Market?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=113cecb05a3df99f75cf890a02cbfd5909256fef04c79314b3e628fbf4ac126a",
       "datetime": 1792956832,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The Fed, Inflation, Verizon, Boeing, Alphabet, GE Vernova, Amazon, and Many More Stocks to Watch This Week",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f8421ce6d8985ba1bfded18bf2eda36b9f4aa0e0de6be4dddb7ee069b173a5f",
+      "datetime": 1792955520,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -83,14 +107,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Can Walmart's New Bundled Subscription Beat Amazon?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6b057c865b0e3e5df74efba55ab596316f8c6c40b7b7d637102c5251f6316b65",
-      "datetime": 1792946820,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks",
       "source": "Yahoo",
@@ -105,22 +121,6 @@
       "url": "https://finnhub.io/api/news?id=ffdbd0659b514bbb7acd64327012a1f799f98b5682b669581e4f64e802f4d945",
       "datetime": 1792943852,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The Hidden $496 Billion Catalyst Waiting to Ignite Amazon Stock on Oct. 29",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=10187a79977d4acbf854087795bdc83210ab8356095addc7a8b0c165e001910e",
-      "datetime": 1792942960,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "What To Expect In Markets This Week: GOOGL, MSFT, AMZN, INTC, HOOD, LLY Earnings, Fed Meeting And More",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=25694c6ec753dccea4acbd0b562f93a8870de57c25547169bd93e569276feda2",
-      "datetime": 1792942020,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-25T21:58:15.667861+00:00"
+  "updated_at": "2026-10-25T22:13:15.216068+00:00"
 }
