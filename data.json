@@ -60,6 +60,22 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Dow Jones Futures Rise With Microsoft, Google, Amazon Ahead; Will Doom Or Bloom Control Market?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9d1d41dbeb3fe62750d06a4f9d2027a33a054487b91296b54af350a503afbb8c",
+      "datetime": 1792970916,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Stock Futures Are Rising Ahead of Fed Decision",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c55c8e5cceb004bfec98096cfcd90178750df878e2a4045c867dcfffff76b91",
+      "datetime": 1792966320,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon's $75 AI wearable hides a bigger $144-a-year bet",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7216e89168daf36d1a40db69d31d3a33c400d9911c9e2ba70d71838859781100",
@@ -88,22 +104,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3f8421ce6d8985ba1bfded18bf2eda36b9f4aa0e0de6be4dddb7ee069b173a5f",
       "datetime": 1792955520,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "'The world's super company': Wall Street weighs SpaceX earnings, company's likely Tesla tie-up",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bd47ebc11459ee739b5b5e3989cb1390d6760cf307068cee0ff7f6b4f8e4add0",
-      "datetime": 1792949989,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=db7acea0797338438a6dd246b871843c590e068f95fe8f16c8dc429f2dcbcb84",
-      "datetime": 1792947452,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-25T23:58:17.157675+00:00"
+  "updated_at": "2026-10-26T00:13:17.874057+00:00"
 }
