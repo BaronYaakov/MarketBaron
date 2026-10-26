@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "P",
+      "headline": "S&P 500 Top Movers: Gainers and Losers in Today's US Session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=74c0b7f2c5da50ee872c7a076ef3214548b26f90b75e56289a9ae5a628750a1a",
+      "datetime": 1793045173,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Most-Active S&P 500 Stocks in the Oct. 26 Session",
       "source": "ChartMill",
@@ -105,6 +113,14 @@
       "url": "https://finnhub.io/api/news?id=05667b6ec552f7c716dd837bea294062c8da2a079e34da3de9e331cb7c6194e0",
       "datetime": 1793038320,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "S&P 500 Top Movers Today: Lumentum Leads, Fair Isaac Falls",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=a88ca28f669ae33d3af2b91274390fb190c3242d53186deda7c0a1eb8e7c40cd",
+      "datetime": 1793036172,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "AVGO",
@@ -371,28 +387,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "P",
-      "headline": "S&P 500 Gap Movers: Oct. 21, 2026 Session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=d74c0b1d6183970ddb0214699a48237d62e527c352455b0eeb268c354bcfe056",
-      "datetime": 1792593363,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Cencora to Acquire American Oncology Network to Strengthen Support of Community Oncology",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5b6b8c8559f3d51f02d762c22910a4f456d323012de4dd671db3ba22be4ee11d",
       "datetime": 1792582200,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "3 Cloud Infrastructure Stocks Investors May Watch After The London Outage",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=db09204d35ab45b598b8e583cb5601715970a4cc2e2c4f6d5509eff83efb075e",
-      "datetime": 1792542029,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "PRMB",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-26T21:43:29.489405+00:00"
+  "updated_at": "2026-10-26T21:58:20.258160+00:00"
 }
