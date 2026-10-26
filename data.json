@@ -59,6 +59,38 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "SMH\u2019s Price Has Soared, but Its Payout Is Still Below 2022 Levels",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf7a40f1014520bebd5d44d7de45dc95114e0baed509d989a8f3ed33028cd73f",
+      "datetime": 1793017564,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "The 10 biggest stocks are faltering, and it's dragging the S&P 500 down",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e87f912f31e719239c25d15bff5ede75c4a5bfc0340b4f356d950c0a0f71253d",
+      "datetime": 1793017521,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Update: Meta Launches $35 Billion Stock, Preferred Offerings; Plans Potential $60 Billion ATM Stock Offering",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=12100600faf5d24b1834d8d1ac4fdda930da575f6bd66bb09c7e3e36afd22c3c",
+      "datetime": 1793017322,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Meta Launches $35B Stock Offering, Plans Another $60B Program In 2027: Nvidia, AMD, Broadcom Eye Up To $5B Investment",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=860ce716d2ea0a1bf05134e0bd0074b39b55e27ec7afb515f86874ef571d7d20",
+      "datetime": 1793017058,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Here Are Monday\u2019s Top Wall Street Analyst Research Calls: Block, Boise Cascade, Equifax, FirstEnergy, Lockheed Martin, Lumentum Holdings, NetApp, Roper Technologies, Spotify, Technology, and More",
       "source": "Yahoo",
@@ -91,36 +123,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Is Money for AI Data Centers Drying Up? Here\u2019s Who Could Come Out on Top.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=58874029da089c7b3088e41ca2003315120967a72106ba90f2ea6f8de5a52b2b",
-      "datetime": 1793013621,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "The Ethernet Tollbooth: Arista Rides Broadcom Silicon to Break Nvidia\u2019s InfiniBand Monopoly",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c32ffb3b86ffceff56f0b9efa25a10445ca9f65bfee43018027b28266e28b959",
-      "datetime": 1793013337,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "AMZN",
       "headline": "Should You Buy Amazon Before Oct. 29?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=40a3d7ec2df837afe3000f1b55199bb78fb04e110650c5d422b3e63f909097da",
       "datetime": 1793010902,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Prediction: Broadcom Will Be a $4.5 Trillion Company by 2030",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e084e0a4217576b48c2ebd6879dc39009b5113e3830a9bff510c483a5ad19eb7",
-      "datetime": 1793010360,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
@@ -145,14 +153,6 @@
       "url": "https://finnhub.io/api/news?id=d1beb44379db436acaa3e922527c1702f6502dae9219dbfae44e8988908120bc",
       "datetime": 1793009620,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Seagate Simplifies High-Capacity Storage Scaling for AI and Cloud Infrastructure",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6dfd9f8498d34b143e9c40f3740da117c448641dcf024aa8e8e5c44618bb7819",
-      "datetime": 1793008860,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "B",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-26T12:28:14.501613+00:00"
+  "updated_at": "2026-10-26T12:43:14.827658+00:00"
 }
