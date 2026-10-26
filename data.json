@@ -60,6 +60,22 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Should You Pick Apple Stock Over Its Competitors?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fb3fda83e9ae9c454f7ac448a438cce071c75d811ba185af8b793d0365e9617a",
+      "datetime": 1792998712,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Are You Overpaying For IBM Stock Versus Its Rivals?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fdda84331928c6f38ff2e561ebc35bef6b66cbbda47fff9bb109e9d25b642ef6",
+      "datetime": 1792998709,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "How Low Can Snowflake Stock Go?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c742359460bf34b088a5c9bf88efcfb9658a0e56b55c1d33135729979be61988",
@@ -112,22 +128,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=32b7f4bb25113810d2db9920745c7bd7a22b01edab2be008fc0fe35f0c20b684",
       "datetime": 1792983723,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Alluvial Capital Management's Q3 2026 Top 10 Holdings",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=dd27046ed17632aa3c17d5757f70e49384abfd58ec44ed0a4523261101ef5856",
-      "datetime": 1792981800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Stocks sink as traders brace for tech earnings, central bank decisions",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e8ba5d2b678643eeb4aa805511529b05726470dfee28db98daafd1575f1ce500",
-      "datetime": 1792981288,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-26T07:58:14.273595+00:00"
+  "updated_at": "2026-10-26T08:13:14.348465+00:00"
 }
