@@ -92,6 +92,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "Hyperscaler Earnings Previews: Alphabet, Microsoft And Amazon - Maybe The Bearish Sentiment Will Help",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c82629cbf1dea357a8228bbe7e5d25ec804d2ecd9cc2693c6d122a3a2ae58013",
+      "datetime": 1792994700,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "How Low Can Snowflake Stock Go?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c742359460bf34b088a5c9bf88efcfb9658a0e56b55c1d33135729979be61988",
@@ -113,14 +121,6 @@
       "url": "https://finnhub.io/api/news?id=20e1c800a21a087d0d1bb935a71e7f5855fac204fd18d9d9970e0a3a2c8e77ab",
       "datetime": 1792991166,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Which Dates Could Move Walmart Stock Most?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c299bd930a79677d91d146c7c121836f61a8ead0e31826d84276522490e8afee",
-      "datetime": 1792991163,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "B",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-26T10:13:14.177245+00:00"
+  "updated_at": "2026-10-26T10:28:14.541384+00:00"
 }
