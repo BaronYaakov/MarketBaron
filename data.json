@@ -76,6 +76,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "Biggest Earnings Week, Then Elections, And Iran: What Happens? Maybe Rally",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cb0ac3ebd05e8e66b03f7a6eb17fd2edf482391362aed9d1f27cf317f0307e79",
+      "datetime": 1792964887,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon's $75 AI wearable hides a bigger $144-a-year bet",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7216e89168daf36d1a40db69d31d3a33c400d9911c9e2ba70d71838859781100",
@@ -96,14 +104,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=113cecb05a3df99f75cf890a02cbfd5909256fef04c79314b3e628fbf4ac126a",
       "datetime": 1792956832,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The Fed, Inflation, Verizon, Boeing, Alphabet, GE Vernova, Amazon, and Many More Stocks to Watch This Week",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3f8421ce6d8985ba1bfded18bf2eda36b9f4aa0e0de6be4dddb7ee069b173a5f",
-      "datetime": 1792955520,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-26T01:58:17.143684+00:00"
+  "updated_at": "2026-10-26T02:13:17.752177+00:00"
 }
