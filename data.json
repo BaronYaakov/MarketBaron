@@ -60,6 +60,22 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Stocktwits Tech Watch: More Big Earnings, Apple\u2019s Touch-Screen MacBook And Intel Results In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1e0f150fc9ea54a8bafb84405cd51ce4b86953b3206e67b3b4da9258a8aa238d",
+      "datetime": 1793004446,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "I'd Buy Half a Position in Amazon Stock Before Its Oct. 29 Report -- and Half After",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bd774ae8455b1894073dbc85df6b742449c7d47b6d10652679f868774c223459",
+      "datetime": 1793003582,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Should You Pick Apple Stock Over Its Competitors?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fb3fda83e9ae9c454f7ac448a438cce071c75d811ba185af8b793d0365e9617a",
@@ -113,22 +129,6 @@
       "url": "https://finnhub.io/api/news?id=323c51ff55e42e4c75789b502cab9ae59fe8e5737e4acd79195dab1edd735b7a",
       "datetime": 1792984200,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "How Can Investors Have Confidence In The Terminal Value Of The Large AI Providers",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=323c51ff55e42e4c75789b502cab9ae59fe8e5737e4acd79195dab1edd735b7a",
-      "datetime": 1792984200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Big Tech Earnings Are a No-Win Test as Investors Punish Both Capex Cuts and Hikes",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=32b7f4bb25113810d2db9920745c7bd7a22b01edab2be008fc0fe35f0c20b684",
-      "datetime": 1792983723,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-26T09:58:14.395261+00:00"
+  "updated_at": "2026-10-26T10:13:14.177245+00:00"
 }
