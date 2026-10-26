@@ -124,6 +124,14 @@
     },
     {
       "ticker": "P",
+      "headline": "Tesla Makes Bullish Move, But These Five AI Stocks Lead The S&P 500",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=00653d71e8a7f44983a1215c6c6dba4e658e274752a4c368465c1e328b9c437e",
+      "datetime": 1793045677,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "P",
       "headline": "S&P 500 Top Movers: Gainers and Losers in Today's US Session",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=74c0b7f2c5da50ee872c7a076ef3214548b26f90b75e56289a9ae5a628750a1a",
@@ -379,14 +387,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "P",
-      "headline": "Everpure (P) stock trades up, here is why",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f4330fb8c144fa6ac135fcbebefe112c3f37e8c4afb58bb02e17182f90a4bd5f",
-      "datetime": 1792623759,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Cencora to Acquire American Oncology Network to Strengthen Support of Community Oncology",
       "source": "Yahoo",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-26T22:13:18.397419+00:00"
+  "updated_at": "2026-10-26T22:28:17.029971+00:00"
 }
