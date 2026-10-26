@@ -92,18 +92,18 @@
     },
     {
       "ticker": "AMZN",
-      "headline": "Hyperscaler Earnings Previews: Alphabet, Microsoft And Amazon - Maybe The Bearish Sentiment Will Help",
+      "headline": "Amazon Into Earnings: The Parts Add Up To $290, And Anthropic's IPO Could Add More",
       "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c82629cbf1dea357a8228bbe7e5d25ec804d2ecd9cc2693c6d122a3a2ae58013",
-      "datetime": 1792994700,
+      "url": "https://finnhub.io/api/news?id=89ad2e789355bb0a9c254ea1be3f1448a35c188d5f4f38129030c31b2dd54388",
+      "datetime": 1792994794,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "How Low Can Snowflake Stock Go?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c742359460bf34b088a5c9bf88efcfb9658a0e56b55c1d33135729979be61988",
-      "datetime": 1792992703,
+      "headline": "Hyperscaler Earnings Previews: Alphabet, Microsoft And Amazon - Maybe The Bearish Sentiment Will Help",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c82629cbf1dea357a8228bbe7e5d25ec804d2ecd9cc2693c6d122a3a2ae58013",
+      "datetime": 1792994700,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-26T10:28:14.541384+00:00"
+  "updated_at": "2026-10-26T10:43:14.415994+00:00"
 }
