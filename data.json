@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "CLS",
+      "headline": "After-Hours Movers: SNTI, BRAI, CLS Rise; SPRC, DVLT Fall",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=bba8892924d8cee2b85627c08f6353f8af6c3bb31f77872b1fa3ddf12b6381bd",
+      "datetime": 1793052038,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Tech Earnings Are the Market\u2019s Biggest Story This Week: Here\u2019s Why Microsoft, Amazon, Intel, SanDisk, and Alphabet Will Drive the Stock Market\u2019s Next Move",
       "source": "Yahoo",
@@ -137,6 +145,14 @@
       "url": "https://finnhub.io/api/news?id=74c0b7f2c5da50ee872c7a076ef3214548b26f90b75e56289a9ae5a628750a1a",
       "datetime": 1793045173,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica: You Haven't Seen Anything Yet",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8952ae6e586e3c87cf0f2e8c779de96c6ae0edba41e086d6446c46965d59d759",
+      "datetime": 1793041527,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "P",
@@ -267,14 +283,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "Celestica Stock Dips as the AI Trade Unwinds: Can Earnings Turn It Around?",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=38633952eb5fe19aba9aee5400307fb3c19efb5e6ef43568a2bb2c7b9e8a8900",
-      "datetime": 1792844122,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Cencora's Q4 2026 Earnings: What to Expect",
       "source": "Yahoo",
@@ -289,14 +297,6 @@
       "url": "https://finnhub.io/api/news?id=336a26bc6d06569bdfa3ffa12f202410ed7bce97a657cae7b56a44f4ec0fc8be",
       "datetime": 1792801272,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Is Celestica Stock Safer Or Riskier Than A Year Ago?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0ea5b5cb651d5dc49ec9fe3d0a43f4e1fc9ad538803254abc4df0896fadb07c2",
-      "datetime": 1792788704,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "ORLY",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-26T23:13:15.783272+00:00"
+  "updated_at": "2026-10-26T23:28:15.779339+00:00"
 }
