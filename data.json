@@ -59,6 +59,54 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Forget Alphabet and Microsoft: Is Amazon the smartest AI play ahead of earnings?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=76a8db4797422ccac307daafc0d87515cad2b5dc98a0c18d9258eb02d0f9198e",
+      "datetime": 1793021758,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Oracle Could Have a Massive AI Opportunity. Here\u2019s Where the Stock Could Go",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f2c5c6437de715bf5e527317218affaf677bc689b1092c81dc645d18054d3734",
+      "datetime": 1793021426,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Q3 Peak Season Arrives: Strong Beats, Sky-High AI Scrutiny",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e8b177c58db0585cf83fd544b654d907f771c9c615f613e8004b5d6e5850892e",
+      "datetime": 1793019837,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The Fed + tech, oil earnings = an exciting week for investors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9725dd3a41c7c2ac4d47fcacee64eb3625dc93dd3762c5ab3ddd8f3fde0bb297",
+      "datetime": 1793019780,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "One Unsettled Question Sits Under Meta's Muse Bet",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1bad7fca27ed20b5e77ed83ffecbff15f14cf628ddaeaf523ad1e4929fdac23f",
+      "datetime": 1793018879,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Microsoft\u2019s Diversified Backstop Keeps Me Buying",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6e60f608e7be1dcdd6f898a9b5d2167602f1e48dab46ae6bef09f37ba7286362",
+      "datetime": 1793018719,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "SMH\u2019s Price Has Soared, but Its Payout Is Still Below 2022 Levels",
       "source": "Yahoo",
@@ -91,14 +139,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Here Are Monday\u2019s Top Wall Street Analyst Research Calls: Block, Boise Cascade, Equifax, FirstEnergy, Lockheed Martin, Lumentum Holdings, NetApp, Roper Technologies, Spotify, Technology, and More",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=645be5240719f0bfb8637e24ad7ff89962905300a709d133cc8f9a73ef89949a",
-      "datetime": 1793015203,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Meta reverses losses to rise as investors weigh $35 billion AI funding plan",
       "source": "Yahoo",
@@ -113,46 +153,6 @@
       "url": "https://finnhub.io/api/news?id=e53472e67fa65dec18fc378006716bf4dde9024bf0129f040b43c77bec073790",
       "datetime": 1793014646,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Microsoft, Alphanet, Amazon Earnings Meet Fed Rate Decision: 3 Charts To Watch This Week",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2428800a15acad8a565899ef53f405d9bae8cc891dfdb5970c34db2afcbfa9a0",
-      "datetime": 1793014621,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Should You Buy Amazon Before Oct. 29?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=40a3d7ec2df837afe3000f1b55199bb78fb04e110650c5d422b3e63f909097da",
-      "datetime": 1793010902,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "US Equity Investors to Monitor Mag-7 Earnings, Fed's Monetary Policy Path, Inflation Data This Week Amid Faltering AI Trade",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0ef8487c36eeb82bdf29ed138ab2b2620c2e1a0d1880b93e2db0516e3ccb1f2c",
-      "datetime": 1793010318,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Bitcoin Slips Ahead Of Fed Week, Big Tech Earnings: Analysts Divided On Where BTC Is Headed Next",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=918f351e773d74ab4298fd56d9cf46cd7088a5454a03e8fb2af53c177e6bbb9f",
-      "datetime": 1793010069,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "What Could Go Wrong At CoreWeave From Here?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d1beb44379db436acaa3e922527c1702f6502dae9219dbfae44e8988908120bc",
-      "datetime": 1793009620,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "B",
@@ -467,12 +467,12 @@
       "market_cap_musd": 1535581.214310794,
       "country": "US",
       "currency": "USD",
-      "price": 326.11,
+      "price": 325.64,
       "open": 323.26,
       "day_high": 327.82,
       "day_low": 323.25,
       "prev_close": 321.68,
-      "day_change_pct": 1.38,
+      "day_change_pct": 1.23,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -486,12 +486,12 @@
       "market_cap_musd": 89009.431334,
       "country": "CA",
       "currency": "USD",
-      "price": 37.72,
+      "price": 37.53,
       "open": 38.51,
       "day_high": 38.51,
-      "day_low": 37.69,
+      "day_low": 37.45,
       "prev_close": 38.14,
-      "day_change_pct": -1.1,
+      "day_change_pct": -1.6,
       "week52_high": 74.0,
       "week52_low": 43.33
     },
@@ -505,12 +505,12 @@
       "market_cap_musd": 47504.79603,
       "country": "CA",
       "currency": "USD",
-      "price": 262.66,
+      "price": 263.34,
       "open": 263.46,
-      "day_high": 267.0,
+      "day_high": 269.42,
       "day_low": 259.51,
       "prev_close": 260.01,
-      "day_change_pct": 1.02,
+      "day_change_pct": 1.28,
       "week52_high": 655.5,
       "week52_low": 330.79
     },
@@ -524,12 +524,12 @@
       "market_cap_musd": 63163.79828409065,
       "country": "US",
       "currency": "USD",
-      "price": 331.93,
+      "price": 332.86,
       "open": 332.65,
       "day_high": 333.63,
       "day_low": 331.6,
       "prev_close": 331.0,
-      "day_change_pct": 0.28,
+      "day_change_pct": 0.56,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -543,12 +543,12 @@
       "market_cap_musd": 72741.75652389566,
       "country": "US",
       "currency": "USD",
-      "price": 90.62,
+      "price": 90.99,
       "open": 89.77,
-      "day_high": 90.65,
+      "day_high": 91.02,
       "day_low": 89.49,
       "prev_close": 89.92,
-      "day_change_pct": 0.78,
+      "day_change_pct": 1.19,
       "week52_high": 102.46,
       "week52_low": 82.59
     },
@@ -562,12 +562,12 @@
       "market_cap_musd": 7126.671740430982,
       "country": "US",
       "currency": "USD",
-      "price": 19.58,
+      "price": 19.61,
       "open": 19.71,
       "day_high": 19.98,
-      "day_low": 19.54,
+      "day_low": 19.51,
       "prev_close": 19.69,
-      "day_change_pct": -0.56,
+      "day_change_pct": -0.41,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -581,12 +581,12 @@
       "market_cap_musd": 41096.917484311634,
       "country": "US",
       "currency": "USD",
-      "price": 125.45,
+      "price": 125.03,
       "open": 124.44,
       "day_high": 126.24,
       "day_low": 124.2,
       "prev_close": 123.33,
-      "day_change_pct": 1.72,
+      "day_change_pct": 1.38,
       "week52_high": 157.57,
       "week52_low": 56.78
     },
@@ -600,12 +600,12 @@
       "market_cap_musd": 2675006.036541928,
       "country": "US",
       "currency": "USD",
-      "price": 247.86,
+      "price": 249.2,
       "open": 249.04,
       "day_high": 250.49,
-      "day_low": 247.54,
+      "day_low": 247.23,
       "prev_close": 248.0,
-      "day_change_pct": -0.06,
+      "day_change_pct": 0.48,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-26T13:43:16.496189+00:00"
+  "updated_at": "2026-10-26T13:58:15.429963+00:00"
 }
