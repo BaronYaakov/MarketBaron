@@ -76,6 +76,14 @@
     },
     {
       "ticker": "AMZN",
+      "headline": "Tech's Make-Or-Break Week Before The Midterms",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5624ac2a2b62f06274297f76616c1cd542663f9ec1ca7e7bc376fd58d247883e",
+      "datetime": 1792999897,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Should You Pick Apple Stock Over Its Competitors?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fb3fda83e9ae9c454f7ac448a438cce071c75d811ba185af8b793d0365e9617a",
@@ -96,14 +104,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=89ad2e789355bb0a9c254ea1be3f1448a35c188d5f4f38129030c31b2dd54388",
       "datetime": 1792994794,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Hyperscaler Earnings Previews: Alphabet, Microsoft And Amazon - Maybe The Bearish Sentiment Will Help",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c82629cbf1dea357a8228bbe7e5d25ec804d2ecd9cc2693c6d122a3a2ae58013",
-      "datetime": 1792994700,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-26T11:43:14.788133+00:00"
+  "updated_at": "2026-10-26T11:58:14.324632+00:00"
 }
