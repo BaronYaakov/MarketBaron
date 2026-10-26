@@ -91,6 +91,22 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "B",
+      "headline": "How Can Investors Have Confidence In The Terminal Value Of The Large AI Providers",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=323c51ff55e42e4c75789b502cab9ae59fe8e5737e4acd79195dab1edd735b7a",
+      "datetime": 1792984200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "How Can Investors Have Confidence In The Terminal Value Of The Large AI Providers",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=323c51ff55e42e4c75789b502cab9ae59fe8e5737e4acd79195dab1edd735b7a",
+      "datetime": 1792984200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Big Tech Earnings Are a No-Win Test as Investors Punish Both Capex Cuts and Hikes",
       "source": "Yahoo",
@@ -112,14 +128,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e8ba5d2b678643eeb4aa805511529b05726470dfee28db98daafd1575f1ce500",
       "datetime": 1792981288,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "3 Big Tech Earnings Reports to Watch as AI Bills Keep Growing",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a8ce3263b39afbcadb0f1aef650e8578053c1a7fd7770dc2281fd8b9803984bf",
-      "datetime": 1792976994,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -379,14 +387,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
-      "ticker": "B",
-      "headline": "JP Morgan Maintains Overweight on Barrick Mining, Raises Price Target to $55",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=c25f73e8a34133450785034cb3fd636267af5d422325cbf40f22b567796a7713",
-      "datetime": 1792579868,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
       "ticker": "P",
       "headline": "3 Cloud Infrastructure Stocks Investors May Watch After The London Outage",
       "source": "Yahoo",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-26T07:28:14.250153+00:00"
+  "updated_at": "2026-10-26T07:43:14.414480+00:00"
 }
