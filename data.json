@@ -60,6 +60,38 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "How Low Can Snowflake Stock Go?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c742359460bf34b088a5c9bf88efcfb9658a0e56b55c1d33135729979be61988",
+      "datetime": 1792992703,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Is Nvidia Stock Cheaper Now That Its Multiple Has Fallen?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=68feb5d021c865740eaacae8edd3827604454bfe857eb441cf6ed84f20919c0f",
+      "datetime": 1792991185,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "What Changed In AMD's Story?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=20e1c800a21a087d0d1bb935a71e7f5855fac204fd18d9d9970e0a3a2c8e77ab",
+      "datetime": 1792991166,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Which Dates Could Move Walmart Stock Most?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c299bd930a79677d91d146c7c121836f61a8ead0e31826d84276522490e8afee",
+      "datetime": 1792991163,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Big Tech Earnings Are a No-Win Test as Investors Punish Both Capex Cuts and Hikes",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=32b7f4bb25113810d2db9920745c7bd7a22b01edab2be008fc0fe35f0c20b684",
@@ -88,22 +120,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=aad6b788ff6c0fe9dd2ba31eb17a96f3d38e5244ee29ac84dfc533f0d4d06601",
       "datetime": 1792974421,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Dow Jones Futures Rise With Microsoft, Google, Amazon Ahead; Will Doom Or Bloom Control Market?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9d1d41dbeb3fe62750d06a4f9d2027a33a054487b91296b54af350a503afbb8c",
-      "datetime": 1792970916,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Stock Futures Are Rising Ahead of Fed Decision",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7c55c8e5cceb004bfec98096cfcd90178750df878e2a4045c867dcfffff76b91",
-      "datetime": 1792966320,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -136,22 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0f07b3bb71cb7ad4df26075bdd3b189372543cf57ddc750b3f5adb1471da88d5",
       "datetime": 1792929240,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Where Will Broadcom Stock Be in 5 Years?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cb4a3ebf0fd7d7fb36399de700af5127aafd61052b2d04deb948a0459cd9ce78",
-      "datetime": 1792926000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Top 3 Grid Infrastructure Stocks To Watch In October 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=343745d0ccf97c5afd812a2b689afa709876c0ead46b42b3517ed1cf64d43193",
-      "datetime": 1792890817,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-26T05:58:14.548161+00:00"
+  "updated_at": "2026-10-26T06:13:14.283278+00:00"
 }
