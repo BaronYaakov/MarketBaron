@@ -59,36 +59,84 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Amazon\u2019s (AMZN) Stance on Meta\u2019s AI-Driven Commerce Plans Draws Burke Wealth\u2019s Attention",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5d0ce46ddb105e4983637f75c720ed9b6f5025dfbb9a5e9ac5da13774fb263f9",
+      "datetime": 1793036351,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Anthropic is leasing data centers to reduce reliance on Amazon, Google, others",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e9c5cec7f0152d1620a0ae76e17dec302bcf880b8da0501f571304d6840ac7b3",
+      "datetime": 1793036323,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Stock Market Today: Dow Up As Anthropic IPO Boosts These AI Stocks; Pharma Play Offers Entry (Live Coverage)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7706735390cb827037c0452e07e324d256af1a67b457d855d49e80d59104bb7f",
+      "datetime": 1793034722,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Anthropic makes more per employee than every Magnificent Seven company but Nvidia",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2dae94695ccfa2ad34d63a5b52840c57cf93fbb087cae044da2ad012758e3b27",
+      "datetime": 1793034670,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "SpaceX Isn\u2019t Even Anthropic\u2019s Biggest Partner. Here\u2019s Who Is, Plus More of Its Biggest Deals",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=88391f3feeaf2c16d491180e586f762f7a6546f135f5cfde2f1472160051df78",
+      "datetime": 1793034060,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "SpaceX Isn\u2019t Even Anthropic\u2019s Biggest Partner. Here\u2019s Who Is, Plus More of Its Biggest Deals",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=88391f3feeaf2c16d491180e586f762f7a6546f135f5cfde2f1472160051df78",
+      "datetime": 1793034060,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Can Pinterest Stock Jump 50%?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d2d631c5e22ec31014f23318930aaa23627ecd173e2424ba5f1d4f148f8af307",
+      "datetime": 1793033454,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "SpaceX strikes $40B GPU leasing deal with private credit players",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ce2fab0389b6b439b193ae854946ef1c75a17dea5feda40afab811fa586b5350",
+      "datetime": 1793031596,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "As Anthropic\u2019s IPO Looms, The Company Faces A Significant Risk From A Surprising Place, Midterm State And Local Elections",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a7d215eb3e89c4204144a02fca0abb95ad67e8d1d8e1512765680d08a5222311",
+      "datetime": 1793030349,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Meta Seeks About $95 Billion for AI Buildout as Nvidia, AMD and Broadcom Consider Investing in Their Own Customer",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b5e10c0081f007cc6820eeca1618d937228873d9f206c4d56045b60ef32f99b8",
       "datetime": 1793029312,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "$8 Trillion in Big Tech Earnings, Fed Decision and Inflation Data: Bitcoin's Next Big Test?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=79704d4c5ce0ee1eadc51c770cf1022f833da9b51238003aee17ca17f0a8e1b2",
-      "datetime": 1793028738,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "H2O.ai's TimeH2O Beats Mistral, Google, and Amazon in Time-Series Forecasting",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=822249ec7f3d816b5aaa811c3530c5642d47d9de6cc609526b993f11351819c1",
-      "datetime": 1793028540,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "UBS on Amazon: Street\u2019s AWS margin estimates for 2027 are too low",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c64bf0c95ddd5ec39d010b74a2f0109aef2d7039aa44c84b84170be01164a465",
-      "datetime": 1793027900,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -99,43 +147,11 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "SanDisk's report could reignite the AI trade \u2014 or signal a warning",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=60395b32a245a38e1eff1749bb8aaf75af4e1e40885c65470e6fa91f92ffea0b",
-      "datetime": 1793027151,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Meta Stock Dips on Massive $35 Billion Stock Offering\u2014With Up to $60 Billion More Planned",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=53d43cd87c93e1e5d2699d3a31ac8b4a198a21f58e1794902b427507d7ee0210",
       "datetime": 1793026980,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Expected to Deliver AWS Growth Upside in Q3, BofA Says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=313b78e7a9e7b64aac5eccd4a66f27ecaf9140000d306347bcd2c00beee21818",
-      "datetime": 1793026975,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "AI Stocks Will Rise Or Fall On These Midterm Election Races",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=13fe4e0330a016d458f9b74ee4e29669f0593110b2c28358618980824f27f591",
-      "datetime": 1793026791,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Information Technology (IT) Resilience Orchestration Market 2026-2030 | Capitalize on 14.2% CAGR as Microsoft, IBM, Broadcom and ServiceNow Scale AI and Hybrid Cloud",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cfba389128f954ca6adb426f83ff3a29bb5fbc790c04831aac1f2375937be56a",
-      "datetime": 1793025660,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -145,22 +161,6 @@
       "url": "https://finnhub.io/api/news?id=83934d8adce2393b05bb9fa5f7c4fc638cc17ef49b67651358457e78a8261175",
       "datetime": 1793025491,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Meta\u2019s $95B Equity Deal Echoes Alphabet\u2019s Offering. Convertible Stock Could Yield 6%.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ec79db7787106fbbf004a94aeaaab3b8df6b9064bc7d35ecacde5d2471c01110",
-      "datetime": 1793025420,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Custom System-on-Chip Application-Specific Integrated Circuit (ASIC) Market Global Report 2026 | Capitalize on AI and 5G Demand with NVIDIA, Qualcomm, Broadcom and TSMC",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f487fb24d7d5a52b20c889167d2d5583406764e20d5d366fe2c2cc43afc19af9",
-      "datetime": 1793024760,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "ORLY",
@@ -467,12 +467,12 @@
       "market_cap_musd": 1535581.214310794,
       "country": "US",
       "currency": "USD",
-      "price": 331.33,
+      "price": 331.37,
       "open": 323.26,
       "day_high": 332.12,
       "day_low": 323.25,
       "prev_close": 321.68,
-      "day_change_pct": 3.0,
+      "day_change_pct": 3.01,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -486,12 +486,12 @@
       "market_cap_musd": 89009.431334,
       "country": "CA",
       "currency": "USD",
-      "price": 38.35,
+      "price": 38.38,
       "open": 38.51,
       "day_high": 38.51,
       "day_low": 37.44,
       "prev_close": 38.14,
-      "day_change_pct": 0.55,
+      "day_change_pct": 0.63,
       "week52_high": 74.0,
       "week52_low": 43.33
     },
@@ -505,12 +505,12 @@
       "market_cap_musd": 47504.79603,
       "country": "CA",
       "currency": "USD",
-      "price": 270.21,
+      "price": 270.82,
       "open": 263.46,
       "day_high": 273.14,
       "day_low": 259.51,
       "prev_close": 260.01,
-      "day_change_pct": 3.92,
+      "day_change_pct": 4.16,
       "week52_high": 655.5,
       "week52_low": 330.79
     },
@@ -524,12 +524,12 @@
       "market_cap_musd": 63163.79828409065,
       "country": "US",
       "currency": "USD",
-      "price": 329.49,
+      "price": 329.88,
       "open": 332.65,
       "day_high": 335.45,
-      "day_low": 329.36,
+      "day_low": 329.17,
       "prev_close": 331.0,
-      "day_change_pct": -0.46,
+      "day_change_pct": -0.34,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -543,12 +543,12 @@
       "market_cap_musd": 72741.75652389566,
       "country": "US",
       "currency": "USD",
-      "price": 90.53,
+      "price": 90.55,
       "open": 89.77,
       "day_high": 91.54,
       "day_low": 89.49,
       "prev_close": 89.92,
-      "day_change_pct": 0.68,
+      "day_change_pct": 0.7,
       "week52_high": 102.46,
       "week52_low": 82.59
     },
@@ -562,12 +562,12 @@
       "market_cap_musd": 7126.671740430982,
       "country": "US",
       "currency": "USD",
-      "price": 19.78,
+      "price": 19.73,
       "open": 19.71,
       "day_high": 19.98,
       "day_low": 19.51,
       "prev_close": 19.69,
-      "day_change_pct": 0.46,
+      "day_change_pct": 0.2,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -581,12 +581,12 @@
       "market_cap_musd": 41096.917484311634,
       "country": "US",
       "currency": "USD",
-      "price": 134.67,
+      "price": 134.44,
       "open": 124.44,
       "day_high": 134.75,
       "day_low": 123.59,
       "prev_close": 123.33,
-      "day_change_pct": 9.19,
+      "day_change_pct": 9.01,
       "week52_high": 157.57,
       "week52_low": 56.78
     },
@@ -600,12 +600,12 @@
       "market_cap_musd": 2675006.036541928,
       "country": "US",
       "currency": "USD",
-      "price": 249.49,
+      "price": 249.36,
       "open": 249.04,
       "day_high": 250.79,
       "day_low": 247.23,
       "prev_close": 248.0,
-      "day_change_pct": 0.6,
+      "day_change_pct": 0.55,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-26T17:58:20.651285+00:00"
+  "updated_at": "2026-10-26T18:13:19.866105+00:00"
 }
