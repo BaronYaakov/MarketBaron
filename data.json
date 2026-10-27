@@ -163,6 +163,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Celestica Inc. (CLS:CA) Analyst/Investor Day Transcript",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=15a20492b74a001cb78b0100a2bd21c9776a56bbe1b6b92709d54a13664a0716",
+      "datetime": 1793118593,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "ORLY",
       "headline": "Top Auto Parts Stocks to Watch, According to Bank of America",
       "source": "Yahoo",
@@ -248,14 +256,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=976f88b9717007d1bb80c10fff1d2a309e4eea5974bc9830aff7fd434901db36",
       "datetime": 1793088345,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Why Celestica Shares Are Trading Higher By Over 16%; Here Are 20 Stocks Moving Premarket",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=11d14ecdfd7e9a9efefd90114a5cffce93df901586b7affd30e9fa9e17120aae",
-      "datetime": 1793076785,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-27T20:43:19.070785+00:00"
+  "updated_at": "2026-10-27T20:58:18.494234+00:00"
 }
