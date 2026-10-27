@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Nvidia Picks Up $3B Stock In Meta's Equity Offering, Will Help Improve Muse AI Platform",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=16e66e1a8afacf9d3265d234b892d414847b4e626199a66e08e837f56366fa48",
+      "datetime": 1793087013,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Banks Reportedly Got Cold Feet on \u2018Project North Star\u2019 Until Hock Tan Stepped In: Broadcom\u2019s $63 Billion Anthropic Financing Back on Track",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f8c0e21886965536a0b938161727614d2187fab609ddadb2be05773e07340472",
@@ -177,14 +185,6 @@
       "url": "https://finnhub.io/api/news?id=1e9f84b7856a8144c80abdb574f093c4cb17772ca66a7951277d51796ee6e2ed",
       "datetime": 1793045820,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Bank of America, Blackstone, Citi and Morgan Stanley Announce Landmark $63 Billion Financing Structure to Enable AI Compute Capacity in Partnership with Broadcom",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c2fac6294a35585cd1f47a0825c125352e588991546f8036493a7d2922839429",
-      "datetime": 1793045700,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-27T07:58:14.138138+00:00"
+  "updated_at": "2026-10-27T08:13:14.527047+00:00"
 }
