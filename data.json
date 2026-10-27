@@ -60,6 +60,46 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Stock Market Today: Anthropic Files for Its IPO and Chip Stocks Catch the Wave",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=7e6cea5ae682e9368cab9b58285352b61ec1f5bd339694a8f656656d4796adc0",
+      "datetime": 1793093133,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Is Underperforming the S&P 500 and Nasdaq-100. Could Oct. 29 Mark a Turning Point?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=be015d7b075c2fe75b4157dce35fafa90349b815efa0a18e0e130ad1d365c267",
+      "datetime": 1793092500,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "FedEx (FDX) Names A New CFO, Is The Stock Still 15% Undervalued?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c6020430ff0fa74be52c107b3eeabf9fff8552d5b841e619e06172f7966eadaf",
+      "datetime": 1793092053,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom vs. Taiwan Semiconductor: Two AI Powerhouses, One Surprising Revenue Trend",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=992debb5db4551dd5382f45a0372386bec5a824aa8ee74ef9e3dab5eaf3d8778",
+      "datetime": 1793091002,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Prediction: Oct. 29 Will Be an Enormous Day for the Stock Market",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3a34f62f42b3ae7ff833dc67e0f8455efb40b7b2f0981c5edda84ba6e734c557",
+      "datetime": 1793089322,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Nvidia Picks Up $3B Stock In Meta's Equity Offering, Will Help Improve Muse AI Platform",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=16e66e1a8afacf9d3265d234b892d414847b4e626199a66e08e837f56366fa48",
@@ -68,18 +108,18 @@
     },
     {
       "ticker": "AVGO",
-      "headline": "Banks Reportedly Got Cold Feet on \u2018Project North Star\u2019 Until Hock Tan Stepped In: Broadcom\u2019s $63 Billion Anthropic Financing Back on Track",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f8c0e21886965536a0b938161727614d2187fab609ddadb2be05773e07340472",
-      "datetime": 1793071666,
+      "headline": "Broadcom: The Market Has Priced In An OpenAI Collapse, Not An Anthropic One",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3b67feb84dd47cbcc20cce9d5268ad1e92b1ff7d6a03018928a921066d006628",
+      "datetime": 1793079784,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
-      "headline": "Anthropic IPO Filing Lifts Chips, but Valuation Doubts Split Wall Street",
+      "headline": "Banks Reportedly Got Cold Feet on \u2018Project North Star\u2019 Until Hock Tan Stepped In: Broadcom\u2019s $63 Billion Anthropic Financing Back on Track",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8fcf1ded3384b5100fad3ea22e962bc4b7c5090730f424ba1c54d2d560114f1b",
-      "datetime": 1793071273,
+      "url": "https://finnhub.io/api/news?id=f8c0e21886965536a0b938161727614d2187fab609ddadb2be05773e07340472",
+      "datetime": 1793071666,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -115,30 +155,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Morgan Stanley just made a bold call on Amazon stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f9d34dd2075d31c1874bf8770c1c54c1934b9ec17476b0a047305720e63d9026",
-      "datetime": 1793067420,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "DXP, Graham Corporation, MSC Industrial, CACI, and Powell shares are soaring, what you need to know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f3fcbcc9f783edddd98394173c5f27e9e4f5392805fcc1a7ff0463b71507ea40",
-      "datetime": 1793066807,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Partners With Wall Street Bigwigs To Forge $63B Deal To Power Anthropic\u2019s AI Hardware",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=da66ab94808a0e75fdf6c1423ab59446d779506f89d9673cc80886a579e44c0f",
-      "datetime": 1793055016,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "After-Hours Movers: SNTI, BRAI, CLS Rise; SPRC, DVLT Fall",
       "source": "ChartMill",
@@ -147,28 +163,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Broadcom secures $63 billion from banks to finance AI compute sales to Anthropic",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8890ae2b873890170dbe240920765c05486b05559a3555f5ede45fd19b547272",
-      "datetime": 1793048366,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "Celestica (CLS) Q3 Earnings and Revenues Top Estimates",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=46a52663aaf68854d4f45d51f09b4f3f97a6015dad233b48c9792b36d6a50845",
       "datetime": 1793047502,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Arranges $63 Billion Deal to Finance Anthropic\u2019s Chips",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5f0977432d81349ca4ff03b6f76f1f9cfadff13c177990a0242a08f6a362f812",
-      "datetime": 1793046974,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-27T09:58:14.017501+00:00"
+  "updated_at": "2026-10-27T10:13:14.080362+00:00"
 }
