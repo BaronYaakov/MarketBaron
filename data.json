@@ -59,12 +59,36 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Target has a problem that sends shoppers to Amazon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9b33dc959ad47f02796b821ddaa421977972b3cbc332f6fbcea8878d5c4389f6",
+      "datetime": 1793056620,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom Partners With Wall Street Bigwigs To Forge $63B Deal To Power Anthropic\u2019s AI Hardware",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da66ab94808a0e75fdf6c1423ab59446d779506f89d9673cc80886a579e44c0f",
+      "datetime": 1793055016,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "CLS",
       "headline": "After-Hours Movers: SNTI, BRAI, CLS Rise; SPRC, DVLT Fall",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=bba8892924d8cee2b85627c08f6353f8af6c3bb31f77872b1fa3ddf12b6381bd",
       "datetime": 1793052038,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Don't Miss This Week's 5 Most Important Earnings Charts",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d4c9863d45a5463a1c76152135ad3724b407a471ef11427bcef9fbabf466ee86",
+      "datetime": 1793051280,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
@@ -80,6 +104,14 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d2258dbe00ab0a0dec1c6b085423d7cba2c8bb2b836e844e8b2ed16b59fd76b1",
       "datetime": 1793049255,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "UPS Earnings Are Coming, Giving Investors a Look at 3 Key Things",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=152905670420cabf77ca217b408d4885f685c4d457088c9d301473f21900b4cd",
+      "datetime": 1793048940,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -99,28 +131,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Tesla Isn\u2019t a Hyperscaler. Why the AI Bears Are Misreading Its $5 Billion Capex Cut.",
+      "ticker": "AVGO",
+      "headline": "Broadcom Arranges $63 Billion Deal to Finance Anthropic\u2019s Chips",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=20694d26a5f4c619d14298abaa74739f23f2f664242e1c4f979f69abb5b30363",
-      "datetime": 1793047982,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Earnings round-up: Verizon beat Q3 estimates, while Whirlpool's struggles continue",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d8fe9f69de90758931e7815afa71da17cb6df3ace2e9d93652a9df7b251a7a91",
-      "datetime": 1793046940,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Earnings live updates: Whirlpool stock drops on softer quarter as inflation weighs on sales",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fd806ad649263591473af903fa05722a938f016e9fd4a728b9f5f337317e0dac",
-      "datetime": 1793046478,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "url": "https://finnhub.io/api/news?id=5f0977432d81349ca4ff03b6f76f1f9cfadff13c177990a0242a08f6a362f812",
+      "datetime": 1793046974,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -164,34 +180,18 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "Huge, Unusual Call Option Activity in Broadcom Shows Investors Bullish on AVGO Stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=06fc7b1a3dba8668a87ef30d1ae5f195d0c77f55f9ca69a55cbd83f362f72c0b",
+      "datetime": 1793035802,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Vertiv to Report Q3 Earnings: Should You Buy, Sell, or Hold the Stock?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e6beb19dbd9f7a8ee0b5312890dcaddb02aa7daa3f46967943fb4f8598cb009d",
       "datetime": 1793034660,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "SpaceX Isn\u2019t Even Anthropic\u2019s Biggest Partner. Here\u2019s Who Is, Plus More of Its Biggest Deals",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=88391f3feeaf2c16d491180e586f762f7a6546f135f5cfde2f1472160051df78",
-      "datetime": 1793034060,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "SpaceX strikes $40B GPU leasing deal with private credit players",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ce2fab0389b6b439b193ae854946ef1c75a17dea5feda40afab811fa586b5350",
-      "datetime": 1793031596,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "As Anthropic\u2019s IPO Looms, The Company Faces A Significant Risk From A Surprising Place, Midterm State And Local Elections",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a7d215eb3e89c4204144a02fca0abb95ad67e8d1d8e1512765680d08a5222311",
-      "datetime": 1793030349,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -464,7 +464,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1535581.214310794,
+      "market_cap_musd": 1571335.7127481839,
       "country": "US",
       "currency": "USD",
       "price": 329.17,
@@ -483,7 +483,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.barrick.com/",
       "ipo_date": "1983-05-02",
-      "market_cap_musd": 89009.431334,
+      "market_cap_musd": 87824.392557,
       "country": "CA",
       "currency": "USD",
       "price": 38.24,
@@ -502,7 +502,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.celestica.com/",
       "ipo_date": "1998-07-01",
-      "market_cap_musd": 47504.79603,
+      "market_cap_musd": 45954.889355,
       "country": "CA",
       "currency": "USD",
       "price": 246.65,
@@ -515,13 +515,13 @@
       "week52_low": 330.79
     },
     "COR": {
-      "name": "Cencora Inc",
+      "name": "Cencora, Inc.",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png",
       "industry": "Health Care",
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 63163.79828409065,
+      "market_cap_musd": 62972.96905504531,
       "country": "US",
       "currency": "USD",
       "price": 330.0,
@@ -534,13 +534,13 @@
       "week52_low": 244.82
     },
     "ORLY": {
-      "name": "O'Reilly Automotive Inc",
+      "name": "O'Reilly Automotive, Inc.",
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png",
       "industry": "Retail",
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 72741.75652389566,
+      "market_cap_musd": 73655.88074481874,
       "country": "US",
       "currency": "USD",
       "price": 91.05,
@@ -559,7 +559,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 7126.671740430982,
+      "market_cap_musd": 7115.813837938039,
       "country": "US",
       "currency": "USD",
       "price": 19.66,
@@ -578,7 +578,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 41096.917484311634,
+      "market_cap_musd": 43762.73728380419,
       "country": "US",
       "currency": "USD",
       "price": 131.33,
@@ -597,7 +597,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2675006.036541928,
+      "market_cap_musd": 2686763.067128906,
       "country": "US",
       "currency": "USD",
       "price": 249.09,
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-26T23:58:16.589165+00:00"
+  "updated_at": "2026-10-27T00:13:17.993403+00:00"
 }
