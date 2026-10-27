@@ -59,100 +59,100 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
-      "ticker": "AVGO",
-      "headline": "Sector Update: Tech Stocks Gain Late Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2830252f60e12bc56dd0699ae2c9b3fe6b26332dd8f1aa165cfb19c4de360a37",
-      "datetime": 1793130645,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Update: Technology, Consumer Discretionary Push US Equity Indexes Higher",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=26a350f5b52175d3930f5bd1d5d8d9d313e9ff26abda028a4cf6e8852633e553",
-      "datetime": 1793130277,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "AMZN",
-      "headline": "Prediction: This Artificial Intelligence (AI) Memory Stock Will Go Parabolic on Oct. 30",
+      "headline": "RIVN Stock Rebounds As Unconfirmed Walmart Delivery Van Sparks Fleet Hopes",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ed3f6f697552216aae110e40447a211134ef41b8a66acbcfb1f92a506e9a350e",
-      "datetime": 1793128800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c6a7556c6173bb894e29cb5d494ed7949e64d5905d0c3208797a77c208301a09",
-      "datetime": 1793126762,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Drops 6% in a Month: Buy, Sell or Hold the AVGO Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9d4f829cc371679544bc2026ff093b6fe54452cbbd39b3bd4b451739b45ae9f1",
-      "datetime": 1793124600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Is Amazon.com (AMZN) Undervalued As Investors Eye Q3 2026 Earnings?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=48b0a4e99f32c605741f5c5633b0b2055139a898afd6084b78efdcaa332f4127",
-      "datetime": 1793124576,
+      "url": "https://finnhub.io/api/news?id=4135a3f0aeaa852de4057adace70963960aba52772d204878a7ffe2bc253a43a",
+      "datetime": 1793136009,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Sorry, Trump. More Russian Oil Won\u2019t Take Down Energy Prices. Here\u2019s What Will.",
+      "headline": "Google earnings checklist: Why YouTube, Search, & Cloud are key",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9c73beb8e8cc9ebc1346dcd4aa9148f9ee93fd251fbde1c0cac108b6f7f24b0c",
-      "datetime": 1793124540,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "United Parcel Service, Inc. Q3 2026 Earnings Call Summary",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=492a734c1b16a6d3e0a178836ffe9a6087735423e84ed87368998bc114560951",
-      "datetime": 1793123920,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Can Strong Search and Cloud Growth Drive GOOGL's Q3 Earnings?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=689399883a23d7d49ce034d905f92d5805759fd9c464b2ab920a5cb1493b294b",
-      "datetime": 1793123880,
+      "url": "https://finnhub.io/api/news?id=a402fa008d4e4ef9b5b09deeaef222518d38a5ba3fad3356a60fa6705b1aea3a",
+      "datetime": 1793134339,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
-      "headline": "Two Chip Stocks Upgraded To Buy On AI Data-Center Business",
+      "headline": "Update: Equity Indexes Rise as Technology Tops Sector Charts Ahead of Hyperscaler Earnings",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=52aa25ed8952d57d2b7153285395b7f2f954b6cb7013e1c2c9413a8c6cd805c9",
-      "datetime": 1793123846,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Sector Update: Tech Stocks Gain Tuesday Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7a9597f7f54fd8dc8c61e7edc379e87f5f4cd9e38314408d00998c6bf0ec92ea",
-      "datetime": 1793123740,
+      "url": "https://finnhub.io/api/news?id=fdfecb87149f15b61a72fc2753234f6df6235337ae9b2b919425898071bfe3f6",
+      "datetime": 1793134143,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "When Should You Buy DoorDash Stock?",
+      "headline": "Amazon has a Muse problem. Is a deal with OpenAI a solution?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7df50aa7a460f4a2de9dde478ff3d3eb0fb89b87fd4c6916af4e267558399a3d",
-      "datetime": 1793121185,
+      "url": "https://finnhub.io/api/news?id=3fab2c49048689f18d0bcc1a134bf541d18cc7d519e95a54b7703dc3e6ea2d69",
+      "datetime": 1793133582,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Stock Market Today: Dow Up Ahead Of Fed Decision; Nasdaq Jumps, Broadcom Pops On This (Live Coverage)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6c2dd95c70da43f3436277e7f57cdc30df160e49234ac700473513e8bc7e56ec",
+      "datetime": 1793133261,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Stock Market Today: Dow Up Ahead Of Fed Decision; Nasdaq Jumps, Broadcom Pops On This (Live Coverage)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6c2dd95c70da43f3436277e7f57cdc30df160e49234ac700473513e8bc7e56ec",
+      "datetime": 1793133261,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Physical Intelligence in talks to raise $1B at $20B valuation - Bloomberg",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=33143932610cec6a6c501712fea59288a1931b88a018bab4db9a606813cee34e",
+      "datetime": 1793132932,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "DoorDash soon could acquire grocery delivery service Instacart",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c960c7ae79390adeed00d80377eb1444e5527ab303c45a1a23eb359c89ed0e6d",
+      "datetime": 1793132585,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Tech stocks post best 3-day rally in 5 weeks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6cbfdd72331af7a73dc7463f592135c6c38abf8b6d7bb9d8aeb2816f1ebbb38b",
+      "datetime": 1793132541,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Fitch affirms Broadcom at \u2019A-\u2019 with positive outlook despite AI backstop risks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d5c58c15a6b63e0c9faa62fe0db88523b7dbf157f3f4684990c474060a061cde",
+      "datetime": 1793132366,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "How major US stock indexes fared Tuesday 10/27/2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3425c96fdffcb5db42bd1c31673288ba395277e1b1ff6c73f1d4d2f767a08af3",
+      "datetime": 1793132313,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Banks Eye $21 Billion of Bonds for Broadcom Chip-Financing Deal",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9988dd8070a238273d0b7655105a928880fd1ba230d42fa321597af4026686b1",
+      "datetime": 1793131769,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "ORLY",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-27T21:58:17.268765+00:00"
+  "updated_at": "2026-10-27T22:13:18.579236+00:00"
 }
