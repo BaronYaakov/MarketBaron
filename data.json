@@ -59,19 +59,59 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
-      "ticker": "AMZN",
-      "headline": "Target has a problem that sends shoppers to Amazon",
+      "ticker": "AVGO",
+      "headline": "Anthropic IPO Filing Lifts Chips, but Valuation Doubts Split Wall Street",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9b33dc959ad47f02796b821ddaa421977972b3cbc332f6fbcea8878d5c4389f6",
-      "datetime": 1793056620,
+      "url": "https://finnhub.io/api/news?id=8fcf1ded3384b5100fad3ea22e962bc4b7c5090730f424ba1c54d2d560114f1b",
+      "datetime": 1793071273,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Anthropic IPO Filing Lifts Chips, but Valuation Doubts Split Wall Street",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8fcf1ded3384b5100fad3ea22e962bc4b7c5090730f424ba1c54d2d560114f1b",
+      "datetime": 1793071273,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Anthropic Leasing Data Centers To Limit Third-Party Reliance Ahead Of IPO",
+      "headline": "Why Verizon (VZ) stock is down today",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=edc921ddbbbfc5fc1aa4c77c2beae8a902766ff19f5ce552097bc1cc6e70389a",
-      "datetime": 1793055179,
+      "url": "https://finnhub.io/api/news?id=12c5e661faa4ddbcd0e338a0edcd37a6960c532bfc7a2f576ae067d73332da83",
+      "datetime": 1793069687,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Dow, S&P 500, Nasdaq Futures Climb As Tech Stocks Get A Boost From Anthropic IPO Listing: SOFI, BB, PYPL, CLS In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=279cea2d38495b77d1aeecb26a713293b80d7c191491343d83d9b8a8add64f41",
+      "datetime": 1793069154,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "VSE Corporation, Viavi Solutions, Moog, Bloom Energy, and Comfort Systems stocks trade up, what you need to know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4eeeca0e92f929283b7825ef5c361ee90f9c9d168f051e37a219eefbee4c5aa4",
+      "datetime": 1793068727,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Morgan Stanley just made a bold call on Amazon stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f9d34dd2075d31c1874bf8770c1c54c1934b9ec17476b0a047305720e63d9026",
+      "datetime": 1793067420,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "DXP, Graham Corporation, MSC Industrial, CACI, and Powell shares are soaring, what you need to know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f3fcbcc9f783edddd98394173c5f27e9e4f5392805fcc1a7ff0463b71507ea40",
+      "datetime": 1793066807,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -89,38 +129,6 @@
       "url": "https://finnhub.io/api/news?id=bba8892924d8cee2b85627c08f6353f8af6c3bb31f77872b1fa3ddf12b6381bd",
       "datetime": 1793052038,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Don't Miss This Week's 5 Most Important Earnings Charts",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d4c9863d45a5463a1c76152135ad3724b407a471ef11427bcef9fbabf466ee86",
-      "datetime": 1793051280,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Tech Earnings Are the Market\u2019s Biggest Story This Week: Here\u2019s Why Microsoft, Amazon, Intel, SanDisk, and Alphabet Will Drive the Stock Market\u2019s Next Move",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3ba45970045d616ae03d3cc67e7f9f6059a35dc49bdd2be6aa520a0bc20af7bf",
-      "datetime": 1793049314,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "DoorDash in advanced talks to acquire Instacart: WSJ",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d2258dbe00ab0a0dec1c6b085423d7cba2c8bb2b836e844e8b2ed16b59fd76b1",
-      "datetime": 1793049255,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "UPS Earnings Are Coming, Giving Investors a Look at 3 Key Things",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=152905670420cabf77ca217b408d4885f685c4d457088c9d301473f21900b4cd",
-      "datetime": 1793048940,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -208,14 +216,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=06fc7b1a3dba8668a87ef30d1ae5f195d0c77f55f9ca69a55cbd83f362f72c0b",
       "datetime": 1793035802,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Vertiv to Report Q3 Earnings: Should You Buy, Sell, or Hold the Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e6beb19dbd9f7a8ee0b5312890dcaddb02aa7daa3f46967943fb4f8598cb009d",
-      "datetime": 1793034660,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -400,14 +400,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=482afe68e5c14c7b49db255ffd25646e76587e690d6aa37849586f4f1be3b25b",
       "datetime": 1792508400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Primo Brands opens first new factory post merger",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a24df20b37d567c05f80c4a05a98aa268713e8fa8117e8a37dca73ea82e66f6f",
-      "datetime": 1792423200,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     }
   ],
@@ -616,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-27T04:58:14.559611+00:00"
+  "updated_at": "2026-10-27T05:13:14.917967+00:00"
 }
