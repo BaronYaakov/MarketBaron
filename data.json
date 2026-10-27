@@ -60,27 +60,99 @@
   "news": [
     {
       "ticker": "AVGO",
-      "headline": "Why Broadcom Stock Rallied Tuesday Morning",
+      "headline": "Prediction: Marvell Stock Could Have Much More Upside Than Investors Think",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e8c650186f070e9d87dde9a757076cfe8ef626f37b7b2b116725c844dc3299a0",
-      "datetime": 1793115791,
+      "url": "https://finnhub.io/api/news?id=90064c3df79d7801bc73a4e2a731b47964902670f8c2a45fcffdb0fa6694d067",
+      "datetime": 1793122427,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Stock Market Today: Dow Wobbles As Boeing Dives; Broadcom Pops After Anthropic Report (Live Coverage)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f6e8fa1162489dc7702484ba185659de4a6a8c821e35970b2583c5a21c3f8d33",
+      "datetime": 1793122198,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Update: US Equity Indexes Rise as Mega-Cap Tech Advances While Crude Oil Drops",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dca9040937595a771db73d24d1fe8b7cb3e6cedc500e1933c9eb4423cb9f2dd1",
+      "datetime": 1793122189,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "2027 FreightTech\u00a025 winners announced at F3",
+      "headline": "When Should You Buy DoorDash Stock?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d6fbb2936196de2575f53331d4ca7c55b559a92458e1c983d59f893c67a4ca45",
-      "datetime": 1793114563,
+      "url": "https://finnhub.io/api/news?id=7df50aa7a460f4a2de9dde478ff3d3eb0fb89b87fd4c6916af4e267558399a3d",
+      "datetime": 1793121185,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Meta's deal with AMD, Nvidia, Broadcom: Is circular financing a risk?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=35d438f71fa2f3f9ec3898bf4045b2b9a3cec9794dd861ee5bc7b49cd4a5d01b",
+      "datetime": 1793120760,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Oracle Rises 5% as Google TPUs Come to Oracle Cloud and NVIDIA Deal Expands; Amazon Nudges Higher, Microsoft Treads Water",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=29dbc0190a0178f3062a1b2d470102d078e1059099fc920bd1e9c054722ef0e2",
+      "datetime": 1793120543,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "VGS to Host Annual Agent Connect, the Premier Industry Gathering Shaping the Future of Agentic Commerce",
+      "headline": "United\u2019s Kirby Says Delta\u2019s Starlink Snub Was A Mistake",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9e1c8a69b5111f9fc508b6a5ecf638d572f247bce85710271bac4a53d49fc6e5",
-      "datetime": 1793114220,
+      "url": "https://finnhub.io/api/news?id=2cbc9ee19275e4f2f20a83062811ecfe644c497ce5717b808821ce5d80a397b9",
+      "datetime": 1793119794,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom Lined Up a $63B Deal for Anthropic to Get More of Its Chips. The Stock Is Climbing",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=130cdff4ef71b9a586b8d6919cd9448bf2762cb2533ecc645c338dd507e0d351",
+      "datetime": 1793119544,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "UPS Raises Outlook as\u00a0CEO Plans to Stay On to Oversee Union Talks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6a84f6d9d30ca5986f46065afe2fada81033520eec73a1136ab22e4d2b54eb55",
+      "datetime": 1793119534,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Why YouTube\u2019s Native Multimodal Library and AI Search Overviews Make Alphabet a Must-Own Compounder",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b4038dd6c203dbce76ec3aba75bea34f9b4d1accbe1a010b3e8459b18cdd4429",
+      "datetime": 1793119528,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon and Alphabet Are Each Spending At Least $200 Billion on Data Centers This Year. Here's Which Stock Outperforms Through 2028.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8a63cb995d61d29d3b3d8d990e5990c5e77549879d545c5b505ec4cf84044e11",
+      "datetime": 1793119080,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom\u2019s $63 billion Anthropic deal draws Baird\u2019s 'outperform' rating and $630 target",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=55b246f7cff999877cd7f27cfe06e49a8d51cb287cf3e675358562573d3db7b7",
+      "datetime": 1793118900,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "COR",
@@ -89,78 +161,6 @@
       "url": "https://finnhub.io/api/news?id=e28eb1d0635ed7a67b5ca5e5f521f9b89c04e05c3b48d3689c29c22162344fa4",
       "datetime": 1793113802,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Is Trade Desk Stock's Drop A Chance To Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4f1e85e366c7dc0d9954dae7fbf4ce0cb51470b6380d1d1ecd112255fabc3ed5",
-      "datetime": 1793113336,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Should You Buy Amazon Stock Before Oct. 29?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f2af31bc4a4fbdf099e5091da25569ded2f2dfa50d121ee5d38e9b4a879ee668",
-      "datetime": 1793112575,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Can JFrog Stock Keep Its Lead Over Its Industry?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6247edc8ad0bd967527ab1a24129c1169897fa606b5b01410e2db4ddda22362c",
-      "datetime": 1793112426,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Before Q3 Earnings: Buy the Stock Now or Wait for Results?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b04da23df046d07e30745c433eecf0622ac431bdc1477c93792851d4e68b3cb8",
-      "datetime": 1793112420,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom\u2019s Growth Vs. Risk Tug-of-War Continues to Confound",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cdcfcb5748cdd74a5a986ebdf153976e125599d064a91db2e0019945d686f8f9",
-      "datetime": 1793112330,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "These 2 Chip Stocks Are Piper Sandler\u2019s Top Picks Into 2027",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=191ac68670416afaf5152da8a39244b37f828fd35e390c754f86038714ed94db",
-      "datetime": 1793112248,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Wall Street Banks Provide $63 Billion To Finance Broadcom AI Chips For Anthropic",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9d155322196a123845b0b9f98aef94d97b94018b36b52ef2ffb2aceee2e339a0",
-      "datetime": 1793111679,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Jim Cramer Says Nvidia Would Be Criticized for Broadcom\u2019s Anthropic Deal. Here\u2019s Why",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4c663ed4234625b6ef02b009cd9a5b23656ef81f3ff3cd1d06b94b9779abf88c",
-      "datetime": 1793111603,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "'Biggest Constraint Is Capital': Broadcom CEO Scrambles to Seal $63 Billion Anthropic Deal",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2683c9a315ac5d2a2b392d3ae905f198751679aec5ae0f13e6e0e90db0e6b30f",
-      "datetime": 1793110658,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "ORLY",
@@ -456,15 +456,15 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1571335.7127481839,
+      "market_cap_musd": 1631244.870097133,
       "country": "US",
       "currency": "USD",
-      "price": 342.44,
+      "price": 341.77,
       "open": 334.39,
       "day_high": 345.67,
       "day_low": 334.39,
       "prev_close": 329.17,
-      "day_change_pct": 4.03,
+      "day_change_pct": 3.83,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -475,15 +475,15 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.barrick.com/",
       "ipo_date": "1983-05-02",
-      "market_cap_musd": 87824.392557,
+      "market_cap_musd": 88219.401297,
       "country": "CA",
       "currency": "USD",
-      "price": 38.98,
+      "price": 39.02,
       "open": 38.25,
       "day_high": 39.08,
       "day_low": 38.19,
       "prev_close": 38.24,
-      "day_change_pct": 1.94,
+      "day_change_pct": 2.04,
       "week52_high": 74.0,
       "week52_low": 43.33
     },
@@ -494,15 +494,15 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.celestica.com/",
       "ipo_date": "1998-07-01",
-      "market_cap_musd": 45954.889355,
+      "market_cap_musd": 43756.773553,
       "country": "CA",
       "currency": "USD",
-      "price": 275.29,
+      "price": 278.41,
       "open": 275.88,
       "day_high": 283.0,
       "day_low": 261.5,
       "prev_close": 246.65,
-      "day_change_pct": 11.61,
+      "day_change_pct": 12.88,
       "week52_high": 655.5,
       "week52_low": 330.79
     },
@@ -513,10 +513,10 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 62972.96905504531,
+      "market_cap_musd": 62424.34091550568,
       "country": "US",
       "currency": "USD",
-      "price": 327.87,
+      "price": 327.86,
       "open": 329.13,
       "day_high": 330.15,
       "day_low": 325.92,
@@ -532,15 +532,15 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 73655.88074481874,
+      "market_cap_musd": 73024.89525681251,
       "country": "US",
       "currency": "USD",
-      "price": 89.71,
+      "price": 89.66,
       "open": 90.34,
       "day_high": 90.89,
       "day_low": 89.44,
       "prev_close": 91.05,
-      "day_change_pct": -1.47,
+      "day_change_pct": -1.53,
       "week52_high": 102.46,
       "week52_low": 82.59
     },
@@ -551,15 +551,15 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 7115.813837938039,
+      "market_cap_musd": 7018.088784847406,
       "country": "US",
       "currency": "USD",
-      "price": 19.23,
+      "price": 19.19,
       "open": 19.54,
       "day_high": 19.83,
       "day_low": 19.18,
       "prev_close": 19.66,
-      "day_change_pct": -2.19,
+      "day_change_pct": -2.39,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -570,15 +570,15 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 43762.73728380419,
+      "market_cap_musd": 46325.254942974796,
       "country": "US",
       "currency": "USD",
-      "price": 138.85,
+      "price": 138.64,
       "open": 132.46,
       "day_high": 139.47,
       "day_low": 132.46,
       "prev_close": 131.33,
-      "day_change_pct": 5.73,
+      "day_change_pct": 5.57,
       "week52_high": 157.57,
       "week52_low": 56.78
     },
@@ -589,15 +589,15 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2686763.067128906,
+      "market_cap_musd": 2721710.685942323,
       "country": "US",
       "currency": "USD",
-      "price": 253.81,
+      "price": 254.02,
       "open": 249.51,
-      "day_high": 253.99,
+      "day_high": 254.23,
       "day_low": 248.71,
       "prev_close": 249.09,
-      "day_change_pct": 1.89,
+      "day_change_pct": 1.98,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-27T17:58:31.015422+00:00"
+  "updated_at": "2026-10-27T18:13:20.320115+00:00"
 }
