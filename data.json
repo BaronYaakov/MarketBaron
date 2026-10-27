@@ -67,6 +67,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "ORLY",
+      "headline": "O'Reilly Automotive Earnings Ahead: What Past Reactions Say About The Stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da7f899592427324daf38ba4a5ae5a4cb1cec0f6620750aaa72289550869edb0",
+      "datetime": 1793135800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Google earnings checklist: Why YouTube, Search, & Cloud are key",
       "source": "Yahoo",
@@ -281,14 +289,6 @@
       "url": "https://finnhub.io/api/news?id=a88ca28f669ae33d3af2b91274390fb190c3242d53186deda7c0a1eb8e7c40cd",
       "datetime": 1793036172,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Bank of America Resumes O\u2019Reilly Automotive Coverage at Buy, Cites Professional Sales",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=a862ca289fd3552337e8de582b46e63dec708fbb995738d21e772d38ccfeecc3",
-      "datetime": 1793025816,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "B",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-27T22:13:18.579236+00:00"
+  "updated_at": "2026-10-27T22:28:17.172435+00:00"
 }
