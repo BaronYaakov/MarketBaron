@@ -60,98 +60,98 @@
   "news": [
     {
       "ticker": "AVGO",
-      "headline": "Stock Market Today: Anthropic Files for Its IPO and Chip Stocks Catch the Wave",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=7e6cea5ae682e9368cab9b58285352b61ec1f5bd339694a8f656656d4796adc0",
-      "datetime": 1793093133,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Is Underperforming the S&P 500 and Nasdaq-100. Could Oct. 29 Mark a Turning Point?",
+      "headline": "Here Are Tuesday\u2019s Top Wall Street Analyst Research Calls: Broadcom, Conoco Phillips, HubSpot, MercadoLibre, Moderna, Occidental Petroleum, PNC Financial, Trimble, and More",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=be015d7b075c2fe75b4157dce35fafa90349b815efa0a18e0e130ad1d365c267",
-      "datetime": 1793092500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "FedEx (FDX) Names A New CFO, Is The Stock Still 15% Undervalued?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c6020430ff0fa74be52c107b3eeabf9fff8552d5b841e619e06172f7966eadaf",
-      "datetime": 1793092053,
+      "url": "https://finnhub.io/api/news?id=eabb2f98e7f2ecff723614995ba1dc771f6c77d34f6f77966c32a172dd679608",
+      "datetime": 1793101892,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
-      "headline": "Broadcom vs. Taiwan Semiconductor: Two AI Powerhouses, One Surprising Revenue Trend",
+      "headline": "Broadcom: DA Davidson upgrades AVGO, says Anthropic S-1 shows AI cycle isn\u2019t over",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=992debb5db4551dd5382f45a0372386bec5a824aa8ee74ef9e3dab5eaf3d8778",
-      "datetime": 1793091002,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Prediction: Oct. 29 Will Be an Enormous Day for the Stock Market",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3a34f62f42b3ae7ff833dc67e0f8455efb40b7b2f0981c5edda84ba6e734c557",
-      "datetime": 1793089322,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia Picks Up $3B Stock In Meta's Equity Offering, Will Help Improve Muse AI Platform",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=16e66e1a8afacf9d3265d234b892d414847b4e626199a66e08e837f56366fa48",
-      "datetime": 1793087013,
+      "url": "https://finnhub.io/api/news?id=67ff6d80b8f4b27838946ace2443231ec475c0ebec2708f2b528e0156405d498",
+      "datetime": 1793101830,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
-      "headline": "Broadcom: The Market Has Priced In An OpenAI Collapse, Not An Anthropic One",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=3b67feb84dd47cbcc20cce9d5268ad1e92b1ff7d6a03018928a921066d006628",
-      "datetime": 1793079784,
+      "headline": "Broadcom Upgraded By DA Davidson After Anthropic IPO Filing \u2014 Analyst Says AI Cycle \u2018Isn't Over Quite Yet\u2019",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a43c2bb3fb97831ee0a25821b78bf20573d053f8ee6af314d575ffcb40ca984c",
+      "datetime": 1793101740,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon\u2019s \u2018Safe\u2019 Retail Business Earns Less Than AWS Does. Is the Stock Still a Good Buy for Cautious Investors?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0036dfe61387509967dcda677d4ab0070b31cbe898443f0b4ebe5909518bcde6",
+      "datetime": 1793100902,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "What Should Netflix Stock Investors Be Watching Now?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=449e39e27cff7aea019be6610be55f221d06f364f40d208804c1e8cbf088399a",
+      "datetime": 1793100699,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Did The Market Read Intel Right?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f3005d98348eb449c22fe64de85ef0ad98b50b72ca8d8a31ebc01fb42c43a6dc",
+      "datetime": 1793100698,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "What Mattered Most In IBM's Latest Quarter?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f347fdb63b3813eaf7a6111b1354ab2abd91d931b17768731e32e6f34bcb75f6",
+      "datetime": 1793100140,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Several Important Factors Protect Amazon\u2019s Margins and Secure Its AI Moat",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bc3aff43c1e8ba981611f45f39e3b6f525824054a1e2f405219a37c576e80c3e",
+      "datetime": 1793099750,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Prediction: Broadcom Stock Could Be Worth Twice as Much by 2030",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1e6ad0d8a469d3e7f84961a00ef250fa4ff3d046f2d50768b5015cc26b37c608",
+      "datetime": 1793099716,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
-      "headline": "Banks Reportedly Got Cold Feet on \u2018Project North Star\u2019 Until Hock Tan Stepped In: Broadcom\u2019s $63 Billion Anthropic Financing Back on Track",
+      "headline": "Is Broadcom Stock Too Dependent On One Business?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f8c0e21886965536a0b938161727614d2187fab609ddadb2be05773e07340472",
-      "datetime": 1793071666,
+      "url": "https://finnhub.io/api/news?id=87d64087e23526c9bc94fc75ef20465e11a3630526ecc24e3d5224b69a15f458",
+      "datetime": 1793099714,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Anthropic IPO Filing Lifts Chips, but Valuation Doubts Split Wall Street",
+      "headline": "Anthropic's S-1 is out. Is it actually making money?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8fcf1ded3384b5100fad3ea22e962bc4b7c5090730f424ba1c54d2d560114f1b",
-      "datetime": 1793071273,
+      "url": "https://finnhub.io/api/news?id=8112fbd704c0bd4a22e16149d6dc1abadf6bae828e853b5e1b48b023f943c535",
+      "datetime": 1793098800,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Why Verizon (VZ) stock is down today",
+      "headline": "What Sent MercadoLibre Stock Lower?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=12c5e661faa4ddbcd0e338a0edcd37a6960c532bfc7a2f576ae067d73332da83",
-      "datetime": 1793069687,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Dow, S&P 500, Nasdaq Futures Climb As Tech Stocks Get A Boost From Anthropic IPO Listing: SOFI, BB, PYPL, CLS In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=279cea2d38495b77d1aeecb26a713293b80d7c191491343d83d9b8a8add64f41",
-      "datetime": 1793069154,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "VSE Corporation, Viavi Solutions, Moog, Bloom Energy, and Comfort Systems stocks trade up, what you need to know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4eeeca0e92f929283b7825ef5c361ee90f9c9d168f051e37a219eefbee4c5aa4",
-      "datetime": 1793068727,
+      "url": "https://finnhub.io/api/news?id=bdb26c6dcf20f8065af88cd2fc8623cac0367616ecdff53c8ea3cb05bc6016b3",
+      "datetime": 1793096788,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-27T11:58:14.474255+00:00"
+  "updated_at": "2026-10-27T12:13:15.172963+00:00"
 }
