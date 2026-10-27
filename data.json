@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Broadcom (NASDAQ:AVGO): A Dividend Quality Candidate for Income Investors",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=12945d1f0636b2b32c18e69268808976a7ed36a69d9bcde3d836f27902119a69",
+      "datetime": 1793104846,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Here Are Tuesday\u2019s Top Wall Street Analyst Research Calls: Broadcom, Conoco Phillips, HubSpot, MercadoLibre, Moderna, Occidental Petroleum, PNC Financial, Trimble, and More",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=eabb2f98e7f2ecff723614995ba1dc771f6c77d34f6f77966c32a172dd679608",
@@ -128,14 +136,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1e6ad0d8a469d3e7f84961a00ef250fa4ff3d046f2d50768b5015cc26b37c608",
       "datetime": 1793099716,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Is Broadcom Stock Too Dependent On One Business?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=87d64087e23526c9bc94fc75ef20465e11a3630526ecc24e3d5224b69a15f458",
-      "datetime": 1793099714,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-27T12:58:15.072483+00:00"
+  "updated_at": "2026-10-27T13:13:17.174391+00:00"
 }
