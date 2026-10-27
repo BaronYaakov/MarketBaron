@@ -131,12 +131,36 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Celestica (CLS) Q3 Earnings and Revenues Top Estimates",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=46a52663aaf68854d4f45d51f09b4f3f97a6015dad233b48c9792b36d6a50845",
+      "datetime": 1793047502,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom Arranges $63 Billion Deal to Finance Anthropic\u2019s Chips",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5f0977432d81349ca4ff03b6f76f1f9cfadff13c177990a0242a08f6a362f812",
       "datetime": 1793046974,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica: Q3 Earnings Snapshot",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=26d6fae654157837d97b7dc304e6b10e12afc8af44f8df6d41882870056a0b56",
+      "datetime": 1793046823,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica Announces Third Quarter 2026 Financial Results and Will Hold 2026 Investor and Analyst Day",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1e9f84b7856a8144c80abdb574f093c4cb17772ca66a7951277d51796ee6e2ed",
+      "datetime": 1793045820,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "AVGO",
@@ -235,14 +259,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "Celestica Gears Up For Q3 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analysts",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=68d523a0e348f9a0dd6d28d9790b3b638b92966f37cdce52e020daaf3d27333b",
-      "datetime": 1792994886,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "B",
       "headline": "How Can Investors Have Confidence In The Terminal Value Of The Large AI Providers",
       "source": "SeekingAlpha",
@@ -251,28 +267,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "Verizon, Celestica and 3 Stocks to Watch Heading Into Monday",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=e415248f682bad4023657842abd69cdc50e4dd23a94919cffede3e0b2cdb7df0",
-      "datetime": 1792983212,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "B",
       "headline": "Newmont\u2019s Record Quarter Shows Why Gold\u2019s Floor Is the Real Story",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=48d9a3bb7503db3ba3aa11de9a0b9f4d9c751abf0feb1ae68e2073d350399737",
       "datetime": 1792944300,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Verizon, Welltower On Deck Monday As Wireless Growth, Senior Housing Demand Face Test",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=d8536bc4ebfd3740a076c6cdc679b2643fee9426b3964e56327d4f26d3da6dc4",
-      "datetime": 1792942267,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "COR",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-27T01:58:17.169971+00:00"
+  "updated_at": "2026-10-27T02:13:18.572250+00:00"
 }
