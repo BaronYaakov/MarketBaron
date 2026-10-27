@@ -259,6 +259,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
+      "ticker": "B",
+      "headline": "Newmont\u2019s Record Quarter Shows Why Gold\u2019s Floor Is the Real Story",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=48d9a3bb7503db3ba3aa11de9a0b9f4d9c751abf0feb1ae68e2073d350399737",
+      "datetime": 1792944300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "CLS",
       "headline": "Verizon, Welltower On Deck Monday As Wireless Growth, Senior Housing Demand Face Test",
       "source": "Benzinga",
@@ -344,14 +352,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b6151fe8b324e10b1e4e911fc5c058cfb31735a60348c66f76e11e28b11af54e",
       "datetime": 1792688667,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Agnico, Barrick, and Newmont fall following broad Freedom Broker downgrades",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bfa839c972884e7019e442d810da388516a77db971c6744c546daaa61801872e",
-      "datetime": 1792682629,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-27T00:28:16.421872+00:00"
+  "updated_at": "2026-10-27T00:43:17.264493+00:00"
 }
