@@ -75,68 +75,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Anthropic IPO Filing Lifts Chips, but Valuation Doubts Split Wall Street",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8fcf1ded3384b5100fad3ea22e962bc4b7c5090730f424ba1c54d2d560114f1b",
-      "datetime": 1793071273,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Why Verizon (VZ) stock is down today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=12c5e661faa4ddbcd0e338a0edcd37a6960c532bfc7a2f576ae067d73332da83",
-      "datetime": 1793069687,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Dow, S&P 500, Nasdaq Futures Climb As Tech Stocks Get A Boost From Anthropic IPO Listing: SOFI, BB, PYPL, CLS In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=279cea2d38495b77d1aeecb26a713293b80d7c191491343d83d9b8a8add64f41",
-      "datetime": 1793069154,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "VSE Corporation, Viavi Solutions, Moog, Bloom Energy, and Comfort Systems stocks trade up, what you need to know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4eeeca0e92f929283b7825ef5c361ee90f9c9d168f051e37a219eefbee4c5aa4",
-      "datetime": 1793068727,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Morgan Stanley just made a bold call on Amazon stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f9d34dd2075d31c1874bf8770c1c54c1934b9ec17476b0a047305720e63d9026",
-      "datetime": 1793067420,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "DXP, Graham Corporation, MSC Industrial, CACI, and Powell shares are soaring, what you need to know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f3fcbcc9f783edddd98394173c5f27e9e4f5392805fcc1a7ff0463b71507ea40",
-      "datetime": 1793066807,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Broadcom Partners With Wall Street Bigwigs To Forge $63B Deal To Power Anthropic\u2019s AI Hardware",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=da66ab94808a0e75fdf6c1423ab59446d779506f89d9673cc80886a579e44c0f",
       "datetime": 1793055016,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "After-Hours Movers: SNTI, BRAI, CLS Rise; SPRC, DVLT Fall",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=bba8892924d8cee2b85627c08f6353f8af6c3bb31f77872b1fa3ddf12b6381bd",
-      "datetime": 1793052038,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "AVGO",
@@ -147,36 +91,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "Celestica (CLS) Q3 Earnings and Revenues Top Estimates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=46a52663aaf68854d4f45d51f09b4f3f97a6015dad233b48c9792b36d6a50845",
-      "datetime": 1793047502,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Broadcom Arranges $63 Billion Deal to Finance Anthropic\u2019s Chips",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5f0977432d81349ca4ff03b6f76f1f9cfadff13c177990a0242a08f6a362f812",
       "datetime": 1793046974,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica: Q3 Earnings Snapshot",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=26d6fae654157837d97b7dc304e6b10e12afc8af44f8df6d41882870056a0b56",
-      "datetime": 1793046823,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica Announces Third Quarter 2026 Financial Results and Will Hold 2026 Investor and Analyst Day",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1e9f84b7856a8144c80abdb574f093c4cb17772ca66a7951277d51796ee6e2ed",
-      "datetime": 1793045820,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "AVGO",
@@ -203,14 +123,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "Celestica: You Haven't Seen Anything Yet",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=8952ae6e586e3c87cf0f2e8c779de96c6ae0edba41e086d6446c46965d59d759",
-      "datetime": 1793041527,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
       "ticker": "P",
       "headline": "S&P 500 Top Movers Today: Lumentum Leads, Fair Isaac Falls",
       "source": "ChartMill",
@@ -219,36 +131,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "ORLY",
-      "headline": "O'Reilly Automotive, AutoZone, Advance Auto Parts Poised for Net Positive Impact From Inflation, BofA Says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=83934d8adce2393b05bb9fa5f7c4fc638cc17ef49b67651358457e78a8261175",
-      "datetime": 1793025491,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Tesla upgraded, AppLovin initiated: Wall Street's top analyst calls",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=36ec11a2c407b450f53c7d6f174dfeaa3ae2ddf57e85a2ecae63910222992539",
-      "datetime": 1793022131,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
       "ticker": "B",
       "headline": "Newmont: Nevada NAV Climbs, But Cost Creep Continues",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=0e0cb662adde959d6cb7e319758de392f57170e0873ce546572f4f0a92b80dd1",
       "datetime": 1793007979,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Rise After Trump Rules Out Iran Strike \u2014 ITUB, NON, CLS in Focus (UPDATED)",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=cc7288edc73b24ac812e3f2461bc8ac81b9f237fb5105d3b84b8c03527df67b2",
-      "datetime": 1793003476,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "B",
@@ -275,46 +163,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "COR",
-      "headline": "Amgen vs. Johnson & Johnson: Which Healthcare Giant Has the Better Stock to Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=352f3c23d139442045486e4ee957da337f5b851133d28320bdebba8e3b4e1f02",
-      "datetime": 1792859461,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "O\u2019Reilly Gears Up for Q3 on Oct. 28: Can DIFM Growth Outrun a Heavy $10B Acquisition Overhang?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f622962e3bfd3a3e595ee6b97e3c4e57f04a99de2df77b628f0c2f871248d6c8",
-      "datetime": 1792854647,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Cencora's Q4 2026 Earnings: What to Expect",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=98deff20668ec3b8bdd1f20d8f9e2e5f8a649f690e54a40ba95d5e528be4b39d",
-      "datetime": 1792805299,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Is American Oncology Network (AONC) Fully Valued Following Cencora's $2.4b Buyout Deal?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=336a26bc6d06569bdfa3ffa12f202410ed7bce97a657cae7b56a44f4ec0fc8be",
-      "datetime": 1792801272,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Unveiling O'Reilly Automotive (ORLY) Q3 Outlook: Wall Street Estimates for Key Metrics",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e529d0eaa1b0748d7cbae6e62ab2a52f7c7f99848b06d3acddeb4801723ad74d",
-      "datetime": 1792757704,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
       "ticker": "P",
       "headline": "How Everpure Is Winning Over Hyperscalers In The AI Data Center Race",
       "source": "Yahoo",
@@ -329,22 +177,6 @@
       "url": "https://finnhub.io/api/news?id=08b67fe4892f174a89fd885eb21646eb1dbf3b9de591956fad58813138ac6b8a",
       "datetime": 1792739713,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Amgen vs. Eli Lilly: Does the GLP-1 Mania Make LLY Stock a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=68912985e6181c5af1f0f4733f4e9cf76968ea496b24d3b31b30d00f23a6b40f",
-      "datetime": 1792707302,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Does Earnings Preview Change The Bull Case For O'Reilly Stock (ORLY)?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d5773ac9327e33871800afef5d9f7b409c69ebbb84776d1ed22e7b62e3edf59e",
-      "datetime": 1792699893,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "B",
@@ -369,30 +201,6 @@
       "url": "https://finnhub.io/api/news?id=01330d0d1d5f9043ed11e84d3da2904225bc876858cd820c2d049ea8f5b714d4",
       "datetime": 1792676632,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Baird Maintains Outperform on Cencora, Raises Price Target to $375",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=0abed520b7cab703aeb4f093b9f6b3f8ccd6be854610de54ecc27ae22ff45a45",
-      "datetime": 1792653721,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "O'Reilly Automotive (ORLY) Stock Could Be 25% Overvalued On Cash Flow",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aa1dafa19ba003a1ec11724ffdb697acf2ad0b9f669d2402904410c0d2912eec",
-      "datetime": 1792653209,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Cencora to Acquire American Oncology Network to Strengthen Support of Community Oncology",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5b6b8c8559f3d51f02d762c22910a4f456d323012de4dd671db3ba22be4ee11d",
-      "datetime": 1792582200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "PRMB",
@@ -608,5 +416,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-27T06:43:14.054049+00:00"
+  "updated_at": "2026-10-27T06:58:14.268500+00:00"
 }
