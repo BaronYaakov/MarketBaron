@@ -155,6 +155,22 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "ORLY",
+      "headline": "O'Reilly (ORLY) Q3 earnings report preview: what to look for",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3db27b74f717b80a56d792039ff2bc3e1b4b0d8f3a335faeb17a6b1383561139",
+      "datetime": 1793118647,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "Top Auto Parts Stocks to Watch, According to Bank of America",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a8f3d32b16ddc49c2b064ed5053054904c8e2af64ac5c37f364e7923f37cdd00",
+      "datetime": 1793118134,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "COR",
       "headline": "Amgen vs. Novo Nordisk: Which Healthcare Giant's Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
@@ -272,22 +288,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=a862ca289fd3552337e8de582b46e63dec708fbb995738d21e772d38ccfeecc3",
       "datetime": 1793025816,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "O'Reilly Automotive, AutoZone, Advance Auto Parts Poised for Net Positive Impact From Inflation, BofA Says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=83934d8adce2393b05bb9fa5f7c4fc638cc17ef49b67651358457e78a8261175",
-      "datetime": 1793025491,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Advance Auto Parts Turnaround Gains Traction, but Analysts Still See Execution Risks",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=d65da6395a4d35773df96adb6690f092af6cf64f8557c37fa34dd80ad65cc663",
-      "datetime": 1793023930,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
@@ -459,12 +459,12 @@
       "market_cap_musd": 1631244.870097133,
       "country": "US",
       "currency": "USD",
-      "price": 341.77,
+      "price": 342.8,
       "open": 334.39,
       "day_high": 345.67,
       "day_low": 334.39,
       "prev_close": 329.17,
-      "day_change_pct": 3.83,
+      "day_change_pct": 4.14,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -478,12 +478,12 @@
       "market_cap_musd": 88219.401297,
       "country": "CA",
       "currency": "USD",
-      "price": 39.02,
+      "price": 38.96,
       "open": 38.25,
       "day_high": 39.08,
       "day_low": 38.19,
       "prev_close": 38.24,
-      "day_change_pct": 2.04,
+      "day_change_pct": 1.88,
       "week52_high": 74.0,
       "week52_low": 43.33
     },
@@ -497,12 +497,12 @@
       "market_cap_musd": 43756.773553,
       "country": "CA",
       "currency": "USD",
-      "price": 278.41,
+      "price": 278.72,
       "open": 275.88,
       "day_high": 283.0,
       "day_low": 261.5,
       "prev_close": 246.65,
-      "day_change_pct": 12.88,
+      "day_change_pct": 13.0,
       "week52_high": 655.5,
       "week52_low": 330.79
     },
@@ -516,12 +516,12 @@
       "market_cap_musd": 62424.34091550568,
       "country": "US",
       "currency": "USD",
-      "price": 327.86,
+      "price": 328.17,
       "open": 329.13,
       "day_high": 330.15,
       "day_low": 325.92,
       "prev_close": 330.0,
-      "day_change_pct": -0.65,
+      "day_change_pct": -0.55,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -535,12 +535,12 @@
       "market_cap_musd": 73024.89525681251,
       "country": "US",
       "currency": "USD",
-      "price": 89.66,
+      "price": 89.71,
       "open": 90.34,
       "day_high": 90.89,
       "day_low": 89.44,
       "prev_close": 91.05,
-      "day_change_pct": -1.53,
+      "day_change_pct": -1.47,
       "week52_high": 102.46,
       "week52_low": 82.59
     },
@@ -557,7 +557,7 @@
       "price": 19.19,
       "open": 19.54,
       "day_high": 19.83,
-      "day_low": 19.18,
+      "day_low": 19.13,
       "prev_close": 19.66,
       "day_change_pct": -2.39,
       "week52_high": 26.21,
@@ -573,12 +573,12 @@
       "market_cap_musd": 46325.254942974796,
       "country": "US",
       "currency": "USD",
-      "price": 138.64,
+      "price": 138.79,
       "open": 132.46,
       "day_high": 139.47,
       "day_low": 132.46,
       "prev_close": 131.33,
-      "day_change_pct": 5.57,
+      "day_change_pct": 5.68,
       "week52_high": 157.57,
       "week52_low": 56.78
     },
@@ -592,12 +592,12 @@
       "market_cap_musd": 2721710.685942323,
       "country": "US",
       "currency": "USD",
-      "price": 254.02,
+      "price": 254.05,
       "open": 249.51,
       "day_high": 254.23,
       "day_low": 248.71,
       "prev_close": 249.09,
-      "day_change_pct": 1.98,
+      "day_change_pct": 1.99,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-27T18:13:20.320115+00:00"
+  "updated_at": "2026-10-27T18:28:22.714385+00:00"
 }
