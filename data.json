@@ -60,26 +60,90 @@
   "news": [
     {
       "ticker": "AVGO",
-      "headline": "Prediction: Marvell Stock Could Have Much More Upside Than Investors Think",
+      "headline": "Sector Update: Tech Stocks Gain Late Afternoon",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=90064c3df79d7801bc73a4e2a731b47964902670f8c2a45fcffdb0fa6694d067",
-      "datetime": 1793122427,
+      "url": "https://finnhub.io/api/news?id=2830252f60e12bc56dd0699ae2c9b3fe6b26332dd8f1aa165cfb19c4de360a37",
+      "datetime": 1793130645,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
-      "headline": "Stock Market Today: Dow Wobbles As Boeing Dives; Broadcom Pops After Anthropic Report (Live Coverage)",
+      "headline": "Update: Technology, Consumer Discretionary Push US Equity Indexes Higher",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f6e8fa1162489dc7702484ba185659de4a6a8c821e35970b2583c5a21c3f8d33",
-      "datetime": 1793122198,
+      "url": "https://finnhub.io/api/news?id=26a350f5b52175d3930f5bd1d5d8d9d313e9ff26abda028a4cf6e8852633e553",
+      "datetime": 1793130277,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Prediction: This Artificial Intelligence (AI) Memory Stock Will Go Parabolic on Oct. 30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed3f6f697552216aae110e40447a211134ef41b8a66acbcfb1f92a506e9a350e",
+      "datetime": 1793128800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c6a7556c6173bb894e29cb5d494ed7949e64d5905d0c3208797a77c208301a09",
+      "datetime": 1793126762,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
-      "headline": "Update: US Equity Indexes Rise as Mega-Cap Tech Advances While Crude Oil Drops",
+      "headline": "Broadcom Drops 6% in a Month: Buy, Sell or Hold the AVGO Stock?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dca9040937595a771db73d24d1fe8b7cb3e6cedc500e1933c9eb4423cb9f2dd1",
-      "datetime": 1793122189,
+      "url": "https://finnhub.io/api/news?id=9d4f829cc371679544bc2026ff093b6fe54452cbbd39b3bd4b451739b45ae9f1",
+      "datetime": 1793124600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Is Amazon.com (AMZN) Undervalued As Investors Eye Q3 2026 Earnings?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=48b0a4e99f32c605741f5c5633b0b2055139a898afd6084b78efdcaa332f4127",
+      "datetime": 1793124576,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Sorry, Trump. More Russian Oil Won\u2019t Take Down Energy Prices. Here\u2019s What Will.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9c73beb8e8cc9ebc1346dcd4aa9148f9ee93fd251fbde1c0cac108b6f7f24b0c",
+      "datetime": 1793124540,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "United Parcel Service, Inc. Q3 2026 Earnings Call Summary",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=492a734c1b16a6d3e0a178836ffe9a6087735423e84ed87368998bc114560951",
+      "datetime": 1793123920,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Can Strong Search and Cloud Growth Drive GOOGL's Q3 Earnings?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=689399883a23d7d49ce034d905f92d5805759fd9c464b2ab920a5cb1493b294b",
+      "datetime": 1793123880,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Two Chip Stocks Upgraded To Buy On AI Data-Center Business",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=52aa25ed8952d57d2b7153285395b7f2f954b6cb7013e1c2c9413a8c6cd805c9",
+      "datetime": 1793123846,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Sector Update: Tech Stocks Gain Tuesday Afternoon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7a9597f7f54fd8dc8c61e7edc379e87f5f4cd9e38314408d00998c6bf0ec92ea",
+      "datetime": 1793123740,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -89,70 +153,6 @@
       "url": "https://finnhub.io/api/news?id=7df50aa7a460f4a2de9dde478ff3d3eb0fb89b87fd4c6916af4e267558399a3d",
       "datetime": 1793121185,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Meta's deal with AMD, Nvidia, Broadcom: Is circular financing a risk?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=35d438f71fa2f3f9ec3898bf4045b2b9a3cec9794dd861ee5bc7b49cd4a5d01b",
-      "datetime": 1793120760,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Oracle Rises 5% as Google TPUs Come to Oracle Cloud and NVIDIA Deal Expands; Amazon Nudges Higher, Microsoft Treads Water",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=29dbc0190a0178f3062a1b2d470102d078e1059099fc920bd1e9c054722ef0e2",
-      "datetime": 1793120543,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "United\u2019s Kirby Says Delta\u2019s Starlink Snub Was A Mistake",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2cbc9ee19275e4f2f20a83062811ecfe644c497ce5717b808821ce5d80a397b9",
-      "datetime": 1793119794,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Lined Up a $63B Deal for Anthropic to Get More of Its Chips. The Stock Is Climbing",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=130cdff4ef71b9a586b8d6919cd9448bf2762cb2533ecc645c338dd507e0d351",
-      "datetime": 1793119544,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "UPS Raises Outlook as\u00a0CEO Plans to Stay On to Oversee Union Talks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6a84f6d9d30ca5986f46065afe2fada81033520eec73a1136ab22e4d2b54eb55",
-      "datetime": 1793119534,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Why YouTube\u2019s Native Multimodal Library and AI Search Overviews Make Alphabet a Must-Own Compounder",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b4038dd6c203dbce76ec3aba75bea34f9b4d1accbe1a010b3e8459b18cdd4429",
-      "datetime": 1793119528,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon and Alphabet Are Each Spending At Least $200 Billion on Data Centers This Year. Here's Which Stock Outperforms Through 2028.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8a63cb995d61d29d3b3d8d990e5990c5e77549879d545c5b505ec4cf84044e11",
-      "datetime": 1793119080,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom\u2019s $63 billion Anthropic deal draws Baird\u2019s 'outperform' rating and $630 target",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=55b246f7cff999877cd7f27cfe06e49a8d51cb287cf3e675358562573d3db7b7",
-      "datetime": 1793118900,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "ORLY",
@@ -459,12 +459,12 @@
       "market_cap_musd": 1631244.870097133,
       "country": "US",
       "currency": "USD",
-      "price": 342.38,
-      "open": 334.39,
+      "price": 342.33,
+      "open": 339.87,
       "day_high": 345.67,
-      "day_low": 334.39,
+      "day_low": 336.87,
       "prev_close": 329.17,
-      "day_change_pct": 4.01,
+      "day_change_pct": 4.0,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -478,12 +478,12 @@
       "market_cap_musd": 88219.401297,
       "country": "CA",
       "currency": "USD",
-      "price": 39.17,
-      "open": 38.25,
-      "day_high": 39.26,
+      "price": 39.26,
+      "open": 38.37,
+      "day_high": 39.27,
       "day_low": 38.19,
       "prev_close": 38.24,
-      "day_change_pct": 2.43,
+      "day_change_pct": 2.67,
       "week52_high": 74.0,
       "week52_low": 43.33
     },
@@ -497,12 +497,12 @@
       "market_cap_musd": 43756.773553,
       "country": "CA",
       "currency": "USD",
-      "price": 276.61,
-      "open": 275.88,
+      "price": 276.54,
+      "open": 264.31,
       "day_high": 283.0,
       "day_low": 261.5,
       "prev_close": 246.65,
-      "day_change_pct": 12.15,
+      "day_change_pct": 12.12,
       "week52_high": 655.5,
       "week52_low": 330.79
     },
@@ -516,10 +516,10 @@
       "market_cap_musd": 62424.34091550568,
       "country": "US",
       "currency": "USD",
-      "price": 325.39,
-      "open": 329.13,
+      "price": 325.37,
+      "open": 327.77,
       "day_high": 330.15,
-      "day_low": 325.34,
+      "day_low": 325.0,
       "prev_close": 330.0,
       "day_change_pct": -1.4,
       "week52_high": 377.54,
@@ -535,12 +535,12 @@
       "market_cap_musd": 73024.89525681251,
       "country": "US",
       "currency": "USD",
-      "price": 89.81,
-      "open": 90.34,
-      "day_high": 90.89,
+      "price": 89.82,
+      "open": 90.41,
+      "day_high": 90.88,
       "day_low": 89.44,
       "prev_close": 91.05,
-      "day_change_pct": -1.36,
+      "day_change_pct": -1.35,
       "week52_high": 102.46,
       "week52_low": 82.59
     },
@@ -554,12 +554,12 @@
       "market_cap_musd": 7018.088784847406,
       "country": "US",
       "currency": "USD",
-      "price": 19.25,
-      "open": 19.54,
+      "price": 19.21,
+      "open": 19.58,
       "day_high": 19.83,
       "day_low": 19.12,
       "prev_close": 19.66,
-      "day_change_pct": -2.09,
+      "day_change_pct": -2.29,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -573,12 +573,12 @@
       "market_cap_musd": 46325.254942974796,
       "country": "US",
       "currency": "USD",
-      "price": 138.93,
-      "open": 132.46,
+      "price": 138.73,
+      "open": 133.0,
       "day_high": 139.54,
-      "day_low": 132.46,
+      "day_low": 133.0,
       "prev_close": 131.33,
-      "day_change_pct": 5.79,
+      "day_change_pct": 5.63,
       "week52_high": 157.57,
       "week52_low": 56.78
     },
@@ -592,12 +592,12 @@
       "market_cap_musd": 2721710.685942323,
       "country": "US",
       "currency": "USD",
-      "price": 253.36,
-      "open": 249.51,
+      "price": 253.1,
+      "open": 250.43,
       "day_high": 254.68,
       "day_low": 248.71,
       "prev_close": 249.09,
-      "day_change_pct": 1.71,
+      "day_change_pct": 1.61,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-27T19:58:19.028088+00:00"
+  "updated_at": "2026-10-27T20:13:18.962269+00:00"
 }
