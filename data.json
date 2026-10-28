@@ -60,6 +60,30 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "KPN nominates Mayte Oosterveld and Natasja Laheij to Supervisory Board",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0f93971fb214e388f8bfa87836d18fac3505ed34cd36da879a52a9b9aed8d9dc",
+      "datetime": 1793170800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon (AMZN) reports Q3: everything you need to know ahead of earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8b203a93bcf65886f6584788b4607b9e1645dfabb5acd61c182859716f1850db",
+      "datetime": 1793168554,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Jim Cramer Flags 3 AI Rally Risks, Including a Deal He Praised Hours Earlier",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2b74668fd78d2658201b3251d94f5c82b772dd73277b2f518b37d584b47e46fd",
+      "datetime": 1793167327,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "What Constellation Energy Stock's $5b DOE Loan Means For Shareholders",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ac2843573ac8f81281dbfb926c597251461ad45fcb4f51c6b3910f6451ae7dbf",
@@ -123,22 +147,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "VCs will make billions on Anthropic\u2019s IPO, but Amazon is set to make much (much) more",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=59d8518f65f445b26b6d71ce92ed944ebc54c2f7375df255edde4656129c7afb",
-      "datetime": 1793150128,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Anthropic Held More Cash Than Nvidia and Apple Combined Ahead of IPO",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1c264da3f069b150f75ed0ed246be4dfae2254d257e9bec269e57f3d83e2a3d4",
-      "datetime": 1793147998,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "Why Celestica Stock Jumped Today",
       "source": "Yahoo",
@@ -168,14 +176,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=19eef3fbefa75ccdc46b1c8ec26243f54cc3834f076d8aad8c68bd696775b1b9",
       "datetime": 1793142167,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Penguin Solutions, Broadcom, FormFactor, Lattice Semiconductor, and AMD stocks trade up, what you need to know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1b9547b0b350b03ebc66fb22bf061004778c607e3d4efe124cf842904474e66e",
-      "datetime": 1793139767,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-28T07:58:14.806817+00:00"
+  "updated_at": "2026-10-28T08:13:14.877851+00:00"
 }
