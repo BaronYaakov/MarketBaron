@@ -91,6 +91,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "P",
+      "headline": "FPE: Better Than Preferred Stock Index Funds, But Inflation Is A Real Risk",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8ba66718654ce4b3eab97d048e8739d97254cf34a2b83a6a6c2efe3fee25982d",
+      "datetime": 1793153273,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom CEO says capital is \u2018available\u2019 after banks wavered",
       "source": "Yahoo",
@@ -387,14 +395,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "P",
-      "headline": "Brown Advisory Sees Further Growth Potential in Everpure, Inc. (P)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=01330d0d1d5f9043ed11e84d3da2904225bc876858cd820c2d049ea8f5b714d4",
-      "datetime": 1792676632,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Baird Maintains Outperform on Cencora, Raises Price Target to $375",
       "source": "Benzinga",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-28T06:28:14.950658+00:00"
+  "updated_at": "2026-10-28T06:43:14.669068+00:00"
 }
