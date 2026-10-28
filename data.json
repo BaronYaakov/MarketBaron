@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "CLS",
+      "headline": "Why Celestica Stock Jumped Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=70df69665c9c3e8a1a5335996563a81052b0fd8047f7aafc1677baa3cab0b290",
+      "datetime": 1793144581,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "The 5 moats that still matter in the AI era",
       "source": "Yahoo",
@@ -123,6 +131,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Celestica (CLS) Q3 2026 Earnings Call Transcript",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2fb8b8ce67acb751d76fcbb5b9e4a5bc8632666d92db82139b188333c26f29f5",
+      "datetime": 1793138310,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "RIVN Stock Rebounds As Unconfirmed Walmart Delivery Van Sparks Fleet Hopes",
       "source": "Yahoo",
@@ -163,6 +179,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "What Celestica (CLS) Said on Its Q3 Earnings Call",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8e2f58537714b97f7711e36ebbcfd9b5f021371220b7c6370af7e1deb1ca3b59",
+      "datetime": 1793127862,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "ORLY",
       "headline": "O'Reilly (ORLY) Q3 earnings report preview: what to look for",
       "source": "Yahoo",
@@ -187,12 +211,44 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Celestica Q3 Earnings Beat Estimates on Strong CCS Demand",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ec2991a08d2c6b0dfbfa7ffd62edcc57b60794c4c39fb922abd44c7ef5475eb0",
+      "datetime": 1793114400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "COR",
       "headline": "Amgen vs. Novo Nordisk: Which Healthcare Giant's Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e28eb1d0635ed7a67b5ca5e5f521f9b89c04e05c3b48d3689c29c22162344fa4",
       "datetime": 1793113802,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "What Does Celestica (TSX:CLS) Raised 2026 Outlook Mean For Its 2027 Target?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e2eda3f507be9a896ad3cfb18ba89d778d6480bcf2eb0c2f3a56e76958d2d020",
+      "datetime": 1793110059,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "PRMB",
+      "headline": "Primo Brands (PRMB) Struggles in Q3 2026 Despite Stable or Improving Fundamentals, Madison Small Cap Fund Says",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b3215bb7660f8eb4930cd12d4c163b5de7679b23190441b284171588fc34b344",
+      "datetime": 1793109461,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+    },
+    {
+      "ticker": "B",
+      "headline": "Barrick (B) Stock May Trade Above Fair Value On Cash Flow Outlook",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1a63818558ccad3691cb321fa0796ac92e959ca03c2d74f0ff0831ee9b4009a8",
+      "datetime": 1793106714,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "ORLY",
@@ -211,36 +267,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "CLS",
-      "headline": "Celestica: Soaring On Blowout Earnings And Guidance",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d0953163f22fa6693ffe9c4f8c81fb71becfee0122b8cc9ddc049f87d446e756",
-      "datetime": 1793097875,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica: The Ultimate AI Infrastructure Bargain Priced At 12.6x Earnings (Upgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=9cdfcda0a252009ca010959338978448963cc6cb5d8903389e6534daa4c139ce",
-      "datetime": 1793096627,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Pentair, JetBlue Airways, Hawkins And Other Big Stocks Moving Higher On Tuesday",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=9dba61f21f14b3b8a1221d76e7bc58a4bbd8322112c54f3155bf81ba6f7d8209",
-      "datetime": 1793095883,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica Q3 2026 Earnings Call Transcript",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=96e384d75e17269e353a3a1b4f80865b3f9da60c169f529fc779745fa21a7027",
-      "datetime": 1793092388,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+      "ticker": "B",
+      "headline": "Barrick Mining (B) Rebrands As Valuation Questions Grow Around The Stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8e6cda51e76532799bcf2f46fba117b99f3695fa0ae0b5b6c8a342ed32700bb",
+      "datetime": 1793099349,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "B",
@@ -257,14 +289,6 @@
       "url": "https://finnhub.io/api/news?id=630b6e778bc051dba091daa5106c13a79e6518ccfd25b73b77b131decc655fef",
       "datetime": 1793091023,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "12 Information Technology Stocks Moving In Tuesday's Pre-Market Session",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=976f88b9717007d1bb80c10fff1d2a309e4eea5974bc9830aff7fd434901db36",
-      "datetime": 1793088345,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "P",
@@ -315,14 +339,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "B",
-      "headline": "Newmont\u2019s Record Quarter Shows Why Gold\u2019s Floor Is the Real Story",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=48d9a3bb7503db3ba3aa11de9a0b9f4d9c751abf0feb1ae68e2073d350399737",
-      "datetime": 1792944300,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Amgen vs. Johnson & Johnson: Which Healthcare Giant Has the Better Stock to Buy?",
       "source": "Yahoo",
@@ -353,14 +369,6 @@
       "url": "https://finnhub.io/api/news?id=bf69818b3aaf6915d22d0bed6369f1444649041b3066873e073e59e4f33a1a80",
       "datetime": 1792756827,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Why Is Newmont Stock Falling Friday?",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=08b67fe4892f174a89fd885eb21646eb1dbf3b9de591956fad58813138ac6b8a",
-      "datetime": 1792739713,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
       "ticker": "COR",
@@ -608,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-28T00:28:16.667331+00:00"
+  "updated_at": "2026-10-28T00:43:17.818793+00:00"
 }
