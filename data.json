@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "What Constellation Energy Stock's $5b DOE Loan Means For Shareholders",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac2843573ac8f81281dbfb926c597251461ad45fcb4f51c6b3910f6451ae7dbf",
+      "datetime": 1793162443,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Samsung's AI boom comes with a $100 billion warning",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ffd5f9b31657d1882de64ae581c72a464a8c7b83d12e485c2d9e2fd371cdf1e7",
@@ -112,14 +120,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1c264da3f069b150f75ed0ed246be4dfae2254d257e9bec269e57f3d83e2a3d4",
       "datetime": 1793147998,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Review & Preview: The AI Rollercoaster",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d9eb7483ea6504acbb508e97f16dfea1486fcfae95ddfa3e30a198ab3c99bad5",
-      "datetime": 1793146080,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-28T05:28:14.357990+00:00"
+  "updated_at": "2026-10-28T05:43:15.249833+00:00"
 }
