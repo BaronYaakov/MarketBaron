@@ -99,6 +99,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Celestica Inc. (CLS:CA) 2026 Investor and Analyst Day Presentation - Slideshow",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d53e929389f83e979b681b7d4673ef97b21965c7c830f2693a3053c22a8f9b0c",
+      "datetime": 1793152336,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "ASTS Stock Slips Overnight As FCC Clears Amazon\u2019s $11.5B Globalstar Deal \u2014 Touts \u2018Even More Competition\u2019",
       "source": "Yahoo",
@@ -225,14 +233,6 @@
       "url": "https://finnhub.io/api/news?id=e28eb1d0635ed7a67b5ca5e5f521f9b89c04e05c3b48d3689c29c22162344fa4",
       "datetime": 1793113802,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "What Does Celestica (TSX:CLS) Raised 2026 Outlook Mean For Its 2027 Target?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e2eda3f507be9a896ad3cfb18ba89d778d6480bcf2eb0c2f3a56e76958d2d020",
-      "datetime": 1793110059,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "PRMB",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-28T05:58:14.839959+00:00"
+  "updated_at": "2026-10-28T06:13:14.867690+00:00"
 }
