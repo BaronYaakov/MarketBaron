@@ -60,6 +60,70 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "The 5 moats that still matter in the AI era",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=11dd854a692d0a3977b1fe29eb691ad9722e8dd65d0543913d5e7100917b75c4",
+      "datetime": 1793144191,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Best Buy keeps a key customer perk Target dropped",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c475841b6a8799915abfe923bd8c2f3bd23e38035ac0be1a2a4eb1311ccaa049",
+      "datetime": 1793143020,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Intel, Microchip Technology, Marvell Technology, onsemi, and Seagate stocks trade up, what you need to know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=90f2bbd3f35cfebf5056b2e591a4b63fd9ecdcf8546e65ea039ab255d609756b",
+      "datetime": 1793142647,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Backup Power Deal Could Be A Turning Point For Generac Stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=256cbdf6c5f77640a5c22ccaf734183cdd3b50e25b097cc9cb2af3c1ca68baa5",
+      "datetime": 1793142561,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Semtech, Amkor, Entegris, MACOM, and Vishay Intertechnology stocks trade up, what you need to know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=19eef3fbefa75ccdc46b1c8ec26243f54cc3834f076d8aad8c68bd696775b1b9",
+      "datetime": 1793142167,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Penguin Solutions, Broadcom, FormFactor, Lattice Semiconductor, and AMD stocks trade up, what you need to know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1b9547b0b350b03ebc66fb22bf061004778c607e3d4efe124cf842904474e66e",
+      "datetime": 1793139767,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Investing $1,000 in Each of These 3 Stocks 20 Years Ago Would Have Created a Portfolio Worth $674,000 Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2b8b350f20cdd31fae455583125a00dd84d95b80c9ced11bbce482af586c490a",
+      "datetime": 1793139662,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Western Digital, Allegro MicroSystems, Amtech, and Teradyne shares skyrocket, what you need to know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f23387d4f4c5d0e6f2f7d610944d358480563a0e6e7adeccb94b7a7c5fd2aa23",
+      "datetime": 1793139287,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "RIVN Stock Rebounds As Unconfirmed Walmart Delivery Van Sparks Fleet Hopes",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4135a3f0aeaa852de4057adace70963960aba52772d204878a7ffe2bc253a43a",
@@ -76,10 +140,10 @@
     },
     {
       "ticker": "AMZN",
-      "headline": "Google earnings checklist: Why YouTube, Search, & Cloud are key",
+      "headline": "Amazon (AMZN) Q3 Earnings Preview: AWS Growth Takes Center Stage",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a402fa008d4e4ef9b5b09deeaef222518d38a5ba3fad3356a60fa6705b1aea3a",
-      "datetime": 1793134339,
+      "url": "https://finnhub.io/api/news?id=d19d867a3bc59f72629980254e108010d1351b89d1ea2a2bf097644b883e4726",
+      "datetime": 1793135580,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -91,75 +155,11 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Amazon has a Muse problem. Is a deal with OpenAI a solution?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3fab2c49048689f18d0bcc1a134bf541d18cc7d519e95a54b7703dc3e6ea2d69",
-      "datetime": 1793133582,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Stock Market Today: Dow Up Ahead Of Fed Decision; Nasdaq Jumps, Broadcom Pops On This (Live Coverage)",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6c2dd95c70da43f3436277e7f57cdc30df160e49234ac700473513e8bc7e56ec",
       "datetime": 1793133261,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Stock Market Today: Dow Up Ahead Of Fed Decision; Nasdaq Jumps, Broadcom Pops On This (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6c2dd95c70da43f3436277e7f57cdc30df160e49234ac700473513e8bc7e56ec",
-      "datetime": 1793133261,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Physical Intelligence in talks to raise $1B at $20B valuation - Bloomberg",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=33143932610cec6a6c501712fea59288a1931b88a018bab4db9a606813cee34e",
-      "datetime": 1793132932,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "DoorDash soon could acquire grocery delivery service Instacart",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c960c7ae79390adeed00d80377eb1444e5527ab303c45a1a23eb359c89ed0e6d",
-      "datetime": 1793132585,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Tech stocks post best 3-day rally in 5 weeks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6cbfdd72331af7a73dc7463f592135c6c38abf8b6d7bb9d8aeb2816f1ebbb38b",
-      "datetime": 1793132541,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Fitch affirms Broadcom at \u2019A-\u2019 with positive outlook despite AI backstop risks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d5c58c15a6b63e0c9faa62fe0db88523b7dbf157f3f4684990c474060a061cde",
-      "datetime": 1793132366,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "How major US stock indexes fared Tuesday 10/27/2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3425c96fdffcb5db42bd1c31673288ba395277e1b1ff6c73f1d4d2f767a08af3",
-      "datetime": 1793132313,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Banks Eye $21 Billion of Bonds for Broadcom Chip-Financing Deal",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9988dd8070a238273d0b7655105a928880fd1ba230d42fa321597af4026686b1",
-      "datetime": 1793131769,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -456,7 +456,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1631244.870097133,
+      "market_cap_musd": 1634156.7844444327,
       "country": "US",
       "currency": "USD",
       "price": 342.33,
@@ -513,7 +513,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 62424.34091550568,
+      "market_cap_musd": 62089.43921644045,
       "country": "US",
       "currency": "USD",
       "price": 325.37,
@@ -532,7 +532,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 73024.89525681251,
+      "market_cap_musd": 72660.86287766589,
       "country": "US",
       "currency": "USD",
       "price": 89.82,
@@ -551,7 +551,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 7018.088784847406,
+      "market_cap_musd": 6952.938914745676,
       "country": "US",
       "currency": "USD",
       "price": 19.21,
@@ -570,7 +570,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 46325.254942974796,
+      "market_cap_musd": 46228.619034951036,
       "country": "US",
       "currency": "USD",
       "price": 138.73,
@@ -589,7 +589,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2721710.685942323,
+      "market_cap_musd": 2730016.1479491214,
       "country": "US",
       "currency": "USD",
       "price": 253.1,
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-27T23:58:17.881025+00:00"
+  "updated_at": "2026-10-28T00:13:20.362867+00:00"
 }
