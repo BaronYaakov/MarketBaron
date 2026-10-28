@@ -59,6 +59,30 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "AI Chips Update - AI-Driven Robots Revolutionize Retail Logistics Automation",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d02b1513e12cc8ed0c21415513756aca2bc722eb79b236989e3d80b7abb63d78",
+      "datetime": 1793187460,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon orders coders to rein in AI use as costs mount",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c2c69edd367f86d0aab73af5bab1b845f54b7800f4b39fab60b438e671d188f7",
+      "datetime": 1793186919,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Seagate Technology Fell 25% in The Last Month But One Wall Street Analyst Says 140% Gains to Come",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f247f4b6d9847bd8c9a7fcddbd747bec8cd71687add5d057bb3945f470e0cf44",
+      "datetime": 1793186156,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "B",
       "headline": "Barrick Mining Corp (NYSE:B): A Decent Value Stock Backed by Strong Valuation and Profitability",
       "source": "ChartMill",
@@ -68,90 +92,74 @@
     },
     {
       "ticker": "AVGO",
-      "headline": "Was There Any Sign Astera Labs Stock Would Run?",
+      "headline": "Meta\u2019s $25 Billion Stock Sale Drew Five Times the Demand",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=59927de20174700050187cdc5cfdcb1b5b7d5ae70fc47f5703b0bfcf4d084f15",
-      "datetime": 1793175775,
+      "url": "https://finnhub.io/api/news?id=7f979e1c44d364d7795ed645bc4192e7912c2e3560cfa34e606e3092a49a4927",
+      "datetime": 1793185617,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
-      "headline": "Stock market today: Dow futures fall, S&P 500 and Nasdaq futures climb ahead of Fed decision, Big Tech earnings",
+      "headline": "Three billionaires called the AI top. Each has a reason to.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9c36dcfac373270515633c1ad8de8bbbb5ff6634f78c4ebc3107c2684701e209",
-      "datetime": 1793174802,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Stock Market Today: AI Trade Rebounds as Wall Street Braces for a Fed-and-Big-Tech Super Wednesday",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=659a001cbbb44157199a500f4a6e0963f6216d9388f8bb352a5ce27f78ec69fe",
-      "datetime": 1793171764,
+      "url": "https://finnhub.io/api/news?id=fd6447ed6a1257459943764c2e605a8671da325bb043e924d219870a98ee1354",
+      "datetime": 1793185200,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Wall Street Breakfast Podcast: The Great SK Hynix Giveaway",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=e725748da0de169227818e20e6ce7b358bf5dd2b646335d253478deafd966e5c",
-      "datetime": 1793171280,
+      "headline": "Three billionaires called the AI top. Each has a reason to.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fd6447ed6a1257459943764c2e605a8671da325bb043e924d219870a98ee1354",
+      "datetime": 1793185200,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "KPN nominates Mayte Oosterveld and Natasja Laheij to Supervisory Board",
+      "headline": "YieldMax\u00ae ETFs Announces Weekly Distributions for Group 2 ETFs",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0f93971fb214e388f8bfa87836d18fac3505ed34cd36da879a52a9b9aed8d9dc",
-      "datetime": 1793170800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon (AMZN) reports Q3: everything you need to know ahead of earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8b203a93bcf65886f6584788b4607b9e1645dfabb5acd61c182859716f1850db",
-      "datetime": 1793168554,
+      "url": "https://finnhub.io/api/news?id=10a7a63fc43cd19607f9c79f486deb5bc132f93f505c0306270b1801626f41a0",
+      "datetime": 1793184900,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
-      "headline": "Jim Cramer Flags 3 AI Rally Risks, Including a Deal He Praised Hours Earlier",
+      "headline": "Meta plans $95bn fund raise for AI infrastructure and personal superintelligence",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2b74668fd78d2658201b3251d94f5c82b772dd73277b2f518b37d584b47e46fd",
-      "datetime": 1793167327,
+      "url": "https://finnhub.io/api/news?id=d2633723fe816b277adbe98138964c611897bd7dd0363991b0eef83755568044",
+      "datetime": 1793184268,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "What Constellation Energy Stock's $5b DOE Loan Means For Shareholders",
+      "headline": "3 Founder Led Stocks With Revenue Growth Up To 12%",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ac2843573ac8f81281dbfb926c597251461ad45fcb4f51c6b3910f6451ae7dbf",
-      "datetime": 1793162443,
+      "url": "https://finnhub.io/api/news?id=81f854a6c6c346e574fd856fe824fbfc438bcc9f9ee2558657d46a7fbd3c8c91",
+      "datetime": 1793183100,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Samsung's AI boom comes with a $100 billion warning",
+      "headline": "How Would You Fix Take-Two?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ffd5f9b31657d1882de64ae581c72a464a8c7b83d12e485c2d9e2fd371cdf1e7",
-      "datetime": 1793155620,
+      "url": "https://finnhub.io/api/news?id=29db361df18fabfdce742a4aec0e6af81ee88e298edbf3e7a161173459bdbdcd",
+      "datetime": 1793183018,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "\u2018Where Are The Cybercabs?\u2019 Tesla Investor Ross Gerber Takes Aim at Elon Musk as Amazon\u2019s Zoox Eyes Expansion With Santa Monica Deal for 150 Robotaxis",
+      "headline": "Google, Microsoft, and Amazon have to justify the AI spending boom this week",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2c54a2c998469db63613ae0fdfcc3c4181f092e6bf1d7d0a09d39cd2d1d2740e",
-      "datetime": 1793154611,
+      "url": "https://finnhub.io/api/news?id=59a5b298cf3e373cb486b6f60a7f941d1370349423080794094675f407e73d47",
+      "datetime": 1793181600,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
-      "headline": "Dow, S&P 500, Nasdaq Futures Mixed Ahead Of Key Tech Results, Fed Rate Decision: SKHY, HOOD, BA, ENPH In Focus",
+      "headline": "Today Is a Powder Keg for Markets",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=07a493700fb9498c33ec57459d98378dc3b72ac5a1606fe4501ba5392842b1fc",
-      "datetime": 1793154320,
+      "url": "https://finnhub.io/api/news?id=e90d6c3142001202ca79d103351778c229d6fb721f284f003dd22ca62488eec4",
+      "datetime": 1793180377,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -161,14 +169,6 @@
       "url": "https://finnhub.io/api/news?id=8ba66718654ce4b3eab97d048e8739d97254cf34a2b83a6a6c2efe3fee25982d",
       "datetime": 1793153273,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom CEO says capital is \u2018available\u2019 after banks wavered",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=551a1d004fb17c0f1800500529c38937bcf8e2a1a8333472df7fca2412f25045",
-      "datetime": 1793152980,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-28T11:58:15.075106+00:00"
+  "updated_at": "2026-10-28T12:13:15.228734+00:00"
 }
