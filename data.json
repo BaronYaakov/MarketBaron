@@ -59,20 +59,76 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Samsung's AI boom comes with a $100 billion warning",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ffd5f9b31657d1882de64ae581c72a464a8c7b83d12e485c2d9e2fd371cdf1e7",
+      "datetime": 1793155620,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "\u2018Where Are The Cybercabs?\u2019 Tesla Investor Ross Gerber Takes Aim at Elon Musk as Amazon\u2019s Zoox Eyes Expansion With Santa Monica Deal for 150 Robotaxis",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2c54a2c998469db63613ae0fdfcc3c4181f092e6bf1d7d0a09d39cd2d1d2740e",
+      "datetime": 1793154611,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Dow, S&P 500, Nasdaq Futures Mixed Ahead Of Key Tech Results, Fed Rate Decision: SKHY, HOOD, BA, ENPH In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=07a493700fb9498c33ec57459d98378dc3b72ac5a1606fe4501ba5392842b1fc",
+      "datetime": 1793154320,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom CEO says capital is \u2018available\u2019 after banks wavered",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=551a1d004fb17c0f1800500529c38937bcf8e2a1a8333472df7fca2412f25045",
+      "datetime": 1793152980,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "ASTS Stock Slips Overnight As FCC Clears Amazon\u2019s $11.5B Globalstar Deal \u2014 Touts \u2018Even More Competition\u2019",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4cd00fe8bb9f4aa068362cb45a75018321d46c732200588972cdd698b2534109",
+      "datetime": 1793151822,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "VCs will make billions on Anthropic\u2019s IPO, but Amazon is set to make much (much) more",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=59d8518f65f445b26b6d71ce92ed944ebc54c2f7375df255edde4656129c7afb",
+      "datetime": 1793150128,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Anthropic Held More Cash Than Nvidia and Apple Combined Ahead of IPO",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1c264da3f069b150f75ed0ed246be4dfae2254d257e9bec269e57f3d83e2a3d4",
+      "datetime": 1793147998,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Review & Preview: The AI Rollercoaster",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d9eb7483ea6504acbb508e97f16dfea1486fcfae95ddfa3e30a198ab3c99bad5",
+      "datetime": 1793146080,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "CLS",
       "headline": "Why Celestica Stock Jumped Today",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=70df69665c9c3e8a1a5335996563a81052b0fd8047f7aafc1677baa3cab0b290",
       "datetime": 1793144581,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The 5 moats that still matter in the AI era",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=11dd854a692d0a3977b1fe29eb691ad9722e8dd65d0543913d5e7100917b75c4",
-      "datetime": 1793144191,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -83,28 +139,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Best Buy keeps a key customer perk Target dropped",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c475841b6a8799915abfe923bd8c2f3bd23e38035ac0be1a2a4eb1311ccaa049",
-      "datetime": 1793143020,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Intel, Microchip Technology, Marvell Technology, onsemi, and Seagate stocks trade up, what you need to know",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=90f2bbd3f35cfebf5056b2e591a4b63fd9ecdcf8546e65ea039ab255d609756b",
       "datetime": 1793142647,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Backup Power Deal Could Be A Turning Point For Generac Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=256cbdf6c5f77640a5c22ccaf734183cdd3b50e25b097cc9cb2af3c1ca68baa5",
-      "datetime": 1793142561,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -123,22 +163,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Investing $1,000 in Each of These 3 Stocks 20 Years Ago Would Have Created a Portfolio Worth $674,000 Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2b8b350f20cdd31fae455583125a00dd84d95b80c9ced11bbce482af586c490a",
-      "datetime": 1793139662,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Western Digital, Allegro MicroSystems, Amtech, and Teradyne shares skyrocket, what you need to know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f23387d4f4c5d0e6f2f7d610944d358480563a0e6e7adeccb94b7a7c5fd2aa23",
-      "datetime": 1793139287,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "Celestica (CLS) Q3 2026 Earnings Call Transcript",
       "source": "Yahoo",
@@ -147,36 +171,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "RIVN Stock Rebounds As Unconfirmed Walmart Delivery Van Sparks Fleet Hopes",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4135a3f0aeaa852de4057adace70963960aba52772d204878a7ffe2bc253a43a",
-      "datetime": 1793136009,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "O'Reilly Automotive Earnings Ahead: What Past Reactions Say About The Stock",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=da7f899592427324daf38ba4a5ae5a4cb1cec0f6620750aaa72289550869edb0",
       "datetime": 1793135800,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon (AMZN) Q3 Earnings Preview: AWS Growth Takes Center Stage",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d19d867a3bc59f72629980254e108010d1351b89d1ea2a2bf097644b883e4726",
-      "datetime": 1793135580,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Update: Equity Indexes Rise as Technology Tops Sector Charts Ahead of Hyperscaler Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fdfecb87149f15b61a72fc2753234f6df6235337ae9b2b919425898071bfe3f6",
-      "datetime": 1793134143,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -401,14 +401,6 @@
       "url": "https://finnhub.io/api/news?id=0abed520b7cab703aeb4f093b9f6b3f8ccd6be854610de54ecc27ae22ff45a45",
       "datetime": 1792653721,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Primo Brands Receives International Bottled Water Association's 2026 Environmental Stewardship Award",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=482afe68e5c14c7b49db255ffd25646e76587e690d6aa37849586f4f1be3b25b",
-      "datetime": 1792508400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     }
   ],
   "recent_posts": [],
@@ -616,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-28T04:58:14.958758+00:00"
+  "updated_at": "2026-10-28T05:13:14.790653+00:00"
 }
