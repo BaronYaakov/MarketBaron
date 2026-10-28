@@ -59,6 +59,38 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Chip Earnings Power Averages Higher as Nasdaq Volatility Cools Midweek",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8cca93701c445fbd05ef06cb5b774bdb990789cddf3626317ce31c2df490756e",
+      "datetime": 1793211840,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Generac Holdings Inc. Q3 2026 Earnings Call Summary",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=794cbb064706152fc639f7deb2f98517313bea9e70c61a7abad1fcfab5e1ce97",
+      "datetime": 1793211636,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "What Generac (GNRC) Said on Its Q3 Earnings Call",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=76f00f125f6164b8fc9cbc5901fae1103e1f1fc38681468cfb1747da521b4fa5",
+      "datetime": 1793210694,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Earnings Preview: Why Wall Street Is Bullish On Cloud Growth",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8e22ca7f9cb84c98e4826a4d296909e88ea1b15ca750bfb46932d5452886380a",
+      "datetime": 1793209816,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Steve Eisman Says Anthropic Left Q3 Figures Out of IPO Filing on Purpose: 'Very Intentional'",
       "source": "Yahoo",
@@ -83,12 +115,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Will Strong AWS Performance Boost Amazon's Q3 Earnings Report?",
+      "ticker": "AVGO",
+      "headline": "Lumentum Shares Jump 135% YTD: Can AI Momentum Sustain the Rally?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bd0851042772508515d0345ece1c85f9516b9a56a9b2576ef218dd582f0fe673",
-      "datetime": 1793205720,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "url": "https://finnhub.io/api/news?id=261ebe20bc2be22623851d3adeceff81d0dd5db5de296a372b1eb082d1a8e5f9",
+      "datetime": 1793206440,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -97,22 +129,6 @@
       "url": "https://finnhub.io/api/news?id=1f0c68bd14d3ab4e73d3b0495ad6191aa837400b0e70394c4e43b7053dc0c671",
       "datetime": 1793205195,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Wall Street May Be Underestimating This Magnificent Seven Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1f0c68bd14d3ab4e73d3b0495ad6191aa837400b0e70394c4e43b7053dc0c671",
-      "datetime": 1793205195,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Neocloud stocks could face a house-of-cards collapse",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8239913c6496fe34b82f6ab9aea130e5f82a2e38ae7beba43b706ae40d7637a6",
-      "datetime": 1793204931,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -145,22 +161,6 @@
       "url": "https://finnhub.io/api/news?id=e5ef2e0ae2a3072270bb0d9cbc1717ee2f08e9a65b15b04e632ce3fa81cb84a3",
       "datetime": 1793196076,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Tech rises for third day in a row ahead of Microsoft, Alphabet earnings, Fed decision in focus: AlphaCheck",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8306140e6413265e0628490e420a7054daf018b5f10005ad96369c6687e53317",
-      "datetime": 1793195350,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia & AMD Bet $4B on Meta: Grab These ETFs to Own the AI Ecosystem",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1c2d89be829e056cca5c659d253b3cdfb40300a1bb8c773bff473bd7f25bbeb7",
-      "datetime": 1793193780,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "COR",
@@ -459,12 +459,12 @@
       "market_cap_musd": 1651771.3472606482,
       "country": "US",
       "currency": "USD",
-      "price": 351.86,
-      "open": 347.94,
-      "day_high": 351.88,
+      "price": 351.81,
+      "open": 349.22,
+      "day_high": 352.4,
       "day_low": 344.35,
       "prev_close": 342.33,
-      "day_change_pct": 2.78,
+      "day_change_pct": 2.77,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -478,12 +478,12 @@
       "market_cap_musd": 90671.771815,
       "country": "CA",
       "currency": "USD",
-      "price": 39.62,
+      "price": 39.69,
       "open": 39.05,
-      "day_high": 39.65,
+      "day_high": 39.73,
       "day_low": 38.87,
       "prev_close": 39.26,
-      "day_change_pct": 0.92,
+      "day_change_pct": 1.1,
       "week52_high": 74.0,
       "week52_low": 43.33
     },
@@ -497,12 +497,12 @@
       "market_cap_musd": 48972.994046,
       "country": "CA",
       "currency": "USD",
-      "price": 301.94,
-      "open": 283.68,
+      "price": 299.8,
+      "open": 285.14,
       "day_high": 308.21,
       "day_low": 283.11,
       "prev_close": 276.54,
-      "day_change_pct": 9.18,
+      "day_change_pct": 8.41,
       "week52_high": 655.5,
       "week52_low": 330.79
     },
@@ -516,12 +516,12 @@
       "market_cap_musd": 62264.999287004495,
       "country": "US",
       "currency": "USD",
-      "price": 324.21,
-      "open": 324.91,
+      "price": 324.35,
+      "open": 321.82,
       "day_high": 327.43,
       "day_low": 320.06,
       "prev_close": 325.37,
-      "day_change_pct": -0.36,
+      "day_change_pct": -0.31,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -535,12 +535,12 @@
       "market_cap_musd": 72054.13958548932,
       "country": "US",
       "currency": "USD",
-      "price": 90.05,
+      "price": 90.44,
       "open": 89.17,
-      "day_high": 90.19,
+      "day_high": 90.44,
       "day_low": 88.62,
       "prev_close": 89.82,
-      "day_change_pct": 0.26,
+      "day_change_pct": 0.69,
       "week52_high": 102.46,
       "week52_low": 82.59
     },
@@ -554,12 +554,12 @@
       "market_cap_musd": 6942.080325750129,
       "country": "US",
       "currency": "USD",
-      "price": 19.29,
-      "open": 18.98,
-      "day_high": 19.31,
+      "price": 19.32,
+      "open": 19.0,
+      "day_high": 19.37,
       "day_low": 18.9,
       "prev_close": 19.21,
-      "day_change_pct": 0.42,
+      "day_change_pct": 0.57,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -573,12 +573,12 @@
       "market_cap_musd": 46368.57241373928,
       "country": "US",
       "currency": "USD",
-      "price": 138.85,
-      "open": 141.93,
+      "price": 138.6,
+      "open": 141.84,
       "day_high": 143.97,
       "day_low": 138.39,
       "prev_close": 138.73,
-      "day_change_pct": 0.09,
+      "day_change_pct": -0.09,
       "week52_high": 157.57,
       "week52_low": 56.78
     },
@@ -592,12 +592,12 @@
       "market_cap_musd": 2722034.381032206,
       "country": "US",
       "currency": "USD",
-      "price": 254.36,
-      "open": 253.52,
+      "price": 254.6,
+      "open": 253.0,
       "day_high": 255.36,
       "day_low": 251.98,
       "prev_close": 253.1,
-      "day_change_pct": 0.5,
+      "day_change_pct": 0.59,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-28T19:58:17.635449+00:00"
+  "updated_at": "2026-10-28T20:13:23.261150+00:00"
 }
