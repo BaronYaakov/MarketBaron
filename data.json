@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "B",
+      "headline": "Barrick Mining Corp (NYSE:B): A Decent Value Stock Backed by Strong Valuation and Profitability",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=8bb68e92fcc772b247298b19510e35dcaa15514f8e60c42892d3b7132508d339",
+      "datetime": 1793185905,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Was There Any Sign Astera Labs Stock Would Run?",
       "source": "Yahoo",
@@ -81,6 +89,14 @@
       "url": "https://finnhub.io/api/news?id=659a001cbbb44157199a500f4a6e0963f6216d9388f8bb352a5ce27f78ec69fe",
       "datetime": 1793171764,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Wall Street Breakfast Podcast: The Great SK Hynix Giveaway",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e725748da0de169227818e20e6ce7b358bf5dd2b646335d253478deafd966e5c",
+      "datetime": 1793171280,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
@@ -161,14 +177,6 @@
       "url": "https://finnhub.io/api/news?id=d53e929389f83e979b681b7d4673ef97b21965c7c830f2693a3053c22a8f9b0c",
       "datetime": 1793152336,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "ASTS Stock Slips Overnight As FCC Clears Amazon\u2019s $11.5B Globalstar Deal \u2014 Touts \u2018Even More Competition\u2019",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4cd00fe8bb9f4aa068362cb45a75018321d46c732200588972cdd698b2534109",
-      "datetime": 1793151822,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "CLS",
@@ -336,14 +344,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=d0c7e1b3677366fd122e2f26ea0fa370e542416391d5f6df82f92d533d8766a5",
       "datetime": 1793003400,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "How Can Investors Have Confidence In The Terminal Value Of The Large AI Providers",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=323c51ff55e42e4c75789b502cab9ae59fe8e5737e4acd79195dab1edd735b7a",
-      "datetime": 1792984200,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-28T11:28:15.637802+00:00"
+  "updated_at": "2026-10-28T11:43:15.341843+00:00"
 }
