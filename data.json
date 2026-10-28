@@ -75,12 +75,52 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "ORLY",
+      "headline": "O'Reilly\u2019s (NASDAQ:ORLY) Q3 2026 sales top estimates",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=94ac84d00ab064366ecf2ccd73c324321828e4f7defec403e2344dd12750646a",
+      "datetime": 1793220842,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "O'Reilly Automotive (ORLY) Q3 Earnings and Revenues Beat Estimates",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f5a5e090bbee6ed159b5690474865acb233661f1a505cd071f5c0c0391dea5d",
+      "datetime": 1793220307,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom Inc. (AVGO) Laps the Stock Market: Here's Why",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=cd6aeca780a8ab1612583b0bca8de9de40bc1be5d634eeab2be352664eaeb2d0",
       "datetime": 1793220303,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "O'Reilly Automotive: Q3 Earnings Snapshot",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f1e75f85ea92b5f6151390a83ddf296db16c12081ab4bb913c71f3c118e3a40c",
+      "datetime": 1793219871,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "O\u2019Reilly Automotive, Inc. Reports Third Quarter 2026 Results",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ce2fbafba9f90e22033b73ada62fe1f64627e7f9cb9e35cd64c1f28226aa9d5b",
+      "datetime": 1793219400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Everpure Announces Date and Conference Call Information for Third Quarter Fiscal 2027 Financial Results",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c1e7f13a3969240cf14faa3a02f257bd04c9423fcf265a178afae7c13f0e8e38",
+      "datetime": 1793217900,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "AMZN",
@@ -267,22 +307,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "ORLY",
-      "headline": "Top Auto Parts Stocks to Watch, According to Bank of America",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a8f3d32b16ddc49c2b064ed5053054904c8e2af64ac5c37f364e7923f37cdd00",
-      "datetime": 1793118134,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Microsoft, Alphabet On Deck Wednesday As AI Spending, Cloud Growth Face Test",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=ac0fffc7f399cfd1b22af84e8aa3aabf4d57342269abc8c7bee3a0e61d5acf1d",
-      "datetime": 1793115044,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Amgen vs. Novo Nordisk: Which Healthcare Giant's Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
@@ -305,22 +329,6 @@
       "url": "https://finnhub.io/api/news?id=1a63818558ccad3691cb321fa0796ac92e959ca03c2d74f0ff0831ee9b4009a8",
       "datetime": 1793106714,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "O'Reilly Automotive (ORLY) Crossed Above the 200-Day Moving Average: What That Means for Investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=75f515f7edc1813f61ce834df7eeeaf9a3a8e4a029a1b71d58779909049f6c91",
-      "datetime": 1793104202,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "If You Invested $1000 in O'Reilly Automotive a Decade Ago, This is How Much It'd Be Worth Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=54b49ddfa7bc0c04aebbbbcb482a22f0b579bc2b71b16b8cac7f17fd11f4e976",
-      "datetime": 1793100602,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "B",
@@ -352,14 +360,6 @@
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=74c0b7f2c5da50ee872c7a076ef3214548b26f90b75e56289a9ae5a628750a1a",
       "datetime": 1793045173,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "S&P 500 Top Movers Today: Lumentum Leads, Fair Isaac Falls",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=a88ca28f669ae33d3af2b91274390fb190c3242d53186deda7c0a1eb8e7c40cd",
-      "datetime": 1793036172,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-28T22:13:19.006523+00:00"
+  "updated_at": "2026-10-28T22:28:18.113940+00:00"
 }
