@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "ORLY",
+      "headline": "S&P 500 After-Hours Movers for Oct. 28, 2026",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=dcced89918bb8dfb056d437656fb38ffc281ac9c4e8a47a7bf66999a9126a01c",
+      "datetime": 1793225187,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "NIPSCO to Deliver $57.5 Million in Savings to Electric Customers From Data Center Development",
       "source": "Yahoo",
@@ -297,14 +305,6 @@
       "url": "https://finnhub.io/api/news?id=8e2f58537714b97f7711e36ebbcfd9b5f021371220b7c6370af7e1deb1ca3b59",
       "datetime": 1793127862,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "O'Reilly (ORLY) Q3 earnings report preview: what to look for",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3db27b74f717b80a56d792039ff2bc3e1b4b0d8f3a335faeb17a6b1383561139",
-      "datetime": 1793118647,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "COR",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-28T23:28:17.069666+00:00"
+  "updated_at": "2026-10-28T23:43:16.995987+00:00"
 }
