@@ -164,6 +164,14 @@
     },
     {
       "ticker": "P",
+      "headline": "Everpure: The New Paradigm In Data Center Storage",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=95ea2f0e82513b69725c253b82f674e3fb602140369ae854dc6d77601ecb77ee",
+      "datetime": 1793178252,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "P",
       "headline": "FPE: Better Than Preferred Stock Index Funds, But Inflation Is A Real Risk",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=8ba66718654ce4b3eab97d048e8739d97254cf34a2b83a6a6c2efe3fee25982d",
@@ -387,14 +395,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
-      "ticker": "P",
-      "headline": "Everpure (P) Upgraded to Buy: Here's What You Should Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=74df1aed544f12edc4ed386608658dba901f1e4acc1170a78b9d04a03aef9301",
-      "datetime": 1792681202,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Baird Maintains Outperform on Cencora, Raises Price Target to $375",
       "source": "Benzinga",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-28T13:13:15.951166+00:00"
+  "updated_at": "2026-10-28T13:28:17.651981+00:00"
 }
