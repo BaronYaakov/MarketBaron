@@ -75,6 +75,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "These Dividend-Paying Stocks Offer Notable AI Exposure: AVGO VRT",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=67bc35c78f879a74a55e4cbc59137b04a2abc22318fb9f77344d951bcbf945bf",
+      "datetime": 1793143380,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Best Buy keeps a key customer perk Target dropped",
       "source": "Yahoo",
@@ -168,14 +176,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fdfecb87149f15b61a72fc2753234f6df6235337ae9b2b919425898071bfe3f6",
       "datetime": 1793134143,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Stock Market Today: Dow Up Ahead Of Fed Decision; Nasdaq Jumps, Broadcom Pops On This (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6c2dd95c70da43f3436277e7f57cdc30df160e49234ac700473513e8bc7e56ec",
-      "datetime": 1793133261,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-28T01:28:21.768244+00:00"
+  "updated_at": "2026-10-28T01:43:17.740967+00:00"
 }
