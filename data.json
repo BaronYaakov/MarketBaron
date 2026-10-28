@@ -139,6 +139,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "COR",
+      "headline": "Cencora to Acquire AON in $2.4B Deal to Expand Oncology Network",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=800ca77ecea004d6239357c8f0ba9702f5505b082312536843e13fefe1cad206",
+      "datetime": 1793191020,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "How Anthropic's IPO structure could become the AI blueprint",
       "source": "Yahoo",
@@ -393,14 +401,6 @@
       "url": "https://finnhub.io/api/news?id=68912985e6181c5af1f0f4733f4e9cf76968ea496b24d3b31b30d00f23a6b40f",
       "datetime": 1792707302,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Baird Maintains Outperform on Cencora, Raises Price Target to $375",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=0abed520b7cab703aeb4f093b9f6b3f8ccd6be854610de54ecc27ae22ff45a45",
-      "datetime": 1792653721,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     }
   ],
   "recent_posts": [],
@@ -459,12 +459,12 @@
       "market_cap_musd": 1634156.7844444327,
       "country": "US",
       "currency": "USD",
-      "price": 345.76,
+      "price": 346.44,
       "open": 347.94,
       "day_high": 351.62,
-      "day_low": 345.1,
+      "day_low": 344.89,
       "prev_close": 342.33,
-      "day_change_pct": 1.0,
+      "day_change_pct": 1.2,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -478,12 +478,12 @@
       "market_cap_musd": 88219.401297,
       "country": "CA",
       "currency": "USD",
-      "price": 39.09,
+      "price": 39.02,
       "open": 39.05,
       "day_high": 39.21,
       "day_low": 38.88,
       "prev_close": 39.26,
-      "day_change_pct": -0.43,
+      "day_change_pct": -0.61,
       "week52_high": 74.0,
       "week52_low": 43.33
     },
@@ -497,12 +497,12 @@
       "market_cap_musd": 43756.773553,
       "country": "CA",
       "currency": "USD",
-      "price": 285.04,
+      "price": 286.36,
       "open": 283.68,
       "day_high": 294.44,
       "day_low": 283.11,
       "prev_close": 276.54,
-      "day_change_pct": 3.07,
+      "day_change_pct": 3.55,
       "week52_high": 655.5,
       "week52_low": 330.79
     },
@@ -516,12 +516,12 @@
       "market_cap_musd": 62089.43921644045,
       "country": "US",
       "currency": "USD",
-      "price": 326.43,
+      "price": 326.33,
       "open": 324.91,
-      "day_high": 326.79,
+      "day_high": 326.8,
       "day_low": 320.06,
       "prev_close": 325.37,
-      "day_change_pct": 0.33,
+      "day_change_pct": 0.29,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -535,12 +535,12 @@
       "market_cap_musd": 72660.86287766589,
       "country": "US",
       "currency": "USD",
-      "price": 89.03,
+      "price": 89.0,
       "open": 89.17,
       "day_high": 89.86,
       "day_low": 88.71,
       "prev_close": 89.82,
-      "day_change_pct": -0.88,
+      "day_change_pct": -0.91,
       "week52_high": 102.46,
       "week52_low": 82.59
     },
@@ -554,12 +554,12 @@
       "market_cap_musd": 6952.938914745676,
       "country": "US",
       "currency": "USD",
-      "price": 19.02,
+      "price": 19.03,
       "open": 18.98,
       "day_high": 19.12,
       "day_low": 18.96,
       "prev_close": 19.21,
-      "day_change_pct": -0.99,
+      "day_change_pct": -0.94,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -573,12 +573,12 @@
       "market_cap_musd": 46228.619034951036,
       "country": "US",
       "currency": "USD",
-      "price": 139.83,
+      "price": 140.09,
       "open": 141.93,
       "day_high": 143.97,
       "day_low": 138.39,
       "prev_close": 138.73,
-      "day_change_pct": 0.79,
+      "day_change_pct": 0.98,
       "week52_high": 157.57,
       "week52_low": 56.78
     },
@@ -592,12 +592,12 @@
       "market_cap_musd": 2730016.1479491214,
       "country": "US",
       "currency": "USD",
-      "price": 253.46,
+      "price": 253.36,
       "open": 253.52,
       "day_high": 255.36,
       "day_low": 252.48,
       "prev_close": 253.1,
-      "day_change_pct": 0.14,
+      "day_change_pct": 0.1,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-28T14:13:19.335847+00:00"
+  "updated_at": "2026-10-28T14:28:34.378249+00:00"
 }
