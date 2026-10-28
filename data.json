@@ -139,6 +139,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "Why Stocks Can Rally Through A December Hike",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8aa87911a184690fc1b00b11f973b925ca31730fedf37e655a53108e28356185",
+      "datetime": 1793214005,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Chip Earnings Power Averages Higher as Nasdaq Volatility Cools Midweek",
       "source": "Yahoo",
@@ -160,14 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=76f00f125f6164b8fc9cbc5901fae1103e1f1fc38681468cfb1747da521b4fa5",
       "datetime": 1793210694,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Earnings Preview: Why Wall Street Is Bullish On Cloud Growth",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8e22ca7f9cb84c98e4826a4d296909e88ea1b15ca750bfb46932d5452886380a",
-      "datetime": 1793209816,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-28T23:13:20.336363+00:00"
+  "updated_at": "2026-10-28T23:28:17.069666+00:00"
 }
