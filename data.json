@@ -59,6 +59,38 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "NIPSCO to Deliver $57.5 Million in Savings to Electric Customers From Data Center Development",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c3e06f9c357cc7c1a49c616745c6f6085fe0d82316105b4b38626505913f9380",
+      "datetime": 1793221260,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Global Product Take-Back Program Market Report 2026 | Capitalize on 10.7% CAGR to $63.73 Billion by 2030 as Apple, Amazon, Samsung, Dell, and Sony Scale Circular Returns",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9accd71815ba2e4c5caf3157027e0f3a58f8730acd1d1916c02e17126814f81d",
+      "datetime": 1793221080,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom Inc. (AVGO) Laps the Stock Market: Here's Why",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd6aeca780a8ab1612583b0bca8de9de40bc1be5d634eeab2be352664eaeb2d0",
+      "datetime": 1793220303,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Generac reports record sales of $1.29 billion, driven by data centers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7b408335346ef12dbb2d2dd850ffc411511ed8cdd93614600f661cf69494a4b9",
+      "datetime": 1793217565,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "P",
       "headline": "3 AI Cloud Stocks Retail Investors Are Watching Before Big Tech Earnings",
       "source": "Yahoo",
@@ -99,30 +131,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Steve Eisman Says Anthropic Left Q3 Figures Out of IPO Filing on Purpose: 'Very Intentional'",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=412b27ddce2644e09140c81406327302e99cd19878c1f68153f02966f5944706",
-      "datetime": 1793208998,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon\u2019s EPS Is \u201cAbsolutely Exploding,\u201d Says Josh Brown. Here\u2019s What the Stock Needs to See October 29",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=73ee14e52825706fd518a23f8d9fbb575853718cef31651ecfd166ff83f1dc52",
-      "datetime": 1793208371,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Yahoo Finance drives the new Slate EV, a $27,000 truck with hand-crank windows",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=318107433204216058e2e497ea376d49b1cb4e715c191864448e724370de56d4",
-      "datetime": 1793207481,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Lumentum Shares Jump 135% YTD: Can AI Momentum Sustain the Rally?",
       "source": "Yahoo",
@@ -152,14 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=de2b83cd840a8dfd7af87e65d55112888286581dc8d4356b9786e5278d96b88d",
       "datetime": 1793198160,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "This Nvidia chart shows why the AI compute shortage remains acute",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fa33f1ee6fad99bcb2a9d801f28cd75f2aacd26c451b3531d5e72d86bc7ee162",
-      "datetime": 1793196871,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-28T21:58:24.596429+00:00"
+  "updated_at": "2026-10-28T22:13:19.006523+00:00"
 }
