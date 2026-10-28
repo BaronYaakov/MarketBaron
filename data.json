@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Stock Market Today: AI Trade Rebounds as Wall Street Braces for a Fed-and-Big-Tech Super Wednesday",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=659a001cbbb44157199a500f4a6e0963f6216d9388f8bb352a5ce27f78ec69fe",
+      "datetime": 1793171764,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "KPN nominates Mayte Oosterveld and Natasja Laheij to Supervisory Board",
       "source": "Yahoo",
@@ -168,14 +176,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=90f2bbd3f35cfebf5056b2e591a4b63fd9ecdcf8546e65ea039ab255d609756b",
       "datetime": 1793142647,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Semtech, Amkor, Entegris, MACOM, and Vishay Intertechnology stocks trade up, what you need to know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=19eef3fbefa75ccdc46b1c8ec26243f54cc3834f076d8aad8c68bd696775b1b9",
-      "datetime": 1793142167,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-28T09:13:14.893597+00:00"
+  "updated_at": "2026-10-28T09:28:14.931439+00:00"
 }
