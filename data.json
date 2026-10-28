@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "P",
+      "headline": "3 AI Cloud Stocks Retail Investors Are Watching Before Big Tech Earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=03bcbd8f5745d6794d208f871b0e5d5583b0328058cac8af2077e367cedbd4da",
+      "datetime": 1793214543,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Chip Earnings Power Averages Higher as Nasdaq Volatility Cools Midweek",
       "source": "Yahoo",
@@ -393,14 +401,6 @@
       "url": "https://finnhub.io/api/news?id=336a26bc6d06569bdfa3ffa12f202410ed7bce97a657cae7b56a44f4ec0fc8be",
       "datetime": 1792801272,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "How Everpure Is Winning Over Hyperscalers In The AI Data Center Race",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bf69818b3aaf6915d22d0bed6369f1444649041b3066873e073e59e4f33a1a80",
-      "datetime": 1792756827,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     }
   ],
   "recent_posts": [],
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-28T20:13:23.261150+00:00"
+  "updated_at": "2026-10-28T20:28:22.258982+00:00"
 }
