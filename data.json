@@ -34,7 +34,7 @@
       "day_change_pct": 0.0,
       "all_time_gain_pct": 15.77,
       "day_change_source": "ibkr",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+      "logo_url": null
     },
     {
       "ticker": "ORLY",
@@ -176,7 +176,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e2c50bb6ec56e6abaac2abda52a224b60a209a2cf1bf622bc46c34997dc4392d",
       "datetime": 1793192412,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+      "logo_url": null
     },
     {
       "ticker": "COR",
@@ -184,7 +184,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=800ca77ecea004d6239357c8f0ba9702f5505b082312536843e13fefe1cad206",
       "datetime": 1793191020,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+      "logo_url": null
     },
     {
       "ticker": "B",
@@ -288,7 +288,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e28eb1d0635ed7a67b5ca5e5f521f9b89c04e05c3b48d3689c29c22162344fa4",
       "datetime": 1793113802,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+      "logo_url": null
     },
     {
       "ticker": "PRMB",
@@ -384,7 +384,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=352f3c23d139442045486e4ee957da337f5b851133d28320bdebba8e3b4e1f02",
       "datetime": 1792859461,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+      "logo_url": null
     },
     {
       "ticker": "COR",
@@ -392,7 +392,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=98deff20668ec3b8bdd1f20d8f9e2e5f8a649f690e54a40ba95d5e528be4b39d",
       "datetime": 1792805299,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+      "logo_url": null
     },
     {
       "ticker": "COR",
@@ -400,7 +400,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=336a26bc6d06569bdfa3ffa12f202410ed7bce97a657cae7b56a44f4ec0fc8be",
       "datetime": 1792801272,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+      "logo_url": null
     }
   ],
   "recent_posts": [],
@@ -507,15 +507,6 @@
       "week52_low": 330.79
     },
     "COR": {
-      "name": "Cencora, Inc.",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png",
-      "industry": "Health Care",
-      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
-      "website": "https://www.cencora.com/",
-      "ipo_date": "1996-05-28",
-      "market_cap_musd": 62264.999287004495,
-      "country": "US",
-      "currency": "USD",
       "price": 324.35,
       "open": 321.82,
       "day_high": 327.43,
@@ -608,5 +599,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-28T20:58:22.061653+00:00"
+  "updated_at": "2026-10-28T21:13:31.070469+00:00"
 }
