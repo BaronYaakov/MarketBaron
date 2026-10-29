@@ -59,12 +59,52 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "2 Millionaire-Maker Custom Silicon Stocks Powering the AI Infrastructure Supercycle",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ba6cf10c180f704658858f83391d6bdfbfe208d6ffdd39d364723689d95cfa64",
+      "datetime": 1793229600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "How Microsoft, Coca-Cola And Amazon Are Adapting Their Offices For AI Age",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9991a00881e982458e7d5c9acff0ec3ecedc947047424d056337dff2d9478227",
+      "datetime": 1793228296,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Lumentum Jumps On Marvell Buyout Report",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bd180d1634547737ff0efcacfefc99d512b1f19629413a8ef9d010380376d41d",
+      "datetime": 1793227843,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Can Morgan Stanley (MS) Justify Its Price After AI Deal Wins?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f96463c74bafb16a38d1bbd796b664b4e9dc7dc5ba34d54b5b5e2ab124eeb346",
+      "datetime": 1793225583,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "ORLY",
       "headline": "S&P 500 After-Hours Movers for Oct. 28, 2026",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=dcced89918bb8dfb056d437656fb38ffc281ac9c4e8a47a7bf66999a9126a01c",
       "datetime": 1793225187,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Notes on FOMC Decision and Earnings After the Close",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=44bc13e75f2b721961051b2cb5ad23dd556774454b42a82f13fbcaf913fe0eb7",
+      "datetime": 1793221560,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
@@ -123,6 +163,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "Alphabet\u2019s Google Cloud Biz Did Its Job. Why the Stock Is Falling.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4b2a862ba8f481c78cc31a90832d1285eea1761f1b548aa747ffe0ee4e131ba8",
+      "datetime": 1793218800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "P",
       "headline": "Everpure Announces Date and Conference Call Information for Third Quarter Fiscal 2027 Financial Results",
       "source": "Yahoo",
@@ -147,14 +195,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Why Stocks Can Rally Through A December Hike",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=8aa87911a184690fc1b00b11f973b925ca31730fedf37e655a53108e28356185",
-      "datetime": 1793214005,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Chip Earnings Power Averages Higher as Nasdaq Volatility Cools Midweek",
       "source": "Yahoo",
@@ -163,51 +203,11 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Generac Holdings Inc. Q3 2026 Earnings Call Summary",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=794cbb064706152fc639f7deb2f98517313bea9e70c61a7abad1fcfab5e1ce97",
-      "datetime": 1793211636,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "What Generac (GNRC) Said on Its Q3 Earnings Call",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=76f00f125f6164b8fc9cbc5901fae1103e1f1fc38681468cfb1747da521b4fa5",
-      "datetime": 1793210694,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Lumentum Shares Jump 135% YTD: Can AI Momentum Sustain the Rally?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=261ebe20bc2be22623851d3adeceff81d0dd5db5de296a372b1eb082d1a8e5f9",
       "datetime": 1793206440,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Wall Street May Be Underestimating This Magnificent Seven Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1f0c68bd14d3ab4e73d3b0495ad6191aa837400b0e70394c4e43b7053dc0c671",
-      "datetime": 1793205195,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Rosenblatt\u2019s $600 Target Says Broadcom\u2019s Selloff Went Too Far",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cf8808f6ae877d4e4a81147d701a0ca97a30afa74263d78d66e9c8cb9bff271e",
-      "datetime": 1793202776,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "ASIC - Global Strategic Business Report: Capture a $6.2 Billion Revenue Shift Through 2032 as AMD, Broadcom, Intel, Infineon, and Analog Devices Accelerate AI, 5G, and Automotive Chips",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=de2b83cd840a8dfd7af87e65d55112888286581dc8d4356b9786e5278d96b88d",
-      "datetime": 1793198160,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-29T00:13:17.468980+00:00"
+  "updated_at": "2026-10-29T00:28:17.850308+00:00"
 }
