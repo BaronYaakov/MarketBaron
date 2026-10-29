@@ -228,6 +228,22 @@
     },
     {
       "ticker": "CLS",
+      "headline": "Celestica sees 2027 sales nearly doubling to $40 billion",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d0b669ac724072466f3ecc244af1a9a702a806edea962d06a6ad1191de23be9d",
+      "datetime": 1793207820,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Here is Why Growth Investors Should Buy Celestica (CLS) Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d801922f83a8f272a21381e3bc9216de3cbdb8332f1a1af502249dd1dd08a3ad",
+      "datetime": 1793202301,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
       "headline": "Celestica: Free Cash Flow Tells The Whole Story",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=e5ef2e0ae2a3072270bb0d9cbc1717ee2f08e9a65b15b04e632ce3fa81cb84a3",
@@ -249,6 +265,14 @@
       "url": "https://finnhub.io/api/news?id=800ca77ecea004d6239357c8f0ba9702f5505b082312536843e13fefe1cad206",
       "datetime": 1793191020,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Canadian Stock Market Today: TSX Futures Edge Higher As Fed And BoC Decisions Loom",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=31b41d9c8bd3c31f1c022cd2c5740cd8fb9601922dff531b4c9b4944511eea56",
+      "datetime": 1793189218,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "B",
@@ -275,44 +299,20 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Celestica (TSX:CLS) Stock Cools Despite Q3 Earnings Power And AI Ramp",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=28a35b40c5bb86cb32dcae70364167d01ab7542ab751cc0753c56ba6e54b8f30",
+      "datetime": 1793162881,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "P",
       "headline": "FPE: Better Than Preferred Stock Index Funds, But Inflation Is A Real Risk",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=8ba66718654ce4b3eab97d048e8739d97254cf34a2b83a6a6c2efe3fee25982d",
       "datetime": 1793153273,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica Inc. (CLS:CA) 2026 Investor and Analyst Day Presentation - Slideshow",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d53e929389f83e979b681b7d4673ef97b21965c7c830f2693a3053c22a8f9b0c",
-      "datetime": 1793152336,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Why Celestica Stock Jumped Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=70df69665c9c3e8a1a5335996563a81052b0fd8047f7aafc1677baa3cab0b290",
-      "datetime": 1793144581,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica (CLS) Q3 2026 Earnings Call Transcript",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2fb8b8ce67acb751d76fcbb5b9e4a5bc8632666d92db82139b188333c26f29f5",
-      "datetime": 1793138310,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "What Celestica (CLS) Said on Its Q3 Earnings Call",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8e2f58537714b97f7711e36ebbcfd9b5f021371220b7c6370af7e1deb1ca3b59",
-      "datetime": 1793127862,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "COR",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-29T02:28:19.996701+00:00"
+  "updated_at": "2026-10-29T02:43:16.732300+00:00"
 }
