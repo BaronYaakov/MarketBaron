@@ -60,6 +60,22 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Broadcom And 2 More Quality Value Stocks To Watch",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cdde958536d9ab6de5d9502cc1244a3519208d130bf976219f337f0f9fe7a7bd",
+      "datetime": 1793248430,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Asia stocks fall as Alphabet, Samsung results disappoint; more tech earnings loom",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f7de1322ae21ed33f09ca19e1928782eaddd3a632f97251f9e95c44a581718fa",
+      "datetime": 1793248273,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Broadcom Stock Is 29% Below Its Record. After Its New Anthropic Deal, I'd Consider Buying It a Little at a Time.",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8e504641b1ec2e83d9afdb148b7fae5b41da3a32b99b4bdd80ebfd8c060c4943",
@@ -131,14 +147,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Lumentum Jumps On Marvell Buyout Report",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bd180d1634547737ff0efcacfefc99d512b1f19629413a8ef9d010380376d41d",
-      "datetime": 1793227843,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "B",
       "headline": "Agnico Eagle Mines (AEM) Q3 Earnings and Revenues Beat Estimates",
       "source": "Yahoo",
@@ -152,14 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c0a1eb53c6ab74b61c4cf682fceab202f8cdff8903c32ca13cf78da93694ff2b",
       "datetime": 1793226588,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Can Morgan Stanley (MS) Justify Its Price After AI Deal Wins?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f96463c74bafb16a38d1bbd796b664b4e9dc7dc5ba34d54b5b5e2ab124eeb346",
-      "datetime": 1793225583,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-29T05:58:16.277805+00:00"
+  "updated_at": "2026-10-29T06:13:16.008537+00:00"
 }
