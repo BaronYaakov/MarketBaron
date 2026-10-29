@@ -164,6 +164,14 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "Intel: Guidance Disaster Causes 20%+ Price Slump",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6fcbbd2451d5753fa29bf4e71c6217c0ccd259e7ed64c919103ecbe88f870809",
+      "datetime": 1793297408,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "5 Fastest-Growing AI Stocks to Buy Now",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5ed17e7207dcdfe59b4fb3b0c0561372399816d69df99b8c9bb4de9e1eb0fd45",
@@ -177,14 +185,6 @@
       "url": "https://finnhub.io/api/news?id=1d54dc7a045b0e0c5bafff54517af06d986d3e9a1f32d4dda0940e9045f7c1c5",
       "datetime": 1793294967,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Arista Networks (ANET) vs. CSCO and AVGO: Is AI Data Center Expansion Creating a Long-Term Networking Winner?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f02771118a276d7453a771fc9d677dd6cad8c79d887983b56769c13d5634228a",
-      "datetime": 1793294412,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "ORLY",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-29T22:28:17.251551+00:00"
+  "updated_at": "2026-10-29T22:43:17.208494+00:00"
 }
