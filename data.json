@@ -456,7 +456,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1651771.3472606482,
+      "market_cap_musd": 1679410.6631979905,
       "country": "US",
       "currency": "USD",
       "price": 351.81,
@@ -513,7 +513,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 62264.999287004495,
+      "market_cap_musd": 61894.794565386335,
       "country": "US",
       "currency": "USD",
       "price": 324.35,
@@ -532,7 +532,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 72054.13958548932,
+      "market_cap_musd": 73162.41589886218,
       "country": "US",
       "currency": "USD",
       "price": 90.44,
@@ -551,7 +551,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 6942.080325750129,
+      "market_cap_musd": 6992.752444916189,
       "country": "US",
       "currency": "USD",
       "price": 19.32,
@@ -570,7 +570,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 46368.57241373928,
+      "market_cap_musd": 46185.29742396165,
       "country": "US",
       "currency": "USD",
       "price": 138.6,
@@ -589,7 +589,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2722034.381032206,
+      "market_cap_musd": 2746195.725989854,
       "country": "US",
       "currency": "USD",
       "price": 254.6,
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-28T23:58:16.992279+00:00"
+  "updated_at": "2026-10-29T00:13:17.468980+00:00"
 }
