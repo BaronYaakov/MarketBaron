@@ -60,27 +60,83 @@
   "news": [
     {
       "ticker": "AMZN",
-      "headline": "Lumentum Jumps, Fades On Marvell Buyout Report",
+      "headline": "Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5f1ee44ec0728ce003e007c25b1b148af1cab5f0f28a66ffd855b375af610097",
-      "datetime": 1793303573,
+      "url": "https://finnhub.io/api/news?id=29af632925ef1c1bbde9c465d3cd7dd95bf05d1bfc0f26c90a8c49f1868c2534",
+      "datetime": 1793310220,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Stock Market Today, Oct. 29: Marvell Falls on Lumentum Acquisition Talks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4fb53acb1e9766b6ae9d4fde8742d44f130d8def3b4db32309990e93d99d648f",
+      "datetime": 1793310210,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Stock Slides After Q3 Earnings Miss Despite Strong Cloud Growth",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1d1bbb5032752fa2e6c5ddb2bb1e7ecfdb1ac842e22c32ad7acaaa2c3ea081ac",
+      "datetime": 1793310002,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Stock Market Today: Tech Stocks Slammed By Alphabet Report; Amazon Earnings Next (Live Coverage)",
+      "headline": "'Workloads are moving': Amazon's Jassy says AWS still growing amid cloud move",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4a5f3c0063cc9046dd7e4edc4afdb740a41170f690df41c5e1be516dbe899d1d",
-      "datetime": 1793302682,
+      "url": "https://finnhub.io/api/news?id=95b1ef937b050c43acd638c42c653099312667e58bd1cb781899209ae7cd7db4",
+      "datetime": 1793310000,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Gene Munster Flags Google Earnings As A Warning Sign To Amazon Investors",
+      "headline": "Upbound Group, Inc. Q3 2026 Earnings Call Summary",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=51a1f5830f847bb0f65228017229a9c1a0b335071d85a61caf558095b0629d98",
-      "datetime": 1793302469,
+      "url": "https://finnhub.io/api/news?id=d91757da0c22691f02c942dc385585ab752d85cd18ca6561d81117b41b870ea0",
+      "datetime": 1793308925,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon reported booming cloud revenue but otherwise missed expectations",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=07e8d1f810e1de29e76773de42d8bc2d3514014e2f42fa259e5ef52b8b024d44",
+      "datetime": 1793308847,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon shares sink as it spends heavily on AI",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5e7168f9b12384244316361ee7900afbbaa3d66216d98ce323a571f9a4005a07",
+      "datetime": 1793308671,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Jim Cramer Says Buy Coca-Cola. Is Its Dividend Still Worth It After a 35% Rally?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=85203110da0a0eebbef970ae1e16deb5126b56dc05fc8281d5f1dbeecc917c2b",
+      "datetime": 1793308057,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Is It A Mistake To Buy Cardinal Health Stock At A High?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=566ca0cb995fbb132ff1f57c5fd1e6d924bd9736085a4b4a849f7aa957c75916",
+      "datetime": 1793305756,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Amazon Stock Tanks After Earnings Miss",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=adc4f6be97057d970f3ecbef10a002ef4a061b8acb5b19c482743abca1df87b1",
+      "datetime": 1793304780,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -89,30 +145,6 @@
       "url": "https://finnhub.io/api/news?id=0d99e9c9cc700d0d0a83880a6f6601a5f9e6792a5b02c79fefb8407f8627a05d",
       "datetime": 1793301480,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "70% of UPS Packages Will Be Handled by Machines This Holiday Season",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3e0c6cfd2d448a8e58cc15bd1a75029285be69cdf190cbdaffaafe8190771d0b",
-      "datetime": 1793300242,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Constellation Just Signed 20-Year Deals With Amazon and Google. Where Will the Nuclear Energy Stock Be in 10 Years?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f1cae05c81fe3b300b1e8646938435b24f7b53e51005003d6999d3f7b38f824a",
-      "datetime": 1793299800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Palo Alto Soars 14% in a Week as CEO Warns of AI\u2019s \u201cNuclear Sort of Bomb\u201d",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=844c74834cf0f04bfb1b1842bb481e2d1b6b33fc888d230154b918fffd225e7d",
-      "datetime": 1793298234,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -147,36 +179,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Prediction: Wall Street\u2019s Next AI Favorite May Not Be Nvidia",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e0480f1311bf61ffab7b8305db6b0a3c0f2f8c087d63402bfd769a21ec3455e2",
-      "datetime": 1793293393,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "3 AI Stocks to Buy and Hold Through 2030",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b16893298e443ccd952a370e2f5d811a14d9e46cd8596768f3f9424f93cc208c",
-      "datetime": 1793292600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "P",
       "headline": "Everpure vs. Dell: Which Data Storage Stock is the Better Buy Now?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=88519f8700ed1fa49d1be8a13ce6af9f6dc5cf18aebf53cd52f5354192e61001",
       "datetime": 1793292000,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Why Is Broadcom (AVGO) Now Central To AI Funding And Infrastructure?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b051716a5cf47621868346f3727d0b5359edba61b811aa287ff3717501fa116a",
-      "datetime": 1793290518,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "COR",
@@ -393,14 +401,6 @@
       "url": "https://finnhub.io/api/news?id=352f3c23d139442045486e4ee957da337f5b851133d28320bdebba8e3b4e1f02",
       "datetime": 1792859461,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Cencora's Q4 2026 Earnings: What to Expect",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=98deff20668ec3b8bdd1f20d8f9e2e5f8a649f690e54a40ba95d5e528be4b39d",
-      "datetime": 1792805299,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     }
   ],
   "recent_posts": [],
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-29T21:58:29.289332+00:00"
+  "updated_at": "2026-10-29T22:13:17.733195+00:00"
 }
