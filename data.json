@@ -107,6 +107,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "Amazon Earnings Preview: Q3 2026",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e483023463c913d9987fd50e7194d3ec431c8605abe1e480a95548e9ab6475ae",
+      "datetime": 1793247900,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom Stock Is 29% Below Its Record. After Its New Anthropic Deal, I'd Consider Buying It a Little at a Time.",
       "source": "Yahoo",
@@ -128,14 +136,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8b45f3038df477cca267eed441c5a8a31004e4d430606c0cc826d3e4c5ebdb7e",
       "datetime": 1793239502,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Oracle vs. Palo Alto Networks: Which Tech Stock Is the Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ab2db3a7b3f9ff4ec24657e254b75a0b09cf7a0c85970fd074dfbd7c4ac6200b",
-      "datetime": 1793237221,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-29T08:28:16.068017+00:00"
+  "updated_at": "2026-10-29T08:43:15.449507+00:00"
 }
