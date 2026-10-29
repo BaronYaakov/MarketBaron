@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "ORLY",
+      "headline": "O'Reilly Automotive (ORLY) Q3 2026 Earnings Call Transcript",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1921fcc396ba017846792d65c8d2d27aafb83aef99b76c2341bab743d6d2554e",
+      "datetime": 1793310379,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq",
       "source": "Yahoo",
@@ -113,6 +121,14 @@
       "url": "https://finnhub.io/api/news?id=5e7168f9b12384244316361ee7900afbbaa3d66216d98ce323a571f9a4005a07",
       "datetime": 1793308671,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "O'Reilly Automotive Q3 Earnings Call Highlights",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bc397303e14e8993ff516bd012f8cf42adec0e3e12779105f0850a2c4e217b70",
+      "datetime": 1793308457,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "AVGO",
@@ -208,22 +224,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=6d8c4d189c51d2fcd838aca8db026f675f6a5b994f62abba3f5c698e786db0c8",
       "datetime": 1793275876,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Can AutoZone Stock Jump 30%?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ff2f2cb395ea0963e212659c50aea2bf7b5aeeb5f2dfcbeed8e7aba729181d01",
-      "datetime": 1793273251,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Parnassus Mid Cap Growth Fund: Q3 2026 Performance Review",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=97f77b9e1c281e7674d3b976f71faff9e5db86fa9d84c0149556bacba6017a37",
-      "datetime": 1793271900,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-29T22:13:17.733195+00:00"
+  "updated_at": "2026-10-29T22:28:17.251551+00:00"
 }
