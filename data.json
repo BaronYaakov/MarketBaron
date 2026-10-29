@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "ORLY",
+      "headline": "After-Hours S&P 500 Movers: Mondelez and FedEx Freight Gain, Intel and Reddit Fall",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=d18d7bab7797845f13b99c24f319750b03a8c72d11cbced0745eeeaf580067bc",
+      "datetime": 1793311567,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "ORLY",
       "headline": "O'Reilly Automotive (ORLY) Q3 2026 Earnings Call Transcript",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1921fcc396ba017846792d65c8d2d27aafb83aef99b76c2341bab743d6d2554e",
@@ -216,14 +224,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=8e947b63491882e2d14096e1fef32d78e02bd9ff14d60227668bea99778e4473",
       "datetime": 1793276817,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "O'Reilly Automotive (ORLY) Could Be 16% Undervalued As Fresh Earnings Arrive",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6d8c4d189c51d2fcd838aca8db026f675f6a5b994f62abba3f5c698e786db0c8",
-      "datetime": 1793275876,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-29T23:28:17.270003+00:00"
+  "updated_at": "2026-10-29T23:43:17.209322+00:00"
 }
