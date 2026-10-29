@@ -123,6 +123,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "ORLY",
+      "headline": "O'Reilly Automotive, Inc. (ORLY) Q3 2026 Earnings Call Transcript",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1d54dc7a045b0e0c5bafff54517af06d986d3e9a1f32d4dda0940e9045f7c1c5",
+      "datetime": 1793294967,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Arista Networks (ANET) vs. CSCO and AVGO: Is AI Data Center Expansion Creating a Long-Term Networking Winner?",
       "source": "Yahoo",
@@ -208,14 +216,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=97f77b9e1c281e7674d3b976f71faff9e5db86fa9d84c0149556bacba6017a37",
       "datetime": 1793271900,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "Wells Fargo Maintains Overweight on O'Reilly Automotive, Raises Price Target to $105",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=4a9e234f1b4dd04d371c36cea09706a92fbeeffca09274a85a2bb15b8f12b6bd",
-      "datetime": 1793266292,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-29T21:43:20.260677+00:00"
+  "updated_at": "2026-10-29T21:58:29.289332+00:00"
 }
