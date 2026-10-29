@@ -83,6 +83,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "ORLY",
+      "headline": "Can AutoZone Stock Jump 30%?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ff2f2cb395ea0963e212659c50aea2bf7b5aeeb5f2dfcbeed8e7aba729181d01",
+      "datetime": 1793273251,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Why Is Everybody Paying A Premium For Palantir Stock?",
       "source": "Yahoo",
@@ -216,14 +224,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4f5a5e090bbee6ed159b5690474865acb233661f1a505cd071f5c0c0391dea5d",
       "datetime": 1793220307,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "O'Reilly Automotive: Q3 Earnings Snapshot",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f1e75f85ea92b5f6151390a83ddf296db16c12081ab4bb913c71f3c118e3a40c",
-      "datetime": 1793219871,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-29T12:13:15.320776+00:00"
+  "updated_at": "2026-10-29T12:28:15.305410+00:00"
 }
