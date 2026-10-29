@@ -83,6 +83,22 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "B",
+      "headline": "Agnico Eagle Mines (AEM) Q3 Earnings and Revenues Beat Estimates",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b8058658a4d02ad30b447b1c236439693777666cd108654eee407818dc239788",
+      "datetime": 1793226603,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "25 Stocks That Could Rally 45% or More",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c0a1eb53c6ab74b61c4cf682fceab202f8cdff8903c32ca13cf78da93694ff2b",
+      "datetime": 1793226588,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Can Morgan Stanley (MS) Justify Its Price After AI Deal Wins?",
       "source": "Yahoo",
@@ -208,14 +224,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8cca93701c445fbd05ef06cb5b774bdb990789cddf3626317ce31c2df490756e",
       "datetime": 1793211840,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Lumentum Shares Jump 135% YTD: Can AI Momentum Sustain the Rally?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=261ebe20bc2be22623851d3adeceff81d0dd5db5de296a372b1eb082d1a8e5f9",
-      "datetime": 1793206440,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -368,14 +376,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=0e0cb662adde959d6cb7e319758de392f57170e0873ce546572f4f0a92b80dd1",
       "datetime": 1793007979,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "B",
-      "headline": "Earn 12-15% Potential Income: Monthly Options Series (Nov. 2026)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d0c7e1b3677366fd122e2f26ea0fa370e542416391d5f6df82f92d533d8766a5",
-      "datetime": 1793003400,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-29T01:28:17.488485+00:00"
+  "updated_at": "2026-10-29T01:43:17.693747+00:00"
 }
