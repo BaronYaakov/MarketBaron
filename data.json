@@ -60,6 +60,62 @@
   "news": [
     {
       "ticker": "AVGO",
+      "headline": "Broadcom Stock Is 29% Below Its Record. After Its New Anthropic Deal, I'd Consider Buying It a Little at a Time.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8e504641b1ec2e83d9afdb148b7fae5b41da3a32b99b4bdd80ebfd8c060c4943",
+      "datetime": 1793243522,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "What Does Seagate Technology Holdings (STX) Mozaic Milestone Mean For AI Storage?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f756a8acdfd2a0aa225677b6d36d7eb951ccd124812ddff067d29ff52517421e",
+      "datetime": 1793239708,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Monster Beverage vs. On Holding: Which Is the Better Growth Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8b45f3038df477cca267eed441c5a8a31004e4d430606c0cc826d3e4c5ebdb7e",
+      "datetime": 1793239502,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Oracle vs. Palo Alto Networks: Which Tech Stock Is the Better Buy in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ab2db3a7b3f9ff4ec24657e254b75a0b09cf7a0c85970fd074dfbd7c4ac6200b",
+      "datetime": 1793237221,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Mega-Cap Default Risk",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2c4f906088ea5fc69e7cdd717bf477ffc6b70acf8256db7ce28844cb73306618",
+      "datetime": 1793232900,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Mega-Cap Default Risk",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2c4f906088ea5fc69e7cdd717bf477ffc6b70acf8256db7ce28844cb73306618",
+      "datetime": 1793232900,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "33 Wall Street Giants Block Tokenized Stocks, But Apple and Tesla Stay Silent",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c4f447693fbcd86007472bb0a78cf130df77ec1eb48e250983461d1d4230e355",
+      "datetime": 1793232494,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "2 Millionaire-Maker Custom Silicon Stocks Powering the AI Infrastructure Supercycle",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ba6cf10c180f704658858f83391d6bdfbfe208d6ffdd39d364723689d95cfa64",
@@ -131,30 +187,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Notes on FOMC Decision and Earnings After the Close",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=44bc13e75f2b721961051b2cb5ad23dd556774454b42a82f13fbcaf913fe0eb7",
-      "datetime": 1793221560,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "NIPSCO to Deliver $57.5 Million in Savings to Electric Customers From Data Center Development",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c3e06f9c357cc7c1a49c616745c6f6085fe0d82316105b4b38626505913f9380",
-      "datetime": 1793221260,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Global Product Take-Back Program Market Report 2026 | Capitalize on 10.7% CAGR to $63.73 Billion by 2030 as Apple, Amazon, Samsung, Dell, and Sony Scale Circular Returns",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9accd71815ba2e4c5caf3157027e0f3a58f8730acd1d1916c02e17126814f81d",
-      "datetime": 1793221080,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "O'Reilly\u2019s (NASDAQ:ORLY) Q3 2026 sales top estimates",
       "source": "Yahoo",
@@ -171,28 +203,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Broadcom Inc. (AVGO) Laps the Stock Market: Here's Why",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cd6aeca780a8ab1612583b0bca8de9de40bc1be5d634eeab2be352664eaeb2d0",
-      "datetime": 1793220303,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "O'Reilly Automotive: Q3 Earnings Snapshot",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f1e75f85ea92b5f6151390a83ddf296db16c12081ab4bb913c71f3c118e3a40c",
       "datetime": 1793219871,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Alphabet\u2019s Google Cloud Biz Did Its Job. Why the Stock Is Falling.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4b2a862ba8f481c78cc31a90832d1285eea1761f1b548aa747ffe0ee4e131ba8",
-      "datetime": 1793218800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "P",
@@ -203,28 +219,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Generac reports record sales of $1.29 billion, driven by data centers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7b408335346ef12dbb2d2dd850ffc411511ed8cdd93614600f661cf69494a4b9",
-      "datetime": 1793217565,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "P",
       "headline": "3 AI Cloud Stocks Retail Investors Are Watching Before Big Tech Earnings",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=03bcbd8f5745d6794d208f871b0e5d5583b0328058cac8af2077e367cedbd4da",
       "datetime": 1793214543,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Chip Earnings Power Averages Higher as Nasdaq Volatility Cools Midweek",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8cca93701c445fbd05ef06cb5b774bdb990789cddf3626317ce31c2df490756e",
-      "datetime": 1793211840,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-29T04:58:15.917830+00:00"
+  "updated_at": "2026-10-29T05:13:16.197991+00:00"
 }
