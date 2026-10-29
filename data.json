@@ -60,10 +60,58 @@
   "news": [
     {
       "ticker": "AMZN",
-      "headline": "Amazon Could Buy Viasat As AST SpaceMobile Tries Rival Bid, Satellite Consultant Says: Musk-Bezos \u2018Cage Fight\u2019 Looms",
+      "headline": "Stocks Down Pre-Bell Ahead of Key Inflation Report, Amazon Earnings",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6263bb350d1551a602653dcab17cb4a944fa24e3c8280265f0f4a5115b0f985f",
-      "datetime": 1793258120,
+      "url": "https://finnhub.io/api/news?id=a593136ed9db37180e5886c19bd4f430d5f7ef21e485184ae94bc3bd6dd4269a",
+      "datetime": 1793274463,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "This Under-the-Radar Utility Just Signed a Massive Data Center Deal Without Anyone Noticing",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1b6e0d5216c5363381a2480773752efef47ebcd1576d677b890dac097e40238a",
+      "datetime": 1793274060,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Alphabet Sinks 10% on $9 Billion Cash Burn and \u201cSignificant Miss\u201d in Search",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=627f6836786ec5ac7f159182498d45e049c367bc7dc65bb853c54871a54d73a5",
+      "datetime": 1793273276,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Why Is Everybody Paying A Premium For Palantir Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=02dc5e0425ff798d8d20c71f988294c82d77f32a9e5ef8f421d62866726660c3",
+      "datetime": 1793273220,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The Cloud Titans: Microsoft\u2019s Copilot Backlog Challenges Amazon\u2019s Data Center Re-Acceleration",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5d1f3e5a28a07771f16b8b4d11669a0f3ba00a88cd9e1db838b09d6200ec1592",
+      "datetime": 1793272510,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Alphabet\u2019s Price-to-Fundamentals Mismatch Just Got Better as Institutions Sour on Capex",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d4b31a4c0e42a2dff0254ce2c513a95767f1e3583cdda8636efbb6402de2d918",
+      "datetime": 1793272509,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Alphabet Pressures Wall Street Pre-Bell; Asia Mixed, Europe Up",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c4e137074ca7ad043893ad91d887ab365c5242b4199b61d8f3da7905f0bb4e0d",
+      "datetime": 1793272152,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -73,22 +121,6 @@
       "url": "https://finnhub.io/api/news?id=a5e88b0346364384c58a7fb369d2f830a360eef7cef8b41e98884b02870191c7",
       "datetime": 1793257357,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "INTC, AMD, AVGO, MU Decline On Samsung\u2019s Profit Miss, Lighter Capex From Microsoft, Alphabet",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a5e88b0346364384c58a7fb369d2f830a360eef7cef8b41e98884b02870191c7",
-      "datetime": 1793257357,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Gene Munster 'More Concerned' About Amazon and Alphabet \u2014 Says AI Bots Mean Shopping Edge 'Will Increasingly Be Under Attack'",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c588087685e8f28d5c716e993e5ba1a98bc3ef5da4aab721114ab3ce3adf9c00",
-      "datetime": 1793249470,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "B",
@@ -115,22 +147,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Asia stocks fall as Alphabet, Samsung results disappoint; more tech earnings loom",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f7de1322ae21ed33f09ca19e1928782eaddd3a632f97251f9e95c44a581718fa",
-      "datetime": 1793248273,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Earnings Preview: Q3 2026",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=e483023463c913d9987fd50e7194d3ec431c8605abe1e480a95548e9ab6475ae",
-      "datetime": 1793247900,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Broadcom Stock Is 29% Below Its Record. After Its New Anthropic Deal, I'd Consider Buying It a Little at a Time.",
       "source": "Yahoo",
@@ -147,27 +163,11 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Monster Beverage vs. On Holding: Which Is the Better Growth Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8b45f3038df477cca267eed441c5a8a31004e4d430606c0cc826d3e4c5ebdb7e",
-      "datetime": 1793239502,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Mega-Cap Default Risk",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=2c4f906088ea5fc69e7cdd717bf477ffc6b70acf8256db7ce28844cb73306618",
       "datetime": 1793232900,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "2 Millionaire-Maker Custom Silicon Stocks Powering the AI Infrastructure Supercycle",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ba6cf10c180f704658858f83391d6bdfbfe208d6ffdd39d364723689d95cfa64",
-      "datetime": 1793229600,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-29T11:58:15.994514+00:00"
+  "updated_at": "2026-10-29T12:13:15.320776+00:00"
 }
