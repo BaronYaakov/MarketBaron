@@ -91,6 +91,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "B",
+      "headline": "Undercovered Dozen: Micron, i-80 Gold, Hercules Capital, And More",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3b343baed84ef797cf865ff0f70af43b45b14e2a22e2068dec3754ec73081374",
+      "datetime": 1793249269,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom And 2 More Quality Value Stocks To Watch",
       "source": "Yahoo",
@@ -371,14 +379,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "B",
-      "headline": "Newmont: Nevada NAV Climbs, But Cost Creep Continues",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=0e0cb662adde959d6cb7e319758de392f57170e0873ce546572f4f0a92b80dd1",
-      "datetime": 1793007979,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Amgen vs. Johnson & Johnson: Which Healthcare Giant Has the Better Stock to Buy?",
       "source": "Yahoo",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-29T08:58:15.071614+00:00"
+  "updated_at": "2026-10-29T09:13:14.886389+00:00"
 }
