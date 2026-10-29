@@ -99,6 +99,22 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
+      "ticker": "ORLY",
+      "headline": "O\u2019Reilly Automotive surges on earnings beat and guidance raise",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=15bb4c37363b39501f241183e105a69adce3f2ac49808ae67d82a9fc90b3c1da",
+      "datetime": 1793225124,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "O'Reilly Automotive (ORLY) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=331a363230996058f53da96e7332fe6109fed18912c9796580f140b486c49f1c",
+      "datetime": 1793223002,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Notes on FOMC Decision and Earnings After the Close",
       "source": "Yahoo",
@@ -152,14 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f1e75f85ea92b5f6151390a83ddf296db16c12081ab4bb913c71f3c118e3a40c",
       "datetime": 1793219871,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "O\u2019Reilly Automotive, Inc. Reports Third Quarter 2026 Results",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ce2fbafba9f90e22033b73ada62fe1f64627e7f9cb9e35cd64c1f28226aa9d5b",
-      "datetime": 1793219400,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
@@ -289,14 +297,6 @@
       "url": "https://finnhub.io/api/news?id=2fb8b8ce67acb751d76fcbb5b9e4a5bc8632666d92db82139b188333c26f29f5",
       "datetime": 1793138310,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "O'Reilly Automotive Earnings Ahead: What Past Reactions Say About The Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=da7f899592427324daf38ba4a5ae5a4cb1cec0f6620750aaa72289550869edb0",
-      "datetime": 1793135800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "CLS",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-29T00:28:17.850308+00:00"
+  "updated_at": "2026-10-29T00:43:19.979333+00:00"
 }
