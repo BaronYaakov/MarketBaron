@@ -64,7 +64,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a593136ed9db37180e5886c19bd4f430d5f7ef21e485184ae94bc3bd6dd4269a",
       "datetime": 1793274463,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "logo_url": null
     },
     {
       "ticker": "AMZN",
@@ -72,7 +72,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1b6e0d5216c5363381a2480773752efef47ebcd1576d677b890dac097e40238a",
       "datetime": 1793274060,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "logo_url": null
     },
     {
       "ticker": "AVGO",
@@ -96,7 +96,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=02dc5e0425ff798d8d20c71f988294c82d77f32a9e5ef8f421d62866726660c3",
       "datetime": 1793273220,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "logo_url": null
     },
     {
       "ticker": "AMZN",
@@ -104,7 +104,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5d1f3e5a28a07771f16b8b4d11669a0f3ba00a88cd9e1db838b09d6200ec1592",
       "datetime": 1793272510,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "logo_url": null
     },
     {
       "ticker": "AMZN",
@@ -112,7 +112,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d4b31a4c0e42a2dff0254ce2c513a95767f1e3583cdda8636efbb6402de2d918",
       "datetime": 1793272509,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "logo_url": null
     },
     {
       "ticker": "AMZN",
@@ -120,7 +120,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c4e137074ca7ad043893ad91d887ab365c5242b4199b61d8f3da7905f0bb4e0d",
       "datetime": 1793272152,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "logo_url": null
     },
     {
       "ticker": "AVGO",
@@ -583,15 +583,6 @@
       "week52_low": 56.78
     },
     "AMZN": {
-      "name": "Amazon.com Inc",
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png",
-      "industry": "Retail",
-      "exchange": "NASDAQ NMS - GLOBAL MARKET",
-      "website": "https://www.amazon.com/",
-      "ipo_date": "1997-05-15",
-      "market_cap_musd": 2746195.725989854,
-      "country": "US",
-      "currency": "USD",
       "price": 254.6,
       "open": 253.0,
       "day_high": 255.36,
@@ -608,5 +599,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-29T12:58:15.662928+00:00"
+  "updated_at": "2026-10-29T13:13:34.134173+00:00"
 }
