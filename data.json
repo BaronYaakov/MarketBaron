@@ -99,6 +99,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Is Tech Oversold Following Trend Reversals?",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fff11d148ab03745e2a23352b74fe74b151077360d1205639a060d203ae165bd",
+      "datetime": 1793248380,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Asia stocks fall as Alphabet, Samsung results disappoint; more tech earnings loom",
       "source": "Yahoo",
@@ -297,14 +305,6 @@
       "url": "https://finnhub.io/api/news?id=95ea2f0e82513b69725c253b82f674e3fb602140369ae854dc6d77601ecb77ee",
       "datetime": 1793178252,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica (TSX:CLS) Stock Cools Despite Q3 Earnings Power And AI Ramp",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=28a35b40c5bb86cb32dcae70364167d01ab7542ab751cc0753c56ba6e54b8f30",
-      "datetime": 1793162881,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "P",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-29T08:43:15.449507+00:00"
+  "updated_at": "2026-10-29T08:58:15.071614+00:00"
 }
