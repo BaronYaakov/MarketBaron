@@ -59,20 +59,68 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Lumentum Jumps, Fades On Marvell Buyout Report",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f1ee44ec0728ce003e007c25b1b148af1cab5f0f28a66ffd855b375af610097",
+      "datetime": 1793303573,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Stock Market Today: Tech Stocks Slammed By Alphabet Report; Amazon Earnings Next (Live Coverage)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4a5f3c0063cc9046dd7e4edc4afdb740a41170f690df41c5e1be516dbe899d1d",
+      "datetime": 1793302682,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Gene Munster Flags Google Earnings As A Warning Sign To Amazon Investors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=51a1f5830f847bb0f65228017229a9c1a0b335071d85a61caf558095b0629d98",
+      "datetime": 1793302469,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Prediction: This Will Be Broadcom's Stock Price by the End of 2027",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0d99e9c9cc700d0d0a83880a6f6601a5f9e6792a5b02c79fefb8407f8627a05d",
+      "datetime": 1793301480,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "70% of UPS Packages Will Be Handled by Machines This Holiday Season",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e0c6cfd2d448a8e58cc15bd1a75029285be69cdf190cbdaffaafe8190771d0b",
+      "datetime": 1793300242,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Constellation Just Signed 20-Year Deals With Amazon and Google. Where Will the Nuclear Energy Stock Be in 10 Years?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f1cae05c81fe3b300b1e8646938435b24f7b53e51005003d6999d3f7b38f824a",
+      "datetime": 1793299800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Palo Alto Soars 14% in a Week as CEO Warns of AI\u2019s \u201cNuclear Sort of Bomb\u201d",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=844c74834cf0f04bfb1b1842bb481e2d1b6b33fc888d230154b918fffd225e7d",
+      "datetime": 1793298234,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "5 Fastest-Growing AI Stocks to Buy Now",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5ed17e7207dcdfe59b4fb3b0c0561372399816d69df99b8c9bb4de9e1eb0fd45",
       "datetime": 1793295074,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon earnings live: AI growth takes center stage",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=19261c88125b3cd19a9a42139a71690b75ae8b12c682188bbdbb19c98832eadc",
-      "datetime": 1793295000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -107,14 +155,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "3 AI Stocks to Buy and Hold Through 2030",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b16893298e443ccd952a370e2f5d811a14d9e46cd8596768f3f9424f93cc208c",
-      "datetime": 1793292600,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "P",
       "headline": "Everpure vs. Dell: Which Data Storage Stock is the Better Buy Now?",
       "source": "Yahoo",
@@ -123,52 +163,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Amazon Slides 3% as Alphabet\u2019s 12% Plunge Raises Stakes for AWS Report; Meta Rises 3%, Microsoft Pulls Back",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fca11410cdd49664c1b1261aee57077d1fcbaa2babf87657eb16f8a4e6dac38b",
-      "datetime": 1793290963,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Why Is Broadcom (AVGO) Now Central To AI Funding And Infrastructure?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b051716a5cf47621868346f3727d0b5359edba61b811aa287ff3717501fa116a",
       "datetime": 1793290518,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Strength Seen in Electrovaya Inc. (ELVA): Can Its 10.2% Jump Turn into More Strength?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c03d5b0e600b6bdb205f36282963013dc037bda75aa4fda6cc0519094dee2b54",
-      "datetime": 1793290140,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Wall Street\u2019s Broadcom Target Sits Above Its 52-Week High. Is the Street Right?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=153c3fab2b0b72492b7ce8620a56ea82266c5a75ffc5c56ae661b2ee0445f09e",
-      "datetime": 1793289815,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "DoorDash Plans to Buy Instacart for $17B: What That Means for Consumers, Grocers and Delivery Workers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7a868c46a282babc3be16f59193cf420a0c2180820f6a3775c65fbd19a6168f2",
-      "datetime": 1793288970,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Alphabet Loses $500 Billion in Market Cap in One Day",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0044146d052d933c49f937e71b3e69f7e158a03295b1142dd0ff8c62e3eaa858",
-      "datetime": 1793288617,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "COR",
@@ -459,12 +459,12 @@
       "market_cap_musd": 1679410.717418,
       "country": "US",
       "currency": "USD",
-      "price": 344.89,
-      "open": 341.45,
+      "price": 345.0,
+      "open": 342.0,
       "day_high": 346.15,
       "day_low": 338.8,
       "prev_close": 351.81,
-      "day_change_pct": -1.97,
+      "day_change_pct": -1.94,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -479,7 +479,7 @@
       "country": "CA",
       "currency": "USD",
       "price": 38.67,
-      "open": 38.95,
+      "open": 39.0,
       "day_high": 39.3,
       "day_low": 38.45,
       "prev_close": 39.69,
@@ -497,12 +497,12 @@
       "market_cap_musd": 53035.057932,
       "country": "CA",
       "currency": "USD",
-      "price": 283.66,
-      "open": 289.5,
+      "price": 282.75,
+      "open": 290.65,
       "day_high": 292.0,
       "day_low": 279.1,
       "prev_close": 299.8,
-      "day_change_pct": -5.38,
+      "day_change_pct": -5.69,
       "week52_high": 655.5,
       "week52_low": 330.79
     },
@@ -516,8 +516,8 @@
       "market_cap_musd": 61894.79665900001,
       "country": "US",
       "currency": "USD",
-      "price": 330.54,
-      "open": 328.88,
+      "price": 330.53,
+      "open": 328.84,
       "day_high": 331.07,
       "day_low": 326.33,
       "prev_close": 324.35,
@@ -535,12 +535,12 @@
       "market_cap_musd": 73162.418122,
       "country": "US",
       "currency": "USD",
-      "price": 88.12,
-      "open": 92.55,
-      "day_high": 92.6,
+      "price": 88.07,
+      "open": 91.09,
+      "day_high": 92.59,
       "day_low": 86.7,
       "prev_close": 90.44,
-      "day_change_pct": -2.57,
+      "day_change_pct": -2.62,
       "week52_high": 102.46,
       "week52_low": 82.59
     },
@@ -555,7 +555,7 @@
       "country": "US",
       "currency": "USD",
       "price": 19.47,
-      "open": 19.5,
+      "open": 19.55,
       "day_high": 19.55,
       "day_low": 19.27,
       "prev_close": 19.32,
@@ -573,12 +573,12 @@
       "market_cap_musd": 46185.30088000001,
       "country": "US",
       "currency": "USD",
-      "price": 137.5,
-      "open": 134.62,
+      "price": 137.2,
+      "open": 135.28,
       "day_high": 140.84,
       "day_low": 134.62,
       "prev_close": 138.6,
-      "day_change_pct": -0.79,
+      "day_change_pct": -1.01,
       "week52_high": 157.57,
       "week52_low": 56.78
     },
@@ -592,12 +592,12 @@
       "market_cap_musd": 2746195.7256,
       "country": "US",
       "currency": "USD",
-      "price": 244.09,
-      "open": 249.56,
-      "day_high": 249.56,
+      "price": 243.79,
+      "open": 246.95,
+      "day_high": 249.14,
       "day_low": 241.24,
       "prev_close": 254.6,
-      "day_change_pct": -4.13,
+      "day_change_pct": -4.25,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-29T19:58:18.231056+00:00"
+  "updated_at": "2026-10-29T20:13:18.227329+00:00"
 }
