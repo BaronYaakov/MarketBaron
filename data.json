@@ -59,44 +59,76 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
-      "ticker": "AMZN",
-      "headline": "Nasdaq 100 Futures Dip On Weak Intel, Amazon Earnings With Bloated Capex Worries Weighing On Sentiment \u2014  AMZN, INTC, SBUX, PLTR, ASTS In Focus",
+      "ticker": "ORLY",
+      "headline": "O'Reilly: 3 Key Takeaways for Long-Term Investors",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=80c21737b1138c6ad62c38672635cfe30947864df39d74f72e7ca6ee2eba3857",
-      "datetime": 1793318055,
+      "url": "https://finnhub.io/api/news?id=9c9f90f972f372642e9637a0a972069d2a8442736ed8af8f45448128bec51f15",
+      "datetime": 1793331290,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "3 Canadian Undervalued Stocks Trading Up To 50% Below Fair Value",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f8e50923942da7d67cb6864948cd339d2319e09fe3626b4e72d954e9eecb4a50",
+      "datetime": 1793330308,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Andy Jassy says Prime Video is on track to earn \u2018tens of billions of dollars\u2019",
+      "headline": "SNDK Tumbles Amid Tech Selloff Despite Upbeat Q1 Report; Retail Turns Bullish",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=870008ffd90c8fada1c81efc62157291559b5abdd9dd72d8e258e41e3fdaff57",
-      "datetime": 1793317496,
+      "url": "https://finnhub.io/api/news?id=e77ff4515978e46db11001f58dda6269ebce33cfb3917b10d9c6e6162e2a6c2e",
+      "datetime": 1793329548,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "headline": "Tech firms take fresh hit as earnings misses fan AI fears",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4acaa31e0890461cdbc50ba8f269fe061aa8abc001e3520d9cdef3bb07ab73f0",
-      "datetime": 1793317342,
+      "url": "https://finnhub.io/api/news?id=a5ecce57cf27b7c9a9a26708eb667e49b25ed3bc571f9400735c8d59e50c53bd",
+      "datetime": 1793328568,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Jim Cramer praises Broadcom and recommends buying another iconic stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b692fd75b7d69941758b2fd7c5a90bd1cd04affd9222b3d7b9d554c0b9444657",
+      "datetime": 1793328420,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "What SPS Commerce (SPSC) Said on Its Q3 Earnings Call",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dd96582c0e51612bd86dfa59fff4d15d5643ed2e5c5ebeccea913dcadb0ae26b",
+      "datetime": 1793326449,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Amazon battles freight inflation as shipping costs jump 11% in Q3",
+      "headline": "Grab Holdings And 2 Top Penny Stocks To Watch",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5453ed20f7b622e293b6c1a89121a12f78b95e6f9fb9cf4d12237a5e02c6eda3",
-      "datetime": 1793316412,
+      "url": "https://finnhub.io/api/news?id=0b22c72e32977359b7f234974b26ca22fa5de133c96e4243464c4c2a946113f4",
+      "datetime": 1793326408,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Amazon cloud business accelerates but shares drop on profit miss",
+      "headline": "Dow Jones Futures Fall, Nasdaq Futures Plunge 2% On Amazon, Intel After Google, ServiceNow, Fortinet Dive",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e7f1fed084d9d894a2e68171ba02aee1dd8c2f645684487a44d3364aab55aab0",
-      "datetime": 1793312472,
+      "url": "https://finnhub.io/api/news?id=19cc61c993aa7f24248741b86c68c8820bdf464261100f9342b8fd8072a79239",
+      "datetime": 1793324334,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Semiconductor Sell-Off: The 1 AI Chip Stock I'd Buy and 1 I'd Avoid",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=24955524d018f34014eefdd5ab98fb37e4e54398b1a9c56e3c907686e6b35e07",
+      "datetime": 1793319180,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "ORLY",
@@ -105,14 +137,6 @@
       "url": "https://finnhub.io/api/news?id=d18d7bab7797845f13b99c24f319750b03a8c72d11cbced0745eeeaf580067bc",
       "datetime": 1793311567,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "AMZN Stock Drops 7% As AI Spending Soars Past Expectations, While E-Commerce Growth Cools",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=358dd998db973fd21ec56b516758867d2868b470711df5ed790ef600bc58068f",
-      "datetime": 1793311463,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "ORLY",
@@ -171,28 +195,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Prediction: This Will Be Broadcom's Stock Price by the End of 2027",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0d99e9c9cc700d0d0a83880a6f6601a5f9e6792a5b02c79fefb8407f8627a05d",
-      "datetime": 1793301480,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "What Just Happened To Celestica Stock?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=164caf37eb5c5972f16953f9173d3e9442b741bc3c8db0f4de5fe97695405ef4",
       "datetime": 1793299046,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Intel: Guidance Disaster Causes 20%+ Price Slump",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=6fcbbd2451d5753fa29bf4e71c6217c0ccd259e7ed64c919103ecbe88f870809",
-      "datetime": 1793297408,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "ORLY",
@@ -257,14 +265,6 @@
       "url": "https://finnhub.io/api/news?id=e71fb6d8fd3a067ba26a27861c521afbd339fd37a0686bf5ebf3b035e03d09d7",
       "datetime": 1793278822,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "O'Reilly Automotive, Inc. Q3 2026 Earnings Call Summary",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4d93cadb5d78397ab08721249600348f06c7e3d4f6d1b8d7d5bc7c659245ff45",
-      "datetime": 1793277000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "CLS",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-30T04:58:15.881729+00:00"
+  "updated_at": "2026-10-30T05:13:16.081258+00:00"
 }
