@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "B",
+      "headline": "Barrick Mining Corp (NYSE:B) Shows High-Growth Leadership as Momentum Setup Builds",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=1a22062fef4862400e95691d054db32af01ed954808eb4739175792fc42d28a1",
+      "datetime": 1793359898,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Stock Market Today: Alphabet Suffers Its Worst Day Ever as AI Fears Spread From Search to Software",
       "source": "ChartMill",
@@ -387,14 +395,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
-      "ticker": "B",
-      "headline": "Newmont: Emerging From Production Trough, But Gold Falling From Peaks",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=6c9d13a8d348adda3fb652a4d357152f92caea5a07ed62ffe8cff0153d266eeb",
-      "datetime": 1793091947,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
       "ticker": "P",
       "headline": "Tesla Makes Bullish Move, But These Five AI Stocks Lead The S&P 500",
       "source": "Yahoo",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-30T11:43:15.476434+00:00"
+  "updated_at": "2026-10-30T11:58:15.504120+00:00"
 }
