@@ -59,62 +59,6 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
-      "ticker": "AMZN",
-      "headline": "Big Tech Capex Scorecard: Amazon Spends Over $77B In One Quarter \u2014 How It Stacks Up With MSFT, TSLA, GOOGL",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f6b2beae9f5c0d2265589cfb47eba8e599d42190cf3c4e90228ee3c5d90f2413",
-      "datetime": 1793337370,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "3 Growth Stocks With Revenue Growth Over 23%",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=029cc80da64e0ddb1f5f199b1fa9dc02e51ad2886fcfa00c85f7821f963d2f37",
-      "datetime": 1793337317,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon CEO Andy Jassy Just Made a Wild Prediction. It Could Make the Tech Giant a Big Winner.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=74ac59280a3c3c87533e305509d19bc1f8ebb2c4fbf356ae22dedc61441268b2",
-      "datetime": 1793335802,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Asia stocks tumble as AI spending concerns deepen; BOJ holds rates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3960b5518def08ebe86587d808a454719ea8e476f0bd3a43aa3c1a65ea6017bd",
-      "datetime": 1793333175,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Dow, S&P 500, Nasdaq Futures Fall As Weak Tech Earnings Trigger Selloff: INTC, IOVA, SLS, AMZN Stocks In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f89f045a29e0ff0cad154ff77c0a6cbf05b21220ee222c9602ecb434f116efb7",
-      "datetime": 1793332985,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon's $578 Billion AWS Backlog Is Growing Faster Than Its Revenue",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cc5ae745cbcc8a3c32f2b1185115b0e82e887a69adcb7d57c590b9ce87a05f00",
-      "datetime": 1793331960,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "O'Reilly: 3 Key Takeaways for Long-Term Investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9c9f90f972f372642e9637a0a972069d2a8442736ed8af8f45448128bec51f15",
-      "datetime": 1793331290,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Jim Cramer praises Broadcom and recommends buying another iconic stock",
       "source": "Yahoo",
@@ -139,22 +83,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "ORLY",
-      "headline": "After-Hours S&P 500 Movers: Mondelez and FedEx Freight Gain, Intel and Reddit Fall",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=d18d7bab7797845f13b99c24f319750b03a8c72d11cbced0745eeeaf580067bc",
-      "datetime": 1793311567,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "O'Reilly Automotive (ORLY) Q3 2026 Earnings Call Transcript",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1921fcc396ba017846792d65c8d2d27aafb83aef99b76c2341bab743d6d2554e",
-      "datetime": 1793310379,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Stock Market Today, Oct. 29: Marvell Falls on Lumentum Acquisition Talks",
       "source": "Yahoo",
@@ -171,14 +99,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "ORLY",
-      "headline": "O'Reilly Automotive Q3 Earnings Call Highlights",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bc397303e14e8993ff516bd012f8cf42adec0e3e12779105f0850a2c4e217b70",
-      "datetime": 1793308457,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Jim Cramer Says Buy Coca-Cola. Is Its Dividend Still Worth It After a 35% Rally?",
       "source": "Yahoo",
@@ -187,100 +107,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "COR",
-      "headline": "Is It A Mistake To Buy Cardinal Health Stock At A High?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=566ca0cb995fbb132ff1f57c5fd1e6d924bd9736085a4b4a849f7aa957c75916",
-      "datetime": 1793305756,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "What Just Happened To Celestica Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=164caf37eb5c5972f16953f9173d3e9442b741bc3c8db0f4de5fe97695405ef4",
-      "datetime": 1793299046,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "O'Reilly Automotive, Inc. (ORLY) Q3 2026 Earnings Call Transcript",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=1d54dc7a045b0e0c5bafff54517af06d986d3e9a1f32d4dda0940e9045f7c1c5",
-      "datetime": 1793294967,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "O'Reilly Automotive's Strong Q3 Results Masked Weaker Details, UBS Says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=adc9143a755ddd9f6f0e13620cc069d1b969ac8ed6fc0b2dd22698a1e480a219",
-      "datetime": 1793294156,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
       "ticker": "P",
       "headline": "Everpure vs. Dell: Which Data Storage Stock is the Better Buy Now?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=88519f8700ed1fa49d1be8a13ce6af9f6dc5cf18aebf53cd52f5354192e61001",
       "datetime": 1793292000,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Is CLS a Buy Now as AI Growth Collides With Premium Valuation Risks?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4dbb34cea6e68f29ff9aca54315027556847a3d3b3e7d73317260292227b25e5",
-      "datetime": 1793287500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "CLS Falls 14.4% in a Week as AI Growth Meets Rising Execution Risks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=21a21a5116aae074ed36092e60086099e88f8b735dd680221518fe3739746d95",
-      "datetime": 1793287380,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "CLS Raises 2026 Outlook as AI Demand Powers an Aggressive 2027 Ramp",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a9918866a52bdfffc9133108ed80f529f7b0923d95b6f4822210935709ca2c0e",
-      "datetime": 1793287260,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Primo Brands (PRMB) Reports Next Week: Wall Street Expects Earnings Growth",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=443122d57b14b9f2646eb829767434145172e48a677a23049112272ccb7e0579",
-      "datetime": 1793278832,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Will Biodesix, Inc. (BDSX) Report Negative Earnings Next Week? What You Should Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e71fb6d8fd3a067ba26a27861c521afbd339fd37a0686bf5ebf3b035e03d09d7",
-      "datetime": 1793278822,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Why Did Flex Stock Jump?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e8560f48ac673f4c0cb118fbac6c3c0d68614a786d32737db38e9f44b3288224",
-      "datetime": 1793276108,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Canadian Stock Market Today: TSX Futures Edge Up As BoC Hike Reshapes Rate Expectations",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b54ae1a80257b8f061aea23b3e0512da4e9d6ad7bbd5c5a3fe3eef56791f2f6c",
-      "datetime": 1793275890,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "B",
@@ -315,22 +147,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "COR",
-      "headline": "Cencora (COR) Reports Next Week: Wall Street Expects Earnings Growth",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e2c50bb6ec56e6abaac2abda52a224b60a209a2cf1bf622bc46c34997dc4392d",
-      "datetime": 1793192412,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Cencora to Acquire AON in $2.4B Deal to Expand Oncology Network",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=800ca77ecea004d6239357c8f0ba9702f5505b082312536843e13fefe1cad206",
-      "datetime": 1793191020,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
       "ticker": "B",
       "headline": "Barrick Mining Corp (NYSE:B): A Decent Value Stock Backed by Strong Valuation and Profitability",
       "source": "ChartMill",
@@ -353,22 +169,6 @@
       "url": "https://finnhub.io/api/news?id=8ba66718654ce4b3eab97d048e8739d97254cf34a2b83a6a6c2efe3fee25982d",
       "datetime": 1793153273,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Amgen vs. Novo Nordisk: Which Healthcare Giant's Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e28eb1d0635ed7a67b5ca5e5f521f9b89c04e05c3b48d3689c29c22162344fa4",
-      "datetime": 1793113802,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "PRMB",
-      "headline": "Primo Brands (PRMB) Struggles in Q3 2026 Despite Stable or Improving Fundamentals, Madison Small Cap Fund Says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b3215bb7660f8eb4930cd12d4c163b5de7679b23190441b284171588fc34b344",
-      "datetime": 1793109461,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     },
     {
       "ticker": "B",
@@ -401,14 +201,6 @@
       "url": "https://finnhub.io/api/news?id=00653d71e8a7f44983a1215c6c6dba4e658e274752a4c368465c1e328b9c437e",
       "datetime": 1793045677,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Amgen vs. Johnson & Johnson: Which Healthcare Giant Has the Better Stock to Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=352f3c23d139442045486e4ee957da337f5b851133d28320bdebba8e3b4e1f02",
-      "datetime": 1792859461,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     }
   ],
   "recent_posts": [],
@@ -616,5 +408,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-30T06:43:15.876319+00:00"
+  "updated_at": "2026-10-30T06:58:16.083728+00:00"
 }
