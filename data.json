@@ -59,60 +59,60 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Tech firms take fresh hit as disappointing earnings fan AI fears",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da918161120c2727a5b85d579276fbc682af672b498ae1c52a45ee5feee0013e",
+      "datetime": 1793353012,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Update: Amazon Slumps Pre-Bell After Q3 Earnings Fall Amid Higher Revenue While Free Cash Outflow Hits $42.4 Billion",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2520dd658783c7dd54948c7e4dfcd415d94b6327ea04c8ab77097d10e2d97702",
+      "datetime": 1793352936,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Nasdaq futures tumble; Binance suffers massive hack - what\u2019s moving markets",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=21ef5af22be2d05e5de48b9dd3fcea10547bb99cf2ef8b60db436aa29304e84e",
+      "datetime": 1793352634,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The Magnificent 7 stocks are seeing stunning declines",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=92a71b2521e5aeffa8e723b5b30dae87270d0c9ecb9611145acdf8dca741bd58",
+      "datetime": 1793352439,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Energy rally lifts FTSE 100 to lone gain in Europe as oil approaches 6-month high",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c9f5600d8e7db662ae32b07baa1a011935d805f76c3d35a675cf3fefa5f61257",
+      "datetime": 1793351027,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon, Alphabet, SpaceX and Meta are all to blame for the new tech stock rout",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=350d1d35e0b4f36dca426ea582dfa1737eb8db42bf74cfc796b2e4fe93903702",
+      "datetime": 1793351004,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Stocktwits Wall Street Wrap \u2014 Tesla, Broadcom, MercadoLibre Get Bullish Calls As Alphabet, Enphase Face Downgrades",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3c5c2950ec23adfded7279946ece523231db65c988c21898a7d230997b282d3d",
       "datetime": 1793350846,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "NVDA Stock Drops: Nvidia May Back Data Center Loan Its Own Customer, Analyst Sees Little Impact From Intel\u2019s Weak Report",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b599ef299c6f21cb13de346fe40c20fc70de2324fb560e4bd69af2aa92844679",
-      "datetime": 1793344958,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "MARKETS LIVE: FTSE 100 set to rise despite Wall Street sell-off and Asian technology rout",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cc7ccdbfa6c34a217519bec1225fa8484759d2817e40f725e4e36a72313e21c8",
-      "datetime": 1793343900,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Has Bigger Plans for AI Chips: Andy Jassy Says Customers Want Them \u2018Outside\u2019 AWS, but Selling Them Comes With a Trade-Off",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=80de8475e625da27f344d8df05f60821e8ed743f0573731f239d00633269863e",
-      "datetime": 1793343204,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon's After-Hours Drop Leaves It Below Wall Street's Lowest Price Target",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=086d495ab3aba01b8dd28b58992a7f57848b43696b3e972ebf8c2518a64ebea9",
-      "datetime": 1793340330,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Big Tech Capex Scorecard: Amazon Spends Over $77B In One Quarter \u2014 How It Stacks Up With MSFT, TSLA, GOOGL",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f6b2beae9f5c0d2265589cfb47eba8e599d42190cf3c4e90228ee3c5d90f2413",
-      "datetime": 1793337370,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "3 Growth Stocks With Revenue Growth Over 23%",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=029cc80da64e0ddb1f5f199b1fa9dc02e51ad2886fcfa00c85f7821f963d2f37",
-      "datetime": 1793337317,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "ORLY",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-30T10:13:15.714413+00:00"
+  "updated_at": "2026-10-30T10:28:15.640356+00:00"
 }
