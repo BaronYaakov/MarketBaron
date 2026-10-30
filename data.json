@@ -59,12 +59,44 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Amazon battles freight inflation as shipping costs jump 11% in Q3",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5453ed20f7b622e293b6c1a89121a12f78b95e6f9fb9cf4d12237a5e02c6eda3",
+      "datetime": 1793316412,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon cloud business accelerates but shares drop on profit miss",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e7f1fed084d9d894a2e68171ba02aee1dd8c2f645684487a44d3364aab55aab0",
+      "datetime": 1793312472,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "ORLY",
       "headline": "After-Hours S&P 500 Movers: Mondelez and FedEx Freight Gain, Intel and Reddit Fall",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=d18d7bab7797845f13b99c24f319750b03a8c72d11cbced0745eeeaf580067bc",
       "datetime": 1793311567,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "AMZN Stock Drops 7% As AI Spending Soars Past Expectations, While E-Commerce Growth Cools",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=358dd998db973fd21ec56b516758867d2868b470711df5ed790ef600bc58068f",
+      "datetime": 1793311463,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "InterDigital, Inc. Q3 2026 Earnings Call Summary",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7df98f82747a55adf896cd1c26abeda8e149c20825470eb20b79a816d4a769f5",
+      "datetime": 1793311236,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "ORLY",
@@ -92,42 +124,10 @@
     },
     {
       "ticker": "AMZN",
-      "headline": "Amazon Stock Slides After Q3 Earnings Miss Despite Strong Cloud Growth",
+      "headline": "First Google Search, Now Amazon Retail. Tech\u2019s Moneymakers Are Stumbling.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1d1bbb5032752fa2e6c5ddb2bb1e7ecfdb1ac842e22c32ad7acaaa2c3ea081ac",
-      "datetime": 1793310002,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "'Workloads are moving': Amazon's Jassy says AWS still growing amid cloud move",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=95b1ef937b050c43acd638c42c653099312667e58bd1cb781899209ae7cd7db4",
-      "datetime": 1793310000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Upbound Group, Inc. Q3 2026 Earnings Call Summary",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d91757da0c22691f02c942dc385585ab752d85cd18ca6561d81117b41b870ea0",
-      "datetime": 1793308925,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon reported booming cloud revenue but otherwise missed expectations",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=07e8d1f810e1de29e76773de42d8bc2d3514014e2f42fa259e5ef52b8b024d44",
-      "datetime": 1793308847,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon shares sink as it spends heavily on AI",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5e7168f9b12384244316361ee7900afbbaa3d66216d98ce323a571f9a4005a07",
-      "datetime": 1793308671,
+      "url": "https://finnhub.io/api/news?id=81b9d203e547b4739e5fc0a7cce5145542c44c4a393205d997387d4bdae423c9",
+      "datetime": 1793310180,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -456,7 +456,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1679410.717418,
+      "market_cap_musd": 1646902.298141639,
       "country": "US",
       "currency": "USD",
       "price": 345.0,
@@ -513,7 +513,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 61894.79665900001,
+      "market_cap_musd": 63074.10864713818,
       "country": "US",
       "currency": "USD",
       "price": 330.53,
@@ -532,7 +532,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 73162.418122,
+      "market_cap_musd": 71245.1809376884,
       "country": "US",
       "currency": "USD",
       "price": 88.07,
@@ -551,7 +551,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 6992.752668,
+      "market_cap_musd": 7047.044225981366,
       "country": "US",
       "currency": "USD",
       "price": 19.47,
@@ -570,7 +570,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 46185.30088000001,
+      "market_cap_musd": 45718.78268929293,
       "country": "US",
       "currency": "USD",
       "price": 137.2,
@@ -589,7 +589,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2746195.7256,
+      "market_cap_musd": 2629595.663566473,
       "country": "US",
       "currency": "USD",
       "price": 243.79,
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-29T23:58:16.877211+00:00"
+  "updated_at": "2026-10-30T00:13:17.004535+00:00"
 }
