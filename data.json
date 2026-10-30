@@ -148,6 +148,14 @@
     },
     {
       "ticker": "ORLY",
+      "headline": "O'Reilly Automotive Has A Long Growth Runway, But The Price Keeps Me At Hold",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d5629314c4e621f9e2afb9437d7ea290c811bd27e9705485f082cb12140ec2ab",
+      "datetime": 1793348675,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "ORLY",
       "headline": "O'Reilly: 3 Key Takeaways for Long-Term Investors",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=9c9f90f972f372642e9637a0a972069d2a8442736ed8af8f45448128bec51f15",
@@ -224,14 +232,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=1d54dc7a045b0e0c5bafff54517af06d986d3e9a1f32d4dda0940e9045f7c1c5",
       "datetime": 1793294967,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "ORLY",
-      "headline": "O'Reilly Automotive's Strong Q3 Results Masked Weaker Details, UBS Says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=adc9143a755ddd9f6f0e13620cc069d1b969ac8ed6fc0b2dd22698a1e480a219",
-      "datetime": 1793294156,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-30T12:28:16.133360+00:00"
+  "updated_at": "2026-10-30T12:43:16.240291+00:00"
 }
