@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "Stocktwits Wall Street Wrap \u2014 Tesla, Broadcom, MercadoLibre Get Bullish Calls As Alphabet, Enphase Face Downgrades",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3c5c2950ec23adfded7279946ece523231db65c988c21898a7d230997b282d3d",
+      "datetime": 1793350846,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "NVDA Stock Drops: Nvidia May Back Data Center Loan Its Own Customer, Analyst Sees Little Impact From Intel\u2019s Weak Report",
       "source": "Yahoo",
@@ -177,14 +185,6 @@
       "url": "https://finnhub.io/api/news?id=bc397303e14e8993ff516bd012f8cf42adec0e3e12779105f0850a2c4e217b70",
       "datetime": 1793308457,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Jim Cramer Says Buy Coca-Cola. Is Its Dividend Still Worth It After a 35% Rally?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=85203110da0a0eebbef970ae1e16deb5126b56dc05fc8281d5f1dbeecc917c2b",
-      "datetime": 1793308057,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "COR",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-30T09:28:15.493039+00:00"
+  "updated_at": "2026-10-30T09:43:15.668748+00:00"
 }
