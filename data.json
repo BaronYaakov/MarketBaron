@@ -60,50 +60,66 @@
   "news": [
     {
       "ticker": "AMZN",
-      "headline": "Sector Update: Tech Stocks Tumble Late Afternoon",
+      "headline": "Apple overtakes Nvidia to become world\u2019s most valuable company amid tech selloff",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9d702e791275d4bb72d80d2ac1910628c42eb8dff05957377173f70610faaa63",
-      "datetime": 1793389751,
+      "url": "https://finnhub.io/api/news?id=2ab228d2c7435ae6a789946286b6875a9a2b6f5ed02e52ebacb8a3b4484d8a59",
+      "datetime": 1793396873,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "AMZN Stock Set To Drop For Third Straight Week: Amazon Taps $80B Credit Line To Fund AI Capex",
+      "headline": "Stock Market Today, Oct. 30: Amazon Misses Revenue and Earnings Expectations",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4830bd8cef8a870856d847dfcf2fb59d712cac9db2b804633eafbb520c3edfe2",
-      "datetime": 1793389049,
+      "url": "https://finnhub.io/api/news?id=8af776c42ea3d28d485922c82c3fc941a4a6b9eff086dea13aa05e6c4fec9ce3",
+      "datetime": 1793396102,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Cracks are emerging in the AI spending boom",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d06f04fb421777e9671651d5e06a5d9ce8ac7696c65521db9c4aeb909671a979",
+      "datetime": 1793395060,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Cracks are emerging in the AI spending boom",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d06f04fb421777e9671651d5e06a5d9ce8ac7696c65521db9c4aeb909671a979",
+      "datetime": 1793395060,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "$1,000 in UPS Stock 10 Years Ago: Did the Dividends Offset the Decline?",
+      "headline": "Anthropic turns profitable but could go back into losses: Seaport analyst",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c3f71bd0eeb4a942a929754824926a84ae7858eab1839c8297997b411524f38e",
-      "datetime": 1793387844,
+      "url": "https://finnhub.io/api/news?id=8c5a6657d94a850c02fca6a68a40c1cf803d68e1b73acc8766ccd5668d537d31",
+      "datetime": 1793394580,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "The Tech Sell-Off is Putting the AI Trade on Notice. An Expert is Questioning Whether the Spending is Justified.",
+      "headline": "Update: Nasdaq Composite Marks Worst Month Since March 2025 as AI Spending Fears Rise",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3a9245c6199125db9f2ea9de07b59245afb2abb1dffe1e67e8cdf667613910d7",
-      "datetime": 1793387656,
+      "url": "https://finnhub.io/api/news?id=468f4b1cc4d87e952e94771081b40b10847d8459636278cb262bd1e98882abf1",
+      "datetime": 1793393813,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Bitcoin Drops as Markets Digest Multbillion-Dollar Binance Hack",
+      "ticker": "AVGO",
+      "headline": "Former SEC Chair: Broadcom\u2019s $63 Billion Package Feels Like \u201cThat 08 Off-Balance Sheet Craze\u201d",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e6b5a7f689a4e0ff2b51075c151d0587db9903adb2a4d078899ef19e9cf0bf29",
-      "datetime": 1793386160,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "url": "https://finnhub.io/api/news?id=41a140d2d1263e4696049a3826e4b9a26b80cbd382b3a6d9f615d19e6cb1ee6b",
+      "datetime": 1793393536,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Investing.com\u2019s stocks of the week",
+      "headline": "Dow Jones Futures: Stock Market Sells Off As Apple, Palantir, Midterm Elections Loom; What To Do",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=54c6e979eb7b9b369b2c7231c693bb0d2efd472100396783381bb281ca0dc112",
-      "datetime": 1793384901,
+      "url": "https://finnhub.io/api/news?id=0cef08ea889b2b7e946c4c2bede5dc95d1a4873376275e0c36a9e292b8615a57",
+      "datetime": 1793393516,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -139,28 +155,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "5 AI Stocks Set to Win Big From Anthropic's Spending Spree",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2d060a854250b6d80a6bbbed19d95e90af29b339f426948084bf4c50ec89ebd9",
-      "datetime": 1793377740,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "O'Reilly's Strong Q3 Comps Offset by Margin Pressure, RBC Says",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3e2de220d0a90bb83f8809e61cf447dd67095c19e4f2df978f88c87093ec3ec2",
       "datetime": 1793376873,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Nvidia\u2019s AI Dominance Could Have Further to Run",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4d50c160e9c52b1e176d7795beb498fcbd687e05c54aa49c42abfbfdb6c89e22",
-      "datetime": 1793376208,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "COR",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-30T21:58:16.290990+00:00"
+  "updated_at": "2026-10-30T22:13:16.464572+00:00"
 }
