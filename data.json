@@ -59,36 +59,60 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Big Tech Capex Scorecard: Amazon Spends Over $77B In One Quarter \u2014 How It Stacks Up With MSFT, TSLA, GOOGL",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f6b2beae9f5c0d2265589cfb47eba8e599d42190cf3c4e90228ee3c5d90f2413",
+      "datetime": 1793337370,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "3 Growth Stocks With Revenue Growth Over 23%",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=029cc80da64e0ddb1f5f199b1fa9dc02e51ad2886fcfa00c85f7821f963d2f37",
+      "datetime": 1793337317,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon CEO Andy Jassy Just Made a Wild Prediction. It Could Make the Tech Giant a Big Winner.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=74ac59280a3c3c87533e305509d19bc1f8ebb2c4fbf356ae22dedc61441268b2",
+      "datetime": 1793335802,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Asia stocks tumble as AI spending concerns deepen; BOJ holds rates",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3960b5518def08ebe86587d808a454719ea8e476f0bd3a43aa3c1a65ea6017bd",
+      "datetime": 1793333175,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Dow, S&P 500, Nasdaq Futures Fall As Weak Tech Earnings Trigger Selloff: INTC, IOVA, SLS, AMZN Stocks In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f89f045a29e0ff0cad154ff77c0a6cbf05b21220ee222c9602ecb434f116efb7",
+      "datetime": 1793332985,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon's $578 Billion AWS Backlog Is Growing Faster Than Its Revenue",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cc5ae745cbcc8a3c32f2b1185115b0e82e887a69adcb7d57c590b9ce87a05f00",
+      "datetime": 1793331960,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "ORLY",
       "headline": "O'Reilly: 3 Key Takeaways for Long-Term Investors",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=9c9f90f972f372642e9637a0a972069d2a8442736ed8af8f45448128bec51f15",
       "datetime": 1793331290,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "3 Canadian Undervalued Stocks Trading Up To 50% Below Fair Value",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f8e50923942da7d67cb6864948cd339d2319e09fe3626b4e72d954e9eecb4a50",
-      "datetime": 1793330308,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "SNDK Tumbles Amid Tech Selloff Despite Upbeat Q1 Report; Retail Turns Bullish",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e77ff4515978e46db11001f58dda6269ebce33cfb3917b10d9c6e6162e2a6c2e",
-      "datetime": 1793329548,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Tech firms take fresh hit as earnings misses fan AI fears",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a5ecce57cf27b7c9a9a26708eb667e49b25ed3bc571f9400735c8d59e50c53bd",
-      "datetime": 1793328568,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -99,35 +123,19 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "What SPS Commerce (SPSC) Said on Its Q3 Earnings Call",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dd96582c0e51612bd86dfa59fff4d15d5643ed2e5c5ebeccea913dcadb0ae26b",
-      "datetime": 1793326449,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Grab Holdings And 2 Top Penny Stocks To Watch",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0b22c72e32977359b7f234974b26ca22fa5de133c96e4243464c4c2a946113f4",
-      "datetime": 1793326408,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Dow Jones Futures Fall, Nasdaq Futures Plunge 2% On Amazon, Intel After Google, ServiceNow, Fortinet Dive",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=19cc61c993aa7f24248741b86c68c8820bdf464261100f9342b8fd8072a79239",
-      "datetime": 1793324334,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Semiconductor Sell-Off: The 1 AI Chip Stock I'd Buy and 1 I'd Avoid",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=24955524d018f34014eefdd5ab98fb37e4e54398b1a9c56e3c907686e6b35e07",
       "datetime": 1793319180,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Got $1,000? This Monster Growth Stock Is on Sale Right Now and Targets 10X Sales Growth By 2031",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fd88b87bde3e610dfde708556cc69282dfd3d1d9930e48bc2ca91515f8d21cc8",
+      "datetime": 1793311706,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -185,14 +193,6 @@
       "url": "https://finnhub.io/api/news?id=566ca0cb995fbb132ff1f57c5fd1e6d924bd9736085a4b4a849f7aa957c75916",
       "datetime": 1793305756,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Amazon Stock Tanks After Earnings Miss",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=adc4f6be97057d970f3ecbef10a002ef4a061b8acb5b19c482743abca1df87b1",
-      "datetime": 1793304780,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-30T05:58:15.867825+00:00"
+  "updated_at": "2026-10-30T06:13:16.150317+00:00"
 }
