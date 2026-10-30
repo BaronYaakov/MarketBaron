@@ -123,6 +123,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "First Google Search, Now Amazon Retail. Tech\u2019s Moneymakers Are Stumbling.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=81b9d203e547b4739e5fc0a7cce5145542c44c4a393205d997387d4bdae423c9",
+      "datetime": 1793310180,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "First Google Search, Now Amazon Retail. Tech\u2019s Moneymakers Are Stumbling.",
       "source": "Yahoo",
@@ -171,19 +179,19 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "What Just Happened To Celestica Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=164caf37eb5c5972f16953f9173d3e9442b741bc3c8db0f4de5fe97695405ef4",
+      "datetime": 1793299046,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Intel: Guidance Disaster Causes 20%+ Price Slump",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=6fcbbd2451d5753fa29bf4e71c6217c0ccd259e7ed64c919103ecbe88f870809",
       "datetime": 1793297408,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "5 Fastest-Growing AI Stocks to Buy Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5ed17e7207dcdfe59b4fb3b0c0561372399816d69df99b8c9bb4de9e1eb0fd45",
-      "datetime": 1793295074,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -211,6 +219,30 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Is CLS a Buy Now as AI Growth Collides With Premium Valuation Risks?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4dbb34cea6e68f29ff9aca54315027556847a3d3b3e7d73317260292227b25e5",
+      "datetime": 1793287500,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "CLS Falls 14.4% in a Week as AI Growth Meets Rising Execution Risks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=21a21a5116aae074ed36092e60086099e88f8b735dd680221518fe3739746d95",
+      "datetime": 1793287380,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "CLS Raises 2026 Outlook as AI Demand Powers an Aggressive 2027 Ramp",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a9918866a52bdfffc9133108ed80f529f7b0923d95b6f4822210935709ca2c0e",
+      "datetime": 1793287260,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "COR",
       "headline": "Will Biodesix, Inc. (BDSX) Report Negative Earnings Next Week? What You Should Know",
       "source": "Yahoo",
@@ -220,11 +252,27 @@
     },
     {
       "ticker": "ORLY",
-      "headline": "Advance Auto Parts Is Stuck In Neutral",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=8e947b63491882e2d14096e1fef32d78e02bd9ff14d60227668bea99778e4473",
-      "datetime": 1793276817,
+      "headline": "O'Reilly Automotive, Inc. Q3 2026 Earnings Call Summary",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4d93cadb5d78397ab08721249600348f06c7e3d4f6d1b8d7d5bc7c659245ff45",
+      "datetime": 1793277000,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Why Did Flex Stock Jump?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e8560f48ac673f4c0cb118fbac6c3c0d68614a786d32737db38e9f44b3288224",
+      "datetime": 1793276108,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Canadian Stock Market Today: TSX Futures Edge Up As BoC Hike Reshapes Rate Expectations",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b54ae1a80257b8f061aea23b3e0512da4e9d6ad7bbd5c5a3fe3eef56791f2f6c",
+      "datetime": 1793275890,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "B",
@@ -233,14 +281,6 @@
       "url": "https://finnhub.io/api/news?id=3b343baed84ef797cf865ff0f70af43b45b14e2a22e2068dec3754ec73081374",
       "datetime": 1793249269,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Is Tech Oversold Following Trend Reversals?",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=fff11d148ab03745e2a23352b74fe74b151077360d1205639a060d203ae165bd",
-      "datetime": 1793248380,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "B",
@@ -265,46 +305,6 @@
       "url": "https://finnhub.io/api/news?id=03bcbd8f5745d6794d208f871b0e5d5583b0328058cac8af2077e367cedbd4da",
       "datetime": 1793214543,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "UBS Maintains Buy on Celestica, Raises Price Target to $453",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=86aae305fa5d85afa51e25a5bd77793f1990fd9c873eaa2c4dcaa19eac365528",
-      "datetime": 1793208102,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica sees 2027 sales nearly doubling to $40 billion",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d0b669ac724072466f3ecc244af1a9a702a806edea962d06a6ad1191de23be9d",
-      "datetime": 1793207820,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Citigroup Maintains Buy on Celestica, Raises Price Target to $436",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=08206ee7f52fa22bf76a3d48840e523bd514eb9281449a6168b206c38c16e264",
-      "datetime": 1793205061,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Here is Why Growth Investors Should Buy Celestica (CLS) Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d801922f83a8f272a21381e3bc9216de3cbdb8332f1a1af502249dd1dd08a3ad",
-      "datetime": 1793202301,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Celestica: Free Cash Flow Tells The Whole Story",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=e5ef2e0ae2a3072270bb0d9cbc1717ee2f08e9a65b15b04e632ce3fa81cb84a3",
-      "datetime": 1793196076,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "COR",
@@ -608,5 +608,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-30T00:13:17.004535+00:00"
+  "updated_at": "2026-10-30T00:28:18.912376+00:00"
 }
