@@ -211,6 +211,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
+      "ticker": "P",
+      "headline": "Earnings Preview: What to Expect From Everpure's Report",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d6f8dcc2da0656c96bedbb16d732898369ea40a961fd3320d1d909e9635797b1",
+      "datetime": 1793363053,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "COR",
       "headline": "Unveiling Cencora (COR) Q4 Outlook: Wall Street Estimates for Key Metrics",
       "source": "Yahoo",
@@ -376,14 +384,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=95ea2f0e82513b69725c253b82f674e3fb602140369ae854dc6d77601ecb77ee",
       "datetime": 1793178252,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "FPE: Better Than Preferred Stock Index Funds, But Inflation Is A Real Risk",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=8ba66718654ce4b3eab97d048e8739d97254cf34a2b83a6a6c2efe3fee25982d",
-      "datetime": 1793153273,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-30T20:13:17.304611+00:00"
+  "updated_at": "2026-10-30T20:28:17.609703+00:00"
 }
