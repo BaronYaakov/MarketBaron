@@ -115,6 +115,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "COR",
+      "headline": "2 large-cap stocks with impressive fundamentals and 1 we ignore",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da48b51c8aa8b02e18484f396e472f467b7d10938c282588cb3c82ce9f147bc0",
+      "datetime": 1793372849,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom Falls 5% Despite DA Davidson Upgrade on Anthropic and OpenAI IPO Hopes; Arm and Qualcomm Sink 10%, Marvell Drops 8%",
       "source": "Yahoo",
@@ -155,6 +163,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "COR",
+      "headline": "Cencora Gears Up to Report Q4 Results: How to Play the Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c6429dfc14eb616b46f840f2abe62c2dcaacb95f51621fd32bf1ba597a0f883a",
+      "datetime": 1793368620,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Is There A Risk Hiding In Ciena Stock's Growth?",
       "source": "Yahoo",
@@ -187,12 +203,28 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
+      "ticker": "COR",
+      "headline": "Unveiling Cencora (COR) Q4 Outlook: Wall Street Estimates for Key Metrics",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c02072f5223004cbed10eca296424724894ef56b79d37344c0f406e6e028df8c",
+      "datetime": 1793362504,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
       "ticker": "B",
       "headline": "Barrick Mining Corp (NYSE:B) Shows High-Growth Leadership as Momentum Setup Builds",
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=1a22062fef4862400e95691d054db32af01ed954808eb4739175792fc42d28a1",
       "datetime": 1793359898,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Is Buying McKesson Stock Near Its High A Bad Idea?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0dff1459e504df4e0d9ae93ec9950a0fc7f4dc75c8c887e3a012ddf784854698",
+      "datetime": 1793357393,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "ORLY",
@@ -233,6 +265,14 @@
       "url": "https://finnhub.io/api/news?id=1921fcc396ba017846792d65c8d2d27aafb83aef99b76c2341bab743d6d2554e",
       "datetime": 1793310379,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Is It A Mistake To Buy Cardinal Health Stock At A High?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=566ca0cb995fbb132ff1f57c5fd1e6d924bd9736085a4b4a849f7aa957c75916",
+      "datetime": 1793305756,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "CLS",
@@ -281,6 +321,14 @@
       "url": "https://finnhub.io/api/news?id=443122d57b14b9f2646eb829767434145172e48a677a23049112272ccb7e0579",
       "datetime": 1793278832,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Will Biodesix, Inc. (BDSX) Report Negative Earnings Next Week? What You Should Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e71fb6d8fd3a067ba26a27861c521afbd339fd37a0686bf5ebf3b035e03d09d7",
+      "datetime": 1793278822,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "B",
@@ -419,12 +467,12 @@
       "market_cap_musd": 1646902.298141639,
       "country": "US",
       "currency": "USD",
-      "price": 323.46,
+      "price": 323.99,
       "open": 331.51,
       "day_high": 331.98,
       "day_low": 322.57,
       "prev_close": 345.0,
-      "day_change_pct": -6.24,
+      "day_change_pct": -6.09,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -438,12 +486,12 @@
       "market_cap_musd": 91395.95869,
       "country": "CA",
       "currency": "USD",
-      "price": 36.73,
+      "price": 36.71,
       "open": 37.6,
       "day_high": 37.6,
       "day_low": 36.5,
       "prev_close": 38.67,
-      "day_change_pct": -5.02,
+      "day_change_pct": -5.07,
       "week52_high": 74.0,
       "week52_low": 43.33
     },
@@ -457,12 +505,12 @@
       "market_cap_musd": 53035.057932,
       "country": "CA",
       "currency": "USD",
-      "price": 259.47,
+      "price": 258.78,
       "open": 268.97,
       "day_high": 275.56,
       "day_low": 257.69,
       "prev_close": 282.75,
-      "day_change_pct": -8.23,
+      "day_change_pct": -8.48,
       "week52_high": 655.5,
       "week52_low": 330.79
     },
@@ -476,12 +524,12 @@
       "market_cap_musd": 63074.10864713818,
       "country": "US",
       "currency": "USD",
-      "price": 334.51,
+      "price": 334.89,
       "open": 337.25,
       "day_high": 340.19,
       "day_low": 332.29,
       "prev_close": 330.53,
-      "day_change_pct": 1.2,
+      "day_change_pct": 1.32,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
@@ -495,12 +543,12 @@
       "market_cap_musd": 71245.1809376884,
       "country": "US",
       "currency": "USD",
-      "price": 89.2,
+      "price": 89.18,
       "open": 90.08,
       "day_high": 90.09,
       "day_low": 87.98,
       "prev_close": 88.07,
-      "day_change_pct": 1.28,
+      "day_change_pct": 1.26,
       "week52_high": 102.46,
       "week52_low": 82.59
     },
@@ -514,12 +562,12 @@
       "market_cap_musd": 7047.044225981366,
       "country": "US",
       "currency": "USD",
-      "price": 19.61,
+      "price": 19.64,
       "open": 19.44,
-      "day_high": 19.62,
+      "day_high": 19.66,
       "day_low": 19.31,
       "prev_close": 19.47,
-      "day_change_pct": 0.72,
+      "day_change_pct": 0.87,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -533,12 +581,12 @@
       "market_cap_musd": 45718.78268929293,
       "country": "US",
       "currency": "USD",
-      "price": 123.89,
+      "price": 124.06,
       "open": 128.31,
       "day_high": 131.3,
-      "day_low": 123.45,
+      "day_low": 123.33,
       "prev_close": 137.2,
-      "day_change_pct": -9.7,
+      "day_change_pct": -9.58,
       "week52_high": 157.57,
       "week52_low": 56.78
     },
@@ -552,12 +600,12 @@
       "market_cap_musd": 2629595.663566473,
       "country": "US",
       "currency": "USD",
-      "price": 238.28,
+      "price": 239.18,
       "open": 229.56,
       "day_high": 241.55,
       "day_low": 229.36,
       "prev_close": 243.79,
-      "day_change_pct": -2.26,
+      "day_change_pct": -1.89,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -568,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-30T17:28:16.974278+00:00"
+  "updated_at": "2026-10-30T17:43:17.769256+00:00"
 }
