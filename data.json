@@ -59,6 +59,46 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "AI Anxiety, French Tensions Pressure European Bourses Midday",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9ecd8d58892544f1ecef38c6a9a37e7d58525353a3d124c726b7fdc59c1d4e9e",
+      "datetime": 1793360938,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "A Big Tech Selloff and Crypto Heist to Start the Day. Next Week Brings Apple Earnings and Midterms.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b0c6aaea5f318197caea59c46b122b3388a65f5007e7e43db6359fa3c84ae8d9",
+      "datetime": 1793360880,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Stocks Mostly Down Pre-Bell as Traders Parse Amazon, Intel Earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1ad4b3517b7153052b58a59b4efe023ef28cec5e2df764be1db04966f024af15",
+      "datetime": 1793360879,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Dow Jones Futures: Nasdaq Futures Plunge 2% On Amazon, Intel After Google, ServiceNow, Fortinet Dive",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0fdf39e489331a1f170e179d499c839e0751206a22675c9e124cb900788002a8",
+      "datetime": 1793360716,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Intel, Amazon, Reddit, Chevron, Exxon, and More Stocks That Explain Today\u2019s Market",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9408cf3fbf8bd322fbff2c48b9e0f2faa3aa358c57b6cc6e1d8adbcc7e7d8276",
+      "datetime": 1793360400,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "B",
       "headline": "Barrick Mining Corp (NYSE:B) Shows High-Growth Leadership as Momentum Setup Builds",
       "source": "ChartMill",
@@ -68,51 +108,35 @@
     },
     {
       "ticker": "AMZN",
-      "headline": "Stock Market Today: Alphabet Suffers Its Worst Day Ever as AI Fears Spread From Search to Software",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=65daf71ace131ecd0968672d3784c4df446ea56e55b74afa4821b520c0a965e1",
-      "datetime": 1793356070,
+      "headline": "What Could Lift IBM Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0dd1b64341485c57fb404409853ebbabec1bbeb83a68732fa350b87026fcb900",
+      "datetime": 1793358964,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Tech firms take fresh hit as disappointing earnings fan AI fears",
+      "ticker": "AVGO",
+      "headline": "Broadcom\u2019s $63B Anthropic Deal Could Be The One That Finally Gets it Into Gear",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=da918161120c2727a5b85d579276fbc682af672b498ae1c52a45ee5feee0013e",
-      "datetime": 1793353012,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "url": "https://finnhub.io/api/news?id=00f864c323fcb147a4dfe1eaabfb1dc30088024ec6594a25beca5de93e6cd56e",
+      "datetime": 1793358957,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Update: Amazon Slumps Pre-Bell After Q3 Earnings Fall Amid Higher Revenue While Free Cash Outflow Hits $42.4 Billion",
+      "ticker": "COR",
+      "headline": "Is Buying McKesson Stock Near Its High A Bad Idea?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2520dd658783c7dd54948c7e4dfcd415d94b6327ea04c8ab77097d10e2d97702",
-      "datetime": 1793352936,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "url": "https://finnhub.io/api/news?id=0dff1459e504df4e0d9ae93ec9950a0fc7f4dc75c8c887e3a012ddf784854698",
+      "datetime": 1793357393,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Nasdaq futures tumble; Binance suffers massive hack - what\u2019s moving markets",
+      "ticker": "AVGO",
+      "headline": "Should You Buy Texas Instruments Stock Now Or Wait?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=21ef5af22be2d05e5de48b9dd3fcea10547bb99cf2ef8b60db436aa29304e84e",
-      "datetime": 1793352634,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The Magnificent 7 stocks are seeing stunning declines",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=92a71b2521e5aeffa8e723b5b30dae87270d0c9ecb9611145acdf8dca741bd58",
-      "datetime": 1793352439,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Energy rally lifts FTSE 100 to lone gain in Europe as oil approaches 6-month high",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c9f5600d8e7db662ae32b07baa1a011935d805f76c3d35a675cf3fefa5f61257",
-      "datetime": 1793351027,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "url": "https://finnhub.io/api/news?id=d4ba6a4c765fc0efcf426baeb4e52d0f5aaa5822a2a5cde872bf6f6830d3bddd",
+      "datetime": 1793357372,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AVGO",
@@ -169,22 +193,6 @@
       "url": "https://finnhub.io/api/news?id=1921fcc396ba017846792d65c8d2d27aafb83aef99b76c2341bab743d6d2554e",
       "datetime": 1793310379,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Stock Market Today, Oct. 29: Marvell Falls on Lumentum Acquisition Talks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4fb53acb1e9766b6ae9d4fde8742d44f130d8def3b4db32309990e93d99d648f",
-      "datetime": 1793310210,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "First Google Search, Now Amazon Retail. Tech\u2019s Moneymakers Are Stumbling.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=81b9d203e547b4739e5fc0a7cce5145542c44c4a393205d997387d4bdae423c9",
-      "datetime": 1793310180,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "ORLY",
@@ -401,14 +409,6 @@
       "url": "https://finnhub.io/api/news?id=00653d71e8a7f44983a1215c6c6dba4e658e274752a4c368465c1e328b9c437e",
       "datetime": 1793045677,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Amgen vs. Johnson & Johnson: Which Healthcare Giant Has the Better Stock to Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=352f3c23d139442045486e4ee957da337f5b851133d28320bdebba8e3b4e1f02",
-      "datetime": 1792859461,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     }
   ],
   "recent_posts": [],
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-30T11:58:15.504120+00:00"
+  "updated_at": "2026-10-30T12:13:15.972732+00:00"
 }
