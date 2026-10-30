@@ -43,7 +43,7 @@
       "day_change_pct": -0.29,
       "all_time_gain_pct": 9.56,
       "day_change_source": "ibkr",
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "PRMB",
@@ -64,7 +64,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e876018f250255c698882fbe7918cfb07d641f5d30808c18569735b00e2f00a9",
       "datetime": 1793382024,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -80,7 +80,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=a1ed20277482316c8f336bb41e37c93a6caaf6daef7942ade930a5ed2b23c1e9",
       "datetime": 1793381628,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
@@ -88,7 +88,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ffb8f5abdf7e47d8e8d861bbb2287baca24d73168d56c5d73a98cb9ccecdf5a8",
       "datetime": 1793380980,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
@@ -96,7 +96,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=8ded1116568c973ba17ef8ecd86001b4930d8a3cca0f38b80f4b273996d71868",
       "datetime": 1793380830,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
@@ -104,7 +104,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f07cd23a9b451fd1d931cba6f24b2e4c97190cc82f4a9ec30edd8cc20912ae3d",
       "datetime": 1793380803,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
@@ -112,7 +112,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3f15ab299f46ad62bd0c3c633f61c964681e0fcb9affa0d1d072a56c4e7d12da",
       "datetime": 1793380677,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -136,7 +136,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=3e2de220d0a90bb83f8809e61cf447dd67095c19e4f2df978f88c87093ec3ec2",
       "datetime": 1793376873,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "AVGO",
@@ -200,7 +200,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f59e7e32c0adfc0ae475b37998e718bbd2a1df79494a987146a53ac2d441a0a7",
       "datetime": 1793364360,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "ORLY",
@@ -208,7 +208,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fdd86dbb5467880ce6784607e103828a883aa5187fad8b92491c9e7a333908a5",
       "datetime": 1793363979,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "COR",
@@ -240,7 +240,7 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=d5629314c4e621f9e2afb9437d7ea290c811bd27e9705485f082cb12140ec2ab",
       "datetime": 1793348675,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "CLS",
@@ -256,7 +256,7 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=9c9f90f972f372642e9637a0a972069d2a8442736ed8af8f45448128bec51f15",
       "datetime": 1793331290,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "ORLY",
@@ -264,7 +264,7 @@
       "source": "ChartMill",
       "url": "https://finnhub.io/api/news?id=d18d7bab7797845f13b99c24f319750b03a8c72d11cbced0745eeeaf580067bc",
       "datetime": 1793311567,
-      "logo_url": null
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "COR",
@@ -467,12 +467,12 @@
       "market_cap_musd": 1546178.7190426753,
       "country": "US",
       "currency": "USD",
-      "price": 323.16,
+      "price": 323.22,
       "open": 331.51,
       "day_high": 331.98,
       "day_low": 319.3,
       "prev_close": 345.0,
-      "day_change_pct": -6.33,
+      "day_change_pct": -6.31,
       "week52_high": 495.0,
       "week52_low": 289.96
     },
@@ -486,12 +486,12 @@
       "market_cap_musd": 89058.805857,
       "country": "CA",
       "currency": "USD",
-      "price": 36.54,
+      "price": 36.58,
       "open": 37.6,
       "day_high": 37.6,
       "day_low": 36.27,
       "prev_close": 38.67,
-      "day_change_pct": -5.51,
+      "day_change_pct": -5.4,
       "week52_high": 74.0,
       "week52_low": 44.27
     },
@@ -505,12 +505,12 @@
       "market_cap_musd": 49955.406055,
       "country": "CA",
       "currency": "USD",
-      "price": 260.91,
+      "price": 261.73,
       "open": 268.97,
       "day_high": 275.56,
       "day_low": 255.87,
       "prev_close": 282.75,
-      "day_change_pct": -7.72,
+      "day_change_pct": -7.43,
       "week52_high": 655.5,
       "week52_low": 330.79
     },
@@ -524,22 +524,31 @@
       "market_cap_musd": 63715.28654592028,
       "country": "US",
       "currency": "USD",
-      "price": 331.87,
+      "price": 331.41,
       "open": 337.25,
       "day_high": 340.19,
-      "day_low": 331.63,
+      "day_low": 331.11,
       "prev_close": 330.53,
-      "day_change_pct": 0.41,
+      "day_change_pct": 0.27,
       "week52_high": 377.54,
       "week52_low": 244.82
     },
     "ORLY": {
-      "price": 89.28,
+      "name": "O'Reilly Automotive, Inc.",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png",
+      "industry": "Retail",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "website": "https://corporate.oreillyauto.com/",
+      "ipo_date": "1993-04-23",
+      "market_cap_musd": 72155.2596822046,
+      "country": "US",
+      "currency": "USD",
+      "price": 88.94,
       "open": 90.08,
       "day_high": 90.09,
       "day_low": 87.98,
       "prev_close": 88.07,
-      "day_change_pct": 1.37,
+      "day_change_pct": 0.99,
       "week52_high": 102.46,
       "week52_low": 82.59
     },
@@ -553,12 +562,12 @@
       "market_cap_musd": 7097.716208797638,
       "country": "US",
       "currency": "USD",
-      "price": 19.66,
+      "price": 19.65,
       "open": 19.44,
       "day_high": 19.74,
       "day_low": 19.31,
       "prev_close": 19.47,
-      "day_change_pct": 0.98,
+      "day_change_pct": 0.92,
       "week52_high": 26.21,
       "week52_low": 14.36
     },
@@ -572,22 +581,31 @@
       "market_cap_musd": 41336.841229584184,
       "country": "US",
       "currency": "USD",
-      "price": 124.45,
+      "price": 125.15,
       "open": 128.31,
       "day_high": 131.3,
       "day_low": 122.87,
       "prev_close": 137.2,
-      "day_change_pct": -9.29,
+      "day_change_pct": -8.78,
       "week52_high": 157.57,
       "week52_low": 56.78
     },
     "AMZN": {
-      "price": 239.02,
+      "name": "Amazon.com Inc",
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png",
+      "industry": "Retail",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "website": "https://www.amazon.com/",
+      "ipo_date": "1997-05-15",
+      "market_cap_musd": 2582567.198388523,
+      "country": "US",
+      "currency": "USD",
+      "price": 238.99,
       "open": 229.56,
       "day_high": 241.55,
       "day_low": 229.36,
       "prev_close": 243.79,
-      "day_change_pct": -1.96,
+      "day_change_pct": -1.97,
       "week52_high": 287.2,
       "week52_low": 196.0
     }
@@ -598,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-30T19:13:16.952816+00:00"
+  "updated_at": "2026-10-30T19:28:18.001352+00:00"
 }
