@@ -60,6 +60,38 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "NVDA Stock Drops: Nvidia May Back Data Center Loan Its Own Customer, Analyst Sees Little Impact From Intel\u2019s Weak Report",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b599ef299c6f21cb13de346fe40c20fc70de2324fb560e4bd69af2aa92844679",
+      "datetime": 1793344958,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "MARKETS LIVE: FTSE 100 set to rise despite Wall Street sell-off and Asian technology rout",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cc7ccdbfa6c34a217519bec1225fa8484759d2817e40f725e4e36a72313e21c8",
+      "datetime": 1793343900,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Has Bigger Plans for AI Chips: Andy Jassy Says Customers Want Them \u2018Outside\u2019 AWS, but Selling Them Comes With a Trade-Off",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=80de8475e625da27f344d8df05f60821e8ed743f0573731f239d00633269863e",
+      "datetime": 1793343204,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon's After-Hours Drop Leaves It Below Wall Street's Lowest Price Target",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=086d495ab3aba01b8dd28b58992a7f57848b43696b3e972ebf8c2518a64ebea9",
+      "datetime": 1793340330,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Big Tech Capex Scorecard: Amazon Spends Over $77B In One Quarter \u2014 How It Stacks Up With MSFT, TSLA, GOOGL",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f6b2beae9f5c0d2265589cfb47eba8e599d42190cf3c4e90228ee3c5d90f2413",
@@ -72,38 +104,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=029cc80da64e0ddb1f5f199b1fa9dc02e51ad2886fcfa00c85f7821f963d2f37",
       "datetime": 1793337317,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon CEO Andy Jassy Just Made a Wild Prediction. It Could Make the Tech Giant a Big Winner.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=74ac59280a3c3c87533e305509d19bc1f8ebb2c4fbf356ae22dedc61441268b2",
-      "datetime": 1793335802,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Asia stocks tumble as AI spending concerns deepen; BOJ holds rates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3960b5518def08ebe86587d808a454719ea8e476f0bd3a43aa3c1a65ea6017bd",
-      "datetime": 1793333175,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Dow, S&P 500, Nasdaq Futures Fall As Weak Tech Earnings Trigger Selloff: INTC, IOVA, SLS, AMZN Stocks In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f89f045a29e0ff0cad154ff77c0a6cbf05b21220ee222c9602ecb434f116efb7",
-      "datetime": 1793332985,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon's $578 Billion AWS Backlog Is Growing Faster Than Its Revenue",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cc5ae745cbcc8a3c32f2b1185115b0e82e887a69adcb7d57c590b9ce87a05f00",
-      "datetime": 1793331960,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-30T07:58:15.391357+00:00"
+  "updated_at": "2026-10-30T08:13:15.589775+00:00"
 }
