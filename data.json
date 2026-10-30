@@ -60,6 +60,30 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Nasdaq 100 Futures Dip On Weak Intel, Amazon Earnings With Bloated Capex Worries Weighing On Sentiment \u2014  AMZN, INTC, SBUX, PLTR, ASTS In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=80c21737b1138c6ad62c38672635cfe30947864df39d74f72e7ca6ee2eba3857",
+      "datetime": 1793318055,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Andy Jassy says Prime Video is on track to earn \u2018tens of billions of dollars\u2019",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=870008ffd90c8fada1c81efc62157291559b5abdd9dd72d8e258e41e3fdaff57",
+      "datetime": 1793317496,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4acaa31e0890461cdbc50ba8f269fe061aa8abc001e3520d9cdef3bb07ab73f0",
+      "datetime": 1793317342,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon battles freight inflation as shipping costs jump 11% in Q3",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=5453ed20f7b622e293b6c1a89121a12f78b95e6f9fb9cf4d12237a5e02c6eda3",
@@ -91,28 +115,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "InterDigital, Inc. Q3 2026 Earnings Call Summary",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7df98f82747a55adf896cd1c26abeda8e149c20825470eb20b79a816d4a769f5",
-      "datetime": 1793311236,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "ORLY",
       "headline": "O'Reilly Automotive (ORLY) Q3 2026 Earnings Call Transcript",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=1921fcc396ba017846792d65c8d2d27aafb83aef99b76c2341bab743d6d2554e",
       "datetime": 1793310379,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=29af632925ef1c1bbde9c465d3cd7dd95bf05d1bfc0f26c90a8c49f1868c2534",
-      "datetime": 1793310220,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -129,14 +137,6 @@
       "url": "https://finnhub.io/api/news?id=81b9d203e547b4739e5fc0a7cce5145542c44c4a393205d997387d4bdae423c9",
       "datetime": 1793310180,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "First Google Search, Now Amazon Retail. Tech\u2019s Moneymakers Are Stumbling.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=81b9d203e547b4739e5fc0a7cce5145542c44c4a393205d997387d4bdae423c9",
-      "datetime": 1793310180,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "ORLY",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-30T01:58:20.090849+00:00"
+  "updated_at": "2026-10-30T02:13:17.821144+00:00"
 }
