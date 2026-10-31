@@ -60,6 +60,22 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "France Wants a 5.5-Cent-per-Gigabyte Tax on Netflix, Google and Meta",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b12e631ced1624a91c71a4df40fcda3af15d18b790ab7d9bb3104b64e05bb287",
+      "datetime": 1793466421,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The daunting economic decision on data centers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf6b35c09fe9f00457441e1789eaee0c09a2c0d4fa9cb9d8d0e058f15e5cec5a",
+      "datetime": 1793466007,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon Is Borrowing Against Its Own Data Center Gear to Fund More Data Centers",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=66687a88aa2277b590ef30830abec06562cd19731444b650782099b696544d0f",
@@ -105,22 +121,6 @@
       "url": "https://finnhub.io/api/news?id=d24e99c282495f8443c811863b4c5d17e75bfdc67fc718bc7d172edff74db37b",
       "datetime": 1793455676,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Big Tech\u2019s Capex Needs \u201ca Trillion Dollars of Revenue\u201d by 2028. Barclays Sees About $400 Billion",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=35e606e36b27a1377a6419baab33b7c5d394df174441b0530e901218655f1ce6",
-      "datetime": 1793454300,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "3 Capital Efficient Software Stocks For Steady Cash Flow",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3e2864c6956c11eeadc717cadabc936b893ff6a0f0d9ecf239d3744ac612ac77",
-      "datetime": 1793452277,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-31T17:58:14.609399+00:00"
+  "updated_at": "2026-10-31T18:13:14.881757+00:00"
 }
