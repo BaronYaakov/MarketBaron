@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Learn Why The Bull Case For Verizon Communications (VZ) Could Change Following Raised Outlook",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8b3174a1e275a03617ccc0b241d308219cbe6fc69ce7ae7ecdd9c2c33338f398",
+      "datetime": 1793398385,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Apple overtakes Nvidia to become world\u2019s most valuable company amid tech selloff",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=2ab228d2c7435ae6a789946286b6875a9a2b6f5ed02e52ebacb8a3b4484d8a59",
@@ -92,18 +100,18 @@
     },
     {
       "ticker": "AMZN",
-      "headline": "Anthropic turns profitable but could go back into losses: Seaport analyst",
+      "headline": "Gene Munster 'More Concerned' About Amazon and Alphabet \u2014 Says AI Bots Mean Shopping Edge 'Will Increasingly Be Under Attack'",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8c5a6657d94a850c02fca6a68a40c1cf803d68e1b73acc8766ccd5668d537d31",
-      "datetime": 1793394580,
+      "url": "https://finnhub.io/api/news?id=2e12edcd7acd3ff8255d1077d36bdb801da22743a3d0c1e1090002b50c130ba5",
+      "datetime": 1793394612,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Update: Nasdaq Composite Marks Worst Month Since March 2025 as AI Spending Fears Rise",
+      "headline": "Anthropic turns profitable but could go back into losses: Seaport analyst",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=468f4b1cc4d87e952e94771081b40b10847d8459636278cb262bd1e98882abf1",
-      "datetime": 1793393813,
+      "url": "https://finnhub.io/api/news?id=8c5a6657d94a850c02fca6a68a40c1cf803d68e1b73acc8766ccd5668d537d31",
+      "datetime": 1793394580,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -113,14 +121,6 @@
       "url": "https://finnhub.io/api/news?id=41a140d2d1263e4696049a3826e4b9a26b80cbd382b3a6d9f615d19e6cb1ee6b",
       "datetime": 1793393536,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Dow Jones Futures: Stock Market Sells Off As Apple, Palantir, Midterm Elections Loom; What To Do",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0cef08ea889b2b7e946c4c2bede5dc95d1a4873376275e0c36a9e292b8615a57",
-      "datetime": 1793393516,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -464,7 +464,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1546178.7190426753,
+      "market_cap_musd": 1556585.2321872045,
       "country": "US",
       "currency": "USD",
       "price": 326.08,
@@ -521,7 +521,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 63715.28654592028,
+      "market_cap_musd": 63133.26365225752,
       "country": "US",
       "currency": "USD",
       "price": 330.84,
@@ -540,7 +540,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 72155.2596822046,
+      "market_cap_musd": 71285.62680863132,
       "country": "US",
       "currency": "USD",
       "price": 88.12,
@@ -559,7 +559,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 7097.716208797638,
+      "market_cap_musd": 7144.768891466872,
       "country": "US",
       "currency": "USD",
       "price": 19.74,
@@ -578,7 +578,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 41336.841229584184,
+      "market_cap_musd": 42313.19709256428,
       "country": "US",
       "currency": "USD",
       "price": 126.98,
@@ -597,7 +597,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2582567.198388523,
+      "market_cap_musd": 2592490.60741211,
       "country": "US",
       "currency": "USD",
       "price": 240.35,
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-30T23:58:16.648274+00:00"
+  "updated_at": "2026-10-31T00:13:15.611214+00:00"
 }
