@@ -60,6 +60,54 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Amazon Is Borrowing Against Its Own Data Center Gear to Fund More Data Centers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=66687a88aa2277b590ef30830abec06562cd19731444b650782099b696544d0f",
+      "datetime": 1793461684,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon (AMZN) Stock Slips As Q3 Earnings Reflect Profit Reset",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0695abd2b2ec37bdf0c58d4d7d877fc43b97bfe3959d09aa8d382765634cee0b",
+      "datetime": 1793459606,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Big Tech Now Spends More on AI Than It Brings In From Operations",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c6e47ebc6bebb2d17c09d4b18228696094cb10d7df2a8aad3f9777867d7d5161",
+      "datetime": 1793459283,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "The Nasdaq 100 Briefly Fell Into a Correction as the AI Trade Cracks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ea29a0da0b3b89abc6b4f549a483d5fc1b3efe4007514bc9541ab6f3215222db",
+      "datetime": 1793458446,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "What Does Cencora (COR) Gain From Expanding Into 12 More States?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f737376cb7ce4d853476d42fbbcc8724ff21a38ee2c117ab9f578b732d68129",
+      "datetime": 1793456109,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Marvell Sinks 14% in a Week on Lumentum Talks: Chipmakers Like It \u201cDon\u2019t Have a Choice\u201d",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d24e99c282495f8443c811863b4c5d17e75bfdc67fc718bc7d172edff74db37b",
+      "datetime": 1793455676,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Big Tech\u2019s Capex Needs \u201ca Trillion Dollars of Revenue\u201d by 2028. Barclays Sees About $400 Billion",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=35e606e36b27a1377a6419baab33b7c5d394df174441b0530e901218655f1ce6",
@@ -83,44 +131,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Amazon CEO Andy Jassy makes a strong prediction on Amazon stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=02366475107dd36596c37884e45afbba2a798934a2aeed9a8c25b6cdd1f31363",
-      "datetime": 1793448180,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "EBay Leads Five Stocks Near Buy Points From Resilient Sectors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9a553cbffb4a195f348f7df2a08d010e3fd4c4a695cd1a8196e936f29d5c0644",
-      "datetime": 1793448040,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "OpenAI Cuts Funding Target Amid Meta, Microsoft Offerings, Anthropic IPO",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0af0d0e59182795d34c58490bd039c51f3c7051c45200f82458623daefea61fd",
-      "datetime": 1793447701,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Broadcom Sinks 5.5% as Its $43 Billion Anthropic Backstop Meets an Intel-Led Chip Rout",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d8dc2623a1e1874eadc808a7c011499077df58cf4ce1b864f7bbb858135a1a3d",
       "datetime": 1793446685,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Is 16% Off Its High After a Record Quarter: Take Profits, or Buy More?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5b106c972d15d4ea7477f83ad9656ce204da63e5da8170621a0bb07f600fd7e6",
-      "datetime": 1793446076,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -152,14 +168,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=e2f0af8721c0673a58c1d46368bdc76993a28f624a74d62f63c17a5020d28ea5",
       "datetime": 1793412711,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Meta's $145 Billion AI Spending Plan Raises Credit Concerns as S&P Global Turns Outlook Negative: \u2018Less Certain That It Will Curtail Its Spending\u2019",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=5d35dc4ac4f3edf30c5de037663f805f71fc54427fc9823b93c6857ff78d320d",
-      "datetime": 1793410437,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -337,14 +345,6 @@
       "url": "https://finnhub.io/api/news?id=9c9f90f972f372642e9637a0a972069d2a8442736ed8af8f45448128bec51f15",
       "datetime": 1793331290,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Is It A Mistake To Buy Cardinal Health Stock At A High?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=566ca0cb995fbb132ff1f57c5fd1e6d924bd9736085a4b4a849f7aa957c75916",
-      "datetime": 1793305756,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "P",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-31T15:58:14.553360+00:00"
+  "updated_at": "2026-10-31T16:13:14.642000+00:00"
 }
