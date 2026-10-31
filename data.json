@@ -163,6 +163,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "3 Canadian Growth Stocks With Revenue Growth Up To 57%",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0fdf4528ef5ede398e19946ce36d088910996a1d96264469004b1f5976dd780c",
+      "datetime": 1793373299,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "COR",
       "headline": "2 large-cap stocks with impressive fundamentals and 1 we ignore",
       "source": "Yahoo",
@@ -235,6 +243,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Celestica Announces TSX Acceptance of Normal Course Issuer Bid",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5d43db0a48780c8f91afcbd1664f8f485a3a5cd44dfeba32dfa70cdb4b3e9766",
+      "datetime": 1793358900,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "COR",
       "headline": "Is Buying McKesson Stock Near Its High A Bad Idea?",
       "source": "Yahoo",
@@ -304,22 +320,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4dbb34cea6e68f29ff9aca54315027556847a3d3b3e7d73317260292227b25e5",
       "datetime": 1793287500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "CLS Falls 14.4% in a Week as AI Growth Meets Rising Execution Risks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=21a21a5116aae074ed36092e60086099e88f8b735dd680221518fe3739746d95",
-      "datetime": 1793287380,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "CLS Raises 2026 Outlook as AI Demand Powers an Aggressive 2027 Ramp",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a9918866a52bdfffc9133108ed80f529f7b0923d95b6f4822210935709ca2c0e",
-      "datetime": 1793287260,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-31T00:58:15.909104+00:00"
+  "updated_at": "2026-10-31T01:13:15.339258+00:00"
 }
