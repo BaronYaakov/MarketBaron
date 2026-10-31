@@ -107,6 +107,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Celestica: ODM Commodity To AI Backbone - More Money To Be Made",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=067110cf060178efc101d91b08794387fcae7a9ca1cac30c4ac5c7a441030a78",
+      "datetime": 1793419800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "Broadcom Heads These 3 Top Undervalued Stocks To Watch",
       "source": "Yahoo",
@@ -313,14 +321,6 @@
       "url": "https://finnhub.io/api/news?id=88519f8700ed1fa49d1be8a13ce6af9f6dc5cf18aebf53cd52f5354192e61001",
       "datetime": 1793292000,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "CLS",
-      "headline": "Is CLS a Buy Now as AI Growth Collides With Premium Valuation Risks?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4dbb34cea6e68f29ff9aca54315027556847a3d3b3e7d73317260292227b25e5",
-      "datetime": 1793287500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
       "ticker": "PRMB",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-31T08:28:13.830273+00:00"
+  "updated_at": "2026-10-31T08:43:13.709846+00:00"
 }
