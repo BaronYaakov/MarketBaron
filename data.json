@@ -107,6 +107,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "R&D: A Long-Term Investment",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=24e3659649b4a7fd51b08369fda705ecf87bd285f25ae16785f389217999f0f6",
+      "datetime": 1793421000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "CLS",
       "headline": "Celestica: ODM Commodity To AI Backbone - More Money To Be Made",
       "source": "SeekingAlpha",
@@ -152,14 +160,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=60e4ab500bc71f8bb4c2710f58e20da1f77244539c24d8ebb994fd1f0e1fde7d",
       "datetime": 1793384009,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Stock Outlook Hinges On AI Chip Growth And Anthropic Partnership",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=098a3aad6d8eaa9e9d3e9ad50266a2fde26d457610a8efa0d790e98dff7f10a1",
-      "datetime": 1793383830,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-31T08:43:13.709846+00:00"
+  "updated_at": "2026-10-31T08:58:13.844575+00:00"
 }
