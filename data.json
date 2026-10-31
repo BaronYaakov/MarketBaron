@@ -203,11 +203,27 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
     },
     {
+      "ticker": "P",
+      "headline": "Sandisk shares are trading higher after Evercore ISI Group initiated coverage on the stock with an Outperform rating and announced a $1,200 price target.",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=40b110df73261f3e780c88708747266f6bf75bf4a390fae1aa910cbf3140e3f5",
+      "datetime": 1793369942,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
       "ticker": "COR",
       "headline": "Cencora Gears Up to Report Q4 Results: How to Play the Stock?",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c6429dfc14eb616b46f840f2abe62c2dcaacb95f51621fd32bf1ba597a0f883a",
       "datetime": 1793368620,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Morgan Stanley Maintains Overweight on Cencora, Raises Price Target to $377",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=0abd551f4f26fdec0d8fdeb20236ada82fd71294dbb81c443f415f404546f676",
+      "datetime": 1793368484,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
@@ -331,14 +347,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
     },
     {
-      "ticker": "COR",
-      "headline": "Will Biodesix, Inc. (BDSX) Report Negative Earnings Next Week? What You Should Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e71fb6d8fd3a067ba26a27861c521afbd339fd37a0686bf5ebf3b035e03d09d7",
-      "datetime": 1793278822,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
       "ticker": "B",
       "headline": "Undercovered Dozen: Micron, i-80 Gold, Hercules Capital, And More",
       "source": "SeekingAlpha",
@@ -377,14 +385,6 @@
       "url": "https://finnhub.io/api/news?id=8bb68e92fcc772b247298b19510e35dcaa15514f8e60c42892d3b7132508d339",
       "datetime": 1793185905,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "Everpure: The New Paradigm In Data Center Storage",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=95ea2f0e82513b69725c253b82f674e3fb602140369ae854dc6d77601ecb77ee",
-      "datetime": 1793178252,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
       "ticker": "PRMB",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-31T14:13:14.350660+00:00"
+  "updated_at": "2026-10-31T14:28:14.703919+00:00"
 }
