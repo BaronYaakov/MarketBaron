@@ -60,18 +60,50 @@
   "news": [
     {
       "ticker": "AMZN",
-      "headline": "Amazon: 3 Key Takeaways for Long-Term Investors",
+      "headline": "Datadog Stock Fell Nearly 12% as AI Spending Fears Hit Cloud Stocks. Its Earnings Estimates Didn\u2019t Move",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3a4bc876e2651399c4016eb51c291aba6cee0bc688091047fa9b69e0e7c4c6ef",
-      "datetime": 1793425443,
+      "url": "https://finnhub.io/api/news?id=29980047c762bd412317ae36c8a184f06de4becc07202010f507fdd6fdd9fd6d",
+      "datetime": 1793431099,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Elon Musk Warns Of AI Shakeout, While Zuckerberg, Pichai, Nadella, Jassy Discuss The Costs: MAG 7 Voices This Week",
+      "headline": "Coherent Stock Fell 11% as Intel and Amazon Earnings Hit AI Hardware Stocks. Here\u2019s Where the Stock Could Go",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=64be15f85b984c6981bbe9e044ac1bf33a0c923bffee7a16cdbdb494f524e622",
-      "datetime": 1793414716,
+      "url": "https://finnhub.io/api/news?id=c406ddf6b44b6ead86cb1d7597111211089282dcf6fe8995f84a3b7d63193e8c",
+      "datetime": 1793430912,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Qualcomm Stock Fell 11% in a Day on Intel\u2019s PC Warning. Here\u2019s Why November 4 Tests Its Claim That Phones Have Bottomed",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8d6d9f8f3cc93a4b4e04835bdefe650f10200260eb9662e827be54fe1f3512f5",
+      "datetime": 1793429088,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Yes, Alphabet Stock Got Hammered. No, We\u2019re Not Selling.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e6e1c11ef9050e14fc71d6120c449bbf738ed259c08d0bd7d25f8bd5bd4d860",
+      "datetime": 1793428860,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "AMD Stock Fell 11% in a Day Ahead of Its November 3 Report. Here\u2019s Why Intel\u2019s 78% Data Center Jump Matters More to AMD Than Its PC Warning",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bc82042f1903b08727b8dc9a6447f717638be02f6f172710b950a60879d26b5c",
+      "datetime": 1793428767,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon's AWS Just Gave Investors A Big Growth Signal \u2014 And Gene Munster Thinks It's Only The Beginning",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6c6a882ae1dacda60a7d5bd6a5809f7973126b7bba6ee9da0b9aeebe0497896a",
+      "datetime": 1793427957,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -83,44 +115,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "\u2018Hard to Know If We\u2019re in an AI Bubble\u2019 Jeff Bezos Says, But Should a Retiree Buy AI Stocks? \u2014 \u2018I Would Usually Tell a Retiree to Buy the S&P 500\u2019",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=250cfd1b23a93ef811414fe97d5da4c515d32d8d92bd371eb94bd566a3cb7b57",
-      "datetime": 1793410219,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Dividend Income Report: +15.25% And A Listener's Portfolio Roast",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=29195c7330c6a0345435d337c4b578d80e75f3cb148875a665c17671faede09d",
       "datetime": 1793407200,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "\u2018Big Short\u2019 trader says Anthropic slowdown tests AI boom",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b4fc215ef81f5a2a982d2d7330dc0e45bb7363286c6c49715f34cf79168ff559",
-      "datetime": 1793407020,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "S&P 500, Nasdaq End Third Straight Week Lower As Investors Move Away From Tech, AI \u2014  AMZN, INTC, LLY, RBLX In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0f910b2c47ad6d48765be636222f6aeb2210ae6a085a1b96532370a41075f104",
-      "datetime": 1793405139,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Review & Preview: Ending on a Down Note",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7b80d7259cc3a57da4dfaa7547140c2f2ac5bd1f313db95ebfdbc7caf8b48bd0",
-      "datetime": 1793404500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-31T07:58:13.704236+00:00"
+  "updated_at": "2026-10-31T08:13:13.563424+00:00"
 }
