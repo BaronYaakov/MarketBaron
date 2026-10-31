@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Amazon: 3 Key Takeaways for Long-Term Investors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3a4bc876e2651399c4016eb51c291aba6cee0bc688091047fa9b69e0e7c4c6ef",
+      "datetime": 1793425443,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Elon Musk Warns Of AI Shakeout, While Zuckerberg, Pichai, Nadella, Jassy Discuss The Costs: MAG 7 Voices This Week",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=64be15f85b984c6981bbe9e044ac1bf33a0c923bffee7a16cdbdb494f524e622",
@@ -112,14 +120,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7b80d7259cc3a57da4dfaa7547140c2f2ac5bd1f313db95ebfdbc7caf8b48bd0",
       "datetime": 1793404500,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon Just Lost $42 Billion in Free Cash Flow. Is It a Red Flag for Investors?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8cf97dc17d073e697b71cd1454a5f229656b51f7bae4c7ebddf15cce198daacd",
-      "datetime": 1793404201,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-31T05:58:14.195874+00:00"
+  "updated_at": "2026-10-31T06:13:14.128294+00:00"
 }
