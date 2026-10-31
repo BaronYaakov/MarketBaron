@@ -132,6 +132,14 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "The 1-Minute Market Report October 31, 2026",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a66ddb1a988fc98501e719ccfc8af16f03b3b44dd42ba3c745527dc9de0d2810",
+      "datetime": 1793449305,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "Broadcom Sinks 5.5% as Its $43 Billion Anthropic Backstop Meets an Intel-Led Chip Rout",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d8dc2623a1e1874eadc808a7c011499077df58cf4ce1b864f7bbb858135a1a3d",
@@ -160,14 +168,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e585ea0a00b28dcd22950ef5a4961291e9df33cf8113d0cd7b9e12c169404f7d",
       "datetime": 1793412722,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Elizabeth Warren Slams Trump's Voluntary AI Safety Deal With Tech CEOs, Says Republicans Aren't Doing Enough to Regulate AI: \u2018Not Lifting A Finger...\u2019",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=e2f0af8721c0673a58c1d46368bdc76993a28f624a74d62f63c17a5020d28ea5",
-      "datetime": 1793412711,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-31T16:28:14.639849+00:00"
+  "updated_at": "2026-10-31T16:43:15.508428+00:00"
 }
