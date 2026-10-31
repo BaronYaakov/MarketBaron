@@ -60,6 +60,46 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Big Tech\u2019s Capex Needs \u201ca Trillion Dollars of Revenue\u201d by 2028. Barclays Sees About $400 Billion",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=35e606e36b27a1377a6419baab33b7c5d394df174441b0530e901218655f1ce6",
+      "datetime": 1793454300,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "3 Capital Efficient Software Stocks For Steady Cash Flow",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e2864c6956c11eeadc717cadabc936b893ff6a0f0d9ecf239d3744ac612ac77",
+      "datetime": 1793452277,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Texas Instruments Has Raised Its Dividend for 23 Years. Here Are 3 More Tech Income Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e798913f58b3a71c5b29753e094c9cecfe0dba5a343dcb42a4c074718d1a6821",
+      "datetime": 1793450856,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon CEO Andy Jassy makes a strong prediction on Amazon stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=02366475107dd36596c37884e45afbba2a798934a2aeed9a8c25b6cdd1f31363",
+      "datetime": 1793448180,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "EBay Leads Five Stocks Near Buy Points From Resilient Sectors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9a553cbffb4a195f348f7df2a08d010e3fd4c4a695cd1a8196e936f29d5c0644",
+      "datetime": 1793448040,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "OpenAI Cuts Funding Target Amid Meta, Microsoft Offerings, Anthropic IPO",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0af0d0e59182795d34c58490bd039c51f3c7051c45200f82458623daefea61fd",
@@ -67,43 +107,19 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "AppLovin, 8x8, Elastic, Shopify, and F5 shares are falling, what you need to know",
+      "ticker": "AVGO",
+      "headline": "Broadcom Sinks 5.5% as Its $43 Billion Anthropic Backstop Meets an Intel-Led Chip Rout",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=485201bbf0a80eab81116b035cdfdc9c050469bbc6a155e897dee812aa49904d",
-      "datetime": 1793440529,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+      "url": "https://finnhub.io/api/news?id=d8dc2623a1e1874eadc808a7c011499077df58cf4ce1b864f7bbb858135a1a3d",
+      "datetime": 1793446685,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "AMZN",
-      "headline": "Zeta Global and Commerce stocks trade down, what you need to know",
+      "headline": "Amazon Is 16% Off Its High After a Record Quarter: Take Profits, or Buy More?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cff152a8097acf100ff6de15254a68a82649eb9600ba7c657cb9f924e7887233",
-      "datetime": 1793439089,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Jeff Bezos' father fled Cuba at 16 with three shirts \u2014 then invested $245,573 in life savings to help launch Amazon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=12fe752488be6a19f8d72580f44302154f97e4abdf332d90f00ad9aeed43394c",
-      "datetime": 1793439000,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Cloudflare, Fastly, Oracle, JFrog, and Okta shares plummet, what you need to know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3b38043529d02ca5530b80ecb788320809362385f7683c670dd90433827cf907",
-      "datetime": 1793438609,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "MongoDB, Datadog, Snowflake, Bandwidth, and DigitalOcean stocks trade down, what you need to know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a6661ee8b81b40644db7da0f79e95347b33840b9751f323bfa4b2e9f57df6f57",
-      "datetime": 1793438129,
+      "url": "https://finnhub.io/api/news?id=5b106c972d15d4ea7477f83ad9656ce204da63e5da8170621a0bb07f600fd7e6",
+      "datetime": 1793446076,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -144,22 +160,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=5d35dc4ac4f3edf30c5de037663f805f71fc54427fc9823b93c6857ff78d320d",
       "datetime": 1793410437,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Dividend Income Report: +15.25% And A Listener's Portfolio Roast",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=29195c7330c6a0345435d337c4b578d80e75f3cb148875a665c17671faede09d",
-      "datetime": 1793407200,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Cracks are emerging in the AI spending boom",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d06f04fb421777e9671651d5e06a5d9ce8ac7696c65521db9c4aeb909671a979",
-      "datetime": 1793395060,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-31T13:58:14.349463+00:00"
+  "updated_at": "2026-10-31T14:13:14.350660+00:00"
 }
