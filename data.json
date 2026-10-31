@@ -163,6 +163,30 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "PRMB",
+      "headline": "JP Morgan Maintains Overweight on Primo Brands, Lowers Price Target to $26",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=bd7e00236306afa988b2d674280935146e06008698e610206b2541cbaa86b976",
+      "datetime": 1793390749,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950907107896.png"
+    },
+    {
+      "ticker": "P",
+      "headline": "Here's How Much $100 Invested In Everpure 10 Years Ago Would Be Worth Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=54246b3afe205095571d9b16bda8d661df5d703097d9e74e732c2ef436bd1aa4",
+      "datetime": 1793386901,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "If You Invested $1000 In O'Reilly Automotive Stock 10 Years Ago, You Would Have This Much Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=2c519b1128c032fbd389762b0f2ab8a0b399585d099988f1d397e79d3fe00a04",
+      "datetime": 1793379818,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
       "ticker": "ORLY",
       "headline": "O'Reilly's Strong Q3 Comps Offset by Margin Pressure, RBC Says",
       "source": "Yahoo",
@@ -315,14 +339,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
-      "ticker": "ORLY",
-      "headline": "After-Hours S&P 500 Movers: Mondelez and FedEx Freight Gain, Intel and Reddit Fall",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=d18d7bab7797845f13b99c24f319750b03a8c72d11cbced0745eeeaf580067bc",
-      "datetime": 1793311567,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
       "ticker": "COR",
       "headline": "Is It A Mistake To Buy Cardinal Health Stock At A High?",
       "source": "Yahoo",
@@ -368,14 +384,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=c1e7f13a3969240cf14faa3a02f257bd04c9423fcf265a178afae7c13f0e8e38",
       "datetime": 1793217900,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "P",
-      "headline": "3 AI Cloud Stocks Retail Investors Are Watching Before Big Tech Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=03bcbd8f5745d6794d208f871b0e5d5583b0328058cac8af2077e367cedbd4da",
-      "datetime": 1793214543,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
@@ -616,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-31T14:28:14.703919+00:00"
+  "updated_at": "2026-10-31T14:43:14.205041+00:00"
 }
