@@ -60,50 +60,50 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Zeta Global and Commerce stocks trade down, what you need to know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cff152a8097acf100ff6de15254a68a82649eb9600ba7c657cb9f924e7887233",
+      "datetime": 1793439089,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Jeff Bezos' father fled Cuba at 16 with three shirts \u2014 then invested $245,573 in life savings to help launch Amazon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=12fe752488be6a19f8d72580f44302154f97e4abdf332d90f00ad9aeed43394c",
+      "datetime": 1793439000,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Cloudflare, Fastly, Oracle, JFrog, and Okta shares plummet, what you need to know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3b38043529d02ca5530b80ecb788320809362385f7683c670dd90433827cf907",
+      "datetime": 1793438609,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "MongoDB, Datadog, Snowflake, Bandwidth, and DigitalOcean stocks trade down, what you need to know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a6661ee8b81b40644db7da0f79e95347b33840b9751f323bfa4b2e9f57df6f57",
+      "datetime": 1793438129,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Plans to Spend More on AI. Here\u2019s Why the Stock is a Once-in-a-Decade Buy Hiding in Plain Sight.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=07f00b95f75ef3e300a69c8c0edbecc55dc58676e88d9e34adccefac7e678381",
+      "datetime": 1793435402,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Datadog Stock Fell Nearly 12% as AI Spending Fears Hit Cloud Stocks. Its Earnings Estimates Didn\u2019t Move",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=29980047c762bd412317ae36c8a184f06de4becc07202010f507fdd6fdd9fd6d",
       "datetime": 1793431099,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Coherent Stock Fell 11% as Intel and Amazon Earnings Hit AI Hardware Stocks. Here\u2019s Where the Stock Could Go",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c406ddf6b44b6ead86cb1d7597111211089282dcf6fe8995f84a3b7d63193e8c",
-      "datetime": 1793430912,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Qualcomm Stock Fell 11% in a Day on Intel\u2019s PC Warning. Here\u2019s Why November 4 Tests Its Claim That Phones Have Bottomed",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8d6d9f8f3cc93a4b4e04835bdefe650f10200260eb9662e827be54fe1f3512f5",
-      "datetime": 1793429088,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Yes, Alphabet Stock Got Hammered. No, We\u2019re Not Selling.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2e6e1c11ef9050e14fc71d6120c449bbf738ed259c08d0bd7d25f8bd5bd4d860",
-      "datetime": 1793428860,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "AMD Stock Fell 11% in a Day Ahead of Its November 3 Report. Here\u2019s Why Intel\u2019s 78% Data Center Jump Matters More to AMD Than Its PC Warning",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bc82042f1903b08727b8dc9a6447f717638be02f6f172710b950a60879d26b5c",
-      "datetime": 1793428767,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon's AWS Just Gave Investors A Big Growth Signal \u2014 And Gene Munster Thinks It's Only The Beginning",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6c6a882ae1dacda60a7d5bd6a5809f7973126b7bba6ee9da0b9aeebe0497896a",
-      "datetime": 1793427957,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-31T09:58:13.970884+00:00"
+  "updated_at": "2026-10-31T10:13:14.522709+00:00"
 }
