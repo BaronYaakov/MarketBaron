@@ -60,6 +60,54 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Elon Musk Warns Of AI Shakeout, While Zuckerberg, Pichai, Nadella, Jassy Discuss The Costs: MAG 7 Voices This Week",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=64be15f85b984c6981bbe9e044ac1bf33a0c923bffee7a16cdbdb494f524e622",
+      "datetime": 1793414716,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom Heads These 3 Top Undervalued Stocks To Watch",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e585ea0a00b28dcd22950ef5a4961291e9df33cf8113d0cd7b9e12c169404f7d",
+      "datetime": 1793412722,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "\u2018Hard to Know If We\u2019re in an AI Bubble\u2019 Jeff Bezos Says, But Should a Retiree Buy AI Stocks? \u2014 \u2018I Would Usually Tell a Retiree to Buy the S&P 500\u2019",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=250cfd1b23a93ef811414fe97d5da4c515d32d8d92bd371eb94bd566a3cb7b57",
+      "datetime": 1793410219,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Dividend Income Report: +15.25% And A Listener's Portfolio Roast",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=29195c7330c6a0345435d337c4b578d80e75f3cb148875a665c17671faede09d",
+      "datetime": 1793407200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "\u2018Big Short\u2019 trader says Anthropic slowdown tests AI boom",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b4fc215ef81f5a2a982d2d7330dc0e45bb7363286c6c49715f34cf79168ff559",
+      "datetime": 1793407020,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "S&P 500, Nasdaq End Third Straight Week Lower As Investors Move Away From Tech, AI \u2014  AMZN, INTC, LLY, RBLX In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0f910b2c47ad6d48765be636222f6aeb2210ae6a085a1b96532370a41075f104",
+      "datetime": 1793405139,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Review & Preview: Ending on a Down Note",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=7b80d7259cc3a57da4dfaa7547140c2f2ac5bd1f313db95ebfdbc7caf8b48bd0",
@@ -75,44 +123,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Learn Why The Bull Case For Verizon Communications (VZ) Could Change Following Raised Outlook",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8b3174a1e275a03617ccc0b241d308219cbe6fc69ce7ae7ecdd9c2c33338f398",
-      "datetime": 1793398385,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Apple overtakes Nvidia to become world\u2019s most valuable company amid tech selloff",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2ab228d2c7435ae6a789946286b6875a9a2b6f5ed02e52ebacb8a3b4484d8a59",
-      "datetime": 1793396873,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Stock Market Today, Oct. 30: Amazon Misses Revenue and Earnings Expectations",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8af776c42ea3d28d485922c82c3fc941a4a6b9eff086dea13aa05e6c4fec9ce3",
-      "datetime": 1793396102,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Cracks are emerging in the AI spending boom",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d06f04fb421777e9671651d5e06a5d9ce8ac7696c65521db9c4aeb909671a979",
       "datetime": 1793395060,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Cracks are emerging in the AI spending boom",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d06f04fb421777e9671651d5e06a5d9ce8ac7696c65521db9c4aeb909671a979",
-      "datetime": 1793395060,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -136,22 +152,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=098a3aad6d8eaa9e9d3e9ad50266a2fde26d457610a8efa0d790e98dff7f10a1",
       "datetime": 1793383830,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "History Says Now Is the Perfect Time to Buy Broadcom Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8f5a72f82f0f1696ad7707d35f865192f7e36b9c799be6d2ce3b662e04ccd8f5",
-      "datetime": 1793381700,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Anthropic Partners Face Enormous Counterparty Risk",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a2b2477a58c4f8a5975593babcddb664be24ea33be56fd35f33bf86d4336752a",
-      "datetime": 1793378640,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -616,5 +616,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-31T04:58:14.643069+00:00"
+  "updated_at": "2026-10-31T05:13:14.039832+00:00"
 }
