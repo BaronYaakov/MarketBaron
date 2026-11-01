@@ -75,6 +75,22 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "COR",
+      "headline": "Cencora (COR) Stock Still Looks Undervalued After Its 173% Run",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b4a71a661b44b3701ced2e30b43984a6e574ec44241b2230b118b145810060d3",
+      "datetime": 1793498895,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Is Cencora (COR) Fully Valued Following Its $2.4b American Oncology Network Deal?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=957b45c358c1d06eb3e7feb6ddac41d096f3724cdcb7f48011ee4b03a7dc6fa1",
+      "datetime": 1793495642,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Andy Jassy Says West Is 'Very Hungry' For More Western Open Source AI Models as Amazon Adds China's Kimi and GLM to Bedrock",
       "source": "Yahoo",
@@ -89,6 +105,14 @@
       "url": "https://finnhub.io/api/news?id=86a07bce162076ca292361cc81b1064479fd4e812dbac9cfea20f38a41af0a8c",
       "datetime": 1793487902,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Emerson Among 14 Dividend Growth Companies To Announce Annual Dividend Increases In First Half Of November",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f70e342250174f88051b34e3ae019b370b384dd1f77cce71f814d562b2b386b5",
+      "datetime": 1793482721,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "AMZN",
@@ -113,6 +137,14 @@
       "url": "https://finnhub.io/api/news?id=cf6b35c09fe9f00457441e1789eaee0c09a2c0d4fa9cb9d8d0e058f15e5cec5a",
       "datetime": 1793466007,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "What Does Cencora (COR) Gain From Expanding Into 12 More States?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f737376cb7ce4d853476d42fbbcc8724ff21a38ee2c117ab9f578b732d68129",
+      "datetime": 1793456109,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "AVGO",
@@ -155,6 +187,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Celestica: ODM Commodity To AI Backbone - More Money To Be Made",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=067110cf060178efc101d91b08794387fcae7a9ca1cac30c4ac5c7a441030a78",
+      "datetime": 1793419800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "PRMB",
       "headline": "JP Morgan Maintains Overweight on Primo Brands, Lowers Price Target to $26",
       "source": "Benzinga",
@@ -171,6 +211,38 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
+      "ticker": "ORLY",
+      "headline": "If You Invested $1000 In O'Reilly Automotive Stock 10 Years Ago, You Would Have This Much Today",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=2c519b1128c032fbd389762b0f2ab8a0b399585d099988f1d397e79d3fe00a04",
+      "datetime": 1793379818,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "O'Reilly's Strong Q3 Comps Offset by Margin Pressure, RBC Says",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e2de220d0a90bb83f8809e61cf447dd67095c19e4f2df978f88c87093ec3ec2",
+      "datetime": 1793376873,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "3 Canadian Growth Stocks With Revenue Growth Up To 57%",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0fdf4528ef5ede398e19946ce36d088910996a1d96264469004b1f5976dd780c",
+      "datetime": 1793373299,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "2 large-cap stocks with impressive fundamentals and 1 we ignore",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da48b51c8aa8b02e18484f396e472f467b7d10938c282588cb3c82ce9f147bc0",
+      "datetime": 1793372849,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
       "ticker": "P",
       "headline": "VNT or P: Which Is the Better Value Stock Right Now?",
       "source": "Yahoo",
@@ -179,12 +251,52 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
+      "ticker": "CLS",
+      "headline": "Shares of broader software stocks are trading lower amid broader market weakness as Treasury yields rise, weighing on tech stocks.",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a602ca353952fa5b32f69afdd0e6b39979da938d15d03470ae84f025b19e2929",
+      "datetime": 1793370103,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
       "ticker": "P",
       "headline": "Sandisk shares are trading higher after Evercore ISI Group initiated coverage on the stock with an Outperform rating and announced a $1,200 price target.",
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=40b110df73261f3e780c88708747266f6bf75bf4a390fae1aa910cbf3140e3f5",
       "datetime": 1793369942,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Cencora Gears Up to Report Q4 Results: How to Play the Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c6429dfc14eb616b46f840f2abe62c2dcaacb95f51621fd32bf1ba597a0f883a",
+      "datetime": 1793368620,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica's Earnings Just Delivered A 90% Growth Blueprint (And Management Is Still Understating It)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=45d9c601a24752476537dd0731c582a63db73298dade14260cc3fa6606dc217f",
+      "datetime": 1793365203,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "ORLY Q3 Earnings Beat Estimates on Strong Sales & Tariff Refunds",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f59e7e32c0adfc0ae475b37998e718bbd2a1df79494a987146a53ac2d441a0a7",
+      "datetime": 1793364360,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "Is AutoZone Stock A Real Bargain?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fdd86dbb5467880ce6784607e103828a883aa5187fad8b92491c9e7a333908a5",
+      "datetime": 1793363979,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "P",
@@ -201,6 +313,38 @@
       "url": "https://finnhub.io/api/news?id=1a22062fef4862400e95691d054db32af01ed954808eb4739175792fc42d28a1",
       "datetime": 1793359898,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABX.TO.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica Announces TSX Acceptance of Normal Course Issuer Bid",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5d43db0a48780c8f91afcbd1664f8f485a3a5cd44dfeba32dfa70cdb4b3e9766",
+      "datetime": 1793358900,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "O'Reilly Automotive Has A Long Growth Runway, But The Price Keeps Me At Hold",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d5629314c4e621f9e2afb9437d7ea290c811bd27e9705485f082cb12140ec2ab",
+      "datetime": 1793348675,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
+    },
+    {
+      "ticker": "CLS",
+      "headline": "Celestica Announces TSX Acceptance Of Its Normal Course Issuer Bid To Buy Back Up To 3.13M Shares Through November 2, 2027",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=2c8f8b36b9d222306af438ffbc13e0704d07f56e440004199da0115ff16159c3",
+      "datetime": 1793344659,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
+    },
+    {
+      "ticker": "ORLY",
+      "headline": "O'Reilly: 3 Key Takeaways for Long-Term Investors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9c9f90f972f372642e9637a0a972069d2a8442736ed8af8f45448128bec51f15",
+      "datetime": 1793331290,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
     },
     {
       "ticker": "P",
@@ -480,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-11-01T07:58:16.866148+00:00"
+  "updated_at": "2026-11-01T08:13:16.857661+00:00"
 }
