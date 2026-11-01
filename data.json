@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "1 Big Winner and 1 Loser From the Upcoming Anthropic IPO",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=86a07bce162076ca292361cc81b1064479fd4e812dbac9cfea20f38a41af0a8c",
+      "datetime": 1793487902,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "5 Most Profitable Stocks of the Past 5 Years",
       "source": "Yahoo",
@@ -161,14 +169,6 @@
       "url": "https://finnhub.io/api/news?id=067110cf060178efc101d91b08794387fcae7a9ca1cac30c4ac5c7a441030a78",
       "datetime": 1793419800,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Heads These 3 Top Undervalued Stocks To Watch",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e585ea0a00b28dcd22950ef5a4961291e9df33cf8113d0cd7b9e12c169404f7d",
-      "datetime": 1793412722,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "PRMB",
@@ -501,7 +501,7 @@
       "prev_close": 38.67,
       "day_change_pct": -4.29,
       "week52_high": 74.0,
-      "week52_low": 44.27
+      "week52_low": 44.57
     },
     "CLS": {
       "name": "Celestica Inc",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-10-31T23:58:16.348903+00:00"
+  "updated_at": "2026-11-01T00:13:18.000370+00:00"
 }
