@@ -75,6 +75,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
+      "ticker": "COR",
+      "headline": "Emerson Among 14 Dividend Growth Companies To Announce Annual Dividend Increases In First Half Of November",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f70e342250174f88051b34e3ae019b370b384dd1f77cce71f814d562b2b386b5",
+      "datetime": 1793482721,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "5 Most Profitable Stocks of the Past 5 Years",
       "source": "Yahoo",
@@ -313,14 +321,6 @@
       "url": "https://finnhub.io/api/news?id=5d43db0a48780c8f91afcbd1664f8f485a3a5cd44dfeba32dfa70cdb4b3e9766",
       "datetime": 1793358900,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CLS.TO.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Is Buying McKesson Stock Near Its High A Bad Idea?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0dff1459e504df4e0d9ae93ec9950a0fc7f4dc75c8c887e3a012ddf784854698",
-      "datetime": 1793357393,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "ORLY",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-11-01T01:58:24.439524+00:00"
+  "updated_at": "2026-11-01T02:13:28.094164+00:00"
 }
