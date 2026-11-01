@@ -75,6 +75,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AMZN",
+      "headline": "Amazon: Keep It Simple, Buy The Dip",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b2646490190262235eb706df516f27ea5ec1ea62e983968feb20bd01e50d3bdb",
+      "datetime": 1793528111,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "I'm Not Swayed By AI Bubble Burst Doomerism",
       "source": "SeekingAlpha",
@@ -112,14 +120,6 @@
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=1c04d1deb1d90fc69caa8dd53434137c779aa07bded49b7f7a07beb380b0ca6f",
       "datetime": 1793510210,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "AMZN Q3 deep dive: cloud surge and AI investments drive mixed market reception",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0123324ff65107780545b5a52c13947e2a6ce969a318cd3ea8b36cca30db2819",
-      "datetime": 1793507700,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-11-01T15:28:17.875252+00:00"
+  "updated_at": "2026-11-01T15:43:18.111646+00:00"
 }
