@@ -59,6 +59,22 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Walmart's $120 Walmart+ and Sam's Club Plus bundle undercuts Amazon Prime's $139 fee with gas, grocery and more perks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f274cc2a9ea7428b2efbd5a5fb2ed8efbd124117b15fc21deeb1c5042ef808de",
+      "datetime": 1793559600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "There's a $12,000 Reason to Consider Investing in QQQ Over SPY, but It Comes With a Caveat",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=71071ff65f7496f1a4a8fce9c3493fd6cff4961af35077b9a39dba82c597cda8",
+      "datetime": 1793550600,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "5 Huge Winners From Anthropic's IPO",
       "source": "Yahoo",
@@ -104,22 +120,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=da8aed83265e6246fcacb6b20ab6f92c0ddd4aaa5d506afc29eeb886099e2315",
       "datetime": 1793533505,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "A big sell-off collides with more Big Tech earnings and a midterm election: What to watch this week",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e3fc075388fa22e93319eb80a0d4b4b723e182fb6039f97cdb968f7f8473f8d6",
-      "datetime": 1793530800,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon: Keep It Simple, Buy The Dip",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b2646490190262235eb706df516f27ea5ec1ea62e983968feb20bd01e50d3bdb",
-      "datetime": 1793528111,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-11-01T19:58:19.114569+00:00"
+  "updated_at": "2026-11-01T20:13:19.064748+00:00"
 }
