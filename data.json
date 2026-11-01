@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Andy Jassy Says Robots Will Replace Many Repetitive Warehouse Jobs \u2014 Amazon Already Has Over 1 Million Machines, and the Impact Could Be Much Bigger in Five Years",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da8aed83265e6246fcacb6b20ab6f92c0ddd4aaa5d506afc29eeb886099e2315",
+      "datetime": 1793533505,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "A big sell-off collides with more Big Tech earnings and a midterm election: What to watch this week",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=e3fc075388fa22e93319eb80a0d4b4b723e182fb6039f97cdb968f7f8473f8d6",
@@ -113,14 +121,6 @@
       "url": "https://finnhub.io/api/news?id=957b45c358c1d06eb3e7feb6ddac41d096f3724cdcb7f48011ee4b03a7dc6fa1",
       "datetime": 1793495642,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Andy Jassy Says West Is 'Very Hungry' For More Western Open Source AI Models as Amazon Adds China's Kimi and GLM to Bedrock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fb4795f1deac721e2df625ea80b33adc22375d62dfd3d5024ee223ce4c02282a",
-      "datetime": 1793489405,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -180,10 +180,10 @@
     },
     {
       "ticker": "AVGO",
-      "headline": "R&D: A Long-Term Investment",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=24e3659649b4a7fd51b08369fda705ecf87bd285f25ae16785f389217999f0f6",
-      "datetime": 1793421000,
+      "headline": "MarketBeat Week in Review \u2013 10/26 - 10/30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=34cc4b510c5ef64adb8eb3762c2ddf83c2621cc279b87890a58bb4b58e1e121d",
+      "datetime": 1793444400,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-11-01T13:58:17.442878+00:00"
+  "updated_at": "2026-11-01T14:13:17.552244+00:00"
 }
