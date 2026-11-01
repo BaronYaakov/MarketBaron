@@ -124,6 +124,14 @@
     },
     {
       "ticker": "AVGO",
+      "headline": "Jim Cramer Warns \u2018Don\u2019t Assume the Worst Is Behind Us\u2019 After $1 Trillion Chip Stock Rout",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b9bc5c76c524615ac0e54312d2511025d59d38c682d93ca4347171cd1088ca5a",
+      "datetime": 1793489293,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
       "headline": "1 Big Winner and 1 Loser From the Upcoming Anthropic IPO",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=86a07bce162076ca292361cc81b1064479fd4e812dbac9cfea20f38a41af0a8c",
@@ -176,14 +184,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d8dc2623a1e1874eadc808a7c011499077df58cf4ce1b864f7bbb858135a1a3d",
       "datetime": 1793446685,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "MarketBeat Week in Review \u2013 10/26 - 10/30",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=34cc4b510c5ef64adb8eb3762c2ddf83c2621cc279b87890a58bb4b58e1e121d",
-      "datetime": 1793444400,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-11-01T14:43:17.637979+00:00"
+  "updated_at": "2026-11-01T14:58:18.125542+00:00"
 }
