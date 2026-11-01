@@ -60,6 +60,22 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "A big sell-off collides with more Big Tech earnings and a midterm election: What to watch this week",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e3fc075388fa22e93319eb80a0d4b4b723e182fb6039f97cdb968f7f8473f8d6",
+      "datetime": 1793530800,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Anthropic Is \u201cReduplicating AWS\u201d as It Rents Its Own Data Centers. Amazon Reports Thursday",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e79526698cfab6dac797af68e13a3195a8ba1cf0a6e5dc82a9be25b47b043edb",
+      "datetime": 1793519212,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "ETB: 8.5% Yield With Widest Discount In 15 Years",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=1c04d1deb1d90fc69caa8dd53434137c779aa07bded49b7f7a07beb380b0ca6f",
@@ -121,22 +137,6 @@
       "url": "https://finnhub.io/api/news?id=f70e342250174f88051b34e3ae019b370b384dd1f77cce71f814d562b2b386b5",
       "datetime": 1793482721,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "5 Most Profitable Stocks of the Past 5 Years",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6b29aee5b47b22c4a78466d9828c6feb85dbaa96d3dcd154aa8a4f2cb7ae1f7b",
-      "datetime": 1793478176,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "France Wants a 5.5-Cent-per-Gigabyte Tax on Netflix, Google and Meta",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b12e631ced1624a91c71a4df40fcda3af15d18b790ab7d9bb3104b64e05bb287",
-      "datetime": 1793466421,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "COR",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-11-01T11:58:17.259471+00:00"
+  "updated_at": "2026-11-01T12:13:17.619152+00:00"
 }
