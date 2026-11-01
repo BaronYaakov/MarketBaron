@@ -83,6 +83,14 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
+      "ticker": "AVGO",
+      "headline": "SCHD Vs. FDVV: Which Dividend ETF Wins Into 2027",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f63f4fad68b29c86f3bb86d5084aa35f46d297982358472e34f4df5ff0e15c2b",
+      "datetime": 1793539502,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "QQQM: The Nasdaq 100 Is Having A Panic Attack And I Think This Pullback Should Be Bought",
       "source": "SeekingAlpha",
@@ -177,14 +185,6 @@
       "url": "https://finnhub.io/api/news?id=4f737376cb7ce4d853476d42fbbcc8724ff21a38ee2c117ab9f578b732d68129",
       "datetime": 1793456109,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Marvell Sinks 14% in a Week on Lumentum Talks: Chipmakers Like It \u201cDon\u2019t Have a Choice\u201d",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d24e99c282495f8443c811863b4c5d17e75bfdc67fc718bc7d172edff74db37b",
-      "datetime": 1793455676,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "CLS",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-11-01T18:28:18.077649+00:00"
+  "updated_at": "2026-11-01T18:43:18.023594+00:00"
 }
