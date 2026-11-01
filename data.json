@@ -60,6 +60,30 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Dow Jones Futures Loom After Stock Market Sell-Off; Apple, Palantir, Midterm Elections In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=125e48825bd1f07d49eaa70961ebe0aab5f08a9db0ad3183a4907b8fa56974a2",
+      "datetime": 1793501054,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Cencora (COR) Stock Still Looks Undervalued After Its 173% Run",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b4a71a661b44b3701ced2e30b43984a6e574ec44241b2230b118b145810060d3",
+      "datetime": 1793498895,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "COR",
+      "headline": "Is Cencora (COR) Fully Valued Following Its $2.4b American Oncology Network Deal?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=957b45c358c1d06eb3e7feb6ddac41d096f3724cdcb7f48011ee4b03a7dc6fa1",
+      "datetime": 1793495642,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Andy Jassy Says West Is 'Very Hungry' For More Western Open Source AI Models as Amazon Adds China's Kimi and GLM to Bedrock",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=fb4795f1deac721e2df625ea80b33adc22375d62dfd3d5024ee223ce4c02282a",
@@ -112,14 +136,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=66687a88aa2277b590ef30830abec06562cd19731444b650782099b696544d0f",
       "datetime": 1793461684,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The AI Red Queen Effect: Why Big Tech Can\u2019t Afford to Stop Spending",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9c3fcb2a8dbab3d6553981143a572055677d2be28ae8d887220eee0f6433c89f",
-      "datetime": 1793460603,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -259,14 +275,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
-      "ticker": "COR",
-      "headline": "Morgan Stanley Maintains Overweight on Cencora, Raises Price Target to $377",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=0abd551f4f26fdec0d8fdeb20236ada82fd71294dbb81c443f415f404546f676",
-      "datetime": 1793368484,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
-    },
-    {
       "ticker": "CLS",
       "headline": "Celestica's Earnings Just Delivered A 90% Growth Blueprint (And Management Is Still Understating It)",
       "source": "SeekingAlpha",
@@ -297,14 +305,6 @@
       "url": "https://finnhub.io/api/news?id=d6f8dcc2da0656c96bedbb16d732898369ea40a961fd3320d1d909e9635797b1",
       "datetime": 1793363053,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
-    },
-    {
-      "ticker": "COR",
-      "headline": "Unveiling Cencora (COR) Q4 Outlook: Wall Street Estimates for Key Metrics",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c02072f5223004cbed10eca296424724894ef56b79d37344c0f406e6e028df8c",
-      "datetime": 1793362504,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABC.png"
     },
     {
       "ticker": "B",
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-11-01T04:58:19.044076+00:00"
+  "updated_at": "2026-11-01T05:13:19.540008+00:00"
 }
