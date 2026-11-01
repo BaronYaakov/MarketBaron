@@ -60,6 +60,14 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "ETB: 8.5% Yield With Widest Discount In 15 Years",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1c04d1deb1d90fc69caa8dd53434137c779aa07bded49b7f7a07beb380b0ca6f",
+      "datetime": 1793510210,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "AMZN Q3 deep dive: cloud surge and AI investments drive mixed market reception",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0123324ff65107780545b5a52c13947e2a6ce969a318cd3ea8b36cca30db2819",
@@ -128,14 +136,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b12e631ced1624a91c71a4df40fcda3af15d18b790ab7d9bb3104b64e05bb287",
       "datetime": 1793466421,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "The daunting economic decision on data centers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cf6b35c09fe9f00457441e1789eaee0c09a2c0d4fa9cb9d8d0e058f15e5cec5a",
-      "datetime": 1793466007,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-11-01T10:28:16.702457+00:00"
+  "updated_at": "2026-11-01T10:43:16.570565+00:00"
 }
