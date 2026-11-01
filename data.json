@@ -59,6 +59,38 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AVGO",
+      "headline": "5 Huge Winners From Anthropic's IPO",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=760ede8e33b4b9c9a20b9d851e3ad0897c8fce99a7cf9a6be9fd568289d67c0c",
+      "datetime": 1793550240,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "5 Huge Winners From Anthropic's IPO",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=760ede8e33b4b9c9a20b9d851e3ad0897c8fce99a7cf9a6be9fd568289d67c0c",
+      "datetime": 1793550240,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Wall Street Braces for More Wild Days in Stocks After Tech Rout",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=250a4a973611010248a16791480dc72b115771236027a03ecf403d58075d322d",
+      "datetime": 1793545200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "QQQM: The Nasdaq 100 Is Having A Panic Attack And I Think This Pullback Should Be Bought",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9704545cbd8535526bb479a65dc5b6df748008ce562951cbf39759a088e34814",
+      "datetime": 1793537755,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AMZN",
       "headline": "Andy Jassy Says Robots Will Replace Many Repetitive Warehouse Jobs \u2014 Amazon Already Has Over 1 Million Machines, and the Impact Could Be Much Bigger in Five Years",
       "source": "Yahoo",
@@ -91,36 +123,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "I'm Not Swayed By AI Bubble Burst Doomerism",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=57d1f90f6c602355fad20bd02a0339c61272b83ba71a21bd3633591b67db0cd6",
-      "datetime": 1793526922,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "The Credit Market's Warning Is Coming Back To Haunt AI Stocks",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=fe99fc6e84a1585d5739b00c194255e7d65f050458b6f19b677d0a3d06bacf27",
       "datetime": 1793526900,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Anthropic Is \u201cReduplicating AWS\u201d as It Rents Its Own Data Centers. Amazon Reports Thursday",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e79526698cfab6dac797af68e13a3195a8ba1cf0a6e5dc82a9be25b47b043edb",
-      "datetime": 1793519212,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "ETB: 8.5% Yield With Widest Discount In 15 Years",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=1c04d1deb1d90fc69caa8dd53434137c779aa07bded49b7f7a07beb380b0ca6f",
-      "datetime": 1793510210,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "COR",
@@ -176,14 +184,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=d24e99c282495f8443c811863b4c5d17e75bfdc67fc718bc7d172edff74db37b",
       "datetime": 1793455676,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Texas Instruments Has Raised Its Dividend for 23 Years. Here Are 3 More Tech Income Stocks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e798913f58b3a71c5b29753e094c9cecfe0dba5a343dcb42a4c074718d1a6821",
-      "datetime": 1793450856,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-11-01T17:58:18.297531+00:00"
+  "updated_at": "2026-11-01T18:13:19.010450+00:00"
 }
