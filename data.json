@@ -59,6 +59,14 @@
   "portfolio_day_change_pct": 0.48,
   "news": [
     {
+      "ticker": "AMZN",
+      "headline": "Andy Jassy Says West Is 'Very Hungry' For More Western Open Source AI Models as Amazon Adds China's Kimi and GLM to Bedrock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fb4795f1deac721e2df625ea80b33adc22375d62dfd3d5024ee223ce4c02282a",
+      "datetime": 1793489405,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
       "ticker": "AVGO",
       "headline": "1 Big Winner and 1 Loser From the Upcoming Anthropic IPO",
       "source": "Yahoo",
@@ -104,14 +112,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=9c3fcb2a8dbab3d6553981143a572055677d2be28ae8d887220eee0f6433c89f",
       "datetime": 1793460603,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Amazon (AMZN) Stock Slips As Q3 Earnings Reflect Profit Reset",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0695abd2b2ec37bdf0c58d4d7d877fc43b97bfe3959d09aa8d382765634cee0b",
-      "datetime": 1793459606,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-11-01T01:28:16.383104+00:00"
+  "updated_at": "2026-11-01T01:43:16.707665+00:00"
 }
