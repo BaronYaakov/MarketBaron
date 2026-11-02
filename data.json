@@ -60,6 +60,30 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Dow Jones Futures Rise After Market Sell-Off; How Midterm Elections May Swing Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd33dadb4d9f3c4752e0327e1dfeed8f7b5b893fd4079006e9f5a9eb8b73a1f2",
+      "datetime": 1793576833,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Amazon Stock Fell After Earnings. Jim Cramer Says Buy Right Here",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e1f8bbc0413409f9ca7cd03d043908f43b7efda03b8004076921e7980dc8ab5e",
+      "datetime": 1793570825,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Yes, Alphabet Stock Got Hammered. No, We\u2019re Not Selling.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e6e1c11ef9050e14fc71d6120c449bbf738ed259c08d0bd7d25f8bd5bd4d860",
+      "datetime": 1793568480,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Walmart's $120 Walmart+ and Sam's Club Plus bundle undercuts Amazon Prime's $139 fee with gas, grocery and more perks",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=f274cc2a9ea7428b2efbd5a5fb2ed8efbd124117b15fc21deeb1c5042ef808de",
@@ -96,22 +120,6 @@
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=760ede8e33b4b9c9a20b9d851e3ad0897c8fce99a7cf9a6be9fd568289d67c0c",
       "datetime": 1793550240,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "AI Stocks Are Getting a Reality Check, But Don\u2019t Count the Trade Out Just Yet. Here\u2019s Why.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9af05fe07b887e1f36664d4037cbb7e15f3603af54898753e6f37ce2e3d92b08",
-      "datetime": 1793546102,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Wall Street Braces for More Wild Days in Stocks After Tech Rout",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=250a4a973611010248a16791480dc72b115771236027a03ecf403d58075d322d",
-      "datetime": 1793545200,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
@@ -160,14 +168,6 @@
       "source": "Benzinga",
       "url": "https://finnhub.io/api/news?id=b9bc5c76c524615ac0e54312d2511025d59d38c682d93ca4347171cd1088ca5a",
       "datetime": 1793489293,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "1 Big Winner and 1 Loser From the Upcoming Anthropic IPO",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=86a07bce162076ca292361cc81b1064479fd4e812dbac9cfea20f38a41af0a8c",
-      "datetime": 1793487902,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
@@ -472,7 +472,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.broadcom.com",
       "ipo_date": "2009-08-06",
-      "market_cap_musd": 1556585.2321872045,
+      "market_cap_musd": 1556585.23,
       "country": "US",
       "currency": "USD",
       "price": 326.08,
@@ -491,7 +491,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.barrick.com/",
       "ipo_date": "1983-05-02",
-      "market_cap_musd": 89058.805857,
+      "market_cap_musd": 84993.469381,
       "country": "CA",
       "currency": "USD",
       "price": 37.01,
@@ -510,7 +510,7 @@
       "exchange": "TORONTO STOCK EXCHANGE",
       "website": "https://www.celestica.com/",
       "ipo_date": "1998-07-01",
-      "market_cap_musd": 49955.406055,
+      "market_cap_musd": 46575.61,
       "country": "CA",
       "currency": "USD",
       "price": 265.53,
@@ -529,7 +529,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.cencora.com/",
       "ipo_date": "1996-05-28",
-      "market_cap_musd": 63133.26365225752,
+      "market_cap_musd": 63133.26,
       "country": "US",
       "currency": "USD",
       "price": 330.84,
@@ -548,7 +548,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://corporate.oreillyauto.com/",
       "ipo_date": "1993-04-23",
-      "market_cap_musd": 71285.62680863132,
+      "market_cap_musd": 70902.01,
       "country": "US",
       "currency": "USD",
       "price": 88.12,
@@ -567,7 +567,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://ir.primobrands.com/",
       "ipo_date": "1992-06-16",
-      "market_cap_musd": 7144.768891466872,
+      "market_cap_musd": 7144.77,
       "country": "US",
       "currency": "USD",
       "price": 19.74,
@@ -586,7 +586,7 @@
       "exchange": "NEW YORK STOCK EXCHANGE, INC.",
       "website": "https://www.purestorage.com/",
       "ipo_date": "2015-10-07",
-      "market_cap_musd": 42313.19709256428,
+      "market_cap_musd": 42313.2,
       "country": "US",
       "currency": "USD",
       "price": 126.98,
@@ -605,7 +605,7 @@
       "exchange": "NASDAQ NMS - GLOBAL MARKET",
       "website": "https://www.amazon.com/",
       "ipo_date": "1997-05-15",
-      "market_cap_musd": 2592490.60741211,
+      "market_cap_musd": 2598937.79,
       "country": "US",
       "currency": "USD",
       "price": 240.35,
@@ -624,5 +624,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-11-01T23:58:16.544469+00:00"
+  "updated_at": "2026-11-02T00:13:18.149020+00:00"
 }
