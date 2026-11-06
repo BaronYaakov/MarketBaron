@@ -60,6 +60,46 @@
   "news": [
     {
       "ticker": "AMZN",
+      "headline": "Can One Man Save the World? Possibly!",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e6854664d89bfdb5a971d15509d2e5eede721c2227ba9da78a88dc00d438920e",
+      "datetime": 1793941200,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Was Nutanix's Rise Driven By The Company Or Its Industry?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5ced64b0e1e5e7144adcc4a17aa289b36c963a3bc9d97e9687ceb3dfbd705173",
+      "datetime": 1793940501,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Elite Growth Stocks To Own In November 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b67bb218b7c453a0abf0087cbe90675709985831c3354915deb2cd4b45e77daf",
+      "datetime": 1793935287,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AVGO",
+      "headline": "Broadcom (AVGO) Stock Could Be 37% Undervalued Despite Fresh AI Demand News",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a3cca2eff8501721773a12e6d9070ab12057d5f0e40a27a95068c4781f4177c8",
+      "datetime": 1793931458,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
+    },
+    {
+      "ticker": "AMZN",
+      "headline": "Purple Innovation Inc (PRPL) Q3 2026 Earnings Call Highlights: Cash Flow Turns Positive as ...",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=78d1c29e09bebb0936a0b451647814e73538bae11dee92683a1983bcebb59068",
+      "datetime": 1793927279,
+      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
+    },
+    {
+      "ticker": "AMZN",
       "headline": "Amazon Challenges Google Shopping With Direct Product Feeds",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=4f8f8c2f15e030a9e68c2080a2cdd727d1562045db7814dd32c3143cd4fcf7d3",
@@ -107,28 +147,12 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
-      "ticker": "AMZN",
-      "headline": "Affirm delivers quarterly results and guidance beat, raises full-year GMV outlook",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8ecbf8269a7febcb2fddf8c41530cfc881fca38192a20499ac3d95098c03d6ee",
-      "datetime": 1793915710,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
-    },
-    {
       "ticker": "AVGO",
       "headline": "Stocks slide as Wall Street's post-election rally fizzles",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=ae31a30e4968cce694dc866cb65131dabff08fe771bdf2adfc4191f4b5b25500",
       "datetime": 1793914970,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AMZN",
-      "headline": "Nasdaq Stock Market Correction: History Says This Is What Happens Next",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8d6b0f4e82fa1b3a8e884771daa7d717f6c776fbf4ebd5ded47bd77c70bdb920",
-      "datetime": 1793914741,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     {
       "ticker": "AVGO",
@@ -171,22 +195,6 @@
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PSTG.png"
     },
     {
-      "ticker": "AVGO",
-      "headline": "Marvell Just Dropped 49% in a Month: Is MRVL Stock Hopeless or Ready for a Rebound?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=62c01bf8c245a147750755373aee48ac3b487aaf8c40eb712399e464c51ad965",
-      "datetime": 1793909001,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Anthropic's IPO plans run up against a battered Wall Street",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d2ac9695783ff44b2df85ed6319fd7c91c49f3a7035183c61630be5b193e830a",
-      "datetime": 1793906498,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
-    },
-    {
       "ticker": "P",
       "headline": "ASML Sinks 8% as Post-Election Chip Rout Deepens",
       "source": "Yahoo",
@@ -201,14 +209,6 @@
       "url": "https://finnhub.io/api/news?id=2d7d0faa9fb2e6f0d5e5b864b2f0e24e73d8a25e914b944e94e5eea119ae9f70",
       "datetime": 1793904868,
       "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORLY.png"
-    },
-    {
-      "ticker": "AVGO",
-      "headline": "Broadcom Stocks Fall 6.42% With $21.7 Billion AI Forecast in Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=16fd36cfb804c226d7489554e69a5a5e4c7761cee9a3b7cd45dad9d7db4b3547",
-      "datetime": 1793904639,
-      "logo_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     {
       "ticker": "PRMB",
@@ -648,5 +648,5 @@
       "pct": 24.23
     }
   },
-  "updated_at": "2026-11-06T05:58:15.060708+00:00"
+  "updated_at": "2026-11-06T06:13:15.444123+00:00"
 }
